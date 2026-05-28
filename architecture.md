@@ -1,5 +1,5 @@
 # architecture.md — Archos
-# Framework version: v2.0 (bumped 2026-05-27 — discovery hierarchy flipped; balance sheet leads, bellwether confirms)
+# Framework version: v2.1 (bumped 2026-05-28 — multi-strategy buckets + flag taxonomy + over-rejection guardrail; validated four-filter logic unchanged)
 
 ## System overview
 
@@ -10,6 +10,15 @@ v2.0 (2026-05-27), the discovery hierarchy has been flipped: balance-sheet
 signals (deferred revenue, customer deposits, backlog inflections) are the
 PRIMARY discovery layer; bellwether mentions (H10/H10-extended) are the
 CONFIRMATION layer that upgrades conviction tier.**
+
+**Multi-strategy system (Framework v2.1, 2026-05-28):** Archos now spans three
+strategy buckets — Bucket 1 (large-cap LEAPS), Bucket 2 (sub-$5B chokepoint
+pure-plays), Bucket 3 (sub-$1B nanocap AI-adjacent); see CLAUDE.md → Strategy
+buckets + Flag Taxonomy. **The discovery-engine data flow below describes
+Bucket 2.** Buckets 1 and 3 share the governing principle (reject only on
+thesis-breakers; flags set magnitude → magnitude sets size) and the Flag
+Taxonomy, but use different discovery inputs and sizing. The diagram is
+unchanged.
 
 ```
 Bellwether Transcripts ──→ CHOKEPOINT_TAXONOMY.md (quarterly refresh; H10-extended per sector lens)

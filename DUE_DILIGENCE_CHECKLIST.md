@@ -37,6 +37,24 @@ Hard reject rules:
 - Any single RED on Section 1 (Management) or Section 2 (Counterparty)
   = hard reject unless the human explicitly overrides with documented reasoning
 
+**Flag Taxonomy cross-reference (Framework v2.1).** These hard-reject rules
+ARE the thesis-breaking vs magnitude-lowering distinction (see CLAUDE.md →
+Flag Taxonomy) applied at the DD stage:
+- A RED on §1 (Management) or §2 (Counterparty) is a *thesis-breaker* → hard reject.
+- A RED on §5 (Revenue Reality / valuation) is *magnitude-lowering* → it does
+  NOT hard-reject; it discounts position size. AEHR is the calibration case
+  (§5 RED on 70x P/S, but a real chokepoint pure-play held at reduced size,
+  not rejected).
+After scoring all six sections, classify the worst finding: thesis-breaker or
+sizing input? Reject only on the former; let the rest set magnitude → size.
+
+**H5 application guardrail (Framework v2.1).** H5 is a magnitude dose-response,
+not a binary gate. Only **LOVED-EXTREME** (parabolic, retail-driven, at or
+above the cap fundamentals justify) rejects. "Near 52-wk high" or "already +Nx
+off the lows" is NOT a reject — it is a magnitude-lowering / sizing input (H5
+PARTIAL or PARTIAL-RECOVERING). Wonik Materials is the calibration case: an H5
+PARTIAL was treated as a reject when it was really a sizing input.
+
 ## Position sizing tiers (determined by DD outcome):
 
 | Tier | DD Profile | Sizing | Instrument | Horizon |

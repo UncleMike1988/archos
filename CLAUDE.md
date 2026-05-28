@@ -1,14 +1,44 @@
 # CLAUDE.md — Archos
-# Framework version: v2.0 (bumped 2026-05-27 — adds discovery hierarchy, tiered H8, PARTIAL-RECOVERING H5, sector-conditional H10-extended)
+# Framework version: v2.1 (bumped 2026-05-28 — multi-strategy buckets + flag taxonomy + over-rejection guardrail; validated four-filter logic unchanged)
 
 ## What is this project?
 
-Archos is a personal investment research system that identifies sub-$5B
-AI-infrastructure chokepoint stocks before the market discovers them.
+Archos is a personal investment research system that finds asymmetric,
+mispriced equity bets across three strategy buckets and sizes each bet to
+its risk.
 
 The system is NOT a trading bot, NOT an automated execution engine, and
 NOT a portfolio manager. It is a discovery and screening engine that
-produces a ranked candidate list for human review and decision-making.
+produces a ranked candidate list (and a sizing input per candidate) for
+human review and decision-making.
+
+## Governing principle — find the mispricing, not the flawless company
+
+We are NOT screening for flawless companies. A flawless sub-$1B company
+doesn't exist — if it were clean, growing, contracted, and uncovered, it
+wouldn't still be sub-$1B. The job is to find a real, specific reason a
+company re-rates materially, then size the bet to its risk. Reject only on
+thesis-breakers; every other flag is a magnitude-and-sizing input, not a
+veto. (The full thesis-breaking vs magnitude-lowering split is the Flag
+Taxonomy below.)
+
+## Strategy buckets (assign FIRST)
+
+Assign the bucket BEFORE judging the candidate. Applying one bucket's
+discipline to another is a category error — judging a Bucket 3 nanocap on
+Bucket 1 LEAPS-timing rules is the VLN calibration miss.
+
+- **Bucket 1 — Large-cap LEAPS:** >$5B compounder, down 35%+ on overdone
+  fear, still growing, low IV. Instrument: LEAPS. Expectation: ~2x equity /
+  3x+ option on a partial recovery to PT. Template: NOW / CRM.
+- **Bucket 2 — Chokepoint LEAPS:** sub-$5B chokepoint pure-play with a real
+  edge. Instrument: LEAPS or equity. Expectation: 3-5x equity / ~10x option.
+  **The four-filter framework (H10/H8/H5/H11) governs here** — the chokepoint
+  thesis, two-stage SCREEN-then-VET process, and four-filter sections below
+  are all Bucket 2 detail. Template: CLSK.
+- **Bucket 3 — Nanocap AI-adjacent:** sub-$1B with a credible AI tailwind,
+  2-3 year horizon. Instrument: equity (LEAPS illiquid at this cap).
+  Expectation: 5-10x, basket-sized, higher variance. Template: VLN.
 
 ## Core thesis (derived from Leopold Aschenbrenner's "Situational Awareness")
 
@@ -87,6 +117,34 @@ The four-filter framework's H10 bellwether list (NVDA/TSMC/AVGO/MSFT/META/AMD) a
 H8, H5, and H11 apply identically across all lenses. Only the bellwether identity changes. The DD checklist is lens-agnostic and applies to all candidates regardless of sector.
 
 Evidence basis: Phase 4 universal discovery (N=61) confirmed that extended bellwether fires for 90% of the winner universe vs 48% for narrow NVDA-list only. The chokepoint LOGIC is universal; the bellwether IDENTITY is sector-conditional.
+
+## Flag Taxonomy — thesis-breaking vs magnitude-lowering (added 2026-05-28, Framework v2.1)
+
+The governing principle made operational. Every flag is one of two kinds: it
+either BREAKS the thesis (reject) or LOWERS the magnitude (a sizing input).
+These are different categories. Do not treat a magnitude-lowering flag as a
+veto, and never pass on a *stack* of them.
+
+**THESIS-BREAKING → reject:**
+- Structural (not cyclical) revenue decline [NVO]
+- Going-concern / insufficient runway, H11 fail [EOSE, INV]
+- Counterparty insolvency or contract cancellation [SHAZ]
+- Fraud / self-dealing / restatement / RED on DD §1 (management) or §2 (counterparty)
+- Chokepoint not real / end-market fails the H8 >50% majority test
+- H5 LOVED-EXTREME: parabolic, retail-driven, at or above the cap fundamentals justify
+
+**MAGNITUDE-LOWERING → size input, NOT a reject:**
+- Already ran / near 52-wk high with real runway left (H5 PARTIAL)
+- Some dilution / serial ATM, absent going-concern
+- Thin or near-PT analyst coverage
+- One soft quarter, no thesis break
+- RED on DD §5 (valuation) only [AEHR]
+
+**Rule:** reject ONLY on a thesis-breaker. Otherwise flags set magnitude →
+magnitude sets size. Never pass on a *stack* of magnitude-lowering flags — a
+pile of sizing inputs is still a sizing input, not a veto. This NARROWS what
+counts as a reject; it removes zero thesis-breakers (going-concern/H11, DD
+§1/§2 RED, SHAZ-style counterparty/fraud, LOVED-EXTREME all still reject).
 
 ## Framework performance (backward-looking, as of 2026-05-21)
 
