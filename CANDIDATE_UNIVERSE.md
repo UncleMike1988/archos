@@ -1,0 +1,1047 @@
+# CANDIDATE_UNIVERSE.md — Archos
+# Last maintained: 2026-05-28 PM (**SOITEC DD COMPLETE — SOI/SLOIY Tier A DD QUEUE → REJECT-FRAMEWORK-FAIL / POST-DISCOVERY GRADUATE** per due-diligence/SOI-dd-2026-05-28.md; **cap GRADUATED to €6.86B = ~$8.16B USD during DD session itself** — was €3.05B / $3.3B in CPO sweep this morning; **stock surged +24.64% on-day to €192.20 at 52-wk high** on FY26 print released May 27 after-hours (Photonics-SOI revenue crossed $100M "earlier than initially anticipated"); 1Y return +238% Euronext / +717% YTD ADR proxy. **DD scoring 0 RED / 2 FLAG / 4 CLEAR / 1 PARTIAL-FAIL — DD itself does NOT trigger hard-reject** (no SHAZ/ALMU red flags: clean management with net INSIDER BUYING in 12mo, pristine balance sheet €562M cash + 0.4x ND/EBITDA + €63M FCF restored, organic discovery via 8+ independent Substack deep dives with disclosed long positions, no paid promotion); **but H8 GRADUATED above $5B + H5 LOVED-extreme + H8 strict end-market FAILS by wide margin** closes new-entry window. H8 end-market: Photonics-SOI ~$100M ≈ €92M = only **15.5% of FY26 €592M revenue**; Mobile RF-SOI dominates at 52.2% → WOLF anti-pattern parallel. H8 Tier 4 SEGMENT path FAILS — Edge & Cloud AI segment growth +8% YoY (+19% ex-Imager-SOI), below +40% threshold. H10 partial CONFIRMED — GlobalFoundries (Fotonix) TIER 1 via joint 2019 PR + GF 20-F Exhibit 4.12 redacted; STMicroelectronics (STARLight 2025 consortium) TIER 1; **TSMC COUPE + Tower Semi remain TIER 2/3 INFERRED ONLY — no direct counterparty primary-source acknowledgment despite Soitec's unilateral marketing claim**. H11 CLEAN PASS (€562M cash, 0.4x ND/EBITDA, +€63M FCF beat €6M consensus, OCEANE 2025 refinanced via clean €222M Schuldschein). 6 sophisticated quant funds disclosed AMF >0.5% net short positions in last 4 months (Citadel 0.60% + AQR 0.71% + Millennium International 0.79% + Millennium Capital Partners 0.60% + Two Sigma 0.52% + Walleye 0.96% + Numeric 0.78% ≈ 4.4-5% aggregate); **no published Hindenburg/Spruce/Muddy Waters report — bear case is cyclical-fundamental (mobile RF-SOI destocking + Apple modem in-housing + SmartSiC €41M impairment), NOT fraud**. CEO transition Barnabé → Rémont (ex-Infineon SVP RF & Sensors, ex-STM 15+ yrs) effective April 1, 2026; **$2B/40% EBITDA medium-term target WITHDRAWN May 2025 and NOT reinstated in May 27 2026 FY26 print**. State-shareholder governance (Bpifrance 11% + CEA 7.2% + FSP all on board + double voting rights). **NEW CALIBRATION CASE: "POST-DISCOVERY GRADUATE" pattern — when framework correctly identifies chokepoint but public-market discovery beats Archos DD-cycle timing by hours.** Soitec is structurally DIFFERENT from SHAZ/ALMU/CYCU/EXYN rejects — distinct REJECT mode driven by framework filters (H5+H8 fail real-time) rather than DD section findings. Parallel to AIXTRON pattern but more extreme (cap moved during DD session itself, not over multi-day window). **NEW OPERATING RULE proposed for INSIGHTS.md: "REAL-TIME CAP RE-CHECK BLOCKER"** at top of every DD checklist — verify cap <$5B via Alpha Vantage / stockanalysis intraday BEFORE running Sections 1-6; if cap has crossed threshold since scan-time entry, abort full DD and produce "GRADUATED-DURING-DD" short report; this DD itself serves as the template. Re-eval triggers: (1) ≤ €144.15 (-25% pullback) with thesis intact → PARTIAL-RECOVERING reclassify at 50% Tier 3 sizing $5-12.5K equity, magnitude expectation PARTIAL-tier 50-265%; (2) ≤ ~€118 (cap <$5B) with Photonics-SOI on >30%-of-revenue trajectory → re-run full DD as IGNORED-tier re-entry; (3) ≤ ~€60 (-70%) with thesis intact → full Tier 3 sizing IGNORED-extreme re-entry; (4) TSMC publicly names Soitec as COUPE Photonics-SOI supplier → upgrades H10 from inferred to TIER 1 confirmed; (5) Tower Semi publicly discloses Soitec relationship → confirms TSEM $290M propagation thesis. **Move Soitec from chokepoint #1 CPO sub-$5B foreign-handicap ACTIVE row to Graduated Pure-Plays parallel to AXTI** in CHOKEPOINT_TAXONOMY.md — DONE this session. Default monthly WATCH re-eval per PARTIAL-RECOVERING trigger. Prior AIXTRON DD + AEHR DD + ANRITSU DD + CPO sweep context preserved below)
+# Prior maintained: 2026-05-28 (**AIXTRON DD COMPLETE — AIXA/AIXXF Tier A DD QUEUE → GRADUATED / REJECT for new entry** per due-diligence/AIXA-dd-2026-05-28.md; **cap GRADUATED to ~$7.15B USD (€6.62B) during DD window itself** — was $4.9B borderline in CPO sweep 4 days ago; stock +230% YTD from €17.31 → €58.90 at 52-wk high; **DD scoring 0 RED / 2 FLAG / 4 CLEAR — DD itself PASSES** (mgmt clean KPMG-audited, counterparties blue-chip Lumentum/Coherent, fortress balance sheet €722M pro-forma net cash, no published bear case, organic bull case from credible capital Kerrisdale/Jason's Chips/Citrini); **but H8 GRADUATED above $5B Tier 3 ceiling + H5 LOVED-rerated** (sell-side PTs lag spot 30-40%: Berenberg €42, DB €31, consensus €35; Kerrisdale €66 fair value = only +12% upside) closes new-entry window. H10 vendor-level CONFIRMED — Lumentum named G10-AsP MOCVD systems publicly May 19, 2026 ([EQS](https://www.eqs-news.com/news/media/aixtron-receives-multiple-orders-for-g10-asp-mocvd-systems-from-lumentum-to-support-expansion-of-high-speed-optical-solutions-for-ai-networks/e34797af-fa1d-46d8-ab21-e8b6295182a0)); NVDA $4B EML lockup at LITE/COHR is 3-degree pull-through. Tier 4 SEGMENT letter-of-framework marginal qualification (Opto 52% Q1 equip rev + 70% of orders + +972% YoY Opto orders) but past spirit-of-framework. CEO Felix Grawert at Q1 2026 call: €450M 0%-coupon convert at €50.375 (30% premium) issued April 16 was "really great opportunity we couldn't resist" + "won't buy back at this share price level" = honest valuation skepticism. Insider activity: net BUYERS in 12mo (Grawert, Danninger, van Hout, Schindelhauer); ZERO top-of-rally sells. Short interest 1.4% of float (below squeeze threshold; shorts COVERING per WorldQuant/Marshall Wace pattern). **NEW CALIBRATION CASE: "DD-window-graduation" pattern — when borderline candidate crosses cap threshold during DD execution itself. AIXTRON canonical case alongside POWL-late-entry.** Re-eval triggers: (1) 30-40% pullback to €35-40 with thesis intact → PARTIAL-RECOVERING reclassify at 50% sizing; (2) Cap pullback <$5B in correction → Tier 3 standard sizing; (3) NVDA explicit MOCVD/InP name-drop in Q2/Q3 FY27 earnings; (4) Customer-deposit step-change in next interim. Prior AEHR DD + ANRITSU DD + CPO sweep context preserved below; **AEHR DD COMPLETE — DD QUEUE → DD COMPLETED / POST-RE-RATE / PARTIAL-RECOVERING WATCH** per due-diligence/AEHR-dd-2026-05-28.md; cap CORRECTED $2.4-2.9B trough reading → **$3.16B verified intraday 2026-05-28** (Finviz + stockanalysis.com cross-check; 31.45M shares × $100.58); the "$2.4-2.9B" was the 5/18-5/20 trough only — stock bounced 24% off $81 low to $101 in 8 trading sessions; **chokepoint #1 CPO cross-tag CONFIRMED** via Q2 FY26 8-K (Jan 8, 2026) + Q3 FY26 8-K (Apr 7, 2026) SiPh customer wins (note: prompt said "Q1 FY26 8-K" — actual source is Q2 FY26 8-K, with Q3 FY26 8-K being the bigger second-customer win); customer identity ANONYMOUS in all FY26 filings (NOT Tower Semi, NOT GFS, NOT TSMC, NOT Coherent, NOT Lumentum, NOT Marvell); HBM exposure verified as OSAT-mediated FORWARD pipeline, NOT direct SK hynix/Samsung/Micron revenue (prompt's "HBM customer concentration risk" frame is overstated); DD verdict: **1 RED (§5 valuation 70x TTM P/S on declining revenue + analyst PTs 33-45% below spot) + 5 FLAG + 0 CLEAR — does NOT trigger hard-reject (RED is not on §1 or §2)**; H10 downgraded to Vendor-adjacency (one degree from NVDA-named CPO ecosystem); H5 = PARTIAL-RECOVERING POST-RE-RATE; SiPh sub-thesis is LOVED per social sweep (25+ posts in 30 days from PhotonCap/Citrini/Damnang Substacks + 6+ FinTwit accounts >10K followers); insider selling cascade $44.3M across 13 insiders / ZERO 10b5-1 plans / ZERO open-market buys in 180 days (heaviest in Archos DD history but does NOT trigger management RED gate — no fraud/self-dealing/restatement/paid-promotion); all 3-4 covering analysts (Craig-Hallum $68, Lake Street $56, William Blair Outperform) PTs are 30-45% BELOW current $101 despite Buy ratings; revenue declining -16% → -27% → -44% YoY for 4 consecutive quarters (SiC/EV legacy collapse); customer concentration improving (top-customer FY23 79% → FY25 39%); effective backlog $50.9M record + Q3 bookings $37.2M (3.6x book-to-bill); H11 PASSES (zero debt, ~$95M cash post-$60M April 2026 ATM); TSEM $290M SiPh prepayment macro signal has NOT yet propagated to AEHR Q3 FY26 deferred revenue (watch Q4 FY26 10-K June/July 2026 as next propagation window); **POSITION DECISION: HOLD existing; do NOT initiate new at $101**; re-entry triggers documented in DD: (1) retrace to $75-85 zone → 50% tier-standard position, (2) retrace to $60-70 → full Tier 3 sizing, (3) Q4 FY26 10-K first-time SiPh customer-deposit >$10M, (4) customer identity reveal, (5) Q4 FY26 revenue inflection >$20M; prior ANRITSU DD + CPO sweep context preserved below)
+# Prior maintained: 2026-05-28 (**ANRITSU DD COMPLETE — TIER A DD QUEUE → WATCH** per due-diligence/ANRITSU-dd-2026-05-28.md; 6754.T Anritsu cap CORRECTED $2B → **$3.79B USD** (¥603B @ ¥159.38/USD; iamfabian Substack $2B figure was stale; TIER 3 COMPOUNDER firmly, not TIER 2/3 borderline); DD verdict: **3 CLEAR + 3 FLAG + 0 RED, but H8 STRICT END-MARKET TEST FAILS** at consolidated level — optical T&M/AI-DC exposure only ~24% of total revenue, mobile T&M ~26% is single largest end-market, PQA food/pharma 27% dilutes thesis. **THIS IS THE WOLF ANTI-PATTERN** at chokepoint #1 layer (best-in-class product, diluted parent envelope). H5 sentiment PARTIAL → trending LOVED (+185% 1y, +31% 30d, at 98% of 52-wk high ¥4,848). PARTIAL-tier magnitude expectation 50-265%, NOT IGNORED-tier 700-1,400%. Sell-side consensus PT ¥2,836 sits 62% BELOW current ¥4,732. Re-eval triggers documented: (1) optical T&M sub-segment crosses 30%+ of total, (2) 25%+ retrace to ¥3,636 for H5 PARTIAL-RECOVERING entry, (3) PQA divestiture, (4) mega-contract with named hyperscaler/transceiver-maker disclosed >¥10B, (5) customer deposit >¥10B first-time appearance. Default thesis expiry 2026-11-28 unless triggers fire. Prior CPO sweep context preserved below; **SCAN_CPO_FULL_SWEEP — Co-Packaged Optics complete supply-chain sweep across 14 layers** → weekly-scan/runs/2026-05-28-cpo-full-sweep.md; **6 new DD QUEUE entries** [SOI/SLOIY Soitec ~$3.3B USD Photonics-SOI substrate to TSMC COUPE/GFS/Tower SiPh/ST — STRONGEST FOREIGN AI-DC PURE-PLAY of sweep; AIXA/AIXXF AIXTRON ~$4.9B USD borderline 90% G10-AsP MOCVD reactor share for InP fab tools; 6754.T Anritsu ~$2B USD BERTWave MP2110A 10G-1.6T optical test workhorse; VECO Veeco $3.52B promoted from supplier-mapping WATCH to chokepoint #1 CPO ACTIVE per May 2026 8-K; 138080 OE Solutions KOSDAQ $400-700M Korean 1.6T InfiniBand transceivers; AEHR ~$2.4-2.9B cap-reduced cross-tag #4→#1 per Q1 FY26 8-K SiPh ramp]; **18 new WATCH entries** [SKYT $1.42B US SiPh foundry; MXL $1.5B 200G TIA; CAMT $4-5B CPO inspection; SMTC $3-3.5B CDR/TIA; HIMX $1.61B FOCI CPO packaging; PLAB $2.65B SiPh photomasks; SVCO $320M SiPh TCAD; CPSH $200M ceramic thermal; TPEX:3485 Centera Photonics 1.6T integrated laser; LASR nLight high-power lasers; 069540 Lightron KOSDAQ +1,575% YoY pluggables; LPK/LPKFF LPKF €276-550M glass LIDE; 6777 Santec sub-$1B tunable laser+test; 6502.TWO EzConn $300-500M III-V epi; TWSE:6820 ACON FAU specialist; 4979 LUXNET Taiwan optical; BELFB Bel Fuse datacom connectors; ACLS Axcelis ion implant SiPh]; **13 new REJECT-log entries** [QUBT pre-rev moonshot; GHM defense/nuclear not AI-DC; INV vague; KOPN AR/VR; OSIS diversified; OIIM tiny; LEDS LED-pivot; XNDU $5.13B over cap quantum; 9MT MetaOptics SGX metalens; 6869 Yangtze HKEX China geo risk; BURU/LASE industrial broken-IPO; MTSI graduated $19.36B; RAL graduated $7B]; **REPLACE SIVEF OTC ref with SIVE.ST Stockholm primary** in CHOKEPOINT_TAXONOMY.md; **TSEM Q1 2026 $290M SiPh customer prepayments = canonical Framework v2.0 DISCOVERY HIERARCHY confirmation**; chokepoint #1 CPO expanded from 1 to 6 ACTIVE US-investable + 5 foreign-handicap; chokepoint #8 RECLASSIFIED from EMPTY-consolidated to PARTIALLY ACTIVE; prior SCAN_12 + Screen 11 + Screen 10 + Screen 9 context preserved below)
+# Prior maintained: 2026-05-28 (SCAN_12 — Physical AI / Humanoid Robotics Sector Lens Discovery → weekly-scan/runs/2026-05-28-physical-ai-robotics-scan.md; first Physical AI / Robotics lens scan; **VPG ($1.72B) confirmed as canonical winner already running — H10-R PASS via $1M Q1'26 humanoid bookings + 4th humanoid OEM in engineering discussions + $4M 2025 → $5M+ 2026 baseline at 50% CAGR**; **ALNT ($1.08B) added as TIER 2 CATALYST WATCH — strongest "next VPG" pattern fit** (humanoid motor whitepaper Apr 23 + thermally-optimized humanoid joints webinar May 19 + Robotics Summit 2026 demo May 26 = supplier self-positioning cluster); **LINK ($74M) added as TIER 1 NANO WATCH — highest-asymmetry FSR + haptic actuator pure-play**; **NOVT ($5.45-5.82B) flagged as TIER 4 SEGMENT candidate** — ATI Industrial Automation segment is segment-level VPG analog with >10 humanoid OEM engagements + NVIDIA Halos Lab integration; secondary WATCH: CEVA + OUST + AMBA + AEVA + AMPX + IMMR + INDI; H10-R "Physical AI / Humanoid Robotics" lens-conditional bellwether class proposed; proposed chokepoints #13-17 added to CHOKEPOINT_TAXONOMY.md as PROPOSED; STRUCTURAL FINDING: most-concentrated actuator/reducer/roller-screw chokepoints are NON-U.S.-INVESTABLE at sub-$5B level (Japanese/Swiss/Chinese supplier-locked); U.S. surface skews to sensing+perception+haptics; PDYN REJECT (M&A pivot blind spot) confirmed holds; Screen 11 [low-IV LEAPS], Screen 10 [Trump-admin equity portfolio], Screen 9 [senior defense board] context preserved below)
+# Prior maintained: 2026-05-28 (Screen 11 — Low-IV LEAPS Catalyst Screen SCAN_LOW_IV_LEAPS → weekly-scan/runs/2026-05-28-low-iv-leaps-screen.md; 50 tickers IV-screened via Barchart fallback; 19 names <60% IV; 10 names pass full filter; MIR reinforced TIER 1 STRONG; VRNS + DT NEW TIER 1 STRONG candidates pending lens-expansion)
+# Prior maintained: 2026-05-28 (Screen 10 — Government Equity / Strategic Investment Scan SCAN_10 → weekly-scan/runs/2026-05-28-screen10-government-equity-scan.md; complete Trump-admin equity portfolio mapped (24 confirmed positions, $22B narrow / $100B with Westinghouse); 5 sub-$5B Tier-1 next-target candidates identified — UAMY, NB, CRML, LEU, NNE — all with LEAPS + HIGH gov-equity probability)
+# Prior maintained: 2026-05-28 (Screen 9 — Senior Defense/IC Board Appointment Scan SCAN_09 → weekly-scan/runs/2026-05-28-screen9-defense-ic-board-scan.md)
+# Prior maintained: 2026-05-27 (Neocloud Second-Wave Scan SCAN_02 + Defense AI Scan SCAN_03 + CXL/Rack-Power Scan SCAN_01 + prior real-time price audit)
+# Last screened: 2026-05-28 (**SCAN_CPO_FULL_SWEEP — Co-Packaged Optics complete supply-chain sweep across 14 layers** → weekly-scan/runs/2026-05-28-cpo-full-sweep.md)
+# Prior run 2026-05-28: SCAN_12 — Physical AI / Humanoid Robotics Sector Lens Discovery → weekly-scan/runs/2026-05-28-physical-ai-robotics-scan.md
+# Prior run 2026-05-28: Screen 11 — Low-IV LEAPS Catalyst Screen SCAN_LOW_IV_LEAPS → weekly-scan/runs/2026-05-28-low-iv-leaps-screen.md
+# Prior run 2026-05-28: Screen 10 — Government Equity / Strategic Investment Scan SCAN_10 → weekly-scan/runs/2026-05-28-screen10-government-equity-scan.md
+# Prior run 2026-05-28: Screen 9 — Senior Defense/IC Board Appointment Scan SCAN_09_SENIOR_DEFENSE_IC_BOARD.md → weekly-scan/runs/2026-05-28-screen9-defense-ic-board-scan.md
+# Prior run 2026-05-27 (THREE concurrent scans): (1) Neocloud Second-Wave Scan, (2) Defense AI Production Transition Scan, (3) CXL + Rack-Level Power Delivery Scan
+# Prior scan: 2026-05-26 (Nano-Cap AI Universe Scan — 4 parallel streams, sub-$100M cap focus, AISP-template hunt)
+# Prior run 2026-05-26 (full): WEEKLY_SCAN_PROMPT.md FULL RUN — 8 parallel screens, full lookback
+# Prior run 2026-05-26 (partial): WEEKLY_SCAN_PROMPT.md first execution (narrower budget)
+# Prior run 2026-05-24: Universal Master Screen (5 parallel screens + 5 sector lenses)
+# Prior runs same date 2026-05-24: revenue-inflection v2 + supplier-mapping v2 + insider-buying-weakness v1
+
+## 2026-05-28 SCAN_CPO_FULL_SWEEP — Co-Packaged Optics complete supply-chain sweep — material additions
+
+SCAN_CPO_FULL_SWEEP was executed 2026-05-28 per user prompt to find every public company in the CPO supply chain under $5B cap, across ALL 14 layers (substrates → epi → laser sources → SiPh foundry → PIC design → modulators → fiber attach/FAU → optical packaging → optical test → specialty materials → thermal → PCB → drivers/TIAs → connectors). Full run output: [weekly-scan/runs/2026-05-28-cpo-full-sweep.md](weekly-scan/runs/2026-05-28-cpo-full-sweep.md). Mode: BREADTH-FIRST — defer 4-filter framework application until matrix-build stage.
+
+**STRUCTURAL FINDING:** Prior CPO scans (SCAN_04 2026-05-27 + weekly 2026-05-26) applied tight filters too early and missed ~6x of the surface area. Breadth-first methodology surfaced 28 sub-$5B candidates across 13 chokepoint layers (17 US-listed + 11 foreign-listed). Of those: 6 DD QUEUE, 18 WATCH, 13 REJECT-track, 1 cross-tag taxonomy update (AEHR #4 → #1 also).
+
+**CANONICAL FRAMEWORK V2.0 CONFIRMATION:** TSEM Q1 2026 10-Q disclosed **$290M silicon photonics customer prepayments received** + $1.3B SiPh revenue contracts signed for 2027. This is the highest-magnitude single-quarter customer-deposit disclosure in the AI Infrastructure cohort to date. TSEM is graduated (cap $32B), so not directly investable, but it is the macro validation of Framework v2.0's "balance-sheet signals lead bellwether mentions by 1-3 quarters" thesis at the SiPh foundry layer. **Propagation expectation:** sub-$5B suppliers UPSTREAM of TSMC/Tower/GFS (Soitec, AIXTRON, Sivers, OE Solutions, AEHR, VECO) should see analogous customer-deposit step-changes in Q3/Q4 2026 filings.
+
+**TIER A DD QUEUE — DD within 14 days (3 candidates):**
+
+| Ticker | Lens | Mkt Cap | Tier | H10 | Key signal | Re-eval trigger |
+|---|---|---|---|---|---|---|
+| **SOI / SLOIY** (Soitec) — **DD COMPLETE 2026-05-28 → REJECT-FRAMEWORK-FAIL / POST-DISCOVERY GRADUATE** | Chokepoint #1 CPO — Photonics-SOI substrate (Layers 1+4) — **MOVED to Graduated Pure-Plays in CHOKEPOINT_TAXONOMY.md parallel to AXTI** | **~$8.16B USD** (€6.86B intraday 2026-05-28 17:39 CET at €192.20 / +24.64% on FY26 print; cap GRADUATED above $5B during DD session itself; was €3.05B / $3.3B at scan-time AM) | **GRADUATED — was TIER 3 + foreign-handicap; now above threshold** | **PASS partial — GF + ST TIER 1 confirmed (GF 2019 PR + 20-F Exhibit 4.12 + STARLight 2025); TSMC + Tower TIER 2/3 INFERRED ONLY (no direct counterparty primary-source naming)** | **H5 FAILS LOVED-extreme** (52-wk high TODAY, +717% YTD ADR, +25% on print); **H8 FAILS strict end-market** (Photonics-SOI only 15.5% of FY26 €592M rev; Mobile RF-SOI dominates at 52.2% — WOLF anti-pattern); **H8 Tier 4 SEGMENT FAILS** (Edge & Cloud AI segment +8% YoY, below +40% threshold); **H11 CLEAN PASS** (€562M cash, 0.4x ND/EBITDA, +€63M FCF restored); 6 quant funds disclosed AMF >0.5% net shorts in 4 months (≈4.4-5% aggregate); insider NET BUYERS in 12mo | **PARTIAL-RECOVERING re-entry trigger ≤ €144.15** (-25% pullback) with thesis intact → 50% Tier 3 sizing $5-12.5K equity; **Cap-restoration re-entry ≤ ~€118** (cap <$5B) with Photonics-SOI on >30%-of-revenue trajectory; **IGNORED-extreme re-entry ≤ ~€60** (-70%). Full DD: [due-diligence/SOI-dd-2026-05-28.md](due-diligence/SOI-dd-2026-05-28.md). |
+| **AIXA / AIXXF** (AIXTRON, Xetra / OTC ADR) [**DD COMPLETE 2026-05-28 → GRADUATED / REJECT for new entry**] | Chokepoint #1 CPO — MOCVD epi tools for InP fab (Layer 2) | **~$7.15B USD** (€6.62B verified 2026-05-28 yahoo/stockanalysis — **GRADUATED above $5B during DD window**; was $4.9B borderline 4 days ago) | **GRADUATED — Tier 4 SEGMENT letter-of-framework marginal qualification (Opto 52% Q1 equip rev) but past spirit of framework** | **PASS — Vendor-level CONFIRMED** (Lumentum publicly named G10-AsP MOCVD systems May 19, 2026 EQS press; NVDA $4B EML lockup at LITE/COHR is 3-degree pull-through; AVGO flagged lasers as 2026 bottleneck) | **DD VERDICT: 0 RED / 2 FLAG / 4 CLEAR — DD itself PASSES** but H8 graduated + H5 LOVED-rerated (+230% YTD at 52-wk high €58.90; sell-side PTs lag spot 30-40%; Kerrisdale €66 fair value = only +12% upside). Mgmt CLEAN (KPMG-audited, Felix Grawert MIT-PhD + Infineon pedigree); counterparties blue-chip (Lumentum, Coherent inferred via 70-90% share); fortress balance sheet €722M pro-forma net cash post-€450M 0%-coupon convert; CEO honest valuation skepticism ("won't buy back at this share price level") | **Re-eval triggers:** (1) 30-40% pullback to €35-40 + thesis intact → PARTIAL-RECOVERING reclassify at 50% Tier 4 sizing (~$5-10K); (2) Cap pullback <$5B in correction → Tier 3 COMPOUNDER reinstatement; (3) NVDA explicit MOCVD/InP name-drop in Q2/Q3 FY27 earnings as catalyst momentum; (4) Customer-deposit step-change in next interim (Aug 2026) propagating from TSEM $290M SiPh signal. **CALIBRATION CASE: "DD-window-graduation" pattern alongside POWL-late-entry.** See [AIXA-dd-2026-05-28.md](due-diligence/AIXA-dd-2026-05-28.md) |
+| **6754.T** (Anritsu, TSE Tokyo) [**DD COMPLETE 2026-05-28 → WATCH**] | Chokepoint #1 CPO — optical test (Layer 9) | **~$3.79B USD** (CORRECTED; ¥603B @ ¥159.38/USD; iamfabian Substack $2B figure was stale) | **TIER 3 COMPOUNDER + foreign-handicap** | **PASS — Category** (BERTWave MP2110A is 10G-1.6T optical module test workhorse) | **DD VERDICT: WATCH (not ACCEPT). H8 STRICT END-MARKET TEST FAILS — optical T&M only ~24% of consolidated rev; mobile T&M ~26% is single largest; PQA food/pharma 27%. WOLF anti-pattern at chokepoint #1 layer. H5 PARTIAL→trending LOVED (+185% 1y, at 98% of 52-wk high).** DD: 3 CLEAR + 3 FLAG + 0 RED (130-yr operating history, net cash ¥49.3B, 0 shorts, 0 activists, GLP2026 ROE 12% target FY27). Co-dominant (not dominant) with Keysight in optical module BERT/sampling scope niche. | **Re-eval triggers:** (1) optical sub-segment crosses 30%+ of total rev, (2) 25%+ retrace to ¥3,636 → H5 PARTIAL-RECOVERING entry at 50% sizing, (3) PQA divestiture, (4) mega-contract with named hyperscaler/transceiver-maker >¥10B, (5) customer deposit >¥10B first-time appearance. Default thesis expiry 2026-11-28 |
+
+**TIER B DD QUEUE — DD within 30 days (3 candidates):**
+
+| Ticker | Lens | Mkt Cap | Tier | H10 | Key signal | Re-eval trigger |
+|---|---|---|---|---|---|---|
+| **VECO** (Veeco Instruments, NASDAQ) | Chokepoint #1 CPO — InP/MOCVD laser tools (Layer 2) — **PROMOTED from supplier-mapping WATCH** | **$3.52B** (verified stockanalysis 2026-05-28) | **TIER 3 COMPOUNDER** | **PASS — Category** (May 2026 8-K "particularly strong momentum in silicon photonics as customers scale optical connectivity"; $250M InP laser tool order book) | Already partially scoped — DD additive to existing WATCH; China BIS revenue concentration risk (AXTI-RAL parallel) | DD priorities: Section 2.6 China BIS exposure; Section 5.5 SiPh-segment carveout in next 10-Q |
+| **138080** (OE Solutions, KOSDAQ Korea) | Chokepoint #8 — Korean 1.6T transceivers (Layer 8) | **$400-700M** | **TIER 1 NANO / TIER 2 CATALYST** | **PASS — Vendor-level** ("Patents for the CPO Era" Mar 2026 + 1.6T InfiniBand-compatible AI-DC switches; NVDA GTC 2026 Korean media namedrop) | Direct CPO play with explicit AI-DC counterparty alignment; Korea-handicapped | DD priorities: Korean DART filing access setup; Section 2.3 hyperscaler counterparty acknowledgment via Korean disclosures; Section 5.5 customer concentration |
+| **AEHR** (Aehr Test Systems, NASDAQ) | Chokepoint #4 WLBI + **chokepoint #1 cross-tag CONFIRMED via DD** | **$3.16B verified intraday 2026-05-28** (prior "$2.4-2.9B" was 5/18-5/20 trough only — bounced 24% to $101) | **TIER 3 COMPOUNDER firm** (NOT borderline graduation) | **Vendor-adjacency** — Q2 FY26 + Q3 FY26 SiPh customer wins (customer ANONYMOUS — not Tower/GFS/TSMC/Coherent/Lumentum); H10 NOT direct vendor-level | **DD COMPLETED 2026-05-28 — 1 RED + 5 FLAG + 0 CLEAR**, no hard-reject trigger; HOLD existing / do NOT initiate new at $101; entry only at $75-85 zone (PARTIAL-RECOVERING 50% sizing) or $60-70 (full Tier 3) | Re-eval triggers: (1) retrace to $75-85 zone with no thesis-break, (2) Q4 FY26 10-K first-time SiPh customer-deposit >$10M, (3) customer identity reveal, (4) Q4 FY26 revenue inflection >$20M. See [AEHR-dd-2026-05-28.md](due-diligence/AEHR-dd-2026-05-28.md) |
+
+**TIER C WATCH (18 NEW entries — trigger conditions defined):**
+
+US-listed: SKYT $1.42B (US SiPh foundry; trigger: SiPh enters >20% next 10-K); MXL ~$1.5B (200G TIA design-win trigger); CAMT ~$4-5B borderline (CPO inspection); SMTC ~$3-3.5B (1.6T design-win); HIMX $1.61B (FOCI partnership material rev); PLAB $2.65B (SiPh photomask carveout); SVCO $320M TIER 1 NANO (SiPh TCAD %); CPSH ~$200M TIER 1 NANO (AI-DC ceramic thermal); LASR (verify cap; AI-DC laser growth); BELFB ~$600M-1B (datacom connectors adjacency); ACLS ~$2-3B (ion implant SiPh).
+
+Foreign-listed: TPEX:3485 Centera Photonics newly listed Mar 2026 (1.6T integrated laser); 069540 Lightron KOSDAQ +1,575% YoY (verify H5 LOVED-risk; if pullback, PARTIAL-RECOVERING entry); LPK/LPKFF €276-550M Xetra (glass LIDE binary outcome); 6777 Santec TSE sub-$1B (tunable laser+test); 6502.TWO EzConn $300-500M TPEX (III-V epi); TWSE:6820 ACON Optics (FAU specialist); 4979 LUXNET TPEX sub-$500M (Taiwan optical).
+
+**REJECT LOG ADDITIONS (SCAN_CPO_FULL_SWEEP):**
+
+| Ticker | Reason |
+|---|---|
+| **QUBT** (Quantum Computing Inc) | $1.59B; pre-revenue moonshot blind spot (LWLG analog) + LOVED retail sentiment + POET-collateral pre-revenue risk; TFLN modulator + POET joint dev is real but no bellwether-named relationship |
+| **GHM** (Graham Corporation) | $1.05B NYSE; defense/Navy/nuclear dominant; CPO/AI-DC not load-bearing; could route through H10-D in separate session |
+| **INV** (Innventure Inc) | $0.29B; vague venture portfolio thermal narrative; no chokepoint connection |
+| **KOPN** (Kopin Corp) | ~$200-300M; AR/VR end-market — H8 end-market test fails for AI-DC |
+| **OSIS** (OSI Systems) | ~$2.5B; security inspection diversified parent; photonics segment too small + wrong end-market |
+| **OIIM** (O2Micro International) | ~$100M; tiny + adjacency-only; no chokepoint-direct exposure |
+| **LEDS** (SemiLEDs Corp) | nano-cap; LED/lighting pivot; not CPO chokepoint |
+| **XNDU** (Xanadu Quantum Technologies) | $5.13B (just over cap); quantum end-market + pre-revenue; Tower SiPh collaboration but moonshot pattern |
+| **9MT** (MetaOptics Ltd, SGX Catalist) | S$126M (~$98M); metalens for camera/AR — fails H8 end-market test (not AI-DC) |
+| **6869** (Yangtze Optical Fibre & Cable, HKEX) | sub-$2B; Chinese listing + export-control geopolitical risk; fiber upstream not CPO-direct |
+| **BURU** (Nuburu Inc) | de-SPAC Feb 2023 (Tailwind ACQ); reverse splits to micro-cap; industrial laser/welding NOT AI-DC; broken-IPO REJECT |
+| **LASE** (Laser Photonics) | IPO Sep 2022; sub-$1; 10-Q delay; industrial cleaning laser NOT AI-DC; broken-IPO REJECT |
+| **MTSI** (MACOM Technology Solutions) | $19.36B — graduated above $5B cap. Full SiPh portfolio is load-bearing but cap rules out. **TIER 4 SEGMENT candidate ONLY if AI-DC optical segment >50% AND >40% YoY in next 10-Q — currently FLAG** |
+| **RAL** (Ralliant Corp) | $7.00B NYSE — graduated above $5B cap. T&M with SiPh tailwind is real. **TIER 4 SEGMENT candidate at best if AI-DC T&M segment carves out cleanly >40% YoY** |
+| **NVMI** (Nova Ltd) | $16.28B — graduated above $5B cap; optical metrology for advanced packaging |
+
+**CROSS-REFERENCE WITH EXISTING ARCHOS UNIVERSE — overlap noted:**
+
+- **VECO** — already in supplier-mapping WATCH per CANDIDATE_UNIVERSE.md (NVDA 2-degree); SCAN_CPO_FULL_SWEEP **promotes to chokepoint #1 CPO ACTIVE DD QUEUE** per May 2026 8-K SiPh disclosure crystallization.
+- **AEHR** — already chokepoint #4 ACTIVE in CHOKEPOINT_TAXONOMY.md; SCAN_CPO_FULL_SWEEP **cross-tagged to chokepoint #1 CONFIRMED via AEHR-dd-2026-05-28** (corrected source 8-Ks: Q2 FY26 Jan 8 2026 + Q3 FY26 Apr 7 2026, NOT Q1 FY26 as initially scoped); cap VERIFIED $3.16B intraday 2026-05-28 (prior "$2.4-2.9B" was 5/18-5/20 trough only); DD verdict 1 RED + 5 FLAG / no hard-reject; HOLD existing / do NOT initiate new at $101; PARTIAL-RECOVERING entry at $75-85 zone only.
+- **SIVE.ST / SIVEF** — already foreign-handicap WATCH as SIVEF OTC ADR ($2.75B per CHOKEPOINT_TAXONOMY.md); SCAN_CPO_FULL_SWEEP **replaces SIVEF OTC reference with SIVE.ST Stockholm primary** ($2.05B USD; cleaner liquidity, same name).
+- **INDI** — already TIER 2 robotics MONITOR per SCAN_12; HOPS optical packaging real but auto ADAS dominates — NO CHANGE.
+- **ALNT** — already TIER 2 robotics WATCH per SCAN_12; 10-K SiPh micro-assembly disclosure NEW — **cross-tag CPO #8 packaging-equipment WATCH alongside robotics #15**; verify SiPh enters >10% segment revenue.
+- **INFQ** — already Screen 10 gov-equity TIER 1 next-target ($3.46B → now $2.73B); Morton Photonics acquisition gives SiPh component lineage — **cross-tag CPO #5 PIC-design adjacency**; pre-revenue caveat remains.
+- **OPTX** (Syntec Optics) — already photonics-pivot Defense/Space WATCH per master scan 2026-05-24; SCAN_CPO_FULL_SWEEP confirms NO CHANGE.
+
+**FORWARD CATALYST CALENDAR (next 90 days):**
+- **Jun-Jul 2026:** TSEM, GFS, Soitec, AIXTRON quarterly results — monitor for follow-on SiPh customer-deposit step-changes propagating downstream from TSEM $290M anchor
+- **Jul-Aug 2026:** Q2 earnings for AEHR (SiPh WLBI ramp), VECO (InP tool order conversion), MXL (Washington 200G TIA design-wins), POET (next 1.6T 2×DR4 milestone with Lessengers)
+- **Aug-Sep 2026:** OE Solutions, Lightron Korean DART filings — verify CPO transceiver prepayment signals
+- **Continuous:** Any 8-K Item 1.01 from a sub-$5B US-listed name naming "1.6T transceiver" / "co-packaged optics" / "200G per lane" / "CPO module" as a binding design win = TIER 1 H10 fire
+- **Continuous IPO watch (top 6 for Layer 3+5+6 gaps):** Ayar Labs S-1 (#1), Lightmatter S-1 (#2), OpenLight S-1 (#3), HyperLight S-1 (#4), NewPhotonics S-1 (#5), Innolume S-1 (#6) — all 2026-27 IPO targets
+
+---
+
+## 2026-05-28 SCAN_12 PHYSICAL AI / HUMANOID ROBOTICS SECTOR LENS DISCOVERY — material additions
+
+SCAN_12 — Physical AI / Humanoid Robotics Sector Lens Discovery was executed 2026-05-28 per `research/prompts/SCAN_PHYSICAL_AI_ROBOTICS.md` to identify component-level chokepoints in the humanoid robotics buildout and find sub-$5B U.S.-listed pure-play suppliers before the market connects the dots. Full run output: [weekly-scan/runs/2026-05-28-physical-ai-robotics-scan.md](weekly-scan/runs/2026-05-28-physical-ai-robotics-scan.md).
+
+**STRUCTURAL FINDING:** The humanoid actuator chokepoint stack (#2 harmonic reducers, #3 cycloidal reducers, #4 planetary roller screws — collectively 35-40% of unit BOM) is **STRUCTURALLY NON-U.S.-INVESTABLE at sub-$5B level.** Top global suppliers (Harmonic Drive Systems 6324.TYO, Nabtesco 6268.TYO, Yaskawa 6506.TYO, Fanuc 6954.TYO, SMC 6273.TYO) trade as OTC-only sponsored ADRs (YASKY, NCTKY, SMCAY, HSYDF) — auto-REJECT per Archos NLST precedent. Chinese suppliers (Tuopu 601689.SHA, Sanhua 002050.SZ, Inovance 300124.SZ, Leader Harmonious 688017.SHA) trade on China A-shares (foreign-filer framework not yet built). Swiss reducers (Rollvis/GSA, Maxon) are private. **The U.S. sub-$5B robotics surface skews STRUCTURALLY toward sensing+perception+haptics, not actuation+reduction.** This biases the Archos robotics lens to the VPG-shaped sub-chokepoint position.
+
+**H10-R PROPOSED CLASS:** Lens-conditional bellwether class — Physical AI / Humanoid Robotics — parallel to H10-D / H10-N / H10-M / H10-P / H10-G. Trigger: binding supply agreement with Tesla / Figure / Apptronik / Boston Dynamics / 1X / Unitree / Fourier / UBTECH, OR NVIDIA Isaac certification, OR named supplier in humanoid OEM BOM/teardown, OR multi-customer aggregation across ≥3 named humanoid developers (MIR-template). Documented in CHOKEPOINT_TAXONOMY.md proposed chokepoints #13-17.
+
+**TIER 1 / TIER 2 / TIER 3 / TIER 4 ROBOTICS CANDIDATES (verified market caps 2026-05-27):**
+
+| Ticker | Lens | Mkt Cap | Tier | H10-R | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|---|
+| **VPG** (Vishay Precision Group, NYSE) | Robotics #13 Force/Torque Sensing | **$1.72B** (verified [stockanalysis](https://stockanalysis.com/stocks/vpg/)) | **TIER 2 CATALYST** (post-rerate; PARTIAL-RECOVERING) | **PASS** — multi-customer aggregation: 4 humanoid OEMs in commercial discussions per Q1'26 8-K; $1.0M Q1 bookings; $600K shipped Q1; baseline $4M 2025 → $5M+ 2026 at 50% CAGR | **WATCH (calibration case, post-rerate)** — already +5x; CEO "pivotal year" for Physical AI framing. PARTIAL-RECOVERING geometry: enter at 50% tier-standard position if 20-30% pullback restores entry window OR document as "winner-already-running, no new initiation." [VPG Q1'26 8-K](https://www.sec.gov/Archives/edgar/data/1487952/000143774926016226/ex_924354.htm) |
+| **ALNT** (Allient Inc, Nasdaq) | Robotics #15 (motor/actuator electromech layer) | **$1.08B** (verified [marketbeat](https://www.marketbeat.com/stocks/NASDAQ/ALNT/)) | **TIER 2 CATALYST WATCH** | **FLAG** — supplier self-positioning cluster in 33 days: humanoid motor whitepaper Apr 23 2026, "thermally-optimized humanoid joints" webinar May 19 2026, Robotics Summit 2026 advanced motion demo May 26 2026. **No binding humanoid OEM customer named yet** | **Strongest "next VPG" pattern fit.** Full DUE_DILIGENCE_CHECKLIST.md within 14 days. Section-2 priority: ALNT 10-K segment data for robotics/automation revenue share; named humanoid OEM 8-K. H10-R PASS upgrade trigger: binding humanoid OEM customer announcement. [Allient humanoid whitepaper](https://www.roboticstomorrow.com/news/2026/04/23/allient-inc-publishes-new-whitepaper-on-motor-selection-for-humanoid-robotics-systems/26473) |
+| **LINK** (Interlink Electronics, Nasdaq) | Robotics #17 Tactile/Haptic | **$74M** (verified [WallStreetZen](https://www.wallstreetzen.com/stocks/us/nasdaq/link)) | **TIER 1 NANO WATCH** | **FLAG** — 10-K names FSR + haptic actuator IP; "operate in reverse as actuators for haptic feedback"; 2026 guidance: return to profitability + double-digit organic growth | **Highest-asymmetry TIER 1 NANO candidate.** Full DUE_DILIGENCE_CHECKLIST.md within 30 days. Section-2 priority: humanoid OEM disclosure or VLM-training-tool design-in; cash runway; insider activity. Position size $3-5K per Tier 1 NANO rules. [LINK 10-K](https://www.sec.gov/Archives/edgar/data/828146/000110465926035244/link-20251231x10k.htm) |
+| **NOVT** (Novanta, Nasdaq) | Robotics #13 + #15 (ATI Industrial Automation segment) | **$5.45-5.82B** (verified [stockanalysis](https://stockanalysis.com/stocks/novt/)) | **TIER 4 SEGMENT candidate** (parent just over $5B) | **PASS at segment level** — ATI Industrial Automation: >10 humanoid OEM engagements + NVIDIA Halos Lab integration; expects robotics/automation revenue to double 2026, double again 2027 | **Verify TIER 4 qualification under Framework v2.0:** (a) Automation Enabling Tech segment >50% AI-DC/robotics end-market AND (b) segment growing >40% YoY (Q1'26 bookings +37% is borderline). If qualifies, treat segment as synthetic standalone. Re-eval trigger: segment-level revenue mix disclosure. |
+| **CEVA** (Nasdaq) | Robotics #15 (IP-licensing layer) | **$1.09B** (verified [stockanalysis](https://stockanalysis.com/stocks/ceva/market-cap/)) | **TIER 2 CATALYST WATCH** | **FLAG** — Self-described "leader in silicon and software IP enabling Physical AI"; 14 IP licensing deals Q1'26; AI >20% of licensing | DD within 30 days. Section-2 priority: verify Physical AI / robotics licensing mix >40% of total; named humanoid OEM IP licensee. [CEVA 10-K](https://www.sec.gov/Archives/edgar/data/1173489/000143774926006091/ceva20251231_10k.htm) |
+| **OUST** (Ouster, Nasdaq) | Robotics #16 Perception (LiDAR) | **$2.83B** (verified [stockanalysis](https://stockanalysis.com/stocks/oust/)) | **PASS** — Self-described "leader in sensing and perception for Physical AI"; NVIDIA DRIVE Hyperion qualified; Stereolabs acquisition; explicit humanoid mention in 10-K | **TIER 3 COMPOUNDER WATCH** | DD within 30 days **IF H8 verifies**. Section-2 priority: 10-Q segment disclosure of robotics/Physical-AI revenue share >50%. H5 caveat: already +4.3x off 52-week low — verify PARTIAL not LOVED. [OUST 10-K](https://www.sec.gov/Archives/edgar/data/1816581/000162828026013313/oust-20251231.htm) |
+| **AMBA** (Ambarella, Nasdaq) | Robotics #15 (vision SoC) | **$3.85-4.10B** (verified [macrotrends](https://www.macrotrends.net/stocks/charts/AMBA/ambarella/market-cap)) | **TIER 3 COMPOUNDER WATCH** | **FLAG** — Vision SoC referenced as Tesla Optimus vision; multiple humanoid ETF inclusion (ROBO + THNQ); 10-K humanoid context | **Existing Archos universe entry — formal robotics-lens classification added.** Document robotics exposure formally. Lower urgency vs ALNT/LINK — already partially-discovered, less asymmetry remaining. |
+| **AEVA** (Aeva Technologies, Nasdaq) | Robotics #16 (FMCW LiDAR) | **$0.84-1.70B** range (volatile; verified [macrotrends](https://www.macrotrends.net/stocks/charts/AEVA/aeva-technologies/market-cap)) | **TIER 1-2 WATCH** | **PASS** — Q1'26 named 3 Physical AI commercial deployments (Forterra defense + Aeva CityOS ITS + **Nikon factory automation**); LG Innotek + NVIDIA partnerships | DD with cash-runway focus. Volatile price — verify H5 PARTIAL-RECOVERING via 25% pullback from Q1 high. H11 risk requires close attention. [AEVA Q1'26](https://www.businesswire.com/news/home/20260506436947/en/Aeva-Reports-First-Quarter-2026-Results) |
+| **AMPX** (Amprius Technologies, NYSE) | Robotics #11/#16 (silicon-anode batteries) | **$2.17-2.27B** (verified [stockanalysis](https://stockanalysis.com/stocks/ampx/)) | **TIER 3 COMPOUNDER MONITOR** | **FLAG** — Robotics named as target end-market in 10-K; primary today is defense aviation/UAV; forward-looking humanoid energy-density play | **MONITOR.** Re-eval trigger: named humanoid OEM silicon-anode design-in (Figure, Optimus, Apptronik). |
+| **INDI** (indie Semiconductor, Nasdaq) | Robotics #15 (sensor-fusion silicon) | **$1.00B** (verified [public.com](https://public.com/stocks/indi/market-cap)) | **TIER 2 CATALYST MONITOR** | **FLAG** — May 2026 8-K acquired ams OSRAM CMOS image sensor line "to support expansion into Physical AI… humanoid robots, cobots, AMRs" | **MONITOR** — Physical AI is one of several pivots; auto ADAS primary today. Re-eval trigger: end-market test transitions toward Physical AI dominance. [INDI 8-K](https://www.sec.gov/Archives/edgar/data/1841925/000119312526216934/indi-ex99_1.htm) |
+| **IMMR** (Immersion Corp, Nasdaq) | Robotics #17 (haptics IP) | **$216M** (verified [WallStreetZen](https://www.wallstreetzen.com/stocks/us/nasdaq/immr)) | **TIER 1 NANO MONITOR** | **FLAG** — 10-K names robotics adjacency in haptic IP licensing; consumer/gaming/auto-dominated existing mix | **MONITOR.** Re-eval trigger: named humanoid OEM haptic IP license. |
+| **SYNA** (Synaptics, Nasdaq) | Robotics #15 (sensor SoC) | **$5.55-5.71B** (verified [stockanalysis](https://stockanalysis.com/stocks/syna/)) | **TIER 4 SEGMENT MONITOR** (just over cap) | **FLAG** — Q1'26 8-K "multiple additional design wins in Physical AI and robotics"; Coralboard Edge AI w/ Google Research at I/O 2026 | **MONITOR.** Verify Physical AI / robotics segment economics; lower priority vs NOVT (Novanta's ATI segment is more directly the chokepoint pure-play). |
+
+**REJECT LOG ADDITIONS (SCAN_12):**
+
+| Ticker | Reason |
+|---|---|
+| **PDYN** (Palladyne AI) | $333M; **already in Archos REJECT** per M&A pivot blind spot (ex-Sarcos reverse-merger). Pure-play embodied-AI software pattern superficially attractive but blind spot holds — no override. RECONFIRMED. |
+| **RR** (Richtech Robotics) | $630-733M; service-robot OEM with Nov 2024 humanoid pivot announcement = sector-pivot blind-spot pattern (FABC/VWAV/VDTA analog). H5 LOVED + promotional sentiment. |
+| **SERV** (Serve Robotics) | $687-702M; sidewalk delivery robots, not chokepoint hardware. H5 LOVED — sales +578% per Motley Fool; integrator not component pure-play. |
+| **PRCT** (Procept BioRobotics) | $1.58B; surgical robotics pure-play — **right structure, wrong end-market**. Physical AI thesis is industrial / humanoid / labor-substitution, not surgical. WOLF anti-pattern. |
+| **ARAY** (Accuray) | $56M; surgical robotics + H11 risk. Wrong end-market. |
+| **MBOT** (Microbot Medical) | $109M; robotic endovascular — wrong end-market. |
+| **KSCP** (Knightscope) | $45-49M; autonomous security robots; chronic dilution, integrator. |
+| **CYN** (Cyngn) | $21M; industrial autonomy SaaS for AGVs; H11 risk via persistent dilution. |
+| **HSAI** (Hesai Group) | $3.24B Nasdaq main-board ADR but **Chinese ADR geopolitical / PCAOB risk**; parallel framework only. |
+| **INVZ** (Innoviz Technologies) | Sub-$100M; March 2026 Nasdaq sub-$1 non-compliance notice = H11 RED FAIL. |
+| **FFAI** (Faraday Future) | First-time "Robotics" segment in 10-Q matches balance-sheet signal pattern, BUT issuer is high-controversy EV reverse-merger; SHAZ-shape. REJECT per calibration. |
+| **GPUS** (Hyperscale Data) | $70M; Cluster 8 micro-cap pivot; Michigan humanoid testing + AGIBOT robot purchase via Omnipresent subsidiary is PR-only branding. |
+| **GGRP** (Glimpse) | $13M; May 2026 "Pureplay Physical AI" pivot + $1.85M raise = nano-cap shell pivot. Cluster 8. |
+| **NXNT** (Nexscient) | Nano-cap; Apr 2026 Flipside AI acquisition pivot. |
+| **KITT** (Nauticus) | $10M; subsea robotics, off-thesis. |
+| **LQMT** (Liquidmetal) | $100-128M; OTC. |
+| **LCCC** | SPAC pre-merger; CPRO Physical AI Security target. |
+| **OTC ADRs** (YASKY, NCTKY, SMCAY, HSYDF) | Yaskawa, Nidec, SMC, Harmonic Drive Systems — all OTC-only sponsored ADRs. **Auto-REJECT per Archos NLST precedent.** Document as foreign-listed structural gap. |
+| **ALGM** (Allegro MicroSystems) | $7.08B; graduated above $5B cap; Allegro Humanoids application page + 2026 robotics sales doubling YoY referenced for framework validation only. |
+| **MEGA-CAPS** | CGNX $11B, SYM $30B, MTD $30B, AVAV $9B, MBLY $8.48B, ABB, RBC, NVDA, TSLA, ISRG, Keyence — all over cap. |
+
+**CROSS-REFERENCE WITH EXISTING ARCHOS UNIVERSE — robotics overlap detected only in AMBA** (vision SoC for Tesla Optimus; multiple humanoid ETF inclusion). All other existing Archos entries (AISP, SPAI, CTM, FEIM, POET, AEHR, HPS.A, PSIX, WYFI, DUOT, MOVE, MIR, LEU, NNE, ASPI, CRML, UAMY, NB, etc.) have no material humanoid exposure. Defense-AI cluster is structurally adjacent (autonomy + sensor fusion + AI) but governed by H10-D not H10-R.
+
+**FORWARD CATALYST CALENDAR (next 90 days):**
+- **June 2026:** Tesla Optimus production milestone updates (10-Q); Figure 02 commercialization updates
+- **July-Aug 2026:** Q2 earnings for VPG (>2x Q2 guide on humanoid shipments); ALNT Q2 segment data; OUST Q2 robotics mix; CEVA Physical AI licensing mix
+- **Aug-Sep 2026:** Roze (SoftBank robotics) U.S. IPO — will be over $5B at print but S-1 mining surfaces named U.S. suppliers
+- **Continuous:** any sub-$5B U.S.-listed 8-K Item 1.01 naming Tesla / Figure / Apptronik / Boston Dynamics / 1X / Unitree / Fourier / UBTECH as binding customer = H10-R PASS fire
+
+---
+
+## 2026-05-28 SCREEN 11 LOW-IV LEAPS CATALYST SCREEN (SCAN_LOW_IV_LEAPS) — material additions
+
+The Low-IV LEAPS Catalyst Screen (`SCAN_LOW_IV_LEAPS.md`) was executed 2026-05-28 to find $2-15B AI/defense/nuclear/cyber/cloud mid-caps where implied volatility is LOW (Jan 2028 LEAPS are cheap relative to forward catalysts) — INVERTING the normal Archos discovery process. Full run output: [weekly-scan/runs/2026-05-28-low-iv-leaps-screen.md](weekly-scan/runs/2026-05-28-low-iv-leaps-screen.md).
+
+**TOOLING NOTE:** Massive Market Data MCP options-snapshot and contract-snapshot endpoints returned **HTTP 403 NOT_AUTHORIZED** on every call — user's current subscription tier does not include IV / Greeks / chain-pricing data. Fallback path: IV from `barchart.com/stocks/quotes/{T}/volatility-charts`, stock prices from `google.com/finance`, Jan 2028 LEAPS strike existence from Massive Market Data `/v3/reference/options/contracts` (this endpoint IS entitled). LEAPS premium pricing in this run is **Black-Scholes theoretical** (IV + S + K + T=1.658yr + r=4.5%), not actual market quotes — ±10-20% divergence expected from live ask. Bid-ask spread + OI filters could NOT be verified. **Recommendation for next run: upgrade Massive Market Data plan to options-snapshot tier OR add brokerage-API connector (IBKR / TastyTrade / TradeStation).**
+
+**STRUCTURAL FINDING:** The speculative-catalyst cohort (AEHR 143% IV, RDW 158%, NVTS 143%, AXTI 141%, BBAI 98%, LUNR 130%, FLY 126%, CLSK 99%, OKLO 92%, USAR 114% — all current Archos chokepoint pure-plays) trades at **90-160% IV** — premium is fully priced for the upside. The mature defense / nuclear / mid-cap-SaaS cohort (HXL 40%, CACI 39%, PSN 46%, MRCY 56%, BWXT 49%, MIR 55%, DT 50%, QLYS 47%, VRNS 56%, TENB 57%) trades at **38-60% IV** — the options market has NOT priced these names' AI-driven inflection at the speculative-cohort multiple. **This is the inversion the screen is designed to exploit.** The LEAPS leverage advantage at lower IV is real (HXL crossover only +38.5% vs TENB +55.7%) but the catalyst quality varies inversely with the IV discount.
+
+**MIR (Mirion Technologies) — REINFORCED as TIER 1 STRONG (existing Chokepoint #11 candidate):**
+
+| Field | Value |
+|---|---|
+| Stock | $17.11 / Mkt cap $4.28B (TIER 3 COMPOUNDER) / NYSE |
+| IV | **54.94%** (Jan 2028 ATM-equivalent); IV percentile 64% |
+| Archos lens | Nuclear I&C / radiation detection / Paragon Energy safety-related parts — **proposed Chokepoint #11** in CHOKEPOINT_TAXONOMY.md (Scan 05 2026-05-27) |
+| Revenue | Q1 CY2026 +27.5% YoY ($257.6M); FY26 guide 22-24% TOTAL growth (5-7% organic); Q1 orders +42% to $288M; $1.1B backlog |
+| Catalyst | Hyperscaler multi-GW nuclear power deals for AI-DC + Chief AI Officer appointed + 17 internal AI applications + SMR bookings $39M FY25 + $10M Jan 2026 |
+| LEAPS verified | **YES — Jan 2028 strikes $17.5 / $20 / $22.5 / $25 confirmed via Massive Market Data /v3/reference/options/contracts** |
+| Suggested strike + BS premium | Jan 2028 $20 call @ ~$4.24 theoretical; breakeven $24.24 (+41.7% to S); LEAPS-vs-equity crossover at +55.5% |
+| Suggested sizing | $10-25K per H8 Tier 3 COMPOUNDER (24-59 contracts; 2,400-5,900 underlying shares = $41K-$101K equity exposure) |
+| H5 sentiment | NEUTRAL — well-covered nuclear-services name; NOT in chokepoint-pure-play meme cohort |
+| H11 | Investment-grade, profitable, FCF positive |
+| Pre-entry verification | Live chain quote (verify ask vs $4.24 BS theoretical ±15%) + OI > 100 + spread <15% + DD Section 6 social sweep |
+
+**VRNS (Varonis Systems) — NEW TIER 1 STRONG candidate, lens-expansion pending:**
+
+| Field | Value |
+|---|---|
+| Stock | $30.36 / Mkt cap $3.49B (TIER 3 COMPOUNDER) / NASDAQ |
+| IV | 56.08%; IV percentile 61% |
+| Archos lens | Cybersecurity / AI security — **OUTSIDE current Archos AI-Infrastructure framework**. Candidate for H10-extended AI-security parallel lens. Atlas AI Security Platform (launched March 2026) is explicit AI-workload-adjacent product, supporting an "AI-data security" sub-chokepoint candidate |
+| Revenue | Q1 2026 +26.9% YoY ($173.1M); SaaS ARR +69% YoY to $683.2M; SaaS = 93% of total; FY26 guide $731-737M |
+| Catalyst | **Atlas AI Security Platform** launched March 2026 (inventory / secure / govern AI deployments); $149.99M buyback completed; ENS High certification Spain |
+| LEAPS verified | **YES — Jan 2028 strikes $30 / $35 / $40 confirmed** |
+| Suggested strike + BS premium | Jan 2028 $35 call @ ~$7.83 theoretical; breakeven $42.83 (+41.1% to S); LEAPS-vs-equity crossover at +55.3% |
+| Suggested sizing | $10-25K per H8 Tier 3 COMPOUNDER (13-32 contracts; 1,300-3,200 shares = $39K-$97K equity-equiv) |
+| H5 sentiment | PARTIAL — recent +9% on Q1 beat; 52%+ off 52-wk high $63.90 |
+| H11 | Operating loss -$44.5M Q1 (improving non-GAAP); FCF positive +$49M Q1 |
+| Sounding Board call required | **Yes — does Archos expand to cybersecurity as a parallel lens?** Recommend admit-via-AI-data-security-narrowly (Atlas product) rather than admit broad cybersecurity. |
+
+**DT (Dynatrace) — NEW TIER 1 STRONG candidate, lens-expansion pending:**
+
+| Field | Value |
+|---|---|
+| Stock | $38.94 / Mkt cap $11.35B (TIER 3 COMPOUNDER, near top of band) / NYSE |
+| IV | 49.93%; IV percentile 82% |
+| Archos lens | Cloud observability / AI-workload monitoring — **OUTSIDE current taxonomy**. Candidate for inclusion as AI-DC operations-layer chokepoint (parallel to MIR's nuclear-DC-power layer) |
+| Revenue | FY26 (March-end) +19% YoY to $1,720M; Q1 2026 ARR $1.822B +18% YoY; net-new ARR double-digit growth 3 consecutive quarters; FY26 guide $2,005-2,010M (raised) |
+| Catalyst | Agentic AI observability narrative; DPS (Dynatrace Platform Subscription) = 65% of ARR growth; $1B buyback authorization announced |
+| LEAPS verified | **YES — Jan 2028 strikes $40 / $42.5 / $45 / $47.5 / $50 confirmed** |
+| Suggested strike + BS premium | Jan 2028 $45 call @ ~$8.82 theoretical; breakeven $53.82 (+38.2% to S); LEAPS-vs-equity crossover at +49.4% (best of strong-conviction names) |
+| Suggested sizing | $10-25K per H8 Tier 3 COMPOUNDER (11-28 contracts; 1,100-2,800 shares = $43K-$109K equity-equiv) |
+| H5 sentiment | NEUTRAL-to-PARTIAL — well-covered mid-cap SaaS; current $38.94 vs 52-wk high $57.55 (-32%) |
+| H11 | Profitable, FCF positive, investment-grade |
+| Sounding Board call required | **Yes — does Archos add AI-observability layer to chokepoint taxonomy?** Recommend admit-via-explicit-AI-workload-narrative; the AI-DC operations layer IS load-bearing for hyperscaler-cohort and chokepoint logic applies. |
+
+**TIER 2 MODERATE candidates (from LEAPS screen, lens-expansion or re-classification pending):**
+
+| Ticker | S | Mkt Cap | IV | Sector lens | Catalyst summary | LEAPS verified? |
+|---|---|---|---|---|---|---|
+| **MRCY** (Mercury Systems) | $97.38 | $5.85B | 55.63% | Defense electronics (Archos REJECT log entry "$5.92B over Tier 3 cap"; on live verification cap is $5.85B = within Tier 3 band) | Q3 FY26 +11.5% YoY; **record bookings $348M (1.48 book-to-bill); record backlog ~$1.6B**; FY26 guide raised to mid-single-digit. **Suggest re-classify REJECT → TIER 3 WATCH** (LEAPS-vector lens) | UNVERIFIED — empty response on $95-120 strike query; rate-limited before broader query completed |
+| **HXL** (Hexcel) | $88.15 | $6.65B | **39.52% — LOWEST in screen** | Aerospace + defense composites (Archos REJECT log "$6.84B just over cap"; on live verification cap is $6.65B = within Tier 3 band) | Q1 2026 commercial aerospace +18.8% YoY; FY26 guide 8% sales growth + EPS +25% + $2.0-2.1B sales target; up to $500M annual incremental from sole-source contracts at peak rates. **No direct AI catalyst** — broad aerospace + defense tailwind only. **Suggest re-classify REJECT → TIER 3 WATCH** | UNVERIFIED — empty response on $90-110 strike query |
+| **PSN** (Parsons) | $56.91 | $6.09B | 45.64% | Defense services + cyber (H10-D applicable) | Q1 2026 -4% YoY (BUT +8% ex-confidential); Q1 wins $1.6B+ including $500M sole-source U.S. Cyber Command Joint Cyber Hunt Kit; Altamira acquisition +$200M FY26; $11B awarded backlog | UNVERIFIED |
+| **QLYS** (Qualys) | $98.78 | $3.48B | 47.45% | Cybersecurity / AI risk fabric (lens-expansion pending) | Q1 2026 +10% YoY ($175.6M); FY26 guide $721-727M (7-8%); AI-driven Risk Operations Center; agentic AI platform optionality | UNVERIFIED |
+| **TENB** (Tenable) | $24.40 | $2.69B | 56.65% | Cybersecurity / AI exposure management (lens-expansion pending) | Q1 2026 +9.6% YoY ($262.1M); **Hexa AI launched**; cybersecurity market $300B → $400B by 2029 ($75B AI security); Tenable One = 41% new business (+8 ppts) | UNVERIFIED |
+
+**TIER 3 WATCH (TIER 1/2 fundamentals NOT met but option-pricing notable):**
+
+| Ticker | S | Mkt Cap | IV | Notes |
+|---|---|---|---|---|
+| **PAYC** (Paycom) | $132.30 | $6.16B | 48.29% | HR cloud; AI tools (Beti / IWant / GONE) real but transformative-on-stickiness, not transformative-on-growth-rate. FY26 guide 7-8% growth, soft demand. Document; not promoted to TIER 2 |
+
+**REJECT (low IV but failed Archos fundamental gate):**
+
+| Ticker | S | Mkt Cap | IV | Reason |
+|---|---|---|---|---|
+| **SAIC** (Science Applications) | $101.41 | ~$11B | 47.60% | FY26 revenue $7.26B (flat); FY27 guide $7.0-7.2B (organic decline). $1.4B Pentagon contract + Paul Eremenko (ex-DARPA AI) joined board not enough to offset top-line decline. Already in Archos Screen 9 documentation as over-cap reference. **REJECT.** |
+
+**SCREEN-FAIL but documented for traceability (low IV BUT failed cap or price filter):**
+
+| Ticker | Reason | IV |
+|---|---|---|
+| **FFIV** (F5) | $21.87B over $15B screen cap + $387.63 over $200 price | 37.93% |
+| **CACI** | $11.24B in range but $508.79 over $200 price (LEAPS contracts $50K+ ea) | 38.66% |
+| **BWXT** | $18.35B over $15B (also Archos Screen 10 over-cap reference) | 49.42% |
+| **AKAM** | $21.06B over $15B | 53.80% |
+| **TWLO** | $27.73B over $15B | 54.03% |
+| **ESLT** | $38.68B over $15B + $827.63 over $200 price | 46.20% |
+| **BELFB** | ~$3.5B in range BUT $281.33 over $200 price | 48.42% |
+| **RDWR** (Radware) | $1.22B under $2B; otherwise eligible | 41.33% |
+| **FRSH** (Freshworks) | $2.49B in cap range BUT $9.02 under $10 price | 59.01% |
+| **JNPR** (Juniper) | Cap in range ($39.95 price) BUT Barchart IV not parsed (data gap) | DATA-GAP |
+
+**Best LEAPS leverage in the screen (BS theoretical, Jan 2028, slightly-OTM strike):**
+
+| Rank | Ticker | LEAPS-vs-equity crossover | Return on LEAPS @ 2x stock |
+|---|---|---|---|
+| 1 | HXL | **+38.5% (lowest hurdle)** | +378% (lowest-IV name, highest payoff at 2x) |
+| 2 | DT | +49.4% | +273% |
+| 3 | PSN | +44.4% | +310% |
+| 4 | QLYS | +47.6% | +295% |
+| 5 | PAYC | +46.3% | +284% |
+| 6 | MIR | +55.5% | +235% |
+| 7 | VRNS | +55.3% | +228% |
+| 8 | MRCY | +57.0% | +231% |
+| 9 | TENB | +55.7% | +224% |
+
+**FRAMEWORK FINDING:** The screen surfaced 5 NEW lens candidates (VRNS, DT, QLYS, TENB, PSN) outside current Archos AI-Infrastructure framework. Three lens-expansion options:
+- **(A)** Codify cybersecurity + observability + defense-services as H10-extended parallel lenses (paralleling H10-D / H10-N / H10-M / H10-G) — expands Archos surface area dramatically
+- **(B)** Treat as out-of-scope adjacencies — interesting LEAPS trades but NOT formal Archos-ACCEPT candidates
+- **(C)** Hybrid (recommended) — admit ONLY names with explicit AI-DC chokepoint adjacency: DT (observability of AI workloads) + VRNS (security of AI data); reject general cybersecurity (QLYS / TENB)
+
+Sounding Board call required before formal ACCEPT-track promotion of any of these. Until decision, treat as DOCUMENT-only TIER 1/2 candidates.
+
+**RECOMMENDED FRAMEWORK / TOOLING ACTIONS (next session priorities):**
+1. Upgrade Massive Market Data plan to options-snapshot entitlement (or evaluate IBKR / TastyTrade brokerage-API alternative) so future LEAPS screens have actual chain quotes + OI + spread (not BS theoretical).
+2. Sounding Board decision on cybersecurity / observability lens expansion (option C recommended).
+3. Verify Jan 2028 LEAPS existence + chain depth for HXL, MRCY, QLYS, TENB, PSN, PAYC, SAIC on broker platform before any DD or sizing.
+4. Run DUE_DILIGENCE_CHECKLIST.md Section 6 (`/last30days` social sweep) for MIR specifically (existing TIER 1 STRONG with newly-confirmed LEAPS).
+
+---
+
+## 2026-05-28 SCREEN 10 GOVERNMENT EQUITY / STRATEGIC INVESTMENT SCAN (SCAN_10) — material additions
+
+The Screen 10 — Government Equity / Strategic Investment Scan was executed 2026-05-28 to (a) map the complete Trump administration equity portfolio since January 2025, (b) identify sectors with INCOMPLETE investment rounds, and (c) surface sub-$5B publicly traded companies most likely to receive the NEXT round of government equity stake or strategic investment in the next 6-12 months. Full run output: [weekly-scan/runs/2026-05-28-screen10-government-equity-scan.md](weekly-scan/runs/2026-05-28-screen10-government-equity-scan.md). Phase 3 candidate detail: [weekly-scan/runs/2026-05-27-government-equity-next-targets-scan.md](weekly-scan/runs/2026-05-27-government-equity-next-targets-scan.md).
+
+**STRUCTURAL FINDING:** 24 confirmed Trump-admin equity / equity-linked positions since Jan 2025 totaling ~$22-23B narrow equity + $80B Westinghouse partnership = ~$100B headline. Sector concentrations: Critical Minerals (9 deals, ~$3B+), Quantum Computing (9 deals, $2.013B), Semiconductors (3 deals + 9 quantum = $10.05B equity), Nuclear (1 explicit + 1 contingent), Defense/SRM/Shipbuilding (2 explicit + LMT/BA/PLTR floated), Steel (1 golden share). AI Infrastructure has $0 direct equity but $250M+$4T Pax Silica + Stargate $500B JV. **OSC scaling $10B → $200B over 3 years per Pentagon statements** implies 10-30 additional equity stakes in next 12-24 months.
+
+**TIER 1 GOV-EQUITY NEXT-TARGETS (sub-$5B + LEAPS + HIGH probability — pre-positioning candidates):**
+
+| Ticker | Lens | Mkt Cap | Gov Relationship | Catalyst Trigger |
+|---|---|---|---|---|
+| **UAMY** (US Antimony Corp, NYSE) | Critical Minerals — antimony (sole U.S. producer) | **$1.30-1.57B** (verified 2026-05-27; TIER 2 CATALYST) | $27M DPA Title III Q1 2026 + $245M DLA IDIQ Q4 2025 + $354M Pentagon backlog + $12.8M DoW Q1 2026 cash + $130K Cassidy lobbying. Project Vault explicit. | Pentagon equity-conversion 8-K. **CAVEAT: H3 insider sell pattern firing live per Screen 9 anti-validation case (KOPN/MRAM analog risk) — apply 60-day insider monitoring before entry.** |
+| **NB** (NioCorp Developments, NASDAQ) | Critical Minerals — niobium + scandium + Ti + REE; Elk Creek NE | **$95M-888M** (verify intraday; cap range reflects post-listing volatility) | $10M DPA Title III Aug 2025 + **$780M EXIM loan in advanced consideration ("Trump speed")** + Lockheed scandium-defense agreement + Project Vault priority | EXIM Board approval announcement (canonical LAC-template loan→equity conversion) |
+| **CRML** (Critical Metals Corp, NASDAQ) | Critical Minerals — HREE Tanbreez Greenland | **$1.43-1.72B** (verified 2026-05-27; +26% WoW; entry window compressing) | **$50M DPA grant → ~8% government equity stake in active negotiation** per Reuters/Mining.com 2026-01 + $120M EXIM LOI + Greenland sovereign approval 4/17/26 + REalloys 15-yr binding offtake | Formal 8-K announcing $50M-to-8%-equity definitive agreement. ~75% probability formal closing 6 months absent geopolitical disruption. |
+| **LEU** (Centrus Energy, NYSE American) | Nuclear — HALEU enrichment (sole U.S. producer); already Phase 3 winner | **$3.65-4.07B** (TIER 3 COMPOUNDER; canonical Scan-05 entry) | **$900M task order for commercial-scale HALEU pending definitive agreement** + $108.2M option year funded + $2.7B DOE awards historical + Trump explicit "possibly a nuclear reactor company" | DOE definitive agreement signing OR loan-to-equity conversion 8-K. **Gov-equity lens UPGRADES LEU to TIER 1 next-target status.** |
+| **NNE** (NANO Nuclear Energy, NASDAQ) | Nuclear — Microreactor SMR + HALEU; chokepoint #11 | **$1.39-1.51B** (verified 2026-05-27) | DOE LEU Enrichment Acquisition Program ($3.4B aggregate / 10 years, 1 of 6) + HALEU transportation basket licensed from 3 DOE national labs + **Supermicro MOU 5/6/26 for AI-DC power** | DPA Title III award OR DOE loan with potential equity conversion. Pre-revenue moonshot caveat remains structural. |
+
+**NEW TIER 2-3 WATCH ADDITIONS (added via SCAN_10):**
+
+| Ticker | Lens | Mkt Cap | Tier | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|
+| **TMC** (TMC the metals company) | Critical Minerals — deep-sea polymetallic nodules (Clarion-Clipperton) | $1.88-2.43B (NASDAQ; verified 2026-05-27) | **TIER 2 CATALYST WATCH** | Trump EO "Unleashing America's Offshore Critical Minerals" Apr 2025 + DSHMRA EO Jan 2026 + **NOAA full compliance May 2026** + final permit decision Q1 2027 + 619 Mt wet nodules consolidated 65,000 km². ([NOAA 5/2026](https://investors.metals.co/news-releases/news-release-details/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-0/)) | NOAA final permit Q1 2027 + Pentagon offtake signal. Regulatory-risk caveat (international objections). |
+| **METC** (Ramaco Resources) | Critical Minerals — REE-from-coal Wyoming + metallurgical coal | $952M-1B (NASDAQ; verified 2026-05-27) | **TIER 2 CATALYST WATCH** | $6.1M Wyoming state grant + **Sec. of Energy Chris Wright attended Brook Mine ribbon-cutting July 2025** + bipartisan WY delegation (Barrasso/Lummis/Hageman) + 5-yr mine permit + 1.7M tons TREO estimate. | Explicit DPA Title III dollar award. **Mixed-commodity dilutes H8 pure-play test.** |
+| **IDR** (Idaho Strategic Resources) | Critical Minerals — REE + thorium + gold | $570-578M (NYSE American; verified 2026-05-27) | **TIER 1 NANO WATCH** | **DOE FOA 3105 selection 5/19/26** (Critical Material Innovation, Efficiency, and Alternatives) + University of Idaho + INL partnership + 17.6% TREO grade at Cardinal prospect. | DPA Title III dollar award + Project Vault explicit listing. Gold cash flow dilutes pure-play. |
+| **UAMY** (US Antimony Corp) | Critical Minerals — antimony | $1.30-1.57B (NYSE) | **TIER 2 CATALYST WATCH (with H3 insider-sell caveat)** | (See Tier 1 row above) | Pentagon equity-conversion 8-K. Apply 60-day insider monitoring per Screen 9 anti-validation case. |
+| **NB** (NioCorp Developments) | Critical Minerals — niobium/scandium/REE/Ti | $95-888M (NASDAQ; verify) | **TIER 1 NANO or TIER 2 CATALYST WATCH** (depends on cap verification) | (See Tier 1 row above) | EXIM Board approval. |
+| **UURAF** (Ucore Rare Metals) | Critical Minerals — REE separation RapidSXT + LA SMC | $437-477M USD (OTCQX; TSXV: UCU; verified 2026-05-27) | **TIER 1 NANO WATCH** (with OTC handicap caveat) | $22.4M DoD funding + Vulcan Elements MOU March 2026 + Phase 1 Final Report accepted by U.S. Army Contracting Command Orlando + commissioning H2 2026 target. | DoD Phase 2 award. OTC listing limits Pentagon Nasdaq-style equity template. |
+| **ALM** (Almonty Industries, NASDAQ post-July 2025 IPO) | Critical Minerals — tungsten (Sangdong Korea + Gentung Montana) | $2.79-4.7B (verify intraday; TIER 3 COMPOUNDER range) | **TIER 3 COMPOUNDER MONITOR** (foreign-listed-historical caveat) | **HQ relocated Toronto → Dillon Montana 4/13/26** = pre-equity-stake positioning signal + Sangdong Phase 1 commissioning 3/16/26 (40% global non-China supply potential) + $129M follow-on Dec 2025. | Gentung Montana production milestones. Sangdong Korea-based limits domestic-content equity template. |
+
+**RECONFIRMED / UPGRADED EXISTING ENTRIES:**
+
+- **LEU** (Centrus Energy) — Existing TIER 3 COMPOUNDER (Phase 3 winner; Scan-05 H5 PARTIAL-RECOVERING monitor). Gov-equity lens **UPGRADES to TIER 1 next-target status** (DOE $900M task order conversion + Trump nuclear framing).
+- **CRML** (Critical Metals Corp) — Existing Master-Screen WATCH (TIER 2 CATALYST). Gov-equity lens **UPGRADES to TIER 1 next-target status** ($50M DPA-to-8%-equity in active negotiation per public reports).
+- **NNE** (NANO Nuclear Energy) — Existing TIER 3 WATCH (Nuclear chokepoint #11; H10-N FLAG via Supermicro MOU). Gov-equity lens **MAINTAINS, reinforces** — DOE LEU Acquisition + Supermicro MOU; pre-revenue moonshot remains structural cap.
+- **ASPI** (ASP Isotopes) — Existing TIER 2 CATALYST (Nuclear chokepoint #11 + Si-28 dual-track). Gov-equity lens **MAINTAINS TIER 2** — multi-path optionality (nuclear + semi + quantum) is the bull case.
+- **PPTA** (Perpetua Resources) — Existing TIER 2 STRONG (H10-M PASS via $2.9B EXIM). Gov-equity lens **REINFORCES as canonical H10-M fire** in current universe.
+- **ALOY** (REalloys) — Existing TIER 3 WATCH (H10-M PENDING). Gov-equity lens MAINTAINS; awaiting DPA/EXIM.
+
+**ALREADY-RECEIVED CALIBRATION CASES (over cap or post-rerate; documented for traceability):**
+
+| Ticker | Cap | Notes |
+|---|---|---|
+| **INTC** | $620B | Aug 2025 entry $20.47 → current $123.44 = +503%. The canonical Intel-pattern reference. |
+| **MP** | ~$11.9B | Jul 2025 $400M preferred + warrants = 15%; +150-200% rerate |
+| **USAR** | $5.64B | Jan 2026 $277M direct + $1.3B loan = 8-16%; +18% so far. **Cap breached $5B post-deal** |
+| **LAC** | $1.77B | Oct 2025 / Jan 2026 close — DOE 5% via warrants restructured loan; +100% |
+| **TMQ** | $749.6M | Oct 2025 — Pentagon 10% + 7.5% warrants; +230% YoY |
+| **INFQ** | $3.46B | May 21 2026 $100M CHIPS LOI (~3%); +17% post-announce |
+| **QBTS** | $5.27-10.89B | May 21 2026 $100M CHIPS LOI (~1.2%); cap borderline/over |
+| **RGTI** | $8.33B | May 21 2026 up to $100M CHIPS (~1.3%); over cap |
+| **GFS** | $49.3B | May 21 2026 $375M (~1%); over cap |
+| **IBM** | $232B | May 21 2026 $1B Anderon foundry subsidiary; over cap |
+| **OKLO** | $10.21B | Already in Archos REJECT (pre-revenue moonshot + over cap); DOE plutonium negotiation ongoing |
+
+**REJECT LOG ADDITIONS (Screen 10):**
+
+| Ticker | Reason |
+|---|---|
+| **AREC** (American Resources Corp / ReElement parent) | $223.47M sub-cap BUT **Pentagon reconsidering $80M loan May 21 2026** per Bloomberg = NEGATIVE-SIGNAL CALIBRATION (first reverse-signal in gov-equity wave). Document for traceability. |
+| **CCJ** (Cameco) | $45.87B over cap. Westinghouse partnership reference only. |
+| **BWXT** | $18.76B over cap. HALEU/TRISO + naval reactor framework validation only. |
+| **CW** (Curtiss-Wright) | $27.01B over cap. Naval nuclear reactor I&C. |
+| **UEC** (Uranium Energy Corp) | $6.38-7.32B just over cap. NNSA participant. |
+| **KTOS** (Kratos Defense) | $10.47-13.18B over cap. Defense drones/hypersonics. |
+| **AVAV** (AeroVironment) | $9.1B over cap. Defense drones. |
+| **MRCY** (Mercury Systems) | $5.92B just over cap. Defense electronics. |
+| **HXL** (Hexcel) | $6.84B just over cap. Defense composites. |
+| **BE** (Bloom Energy) | $86B mega-cap. SOFC AI-DC power; Phase 1 winner reference. |
+| **TLN** (Talen Energy) | $17B over cap. Nuclear power AI hyperscaler. |
+| **IONQ** | $21.05B over cap. Quantum trapped-ion. **NOTABLY ABSENT from May 21 quantum 9 LOIs** — possible Round 2 target but cap precludes Archos action. |
+| **WWR** (Westwater Resources) | $79.7M TIER 1 NANO; FAST-41 only, no DPA $; pre-revenue moonshot. MONITOR (no LEAPS at this cap). |
+| **GPHOF** (Graphite One) | OTC PINK / TSX.V; $37.5M DPA Title III 2023; pre-revenue moonshot; OTC handicap blocks Pentagon equity template. MONITOR. |
+| **LTBR** (Lightbridge) | $371-395M; INL framework agreements only (no DPA $); pre-revenue R&D. MONITOR. |
+| **NUCL** (Eagle Nuclear Energy) | Already in Archos WATCH (Nuclear); no disclosed gov relationship; de-SPAC + pre-revenue moonshot. MAINTAIN. |
+
+**FRAMEWORK FINDING:** The government-equity event is a **canonical highest-conviction H10 fire** — exceeds standard bellwether-name-drop because it removes bankruptcy risk + signals classified procurement-pipeline knowledge + creates self-fulfilling rerate. Proposed framework class: **H10-G "Government Equity / Strategic Investment"** as lens-conditional bellwether class extending H10-extended (H10-D Defense, H10-M Critical Minerals, H10-N Nuclear, H10-P Pharma). Logged as new framework lesson in INSIGHTS.md.
+
+---
+
+## 2026-05-28 SCREEN 9 SENIOR DEFENSE/IC BOARD APPOINTMENT SCAN (SCAN_09) — material additions
+
+The Screen 9 — Senior Defense/IC Board Appointment Scan (`SCAN_09_SENIOR_DEFENSE_IC_BOARD.md`) was executed 2026-05-28 to identify sub-$1B defense/space/IC-adjacent US-listed companies where a retired flag officer (general/admiral) or agency director/deputy director joined the Board or Advisory Board in the last 12 months with equity compensation. Full run output: [weekly-scan/runs/2026-05-28-screen9-defense-ic-board-scan.md](weekly-scan/runs/2026-05-28-screen9-defense-ic-board-scan.md). Material universe changes:
+
+**CONVICTION UPGRADE (existing TIER 1 NANO WATCH):**
+
+- **SPAI (Safe Pro Group)** — Already TIER 1 NANO, fast-track DD per CANDIDATE_UNIVERSE.md. Screen 9 surfaces **TRIPLE USSOCOM-pedigree leadership cluster in 30 days**: (1) Col. (Ret.) Jarret Mathews appointed first COO 2026-04-06 (former Director, Joint Acquisitions Task Force, USSOCOM) with **EQUITY-HEAVY comp** confirmed — 20K inducement restricted shares + 75K annual options + perf options tied to $5M/$10M/$20M revenue milestones + 15K accelerated consulting shares + $200K base + $50K bonus ([8-K Apr 6, 2026](https://www.sec.gov/Archives/edgar/data/2011208/000149315226015137/form8-k.htm)); (2) Benjamin Chitty appointed VP Government Growth 2026-05-04 (recently retired USSOCOM Acquisition Executive, Deputy Director Joint Acquisition Task Force, USSOCOM SOF AT&L); (3) Brian Mack (ex-Anduril) appointed to Strategic Advisory Board 2026-04-06. **Screen 9 is the strongest conviction layer possible to add** to an already best-in-universe candidate. SPAI now confluences on Screen 2 (revenue inflection +560% YoY) + Screen 3 (customer-deposit / PIPE) + Screen 4 (gov-contract $1M U.S. Gov LRIP + Army SRR PoR) + **Screen 9 (senior defense leadership cluster)** — four-screen confluence. Per existing INSIGHTS.md cross-screen confluence rule, this is the highest-conviction signal type. Full DUE_DILIGENCE_CHECKLIST.md within 7 days remains correct; Screen 9 confirms priority.
+
+**CALIBRATION CASE CONFIRMED (existing TIER 2 STRONG WATCH):**
+
+- **AISP (Airship AI Holdings)** — Already TIER 2 STRONG, fast-track DD. Screen 9 reinforces the canonical archetype: David V. Aguilar (former Acting Commissioner, U.S. Customs and Border Protection) appointed FIRST Advisory Board Member 2026-04-29 ([8-K via globenewswire](https://www.globenewswire.com/news-release/2026/04/29/3283767/0/en/Airship-AI-Appoints-Former-U-S-Customs-and-Border-Protection-Acting-Commissioner-David-Aguilar-as-First-Advisory-Board-Member.html)). Compensation undisclosed in press release — verify via next proxy. Aguilar's CBP rolodex is the operational pipeline for the 16 sole-source DHS contracts already in place. No status change; reinforces existing TIER 2 STRONG.
+
+**NEW MONITOR (sub-$100M cap, Critical Minerals adjacency, framework gates fail but document for re-eval):**
+
+| Ticker | Lens | Mkt Cap | Tier | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|
+| **ELBM** (Electra Battery Materials Corp.) | Critical Minerals (H10-M) — cobalt sulfate refinery | **~$64-70M USD** (verified via web search 2026-05-28; Canadian filer, files 6-K not 10-Q) | **MONITOR (not WATCH)** — pre-revenue moonshot blind spot + foreign-filer handicap | **Rear Admiral Gerard Hueber, U.S. Navy (Retired)** nominated to Board of Directors 2025-09-09 ([6-K](https://www.sec.gov/Archives/edgar/data/0001907184/000117184325005789/exh_991.htm)) — former VP Naval Power Requirements & Capabilities at Raytheon ($8B portfolio). H10-M PRE-EXISTING: $20M U.S. Department of Defense award for sustainable cobalt sulfate production. $82M aggregate funding ($48M government grants/loans + $34M equity Oct 2025) secured for North American cobalt sulfate refinery north of Toronto. Commissioning Q4 2026; mechanical completion Q2 2027; commercial production Q4 2027. | (a) Commercial production milestone hits (Q4 2027 target); (b) H10-M government bellwether fires harder (DPA Title III designation, EXIM Board loan, additional DoD award scale); (c) cap retraces to crystallize entry window; (d) revenue inflection from commissioning. **Pre-revenue moonshot blind spot per CANDIDATE_UNIVERSE.md routes to MONITOR-only.** |
+
+**DOCUMENT-ONLY REFERENCES (Screen 9 hits at adjacent caps; framework gates fail but worth tracking):**
+
+| Ticker | Lens | Mkt Cap | Disposition | Notes |
+|---|---|---|---|---|
+| **GOGO** (Gogo Inc.) | AI-adjacent in-flight comms + Satcom Direct mil/gov segment | $540-586M | **DOCUMENT-only reference (NOT framework ACCEPT)** | Gen. (Ret.) Mike Minihan, 4-star USAF, ex-Commander U.S. Air Mobility Command (launched AMC "25 in '25" Satcom initiative) appointed to Board 2025-07-02 ([8-K Jul 8, 2025](https://www.sec.gov/Archives/edgar/data/1537054/000095017025094577/gogo-20250708.htm)). Standard non-employee director compensation per 2025 proxy. **H8 FAILS** — mil/gov segment only ~12% of Q3'25 revenue ($27.3M / $223.6M total). **M&A pivot blind spot per INSIGHTS.md (SANM/SEI analog)** — Satcom Direct acquired Dec 3, 2024 = inorganic exposure. Insider sentiment BULLISH (21 buys / 7 sells 90d) is positive baseline. Document; cannot promote. |
+| **UAMY** (United States Antimony Corp.) | Critical Minerals — antimony (DoD/missiles end-market) | $1.23-1.57B (verified 2026-05-28 via web search; **just over $1B Screen 9 cap**) | **DOCUMENT-only reference / ANTI-VALIDATION CALIBRATION CASE** | Gen. John M. "Jack" Keane (Retired 4-star Army, former Acting Army Chief of Staff, Chair Institute for the Study of War, Sec Def Policy Board) appointed Independent Director effective 2025-08-19 ([8-K Aug 19, 2025](https://www.sec.gov/Archives/edgar/data/101538/000165495425009792/uamy_ex991.htm)). **RED FLAG: insider sentiment BEARISH** (0 buys / 16 sells / -$6.09M net 90d, 5 unique insiders selling — KOPN/MRAM-class H3 sell-into-strength extraction pattern firing in real time during the high-profile appointment catalyst). FY25 revenue $39.3M; NI -$4.3M. Anti-validation case: **the "Screen 9 senior officer appointment marks the top when insiders sell into the announcement" pattern**. Always pair Screen 9 with H3 insider check from insider-buying-weakness screen. |
+| **AMBQ** (Ambiq Micro, Inc.) | Edge AI semiconductor (consumer/wearables core; defense/IoT adjacency) | $1.52-1.75B (verified 2026-05-28 via web search; **over $1B Screen 9 cap**) | **DOCUMENT-only reference** | Dr. Bernard B. "Bernie" Banks (Brigadier General Retired, U.S. Army 29yr) appointed to Board of Directors and Audit Committee 2026-01-05 ([8-K Jan 8, 2026](https://www.sec.gov/Archives/edgar/data/1500412/000119312526007673/d60304d8k.htm)). Standard $50K board retainer + audit committee per Non-Employee Director Compensation Policy filed 2025-07-21. Insider mixed-negative (22 buys / 8 sells / -$8.6M net). Not a defense pure-play (consumer/wearables core). Document; cannot promote. |
+
+**MEGA-CAP / OVER-CAP REFERENCE (Screen 9 surface in defense universe but out of scope for sub-$1B target):**
+
+NOC (Adm. Grady, 2-13-26), CACI (Adm. Gilday, 1-1-26), SAIC (Adm. Rogers + Eremenko ex-DARPA, 4-9-26), TPG (Adm. McRaven, 4-9-26), RPM (Gen. Pawlikowski, 10-8-25), IONQ (Gen. Raymond "Father of Space Force", 9-29-25), TTMI (Sec. Ryan McCarthy, 5-7-26; $19.73-20.45B), C3.ai (Gen. Hyten, already on board pre-window). All over-cap, documented in scan output.
+
+**CONFIRMATORY (existing universe entries with Screen 9 reinforcement):**
+
+- **ONDS** ($4.4-4.9B over Tier 3 cap, post-rerate calibration case per CANDIDATE_UNIVERSE.md) — Brig. Gen. Patrick Huston (Army Ret., JSOC + USCENTCOM + Pentagon Responsible AI Board) promoted from General Counsel to COO 2025-12-16. Internal promotion, not external Screen 9 hit; reinforces existing post-rerate documentation.
+- **RDW** ($4.36B+, TIER 3 WATCH approaching $5B per CANDIDATE_UNIVERSE.md) — Gen. (RET) James McConville independent director Oct 2025 + Frank Calvelli (former Asst Sec AF for Space Acquisition, oversaw $18B+ Space Force / Space Systems Command / Space Development Agency programs) appointed 2026-03-12 ([8-K](https://www.sec.gov/Archives/edgar/data/0001819810/000181981026000038/exhibit991pressrelease-boa.htm)). Reinforces existing WATCH status.
+- **WRAP** ($78.81M, NANO-CAP AI WATCH per CANDIDATE_UNIVERSE.md) — Vice Admiral (Ret.) Timothy Szymanski persistent board presence since 2023 (re-elected 8-K 2025-12-17 Item 5.07). Long-tenured senior officer presence + cleanest H3-inverse insider cluster (7 buys / 0 sells 90d) = reinforces existing classification.
+
+**SECTOR-PIVOT / CLUSTER 8 REJECT additions from Screen 9 (document for traceability — these will keep surfacing in future Screen 9 cycles):**
+
+| Ticker | Reason |
+|---|---|
+| PDYN | **Already REJECTED** per M&A pivot blind spot (SEI pattern). Lt. Gen. Stephen M. Twitty appointment 2025-09-23 does NOT override M&A pivot blind spot. |
+| INOD | **Already REJECTED** per AI services not infrastructure (H10 fail). Gen. (Ret.) Richard D. Clarke appointment 2025-11-07 does NOT override H10 fail. |
+| CAII (Collective Acquisition Corp. II) | SPAC IPO — Cluster 8 microstructure (RAdm Burns + Lt Gen Beaudette on pre-merger SPAC entity, 2026-05-04). |
+| GIW (GigCapital8 Corp.) | SPAC — Cluster 8 microstructure (RAdm Dagul + Adm Ben-Bashat, 2025-10-09). |
+| HLEO (Helio Corp /FL/) | Cluster 8 microstructure shell. |
+| ATLX (Atlas Lithium) | Adm. Bento Albuquerque Costa Rocha (4-star Brazilian Navy, 2026-04-07) — Brazilian Navy ≠ US bellwether (H10-extended specifies U.S. agencies). |
+
+**INVERSE SIGNAL — NONE FOUND** in 12-month window. SMG/CI resignations are out-of-universe; CACI/RDW/TTMI/Leonardo DRS resignations were all replaced by other senior officers (positive replacement, not inverse). **Macro positive: the sub-$1B defense universe is in net-IN mode, not net-OUT mode.**
+
+**Cross-screen confluence reconfirmation (per INSIGHTS.md rule "auto-promote any candidate firing 3+ screens to TIER 2 minimum"):** SPAI is now a four-screen confluence (Screen 2 + Screen 3 + Screen 4 + Screen 9). This is the highest-confluence signal in the current universe and validates the existing TIER 1 NANO fast-track DD priority.
+
+---
+
+## 2026-05-27 CXL + RACK-LEVEL POWER DELIVERY SCAN (SCAN_01) — material additions
+
+The CXL + Rack-Level Power Delivery dual chokepoint scan (SCAN_01_CXL_RACK_POWER.md) was executed 2026-05-27 to discover sub-$2B U.S. Nasdaq pure-plays for two new candidate chokepoint surfaces. Full run output: [weekly-scan/runs/2026-05-27-cxl-rack-power-scan.md](weekly-scan/runs/2026-05-27-cxl-rack-power-scan.md). Material universe changes:
+
+**STRUCTURAL FINDING:** Both chokepoints are real AND already-priced through the public market. **Zero sub-$5B U.S. Nasdaq pure-play candidates** exist for either CXL (ALAB graduated to $54B from ~$5.5B IPO March 2024) or Rack-Level Power Delivery (AEIS/VICR/NVT/MOD/ENPH/ALGM all graduated). 7 graduated pure-plays added to CHOKEPOINT_TAXONOMY.md historical validation table; chokepoints #11 CXL and #12 Rack-Level Power Delivery added to Active Taxonomy with EMPTY status.
+
+**NEW TIER 3 WATCH (adjacency-pattern, low-conviction per INSIGHTS adjacency rule):**
+
+| Ticker | Chokepoint | Mkt Cap | Tier | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|
+| **TSSI** (TSS, Inc.) | Rack integration services (ADJACENCY to chokepoint #12 Rack-Level Power Delivery; NOT chokepoint hardware) | **$330-459M** (TIER 1 NANO range, Nasdaq) | **TIER 3 WATCH (adjacency-rule per INSIGHTS)** | Dell multi-year agreement extended Dec 2025 amendment; Q1 2026 systems integration +$14.1M (+88% YoY); FY25 revenue $245.7M (+172% in 2024); profitable ($15.1M NI, $34.9M OCF); 212,793 sq ft Georgetown TX facility with 15MW power capacity; April 2026 Round Rock TX expansion; 2026 EBITDA guide $20-22M; doubling rack integration vs 2025. **99% revenue concentration to Dell = 2-degree to NVDA via Dell AI server OEM.** | (a) Customer diversification beyond Dell (single-counterparty risk = SHAZ analog DD red flag); (b) Dell or NVDA direct H10 fire naming TSSI specifically; (c) chokepoint-hardware product launch (vs services-only model); (d) +20% pullback → H5 reset toward IGNORED. **Per INSIGHTS adjacency rule: never elevate to TIER 2 absent explicit chokepoint-hardware-language fire.** |
+
+**REJECT LOG additions from SCAN_01:**
+
+| Ticker | Chokepoint scanned | Reason |
+|---|---|---|
+| **NLST** (Netlist) | #11 CXL | OTC-only listing (fails Nasdaq/NYSE exchange test) + **negative stockholders' equity -$5.2M (H11 RED FAIL)** + bearish insider sentiment (0 buys / 12 sells last 90d) + -$24.8M NI + -$14.7M OCF + CXL is "investing in new technologies" pre-revenue. Triple-fail. |
+| **OSS** (One Stop Systems) | #11 CXL | CXL is forward investment ("expect to address... in 2026 and beyond"), not core revenue. Reselling Teledyne LeCroy CXL test equipment only. Core business is rugged edge HPC for defense + sensor + autonomy. H8 end-market test FAILS (AI-DC CXL <<50% of revenue). $431-441M cap. |
+| **POWI** (Power Integrations) | #12 Rack Power | $4-4.63B cap (TIER 3 COMPOUNDER range). PowiGaN products for AI DC + EV + industrial. **H8 end-market test FAILS** — AI-DC is one of multiple end-markets, not >50%. H5 PARTIAL/NEUTRAL not IGNORED (well-covered mature mid-cap). Q1 2026 sales $108M, NI only $3.3M. |
+| **BELFB** (Bel Fuse) | #12 Rack Power | $3.91B cap (TIER 3 COMPOUNDER range). POL voltage converters in Power Solutions segment. **H8 end-market test FAILS** — diversified across Power + Connectivity + Magnetic Solutions; auto/broadcasting/networking/military; AI-DC not primary revenue driver. |
+| **ENPH** (Enphase Energy) | #12 Rack Power | **OVER CAP** at $8.4-9.45B. IQ Solid-State Transformer for 800V DC AI DC racks announced 4/28/26 — FORWARD product (pilots 2027, volume 2028). Solar inverter core business. +103% in May = already-momentum-rerated. |
+| **INV** (Innventure) | #12 Rack Power (Accelsius cooling subsidiary) | **REJECT: pre-revenue moonshot + Cluster 8 + H11 fail.** $521-562M cap (TIER 2 CATALYST range) but FY25 revenue only $2M; FY25 net loss -$293M; operating cash burn -$80.7M; **3.01 listing-standards deficiency filed 5/20/26**; recent de-SPAC (Cluster 1 reanim shape + Cluster 8 listing risk). |
+| **GEDC** (CalEthos) | #12 Rack Power adjacency | **OTC** + pre-revenue + negative equity + REIT-to-data-center-developer pivot shell pattern. Cluster 8 AGPU/SHAZ analog. Total assets only $295K — essentially a shell. |
+| **MEI** (Methode Electronics) | #12 Rack Power (in-rack busbars) | **Already-rejected per CHOKEPOINT_TAXONOMY.md** rejected-chokepoints list ("In-rack busbars / high-density PDUs — chokepoint exists but fragmented across vendors; Methode (MEI) flat-to-down despite record DC power sales"). RECONFIRMED 2026-05-27: FY25 net loss -$62.6M (H11 risk); three segments (Auto + Industrial + Interface) with DC inside Industrial only. $365M cap. No taxonomy change. |
+| Foreign-listed CXL/rack-power cluster | #11 + #12 | **Discovery-friction handicap (foreign-filer parallel framework not yet built):** Montage Technology (HK 2026 IPO), CXMT, UniIC, GigaDevice, DapuStor (Chinese exchanges); Nanya Technology, Delta Electronics, Lite-On ($8.97B), AcBel Polytech, Yosun Electric (Taiwan); Renesas, Murata (Japan). Document for future foreign-filer framework but not actionable under current US-Nasdaq/NYSE-only screening discipline. |
+
+## 2026-05-27 NEOCLOUD SECOND-WAVE SCAN — material additions and reclassifications
+
+The Neocloud Second-Wave Scan (SCAN_02_NEOCLOUD_SECOND_WAVE.md) was executed 2026-05-27 to identify second-wave neoclouds with FIRST binding hyperscaler/enterprise contracts not yet ramped. Full run output: [weekly-scan/runs/2026-05-27-neocloud-second-wave-scan.md](weekly-scan/runs/2026-05-27-neocloud-second-wave-scan.md). Material universe changes:
+
+**RECLASSIFIED FROM REJECT TO WATCH:**
+- **DGXX** (Digi Power X) — Reclassified from "AlphaTON/Bitzero/Axe Compute/Digi Power X/Alpha Compute/K Wave sector-pivot blind spot (bellwether sweep)" REJECT to **BTC-PIVOT WATCH (NOT framework ACCEPT)**. Catalyst: $1.1B 10-yr Cerebras Master Services Agreement signed May 4, 2026 (8-K Item 1.01). $698.64M cap, $31.70M TTM rev, 40 MW Columbiana AL (15 MW RFS Dec 15, 2026; full 40 MW Q1 2027). Up to $2.5B total w/ extension. **First sub-$5B BTC-pivot name with NAMED binding counterparty in cycle.** Framework's sector-pivot blind spot precludes ACCEPT promotion (ex-Digihost Technology). Same shape as IREN/APLD/CIFR pre-rerate.
+- **DUOT** (Duos Technologies) — Reclassified from "H8 FAIL — AI-hosting >50% revenue projected H2 2026, not present" REJECT to **TIER 1 NANO WATCH**. Catalyst: $176M Hydra Host GPUaaS contract (36-mo) signed March 13, 2026 with **$18M customer prepayment received** (LEU/SNDK first-time-deferred-revenue strict v2 PASS on sub-$10M TTM revenue base). Targets $50M+ annual revenue + $40M+ annual EBITDA + 80% gross margins. $438.97M cap (post-rerate from $232M in March = +89%). **Pre-DD risk: end-customer UNNAMED through Hydra Host intermediary (BRUN/SHAZ-pattern risk).**
+
+**NEW TIER 1 NANO WATCH (with Cluster 8 caveat):**
+- **MOVE** (Corvex, Inc., post-Movano Inc. all-stock merger) — Post-merger Movano (wearable health-tech Evie Ring) → Corvex AI cloud renamed Aug 2025. NVIDIA H200 long-term GPU lease for unnamed "AI-driven high-performance battery technologies provider" announced Jan 22, 2026. Market cap volatile $12-46M post-merger. **Cluster 8 SUBSTANCE CHECK REQUIRED FIRST** — FABC/VWAV/VDTA rename-pattern shape. Framework's sector-pivot blind spot likely applies. Do not promote without full DD Section 2.
+
+**STATUS REFRESH (existing WATCH):**
+- **WYFI** (WhiteFiber) — Catalyst-confirmation 8-K 2026-05-21 binding $160M+ AI compute agreement w/ "investment-grade technology customer" in France (Paris region inferred). 12 months customer prepayments + project-level financing closing June '26. Confirmed NVIDIA Preferred Partner via NPN. $1.19B cap, $82.72M TTM rev (+49% YoY), -$38.15M net loss. **Single most load-bearing forward research event in next 30-60 days: French customer identity disclosure.** Candidate identifies: Mistral AI / Iliad / Schneider / OVH / Bull / EU-sovereign program. Named tier-1 EU AI customer = NBIS-shape upgrade. Unnamed or weak counterparty = BRUN-shape DD reject.
+- **IREN** (TIER 2 DD COMPLETED) — NEW vendor-level H10 fire 2026-05-07: NVIDIA Cloud Services Agreement filed in 10-Q (NVIDIA buying compute directly from IREN, distinct from $3.4B Blackwell supply deal). Reinforces existing DD verdict (PROCEED WITH CAUTION, 0 RED / 1 CLEAR / 5 FLAG).
+
+**BTC-PIVOT WATCH LIST UPDATES (separate queue per scan prompt + sector-pivot blind spot):**
+- **HUT** (Hut 8) — $9.8B 15-yr Beacon Point lease signed 2026-05-06 (352 MW IG counterparty UNNAMED, NVIDIA DSX reference architecture). $16.8B / 597 MW total contracted. 7,500 MW pipeline. Cap $8-12.5B = GRADUATED above $5B. Document for reference; cannot promote.
+- **WULF** (TeraWulf) — Q1'26 HPC leasing $21M; long-term datacenter leases since Dec 2024. Cap $8-12.5B = GRADUATED.
+- **CORZ** (Core Scientific) — CoreWeave $1.2B 70 MW expansion contract; $10.2B AI backlog over 12 years. Cap $8.0-8.38B = GRADUATED.
+- **RIOT** (Riot Platforms) — $1B 10-yr AMD AI lease (25 MW; $311M base + options). Terrestrial Energy nuclear partnership up to 4 GW. Mega-cap. BTC-pivot blind spot.
+- **MARA** (MARA Holdings) — JV with Starwood; 64% Exaion ($168M); 1.9 GW capacity; advanced conversations w/ multiple hyperscaler prospects. Mega-cap. BTC-pivot blind spot.
+- **CLSK** (CleanSpark) — Still "advanced discussions" w/ IG hyperscaler; no signed contract yet. Already on TIER 2 DD WATCH; cap $4.25-4.30B approaching $5B; LEAPS Jan 2028 $25C ~$5.00 asymmetric bet.
+
+**MAINTAINED REJECT (calibration case):**
+- **BRUN** (Boost Run) — Nasdaq debut May 11, 2026 (via Willow Lane SPAC). $940M contracted revenue, $375M ARR exit FY26, 125 MW capacity, NVIDIA Exemplar Cloud on Blackwell + Preferred Cloud Provider. Per SCAN_02 prompt explicit calibration: "failed DD (unnamed customers, SPAC sponsor with two prior zeros)." All $940M portfolio counterparties are unnamed. Maintain REJECT.
+
+---
+
+## 2026-05-27 DEFENSE AI PRODUCTION TRANSITION SCAN — material additions
+
+Defense AI Production Transition Scan (SCAN_03_DEFENSE_AI_PRODUCTION.md) executed 2026-05-27 — targeted $100M-$2B Defense AI companies transitioning from SBIR/R&D/CRADA into PRODUCTION procurement (FFP/LRIP/FRP/funded OTA). Framework v2.0 H10-D bellwether. Full output: [weekly-scan/runs/2026-05-27-defense-ai-production-scan.md](weekly-scan/runs/2026-05-27-defense-ai-production-scan.md).
+
+**STRONGEST CANDIDATE — TIER 1 NANO / TIER 2 CATALYST WATCH (fast-track to DD):**
+- **FEIM** (Frequency Electronics) — $439-578M cap (verified 2026-05-27). DoD PNT / anti-spoofing AI / satellite timing pure-play (FEI-NY satellite payloads RF microwave DOD + FEI-Zyfer GPS/PNT/secure-timing/anti-spoofing software). FY2025 (Apr year-end) revenue $69.8M, **net income +$23.7M = +323% YoY**. 4-year NI trajectory -$8.7M → -$5.5M → +$5.6M → +$23.7M = canonical post-inflection. **Insider activity: ZERO transactions 180 days** (rare H3-contrarian-inverse clean signal). Director Lance W Lord = former AFSPC 4-star commander. Top holder Edenbrook Capital. H10-D PARTIAL (implicit gov/defense customer base; no single named production 8-K in 90-day window). **Cleanest profile from scan. Full DUE_DILIGENCE_CHECKLIST.md within 30 days.** Re-eval trigger: named NavWar / Space Force / Lockheed/Northrop FEI-Zyfer production contract = H10-D vendor-named upgrade.
+
+**NEW TIER 2-3 WATCH (with caveats):**
+- **UMAC** (Unusual Machines) — $529M cap. Counter-UAS components. **8-K 2026-04-21 $1M+ Powerus counter-UAS order** ([acc 0001683168-26-003107](https://www.sec.gov/Archives/edgar/data/1956955/000168316826003107/umac_ex9901.htm)). **Q1 2026 +296% YoY rev** (small base — FY25 $11.2M; NI -$19.2M). H10-D FLAG (Powerus private, not gov anchor). Insider 90d bearish (6 buys / 7 sells). Pair-track with MTEK / DFNS in counter-UAS nano-cap cluster.
+- **OSS** (One Stop Systems) — $441M cap. Rugged AI / sensor fusion / edge HPC for DoD. **8-K 2026-04-15 "accelerated momentum" in defense business driven by AI, sensor fusion, autonomy, tactical-edge** ([acc 0001193125-26-156057](https://www.sec.gov/Archives/edgar/data/1394056/000119312526156057/oss-ex99_1.htm)). FY2025 revenue $32.2M +31% YoY rebound; **first profitable year +$5.1M NI**; Q1 2026 +55% YoY. **CAUTION: 3-director coordinated SELL cluster 2026-05-26** at $17.52-17.64 ($370K same-day, medium severity). Most recent open-market buy 2024-08-14. H10-D PARTIAL — forward-looking commentary, no named production 8-K. Re-eval trigger: 60-day insider follow-through + named DoD production contract.
+- **VELO** (Velo3D) — $506M cap. **8-K 2026-03-24 $11.5M multi-year FRP RPS contract from "key U.S. defense prime contractor"** for AM components ([acc 0001193125-26-121871](https://www.sec.gov/Archives/edgar/data/1825079/000119312526121871/velo-ex99_1.htm)). H10-D PASS (FRP from defense prime). **Multiple CEO listings = leadership turnover red flag.** FY2025 revenue $46M +12% YoY only despite contract; NI -$71.4M; OCF -$27M. AM-for-defense is AGPU-pattern adjacency. Top holder Alyeska. **TIER 3 WATCH.** Re-eval trigger: identification of named "defense prime" + next 10-Q revenue conversion.
+- **CMTL** (Comtech Telecommunications) — $108-151M (Tier 1 NANO). FY2025 revenue $499.5M (large), **NI -$155.3M (H11 GATE — equity erosion; SE only $104M)**. Satcom / NG-911 for DoD + federal/state/local. Insider 180d: mostly RSU tax-withhold; no real sells. **H11 GATE — event-driven turnaround, not clean Archos-shaped.** Hold until next 10-Q + clean equity raise.
+
+**NEW REJECT-TRACK (H3 sell-into-strength pattern firing during production catalyst):**
+- **KOPN** (Kopin Corp) — $920M cap. **8-K 2026-05-12 $21.5M follow-on thermal imaging production contract** ([acc 0001493152-26-022462](https://www.sec.gov/Archives/edgar/data/771266/000149315226022462/ex99-1.htm)). But FY2025 revenue $39.3M **-21.88% YoY DECLINE**. **CEO Murray sold $1.04M April 2026 + COO Baker sold $580K+ April-May 2026 (10b5-1)** during contract announcement. Most recent open-market buy 2023-05-17. **EXTRACTION PATTERN during catalyst — REJECT.** Re-eval trigger: Q2 FY26 10-Q revenue inflection + 10b5-1 sales cessation.
+- **MRAM** (Everspin) — $419-782M. **8-K 2026-04-29 IDIQ Subcontract FFP Task Orders Microelectronics RDT&E** ([acc 0001628280-26-028432](https://www.sec.gov/Archives/edgar/data/1438423/000162828026028432/mram-20260424.htm)). H10-D PASS. FY2025 rev $55.2M +9.5% YoY; NI -$586K breakeven; OCF +$9.96M. Aerospace/defense + DC end-markets (chokepoint #2/#3 HBM-adjacency potential). **HIGH-SEVERITY 4-sell cluster May 15-20**: CEO option→sell $1.7M+; CFO $291K; Director $1.45M = textbook post-rally H3 extraction firing real-time after IDIQ FFP. Most recent open-market buy 2018-02-12 (8 years ago). **REJECT — entry window closing.** Re-eval trigger: >30% drawdown + chokepoint-#2/#3 bellwether naming MRAM.
+
+**OVER-CAP REFERENCE (graduated or borderline; track but out of scan scope):**
+- **BBAI** (~$2B borderline). Defense AI pure-play, $282M backlog +14% QoQ Q1 2026 (incl $53M classified sole-source IC contract). FY2025 revenue $127.7M **-19.32% YoY DECLINE**; NI -$294M. Backlog hasn't converted to revenue. **OUT OF SCOPE.**
+- **ONDS** ($4.4-4.9B Tier 3 COMPOUNDER over $2B ceiling). Counter-UAS consolidator. **FY2026 guide $390M+ (Q1 +10x YoY)**. Stock +1,570% in 2025. Post-rerate counter-UAS consolidator calibration case.
+- **LUNR** ($4.9-7.5B GRADUATED). $428.9M new contracts Q1 2026; SDA Tranche 3 Proliferated Warfighter prime; **$6.2B Space Force Andromeda IDIQ** Q2 2026.
+- **FLY** ($3.7-9.5B over ceiling). Space Force ops, SDA Proliferated Warfighter SciTec contracts, lunar Nov 2026.
+
+**SECTOR TEMPERATURE SHIFT (H5):** Defense AI cohort transitioned IGNORED → PARTIAL during May 2026. AISP active DD; MNTS +109.76% single-day pop 5/26; CTM unblocked under v2.0 H10-D; RKLB +637% YoY graduated; ONDS +1,570% YoY graduated; LUNR with $6.2B Andromeda IDIQ. **$100M-$500M defense AI nano-cap layer has dramatically thinned** — most clean profiles have either graduated or passed entry window. Productive next scans should target TIER 1 NANO at sub-$200M AND foreign-defense layer (UK / Israel / Australia / France) where IDIQ disclosure norms differ.
+
+---
+
+## 2026-05-27 MAINTENANCE AUDIT — material status changes
+
+Real-time price verification on every WATCH-tier candidate (all market caps verified via stockanalysis.com close 2026-05-26):
+
+**Status changes requiring re-eval:**
+- **CENX** (Century Aluminum) — **BREACHED $5B framework H8 ceiling** at $6.62B (+231% vs prior ~$2B reading). Blind-spot flag is now structurally moot; the BW-pattern rerate has fired. No longer a future blind-spot risk — it's a confirmed post-rerate. Document for traceability; remove from active blind-spot monitoring.
+- **LFCR** (Lifecore Biomedical) — **DROP** -60% from ~$450M to $180M. Pharma chokepoint thesis at risk; investigate for going-concern or thesis-break news before H11' lens codification proceeds.
+- **CYCU** (Cycurion) — **DROP** -53% from ~$11M to $5.13M. Nano-cap; was Tier 2 NANO on $112M backlog asymmetry — re-eval whether the asymmetry still holds with cap shrunk.
+- **CRML** (Critical Metals) — **MAJOR-RERATE** +26% to $1.72B (still sub-$5B but momentum is consuming the entry window). Triple cross-screen confluence catalyst remains active.
+- **RDW** (Redwire) — **+25% to $4.36B; approaching $5B threshold.** After-hours print implies near-$4.82B; will likely breach $5B within days at current pace. Flag for daily monitoring.
+- **MNTS** (Momentus) — **+109.76% single-day pop on 5/26** to $95.67M. Speculative-grade move; verify catalyst before next eval.
+- **SIVEF** (Sivers Semi) — **+62-112% rerate** from $1.3-1.7B to $2.75B (+1,171% YoY). Still sub-$5B but compressing the entry window. Expedite H8/H11 verification.
+- **VTIX** (Virtuix) — **DROP** -35% over past 30 days to $105.1M.
+
+**Verification gaps:**
+- **BHAI** (Blaize) — **UNVERIFIED.** stockanalysis.com and Yahoo both 404. Possible delisting, ticker change, or reverse-merger SPAC name issue. Requires manual research before any re-inclusion.
+- **SCIA** — trades on OTC PINX, not Nasdaq as previously listed. Corrected.
+- **NUAI** — securities-fraud lawsuits flagged by source; relevant to DD Section 6 if name advances.
+
+**Approaching $5B threshold (daily watch):**
+- **CLSK** at $4.25-4.30B (+13-23% vs prior $3.5-4B; ~+41% over 30 days) — needs only ~16-18% more to breach $5B.
+- **AEHR** at $3.46B (chokepoint pure-play, not WATCH) — +15.68% on 5/26 alone; could graduate within weeks.
+
+**No new $5B breach inside WATCH itself.** IREN was already breached pre-audit (now $21.36B; remains Tier 2 DD). All other WATCH names remain below the H8 ceiling.
+
+Universe is otherwise stable. 14 of 18 nano-cap names moved <25% vs prior values; weekly-scan WATCH median move is ~6%. The chokepoint pure-play graduation event (11 of 14 above $5B per CHOKEPOINT_TAXONOMY.md 2026-05-27 refresh) is the dominant signal of this cycle — entry-window compression is now systemic, not name-specific.
+
+## ACCEPT (paper-track candidates)
+
+*None currently. SHAZ was the sole ACCEPT from the first forward screen
+but scored 6/6 RED on the DD checklist (counterparty insolvency,
+management self-dealing, DeFi lender, published short report with
+verified claims, zero organic social bull case, paid promotion). Moved
+to DD REJECT below.*
+
+## DD REJECT (passed 4-filter framework, failed due diligence)
+
+| Ticker | Framework Score | DD Score | Key DD finding |
+|---|---|---|---|
+| **SHAZ** | 4/4 PASS (H10 vendor, H8 pass, H5 IGNORED-to-PARTIAL, H11 pass) | **6/6 RED — HARD REJECT** | ESDS counterparty: $40M revenue vs $250M/yr obligation. USD.AI lender: $284M capacity vs $500M facility. CEO sued by prior company for self-dealing. "NVIDIA shareholder" claim retracted. Bleecker Street short report independently verified by Bollwerk AI. RedChip paid promotion $50K. Calibration case for why DD checklist exists. |
+
+## WATCH (borderline, re-evaluate monthly)
+
+| Ticker | Chokepoint | Mkt Cap | Borderline filter | Re-eval trigger |
+|---|---|---|---|---|
+| **SIVEF** (Sivers Semi, OTC; primary SIVE on Nasdaq Stockholm) | #1 Co-Packaged Optics (CPO) / Optical I/O | **$2.75B USD** (verified 2026-05-27; +62-112% vs prior $1.3-1.7B; +1,171% YoY) | **H8** (revenue-mix unverified) + **H11** (post-restatement net debt unverified) | MAJOR-RERATE in progress; entry window compressing. Sivers FY2025 annual report. Also monitoring potential Nasdaq US dual listing (announced Apr 24, 2026). Upgrade to ACCEPT if H8 >50% AI-DC optics AND H11 clean. Not tradeable on Robinhood (OTC). |
+| **3778.T** (SAKURA Internet, Tokyo Stock Exchange) | #7 AI hosting / neocloud (sovereign-Japan variant) | **~$762M USD** (verified 2026-05-27; ¥2,913 × ~149 JPY/USD; ~unchanged) | **H8** (AI-cloud vs legacy hosting revenue mix unverified) + **H5** (post-+20% pop, may be PARTIAL) + **H11** (TSE filings unverified) | H10 PASS vendor-level (Microsoft Japan named Sakura as primary GPU-compute partner, $10B sovereign-cloud initiative, Apr 3 2026). Next TSE quarterly with AI-DC revenue carve-out. Not tradeable on Robinhood (Tokyo listed). 52-wk pullback from ¥4,720 to ¥2,913 = noteworthy H5 reset. |
+| **WYFI** (WhiteFiber, Inc.) | #7 AI hosting / GPU colos / neocloud | **$1.19B USD** (verified 2026-05-27 via stockanalysis.com; TTM revenue $82.72M +49.3% YoY; -$38.15M net loss; 52-wk $10.51-$40.75) | **H5** (post-IPO transitioned IGNORED→PARTIAL on $160M binding contract; PARTIAL-RECOVERING WATCH per v2.0 if >25% retrace from peak) | **Confirmed NVIDIA Preferred Partner via NVIDIA Partner Network (NPN) per 2026-05-14 10-Q.** Catalyst-confirmation 8-K 2026-05-21: $160M+ binding 5-yr AI compute agreement w/ "investment-grade technology customer" in France/Paris region (UNNAMED). 12 months customer prepayments + project-level financing closing June 2026. Service starts July 2026. Per SCAN_02 (2026-05-27): **single most load-bearing forward research event is French customer identity disclosure** — plausible candidates Mistral AI / Iliad / Schneider / OVH / Bull / EU-sovereign. Named tier-1 EU AI customer = NBIS-shape upgrade. Unnamed/weak = BRUN-shape DD reject. **Full DD checklist required this week**: (1) counterparty identity verification DD §1 (AGAE/SHAZ/BRUN risk), (2) /last30days social sweep DD §6, (3) H10 vendor-level fire (NVDA direct vs NCP/reseller), (4) H8 segment cut post-Q2'26, (5) H11 post-convert balance sheet ($230M Jan converts + $160M project financing). |
+| **ICHR** (Ichor Holdings) | **Unmapped — WFE upstream subsystems (gas/fluid delivery)** | **$2.52B USD** (verified 2026-05-27; +5% vs prior $2.4B; ATH $78.00 on 5/11/26) | **H10 indirect** (TSMC bellwether via 3-degree chain), **H8** (need to verify AI-DC WFE end-market %) | Surfaced via supplier-mapping v2 screen 2026-05-24. Two-degree chain: NVDA → TSMC → AMAT/LRCX → ICHR. AMAT + LRCX = **76% of FY2025 revenue** ([ICHR FY2025 10-K, filed 2026-02-20](https://www.sec.gov/Archives/edgar/data/1652535/000165253526000012/0001652535-26-000012-index.htm), accession 0001652535-26-000012). Chokepoint not currently in taxonomy — would be "WFE upstream subsystems". **Risk: POWL-style adjacency — if WFE end-market is broadly diversified (auto, IoT, memory) and not >50% AI-DC, H8 fails.** Full 6-check + 13F cross-ref recommended. |
+| **UCTT** (Ultra Clean Holdings) | **Unmapped — WFE upstream subsystems (parallel to ICHR)** | **$3.83B USD** (verified 2026-05-27; ~unchanged vs prior $3.6-3.8B; ATH $88.37 on 5/11/26; -6.6% WoW pullback) | **H10 indirect** (same chain as ICHR), **H8** (same risk as ICHR) | Surfaced via supplier-mapping v2 screen 2026-05-24. Same chain shape as ICHR: NVDA → TSMC → AMAT/LRCX → UCTT. Applied Materials + Lam Research each individually >10% of revenue in FY25, FY24, FY23 ([UCTT FY2025 10-K, filed 2026-02-23](https://www.sec.gov/Archives/edgar/data/1275014/000162828026010744/0001628280-26-010744-index.htm), accession 0001628280-26-010744). **Pair-trade candidate with ICHR.** Closer to $5B ceiling = less re-rate runway. |
+
+## MASTER-SCREEN WATCH (multi-lens, surfaced via Universal Master Screen 2026-05-24)
+
+These candidates surfaced via the first universal master screen (sub-$500M universe, 5 lenses). They land in WATCH pending: (a) lens-specific framework check (4-filter for AI Infra; lens-specific criteria for Defense/Space/Nuclear/Critical Minerals/GLP-1 — these parallel frameworks are not yet codified) and (b) DUE_DILIGENCE_CHECKLIST.md before any capital allocation.
+
+| Ticker | Sector Lens | Mkt Cap | Master-screen tier | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|
+| **CTM** (Castellum) | Defense-Space | $63.92M (verified 2026-05-27; -2%; +18.13% single-day pop on 5/26) | **TIER 1 — fast-track (UNBLOCKED 2026-05-27 v2.0)** | $219M U.S. Navy (NAVAIR) contracts across 3 wins, $273M backlog = **414% of $52.9M TTM revenue**. Production cyber/C4ISR services. Cleanest single-screen hit of the master run. ([8-K 2026-05-13](https://www.sec.gov/Archives/edgar/data/1877939/000187793926000036/exhibit991may82026.htm)) **H10-D PASS** = $219M Navy NAVAIR firm-fixed-price contracts (binding, funded). | **UNBLOCKED per H10-extended (Framework v2.0, 2026-05-27)** — advance to DD queue. Sounding Board discussion no longer required (was the prior block). Q2 FY26 10-Q (Aug 2026) for revenue confirmation. |
+| **ALMU** (Aeluma) | AI Infra (chokepoint #1 CPO laser-source adjacency — QD-on-Si) + Defense-Space | **$410M** (verified 2026-05-27 intraday SCAN_04; -7% vs prior $438-444M maintenance reading earlier same day; -8% on the session) | TIER 2 — cross-screen hit (Screens 1 + 4); SCAN_04 confirms QD-on-Si architecture bet | NASA awards $4M+ + DoD = ~85% of $4.7M TTM revenue. Quantum-dot lasers (photonic chokepoint adjacency) + Tower Semi + Sumitomo Chemical Advanced Materials partnerships. ([8-K 2026-05-13](https://www.sec.gov/Archives/edgar/data/1828805/000121390026055893/ea028994301ex99-1.htm)) **H10-M PASS pending — DoW memorandum is soft; needs DPA Title III or EXIM loan to fully qualify under H10-M.** SCAN_04 NOTE (2026-05-27): cleanest sub-$500M US-listed QD-on-Si platform exposure; would be top-pick TIER 1 NANO for chokepoint #1 (CPO laser source) if not for the DD REJECT-track. FLAG. **DD REJECT-track per ALMU calibration case (see DUE_DILIGENCE_CHECKLIST.md): RED management on $27.5M insider selling + Akoustis network failure pattern; SCAN_04 confirms -$2.1M net insider, 13 sells vs 3 buys 90d.** | Q1 FY26 10-Q MD&A for AI-DC vs aerospace end-market mix. Boundary cap — verify still sub-$500M at re-eval (now $410M = sub-$500M holds). |
+| **MNTS** (Momentus) | Defense-Space | $95.67M (verified 2026-05-27; **MAJOR-RERATE +109.76% single-day pop 5/26**; after-hours $18.90 +22%) | TIER 2 **UNBLOCKED 2026-05-27 v2.0** | Multi-agency active contracts (DARPA + AFRL SpaceWERX + SDA + Space Force + NASA), Q1 narrative cites "inflection in government space spending." 30 insider buys / 0 sells (90d) — bullish sentiment cross-confirms. ([8-K 2026-05-05](https://www.sec.gov/Archives/edgar/data/1781162/000114036126019009/ef20072374_ex99-1.htm)) **H10-D PASS** = DARPA + AFRL SpaceWERX + SDA + Space Force + NASA multi-agency funded awards. | **UNBLOCKED per H10-extended (Framework v2.0, 2026-05-27).** Q2 FY26 10-Q for contract-revenue conversion. Monthly market-cap monitor (post +109.76% pop, sentiment likely transitioned IGNORED → PARTIAL — may qualify for PARTIAL-RECOVERING re-eval per H5 v2.0). |
+| **ODYS** (Odysight.ai) | Defense-Space + AI Infra | $73-75M (verified 2026-05-27; unchanged) | TIER 2 — **H10-D FLAG** | NAWCAD CRADA + Sikorsky Black Hawk PdM (predictive maintenance). AI-driven vision/sensors → defense crossover. CRADA is binding R&D, not paid contract. ([8-K 2026-05-14](https://www.sec.gov/Archives/edgar/data/1577445/000149315226023116/ex99-1.htm)) **H10-D FLAG = CRADA is R&D agreement, not funded procurement (weaker than FFP contract per H10-D criteria).** | Sikorsky cert milestone + first paid award conversion (paid award = full H10-D pass). Q1 FY26 10-Q. |
+| **SCIA** (SCI Engineered Materials) | AI Infra + Defense-Space | $33.15M (verified 2026-05-27; unchanged; **trades OTC PINX, not Nasdaq — correct exchange noted**) | TIER 2 | True V-bottom revenue inflection +133% YoY (prior Q1'25 was -58% YoY) — both inflection criteria satisfied. ITO + 3m rotatable sputtering targets (PVD thin-film) + enriched boron carbide (defense). Backlog $7.1M vs $2.6M = 2.7x. ([Q1 FY26 10-Q](https://www.sec.gov/Archives/edgar/data/830616/000110465926053487/scia-20260331x10q.htm)) | **H8 GATE**: end-market mix verification — sputtering targets must be >50% AI-DC / semi / advanced-node photonics (not display/automotive coatings) for promotion to ACCEPT. Read MD&A revenue-by-end-market in next 10-Q. |
+| **NUCL** (Eagle Nuclear Energy) | Nuclear | $357.91M (verified 2026-05-27; prior TBD now resolved; 52-wk $4.55-$14.80) | TIER 3 — WATCH — **H10-N PENDING** | First-ever 10-Q with SMR pure-play narrative. Possible chokepoint #11 (SMR-for-AI-DC) first-mover. ([10-Q](https://www.sec.gov/Archives/edgar/data/2089283/000110465926043856/tmb-20260228x10q.htm)) **H10-N FLAG = no NRC milestone, no DOE LPO commitment as of 2026-05-27. Still requires substance check.** | **SUBSTANCE CHECK REQUIRED** before promotion: real capital + reactor design + IP, or SPAC-shell pattern (NUSCALE/OKLO/SMR analog)? Background research session + market cap verification. H10-N fires only on NRC milestone or DOE LPO commitment. |
+| **NUAI** (New ERA Energy & Digital) | AI Infra (pre-revenue pivot) | $447-449M (verified 2026-05-27; +9%; **flag: active securities-fraud lawsuits — DD §2/§6 mandatory if advances**) | TIER 3 — WATCH | Q1 FY26 revenue +146% YoY (legacy gas volumes); de-SPAC Jan '26, 250MW Ector County TX + 1GW pipeline AI DC pivot. Pre-revenue from the pivot. ([Q1 FY26 10-Q](https://www.sec.gov/Archives/edgar/data/2028336/000121390026057022/ea0289727-10q_newera.htm)) | First hyperscaler lease 8-K. Promote IF executed contract booked. AGPU-pattern adjacency — vet hard. |
+| **ALOY** (REalloys) | Critical Minerals | $601.73M (verified 2026-05-27; top of prior band; Yahoo flagged "sharp 90-day decline" — verify trajectory before action) | TIER 3 — WATCH (borderline OVER cap) — **H10-M PENDING** | DoW memorandum 5/6/26 on domestic HREE supply + binding long-term offtake from Critical Metals' Tanbreez (Greenland) 5/22/26. End markets DoD/DoW/DOE/NASA. ([8-K 2026-05-22](https://www.sec.gov/Archives/edgar/data/1567900/000118518526002091/realloys8k052126.htm)) **H10-M FLAG = DoW memorandum is soft signal; needs DPA Title III designation or EXIM Board loan to fully qualify.** | Re-screen if market cap retraces below $500M (currently ~7-20% above cap). 2027 DFARS deadline catalyst. **H10-M fully fires on DPA Title III or EXIM loan approval.** |
+| **GWH** (ESS Tech) | Defense-Space + Power | $27-28M (verified 2026-05-27; +5-8%) | TIER 3 — WATCH (H11 risk) | Real Dept Air & Space Force LDES delivery. ([8-K 2026-05-07](https://www.sec.gov/Archives/edgar/data/1819438/000181943826000032/a2026q1earningsrelease.htm)) | **H11 GATE**: 52-wk range $0.57-$13.87 suggests near-distress; balance-sheet check before any promotion. WOLF-anti-pattern guardrail applies. |
+| **PPSI** (Pioneer Power Solutions) | AI Infra (power) | $57.7M (verified 2026-05-27; +31%; at/near 52-wk high $5.70) | TIER 3 — WATCH | 7.01 announces PRYMUS modular DC platform for "next-gen NVIDIA AI chipsets" but counterparty unnamed, value undisclosed. ([8-K 2026-05-18](https://www.sec.gov/Archives/edgar/data/1449792/000149315226024067/ex99-1.htm)) | Named-counterparty 1.01 filing; revenue inflection. |
+| **VTIX** (Virtuix) | Defense-Space | $105.1M (verified 2026-05-27; **DROP -35.38% over past 30 days** to low end of prior band) | TIER 3 — WATCH | USMC lead-integrator role via KBR + Army/AF/Navy contracts (undisclosed value). | Contract dollar-value disclosure. |
+| **OPTT** (Ocean Power Technologies) | Defense-Space | $80.58M (verified 2026-05-27; ~unchanged +3%) | TIER 3 — WATCH | DHS + U.S. Navy + Coast Guard; $6.5M MERROWS deployment. Real but small contracts on small revenue base. | Q1 FY26 10-Q revenue confirmation. |
+| **UAVS** (AgEagle Aerial Systems) | Defense-Space | $61.53M (verified 2026-05-27; +229% YoY per source; current cap modestly above prior band) | TIER 3 — WATCH | 3 U.S. Army awards (undisclosed Q2 revenue impact). | Q2 FY26 10-Q revenue confirmation. |
+| **TLSI** (TriSalus Life Sciences) | UNCATEGORIZED (oncology medtech) | $270-289M (verified 2026-05-27; most precise data point 5/6 — may be 3 weeks stale vs peers; re-verify before DD action) | FLAG-MEDIUM (Sounding Board discretion) | 6-insider cluster bought $1.67M on 2026-05-15 (~69% below 52-wk high). Second cluster (Feb + May). Unusual: same group cluster-SOLD Mar 11-17 then re-bought May. | Out of Archos lens — Sounding Board call on whether to track at all. |
+
+## WEEKLY-SCAN WATCH (8-screen weekly cadence, surfaced via WEEKLY_SCAN_PROMPT.md 2026-05-26)
+
+These candidates surfaced via the weekly master scan (8 parallel screens). They land in WATCH pending lens-specific framework check and DUE_DILIGENCE_CHECKLIST.md.
+
+| Ticker | Sector Lens | Mkt Cap | Tier | Screens fired | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|---|
+| **WYFI** (WhiteFiber, Inc.) | AI Infrastructure — chokepoint #7 (AI hosting / GPU colo / neocloud) | $1.21B (verified 2026-05-27; unchanged from prior week's rerate $700M → $1.21B) | **TIER 2 STRONG (catalyst-confirmation; DD this week)** — **H5 PARTIAL-RECOVERING WATCH** (Framework v2.0) | Screen 1 (full-run 2026-05-26) — binding $160M+ 5-yr AI compute agreement; partial-run had no Screen 1 hit | 8-K 2026-05-21: $160M+ over 5 years **binding** agreement w/ "investment-grade technology customer" for Paris-region NVIDIA GPU deployment, service commences July 2026; binding term sheet for project-level financing (Jun '26 close). H5 transitioned IGNORED → PARTIAL on $160M binding contract catalyst (+74% rerate $700M → $1.21B). **Monitor for >25% retrace from post-catalyst peak without thesis-breaking event → reclassify PARTIAL-RECOVERING per H5 v2.0 (permits entry at 50% tier sizing).** ([8-K](https://www.sec.gov/Archives/edgar/data/2042022/000121390026060135/ea0291876-8k_white.htm)) ([Stocktitan](https://www.stocktitan.net/news/WYFI/white-fiber-signs-ai-compute-agreement-with-total-contract-value-in-k5gfpeo75l8t.html)) | **Full DD checklist required before ACCEPT**: (1) counterparty identity verification (DD §1 — AGAE/SHAZ risk; plausible Mistral / Iliad / Schneider / OVH / sovereign-EU), (2) /last30days social sweep (DD §6), (3) H10 vendor-level fire (NVDA direct vs NCP/reseller), (4) H8 segment cut (AI-DC >50% rev verification post-Q2'26), (5) H11 post-convert balance sheet ($230M Jan converts + $160M project financing). **WYFI is the calibration case for H5 PARTIAL-RECOVERING** — the catalyst PROVED the thesis; the framework needs the pullback to restore the entry window. If retrace to within 10% of pre-catalyst ~$700M cap with thesis intact, reclassify back to IGNORED and apply full position sizing. |
+| **PPTA** (Perpetua Resources) | **Critical Minerals (H10-M)** | $3.33B (verified 2026-05-27; ~unchanged) | **TIER 2 STRONG — UNBLOCKED 2026-05-27 v2.0** | Screen 4 (gov contract — full-run 2026-05-26) | 8-K 2026-05-21: **$2.9B EXIM senior secured loan Board-approved** (Stibnite Gold/Antimony Project; ~$2.4B upfront + capitalized interest + EXIM fee). Only US domestic antimony reserve (148M lbs = 35% of US 6-yr demand); end-market DoD small arms/munitions/missiles. White-House strategic-priority designation. Insider sentiment BULLISH (6 insiders bought $91K open-market). Cluster 4 (gov-anchor extended) + Cluster 3 (DOE/EXIM permitting catalyst chain). ([8-K](https://www.sec.gov/Archives/edgar/data/1526243/000110465926065145/tm2615296d1_8k.htm)) **H10-M PASS** = $2.9B EXIM Board-approved loan (canonical H10-M fire). | **UNBLOCKED per H10-extended (Framework v2.0, 2026-05-27).** Caveats: pre-revenue moonshot blind spot (H8 unscored), H11 net-debt about to expand $2.9B, sentiment already PARTIAL not IGNORED-extreme (white-house anointing). Pair-track w/ ALOY + CRML. Advance to DD queue. |
+| **AISP** (Airship AI Holdings) | Defense AI (edge video/sensor surveillance for DHS/DoD/FBI/DOJ) | $85.75M (verified 2026-05-27; +8.5% vs prior $79M; Tier 1 moonshot) | **TIER 2 STRONG (fast-track to DD)** | Screen 5 (de-SPAC reanim — full-run 2026-05-26) | 29mo post-BYTE-merger (12/21/23); -68% off 52w high ($2.30 vs $7.20); $2.1M DHS follow-on (Apr 16); $3.0M commercial; Q1 +15% YoY rev to $6.3M; **CEO insider buying $270K (bullish)**; $165M validated pipeline; Roth Capital Buy $6.50 PT. Cluster 1 (de-SPAC reanim) + Cluster 4 (gov-anchor extended). ([Stocktitan](https://www.stocktitan.net/news/AISP/), [BYTE→AISP close](https://ir.airship.ai/news-events/press-releases/detail/14/airship-ai-holdings-completes-business-combination-with-byte-acquisition-corp)) | Full 6-check + /last30days social sweep + Defense AI lens-framework gate (H10 indirect — gov-bellwether substitute for narrow NVDA/TSMC/AVGO/MSFT/META/AMD; no AI-infra bellwether name-drop). Cleanest single-screen TIER 2 candidate of the run. |
+| **CRML** (Critical Metals Corp) | **Critical Minerals (H10-M)** | $1.72B (verified 2026-05-27; **MAJOR-RERATE +26%** vs prior $1.36B; still sub-$5B but window compressing) | TIER 3 WATCH — **H10-M PENDING** — re-confirmed as **triple cross-amp** in full run | Screen 1 + Screen 5 + Screen 8 (full run) — was Screen 5 + 8 in partial | 6-K 2026-05-19: 15-yr binding heavy-REE offtake with **REalloys (matches ALOY in WATCH)**; 4/30 closed Tanbreez Greenland to 92.5%; 27mo post-Sizzle de-SPAC; -67% off post-SPAC high ($32.15 → $10.75). Cluster 1 + Cluster 4 + 42% SI rising (Cluster 2 amplifier). **Strongest cross-screen confluence of the full run.** ([6-K](https://www.stocktitan.net/news/CRML/crml-executes-a-15-year-binding-definitive-off-take-agreement-for-q0j3tann8ybf.html)) **H10-M FLAG = REalloys offtake is binding but counterparty is private company, not government anchor. Still needs a DPA/EXIM/DOE government bellwether to fully fire H10-M.** | **Per H10-extended (Framework v2.0, 2026-05-27): FLAG status — binding private offtake clears commercial relationship but H10-M requires government bellwether.** Pair-track w/ ALOY + PPTA. Next 6-K filing; watch for DPA Title III / EXIM activity. |
+| **AIRJ** (AirJoule Technologies, ex-Montana Tech) | AI-DC water/sustainability (chokepoint #12 candidate — atmospheric water harvesting at hyperscale DC) | $290.32M (verified 2026-05-27; +14% vs prior midpoint) | TIER 3 WATCH | Screen 5 (de-SPAC reanim — full-run 2026-05-26) | 26mo post-XPDB-merger (3/14/24); -57% off high ($3.54-$3.73 vs $8.40). First AirJoule Prime system operational at Newark DE; Q1 results 5/14; Mid-East TenX exclusive distribution; **Net Zero Innovation Hub for Data Centers w/ Google + Microsoft + Schneider + Vertiv + Danfoss**; Denmark deployment summer 2026; GE Vernova + Carrier JV. Cluster 1. ([XPDB→AIRJ close](https://www.prnewswire.com/news-releases/power--digital-infrastructure-acquisition-ii-corp-xpdb-announces-closing-of-business-combination-with-montana-technologies-llc-302089782.html), [Q1 2026 results](https://www.globenewswire.com/news-release/2026/05/14/3295314/0/en/AirJoule-Technologies-Announces-First-Quarter-2026-Results-and-Provides-Business-Update.html)) | Q2 '26 results + hyperscaler-named deployment 8-K. Sustainability-consortium membership is not yet vendor-level chokepoint anointing — needs supply-constraint-language fire. |
+| **GCTS** (GCT Semiconductor Holding) | Telecom/satellite semiconductor (5G + satellite RF transceivers, baseband modems, SoCs, cellular IoT) | $239.23M (verified 2026-05-27; -20% vs prior $300M; note source lists NYSE, project had Nasdaq — verify exchange) | TIER 3 WATCH (mid-rerate; sentiment moving PARTIAL) — **H5 PARTIAL-RECOVERING QUALIFIED 2026-05-27 v2.0** | Screen 5 (de-SPAC reanim — full-run 2026-05-26) | 26mo post-Concord III merger (3/26/24); -38% off rerate base ($3.43 vs $5.50). Q1 2026 revenue **+287% YoY** to $1.9M w/ +58% seq 5G shipment growth; **May 7, 2026 reference platform agreement w/ major satellite communications provider** (supplementing Jan 5G/4G chipset licensing); stock $1.40 (Apr 30) → $3.43 (May 21). Cluster 1 mid-rerate. **PARTIAL-RECOVERING criteria check (v2.0):** Catalyst = May 7 reference platform agreement (PARTIAL transition); -20% from prior week + cap drop $300M→$239M is approaching the >25% retrace threshold without obvious thesis-breaking event. **If next data point confirms >25% retrace from post-catalyst peak with thesis intact: ENTRY at 50% tier sizing per H5 PARTIAL-RECOVERING.** ([Concord III→GCTS close](https://www.businesswire.com/news/home/20240326381591/)) | Next 10-Q + named-counterparty 8-K. Late-stage de-SPAC pattern (rerate underway) — magnitude expectation PARTIAL-tier 50-265% per dose-response. **Verify post-catalyst peak vs current price for full PARTIAL-RECOVERING classification.** |
+| **SLNG** (Stabilis Solutions) | AI Infrastructure — DC behind-the-meter LNG power (chokepoint #9/#10 adjacency) | $75.69M (verified 2026-05-27; ~unchanged -2%; TIER 1 NANO) | **PROMOTED TIER 2 WATCH 2026-05-27 v2.0** (was TIER 3; discovery hierarchy rule: $14.67M first-time deferred rev >$10M threshold qualifies for TIER 2 even without H10 fire) | Screen 3 v2 (customer deposit first-time appearance — full-run 2026-05-26) | Long-term deferred rev **$14.67M (Mar '26) vs $0 (Dec '25)** = first-time appearance; $25M committed (multi-year take-or-pay LNG); deliveries Q1 '27 – Q1 '29. Unnamed "world-leading provider of remote and temporary power generation at a data center" (two-degree to hyperscaler). Q1 '26 revenue $10.4M (down YoY); forward revenue building. **Textbook LEU Q3 2024 pattern shape — balance-sheet signal leads bellwether mention by 1-3 quarters per Framework v2.0 discovery hierarchy.** ([10-Q](https://www.sec.gov/Archives/edgar/data/1043186/000143774926015281/slng20260331_10q.htm)) | Q2 '26 10-Q + counterparty identification. H8 verification: today's rev is multi-vertical (aerospace/marine/industrial/DC); contracted forward is heavily DC-tilted. **H10 fire upgrades to TIER 1 / ACCEPT-track when bellwether names DC LNG power.** |
+| **TH** (Target Hospitality) | AI Infra picks-and-shovels (DC workforce lodging — adjacency, NOT chokepoint hardware) | $1.84B (verified 2026-05-27; +3%) | TIER 3 WATCH (sector-adjacency caveat — lower conviction) | Screen 3 v1 (customer deposit +60.3% QoQ — full-run 2026-05-26) | Combined deferred rev $29.76M (Mar) vs $18.57M (Dec) = **+60.3% QoQ** v1 strict pass. "Data Center Hub Contract" for 4,000-person workforce lodge for North Texas DC campus (occupancy Q3 '26, completion Q2 '27); WHS segment +229% YoY ($5.2M → $17.1M); expected ~$55M annual revenue from this contract. Unnamed DC developer counterparty. ([10-Q](https://www.sec.gov/Archives/edgar/data/1712189/000110465926058542/th-20260331x10q.htm)) | Q2 '26 10-Q for WHS segment ramp. **Sector-adjacency risk: hospitality/lodging is "picks-and-shovels for the picks-and-shovels" — TIER 3 WATCH not ACCEPT-tier.** |
+| **LFCR** (Lifecore Biomedical) | **Pharma chokepoint (H10-P)** (GLP-1 aseptic fill-finish — AAOI/CRDO analog) | **$180.05M** (verified 2026-05-27; **DROP -60%** vs prior $450M midpoint; investigate thesis-break news before any DD action) | TIER 3 WATCH — **H10-P PENDING** | Screen 7 v2 (real-emergence — full-run 2026-05-26) | "Five new programs signed with new customers during fiscal transition period, including one late-stage GLP-1 program." ~30-yr established CDMO (CIK 1996); fully integrated sterile fill-finish. Operating (signed Q3 FY26). **First viable Screen 7 real-emergence candidate ever** (vs prior cycles which only surfaced blind-spot flags). ([FY26 Q3 8-K 2026-03-16](https://www.sec.gov/Archives/edgar/data/1005286/000100528626000007/0001005286-26-000007-index.htm), [FY26 Q4 8-K 2026-05-06](https://www.sec.gov/Archives/edgar/data/1005286/000100528626000018/0001005286-26-000018-index.htm)) **H10-P FLAG = late-stage GLP-1 program signed but pharma counterparty NOT NAMED. Needs Lilly/Novo/AstraZeneca named OR FDA Breakthrough Therapy designation OR binding CDMO supply agreement w/ named top-10 pharma.** | **Per H10-extended (Framework v2.0, 2026-05-27): FLAG pending counterparty identification.** Next Lilly/Novo supply-agreement confirmation. WST elastomer constraint ~10% of WST Q1'26 revenue is upstream reference. Also: investigate -60% drop for thesis-break news before any DD action. |
+| **AMPG** (AmpliTech Group) | Telecom/satcom RF (potential cryogenic LNA / antenna feed chokepoint adjacency) | $126.40M (verified 2026-05-27; flat; TIER 1 NANO) | TIER 3 WATCH (held — Framework v2.0 discovery hierarchy review 2026-05-27: customer deposits +1379% QoQ but $391K ABSOLUTE fails $10M minimum threshold for promotion to TIER 2; near-inflection w/ margin re-rate still warrants watch) | Screen 2 (full-run 2026-05-26) + Screen 3 cross-screen (customer deposits +1379% QoQ but $391K absolute) | Q1 +48.6% rev ($5.35M); gross margin re-rate 33% → 48%; mfg/eng segment $0.99M → $3.28M; multiple 5G + satcom + defense RF programs R&D → commercial. H10 vendor-tier UNVERIFIED (need to confirm if NVDA/hyperscaler has named cryogenic LNA suppliers). ([10-Q](https://www.sec.gov/Archives/edgar/data/0001518461/000149315226022715/ex99-1.htm)) | Q2 '26 print + first material 8-K customer disclosure. Quantum + defense + satellite RF customers per filings. Equity only (micro-cap, likely no liquid LEAPS). **Re-eval for TIER 2 promotion if deferred rev crosses $10M absolute threshold per v2.0 discovery hierarchy.** |
+| **VOYG** (Voyager Technologies) | Defense/Space | $2.75B (verified 2026-05-27; +4%) | TIER 3 WATCH (borderline — post-IPO PARTIAL sentiment) | Screen 4 (gov contract — full-run 2026-05-26) | DARPA "Burn n' Go" Phase 2 $16.5M definitive award (5/26); 86% DoD revenue at parent level; Defense & National Security segment +59% YoY to $123M FY25; $265M record backlog → $225-255M 2026 guide. ([DARPA program](https://www.darpa.mil/research/programs/burn-n-go)) | First-named hyperscaler/Pentagon contract 8-K. Sentiment shift IGNORED→PARTIAL check (post-IPO Jun 2025). $16.5M alone is sub-material; framework borderline. |
+| **SYPR** (Sypris Solutions) | Defense/Space | $71.33M (verified 2026-05-27; flat; Tier 1 moonshot) | TIER 3 WATCH | Screen 4 (gov contract — partial run 2026-05-26) | 8-K 2026-05-19: NASA Orion follow-on production contract through 2027 (multi-year) via Lockheed prime; segment electronics orders +269% YoY Q1. Contract dollar value undisclosed (soft signal). Space-grade circuit-card assemblies for navigation/attitude/environmental/crew safety. ([8-K](https://www.sec.gov/Archives/edgar/data/864240/000143774926017690/ex_964512.htm)) | Next 10-Q for revenue-by-segment confirmation of Orion ramp. Equity-only (micro-cap, likely no liquid LEAPS). |
+| **OPTX** (Syntec Optics / OmniLit) | Defense/Space (photonics pivot) | $460M (verified 2026-05-27; +23% vs prior midpoint $374M) | TIER 3 WATCH | Screen 5 (partial 2026-05-26) | 30mo post-de-SPAC (Nov 2023 OmniLit merger); -44% to -56% off ATH ($19.50 → $8.62-$11.15); $2M AR camera DoD order 4/21; quadrupled space-optics output 5/4; NDAA "domestic defense tech" onshoring positioning 3/23. **Catalyst criterion borderline** — most signals are PRs, not 8-Ks. ([8-K 4/30](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001841408)) | First 8-K Item 1.01 with disclosed-dollar DoD or NASA contract. Verify >3yr operating history (photonics since 2008 = real capability, not shell-pivot). |
+| **RDW** (Redwire Corp) | Defense/Space | **$4.36B** (verified 2026-05-27; +25% vs prior $3.5B; **APPROACHING $5B THRESHOLD** — after-hours print implies near-$4.82B; daily monitoring required) | **PROMOTED TIER 2 WATCH 2026-05-27 v2.0** (was TIER 3; discovery hierarchy rule: deferred $79.8M absolute >$10M threshold + DoD/allied ISR exposure = qualifying chokepoint-adjacent balance-sheet signal; cross-screen confluence elevates within new tier) | Screen 2 (full-run backlog+/book-to-bill 1.92) + Screen 3 (partial deferred +32.8% QoQ) | Q1 2026 10-Q deferred revenue $60.1M → $79.8M = **+32.8% QoQ** (below strict 50% threshold but absolute $79.8M well above v2.0 $10M threshold; cross-screen with backlog $498M up from $411M, book-to-bill 1.92 vs 0.92 prior). **H10-D PASS** = DoD + allied ISR funded programs (NRO + Space Force exposure documented). Space/defense pure-play: combat autonomous systems, optical sensors, ISR payloads for DoD + allied nations. ([10-Q](https://www.sec.gov/Archives/edgar/data/1819810/000181981026000063/rdw-20260331.htm)) | Next 10-Q for deferred-revenue trajectory continuation. Promote to ACCEPT-track if QoQ accelerates >50% or H10-D upgrades to vendor-named (Lockheed/Northrop/named prime). **Cap watch: approaching $5B — track daily; if breaches sustainably, document as graduated and exit entry window.** |
+
+## NEOCLOUD SECOND-WAVE WATCH (surfaced via SCAN_02_NEOCLOUD_SECOND_WAVE.md 2026-05-27)
+
+These candidates surfaced via the targeted Neocloud Second-Wave Scan (Phase 1 EdgarTools 10-Q + 8-K full-text search; Phase 2 web search; Phase 3 peer comparison). All are sub-$5B public neoclouds or AI-DC adjacency names with first-binding-contract or NVIDIA preferred-status catalysts. Each lands in WATCH pending sector-pivot-blind-spot resolution (DGXX), Cluster 8 substance check (MOVE), or DD checklist (DUOT). WYFI already documented in WEEKLY-SCAN WATCH above.
+
+| Ticker | Sector Lens | Mkt Cap | Tier | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|
+| **DUOT** (Duos Technologies) | AI Infrastructure — chokepoint #7 (AI hosting / GPU colos / neocloud — edge data centers) | **$438.97M** (verified 2026-05-27 via stockanalysis.com; +89% rerate from $232M in March) | **TIER 1 NANO WATCH (reclassified from REJECT)** — DD checklist required before any promotion to ACCEPT | $176M Hydra Host GPUaaS contract (36-mo) signed 2026-03-13 with **$18M customer prepayment received** (strict v2 Screen 3 PASS on sub-$10M TTM revenue base — LEU/SNDK first-time-deferred-revenue pattern). Targets $50M+ annual revenue + $40M+ annual EBITDA + 80% gross margins. Initial 4.3+ MW high-power EDC; 2,304-GPU B800 cluster (NVIDIA). Funded via $65M public offering + hardware financing + customer prepayment. ([8-K Mar 13](https://www.sec.gov/Archives/edgar/data/0001396536/000107997326000317/duot_8k.htm), [10-Q Q1'26](https://www.sec.gov/Archives/edgar/data/1396536/000155335026000088/duos_10q-033126.htm)) **Reclassified from REJECT ("H8 FAIL — AI-hosting >50% revenue projected H2 2026, not present") because the new contract structure with disclosed prepayment fundamentally changes the picture.** | **BRUN/SHAZ RISK — end-customer is UNNAMED "leading global technology company" via Hydra Host intermediary.** Full DD checklist before any promotion: (DD §1) Hydra Host counterparty + end-customer identification; (DD §2) insiders/relateds; (DD §6) /last30days social sweep. Q2 FY26 10-Q for revenue ramp confirmation. Tier 1 NANO sizing if it survives DD = $3-5K equity (no liquid LEAPS at this cap). |
+| **MOVE** (Corvex, Inc., post-Movano all-stock merger) | AI Infrastructure — chokepoint #7 (AI hosting / GPU colos / neocloud) | **$12-46M (highly volatile post-merger; 52-wk $4.67-$34.87; needs re-verification before any action)** | **TIER 1 NANO WATCH — CLUSTER 8 SUBSTANCE CHECK REQUIRED FIRST** | Long-term NVIDIA H200 GPU cluster lease announced 2026-01-22 for unnamed "AI-driven high-performance battery technologies provider." Hyperscaler-class fully managed GPU infrastructure + Kubernetes service w/ hardware-enforced encryption + remote attestation for sensitive model training + data-sovereignty. ([10-Q Q1'26](https://www.sec.gov/Archives/edgar/data/1734750/000121390026058993/ea0290472-10q_corvex.htm), [stocktitan](https://www.stocktitan.net/news/MOVE/corvex-secures-long-term-nvidia-h200-gpu-deployment-with-ai-driven-qu5xke8iqbu1.html)) | **Movano (wearable health-tech Evie Ring) → Corvex AI cloud rename via all-stock merger Aug 2025 — EXACT Cluster 8 pattern Archos rejects** (FABC/VWAV/VDTA analog). Framework's sector-pivot blind spot applies. **DO NOT PROMOTE without full DD Section 2** (prior-entity history, founder track record, merger structure, share count + dilution post-merger). H200 lease itself is real but entity wrapper is questionable. Q1 FY26 earnings cited "strategic AI expansion amid financial challenges" — likely capital constrained. |
+| **DGXX** (Digi Power X, ex-Digihost Technology) | AI Infrastructure — chokepoint #7 (BTC-PIVOT to AI hosting / GPU colos / neocloud) | **$698.64M** (verified 2026-05-27 via stockanalysis.com; +1,159.7% YoY; current $7.67 = -17% from $9.20 52-wk high) | **BTC-PIVOT WATCH (NOT framework ACCEPT) — reclassified from sector-pivot blind spot REJECT** | $1.1B 10-yr Data Center Colocation and Master Services Agreement w/ **Cerebras Systems** (NAMED counterparty; private AI chip co.) signed 2026-05-04 as Item 1.01 Material Definitive Agreement. Initial $1.1B + up to $2.5B w/ 7-yr extension. **First sub-$5B BTC-pivot name with NAMED binding counterparty in cycle.** 40 MW Columbiana AL data center: 15 MW Phase 1 RFS Dec 15, 2026; full 40 MW Phase 2 Q1 2027. TTM revenue $31.70M (-4.9% YoY, legacy BTC wind-down); FY27 guidance $250-300M (~10x current TTM). ([8-K 5/8](https://www.sec.gov/Archives/edgar/data/1854368/000121390026053566/ea028958501ex99-1.htm)) | **Sector-pivot blind spot per INSIGHTS.md (CIFR/APLD/IREN pattern): ex-Digihost Technology Inc. BTC miner pivoted to AI compute.** Framework correctly excludes from ACCEPT track even with named binding counterparty. Cerebras is upstream chokepoint pure-play, not a hyperscaler — H10 fires at category level only (AI compute customer). H5 is currently LOVED-adjacent ($7.67 = -17% from $9.20 ATH); needs >25% retrace to qualify for PARTIAL-RECOVERING. **Document for tracking only. Same shape as IREN at $1B pre-rerate but with the BTC-pivot blind-spot gate.** Monitor as test case for whether Cerebras counterparty quality elevates this above the BTC-pivot rejection — if Cerebras adds more named hyperscaler tenants or NVIDIA names DGXX directly, re-evaluate. |
+
+## NANO-CAP AI WATCH (sub-$100M cap, surfaced via 2026-05-26 nano-ai-scan — 4 parallel streams)
+
+These candidates surfaced via the 2026-05-26 Nano-Cap AI Universe Scan (4 parallel streams: EdgarTools 10-K AI keywords; 8-K gov contract + AI; web-search nano-cap surface; de-SPAC AI 2023-11→2024-05 Cluster 1 reanim window). All <$100M mkt cap, US-listed Nasdaq/NYSE/NYSE American, real AI product (not buzzword), passed Cluster 8 reject filter. Pending Defense-AI lens-framework codification (Sounding Board) for any promotion to ACCEPT.
+
+### TIER 1 NANO — AISP analogs (defense AI + gov contract + insider/founder alignment + sub-$100M)
+
+| Ticker | Company | Mkt Cap | Lens | Streams fired | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|---|
+| **SPAI** (Safe Pro Group) | Defense AI (drone imagery threat detection) | $91.75M (verified 2026-05-27; +2% — stable) | Defense AI | **CROSS-STREAM 2 + 3** (highest-conviction in scan) | U.S. Army **Short Range Reconnaissance Program of Record**; $1M U.S. Gov LRIP subcontract Feb 2026; processed **1.66M Ukraine battlefield images**, >150 landmine types detected; Q1'26 rev +560% YoY ($1.22M), AI segment +2,400% YoY; founder-CEO Erdberg owns ~10% (5.6M shares); Davidson Kempner top institutional; Tudor Investment $1.79M build Mar 2026; $14M PIPE at $7 (current ~$4). **Cluster 4 + Cluster 2 amplifier.** | **Fast-track to full DUE_DILIGENCE_CHECKLIST.md (all 6 sections) within 7 days.** Highest-priority DD slot of week. Defense-AI lens-framework gate (H10' = U.S. Army PoR; H8' = gov-revenue %). |
+| **EXYN** (Exyn Technologies) | Defense AI (GPS-denied 3D mapping & navigation autonomy) | $42.47M (verified 2026-05-27; -1% — stable post-IPO) | Defense AI | Stream 2 (8-K gov contract) | USSOCOM Vendor Loan Agreement; USAF Warner Robins via Asylon partner; AFRL inspection; ExynAI autonomy stack; just-IPO'd May 2026 @ $7.75 → ~$5 (post-IPO pullback = recent-IPO Cluster 1 functional analog); $5.8M TTM, 36% gross margin. **Cluster 4 extended.** | Pull S-1 + post-IPO updates. Verify USSOCOM contract structure + Asylon partnership terms + ExynAI IP depth. |
+
+### TIER 2 NANO — Real AI product + revenue, no major gov contract yet (need bellwether catalyst)
+
+| Ticker | Company | Mkt Cap | AI Product | Customers | Revenue | Key Signal |
+|---|---|---|---|---|---|---|
+| **MSAI** (MultiSensor AI Holdings) | $12.98M (verified 2026-05-27; +8% — stable) | Edge+cloud AI multi-sensor platform (visible/IR/UV/acoustic), MSAI Connect SaaS | Distribution, manufacturing, utilities, oil & gas; **Ford EV facility + Fortune 50 retailer** | $5.6M TTM, 52.5% gross margin | **Cross-stream double-fire (Streams 1+3)**; US-HQ Houston TX (no foreign-Cayman risk); sub-2-second multi-camera thermal monitoring debut 2026 |
+| **CSAI** (Cloudastructure) | $11.39M (verified 2026-05-27; -12% — stable) | AI computer vision cloud video surveillance for multifamily property mgmt | 7 of top 11 US multifamily mgmt firms; 2.5M units | $5.1M FY25 (+271% YoY); Q1'26 ~$1.3M (+78%) | High revenue growth, deep multifamily penetration, no gov customer yet (single-vertical exposure risk) |
+| **KSCP** (Knightscope) | $47.55M (verified 2026-05-27; -1% — stable) | Autonomous AI security robots (K-series ASRs) + armed/unarmed security agents via Event Risk | Public safety / property protection; police + private | Q1'26 rev $6.0M (+106% YoY); service rev $4.2M | **Cross-stream double-fire (Streams 1+3)**; $18M Event Risk acquisition Feb 2026; 106% YoY |
+| **MTEK** (Maris-Tech Ltd) | $12.03M (verified 2026-05-27; -17% — mild drift; intraday -8% on 5/26 worth investigating) | Edge AI video processing for UAVs, kamikaze drones, IFVs (Jupiter Drone, Diamond Ultra, Peridot Night) | Drone OEMs, Ukrainian drone market, US Infantry Fighting Vehicle pilot | Pilot orders converting Feb 2026 | First substantial production order Feb 2026; US IFV pilot contract; pilot→scale transition. Israeli HQ Nasdaq-listed (handicap: foreign-filer H7 silent). |
+| **WRAP** (Wrap Technologies) | $78.81M (verified 2026-05-27; -11% — stable) | WrapAI ML suite (auto-tag, redaction, transcription, search for body-cam/DEMS) | DHS purchase order + "Wrap Federal" for DOD/DHS; Counter-UAS partnership w/ Vector | $4.7M FY25, $1.1M Q1'26 (+45%); $3.2M Q1 bookings | **7 insider buyers / 0 sells last 90 days** — rare H3-contrarian-inverse cluster (vs 38/39 names showing insider SELLING) |
+| **SSTI** (SoundThinking) | $87.44M (verified 2026-05-27; +1% — stable) | SafePointe AI weapons detection + ShotSpotter gunshot AI + CrimeTracer | Law enforcement / civic AI infrastructure | Material; declining though | Real AI public safety chokepoint pure-play; revenue decline = risk |
+| **GRDX** (GridAI Technologies) | $28.58M (verified 2026-05-27; +19% — mild upmove) | Real-time AI software to orchestrate hyperscale DC power | Very early | Very early (pivot from Entero Therapeutics) | **Pure-play AI x DC power chokepoint**; CAVEAT: pivot from clinical-stage biopharma = Cluster-8-adjacent risk; verify substance before DD escalation |
+| **FUSE** (Fusemachines) | $41.09M (verified 2026-05-27; -9% — stable) | Enterprise AI Studio + AI Engines + Agentic AI | Growing enterprise customer set | Growing, no debt | Just listed late 2025; agentic AI focus; OUTSIDE 24-36mo Cluster 1 de-SPAC window per Stream 4 (= fresh listing, not reanim) |
+| **CYCU** (Cycurion) | **$5.13M** (verified 2026-05-27; **DROP -53%**; backlog-to-mcap asymmetry now even more extreme but cap below institutional micro-cap floor — re-eval whether thesis survives) | AI-enhanced ARx cybersecurity platform | U.S. Gov agency via Fortune 500 prime (5-yr min); municipal $6M PO | $21-22M annual run rate; 900bp margin expansion Q1'26 | **$112M backlog vs $11M mkt cap = 10x asymmetry**; gov via prime not direct; AI depth needs DD verification |
+
+### TIER 3 NANO — Cluster 8 caveats + reanim shapes (DD Section 2 + 6 gates required)
+
+| Ticker | Company | Mkt Cap | Status | Key Concern / DD Gate |
+|---|---|---|---|---|
+| **DFNS** (T3 Defense) | $14.45M (verified 2026-05-27; -24% vs prior midpoint $19M) | Counter-drone + AI perimeter security (ZorroNet); Iron Dome generator supplier (Rimon); $26M FY26 guide | **CROSS-STREAM CONFLICT** (Stream 1 candidate, Stream 2 reject): "5 CEO entries on record, Israeli defense + fintech overlay; smells like Cluster 8 pivot/SPAC residual" (prior Nukkleus entity). DD Section 2 (insider/relateds, prior-entity history, founder track record) BEFORE any framework promotion. |
+| **XTIA** (XTI Aerospace) | $72.71M (verified 2026-05-27; +1% — stable) | Vanguard Platform AI (Valkyrie partnership); drone defense; CENTCOM advisor; $147M pipeline; $160M FY26 run-rate guide | **Cluster 8 caveat**: recent rename pivot **TriFan VTOL → drone defense**. Real defense pipeline but rename pattern is SHAZ-adjacent. Full DD Section 2/6 mandatory. |
+| **ONMD** (OneMedNet Corp) | $46.19M (verified 2026-05-27; +5% — stable) | iRWD AI imaging + Palantir Foundry integration; 30mo post-SPAC (Nov 7, 2023) = textbook Cluster 1 window; -80% off 52w high ($0.84 vs $4.22); $1.36M FY25 (+111%); RWD +329%; insider buying April 2026; 2,130+ healthcare site network | **Cleanest Cluster 1 reanim shape of entire run.** Healthcare AI (not defense). Pull Q1 FY26 10-Q + Palantir integration disclosure + Form 4 insider buying detail. |
+| **AERT** (Aeries Technology) | $35.96M (verified 2026-05-27; +3% — stable) | AI-enabled GCC consulting / Build-Operate-Transfer; $20M+ AI run-rate from 2 new enterprise deals; 30mo post-SPAC (Nov 6, 2023) | $69.2M TTM; **insider selling 5:1** ($5M buyback authorized but 1 buy vs 5 sells); India BPO core w/ AI overlay arguably retrofit = Cluster 8-adjacent on AI-rebrand vector. |
+| **RVSN** (Rail Vision) | $10.92M (verified 2026-05-27; -22% vs prior midpoint $14M) | AI electro-optical detection for railway safety + predictive maintenance | 2025 rev $1.49M (early-stage); CES 2026 + AWS quantum decoder + Google quantum integration; Indian + LATAM railway operators. Israeli HQ Nasdaq-listed. |
+| **DETX** (Liberty Defense Holdings) | $21.56M (verified 2026-05-27; -10% — stable) | AI contactless walk-through weapons detection (HEXWAVE) | Closed US IPO Apr 24, 2026 ($20M gross); pre-revenue / early commercialization = **pre-revenue moonshot blind spot (LWLG analog)** — framework correctly hesitates. |
+| **ARAI** (Arrive AI) | $34.12M (verified 2026-05-27; flat — stable) | AI autonomous last-mile delivery / smart locker network | Early-stage; T-Mobile executive joined board May 2026; ALM platform |
+
+### Nano-AI REJECT additions (2026-05-26 scan)
+
+**Just-over-cap (flag for next cycle if pullback below $100M):**
+
+| Ticker | Reason |
+|---|---|
+| ROC (Rank One Computing) | $109-123M; vision AI/biometrics for public + national security; Feb 2026 IPO; $17M rev +24% YoY. **Closest AISP analog above cap line — re-screen if pulls back.** |
+| MDAI (Spectral AI) | $77-85M (passes cap); medical-imaging AI for wound assessment. Medical-AI adjacency to AI-DC thesis is weak. Soft borderline. |
+| REKR, RDZN, VHUB | $101-120M / $104-116M / $103-107M — all just over cap |
+| BNAI (Brand Engagement Network) | $120M (was $244M two weeks ago — too volatile, NOT a forgotten/bottomed-out reanim shape) |
+| ZENA, PDYN, AERG, ISSC, BZAI, AIRO, MITK, TSSI, VERI, NN, PDFS, RR, OSS, KDK, SATL, SWMR | All over cap ($115M to $2.5B+) |
+
+**Cluster 8 / pivot pattern / known REJECT analog:**
+
+| Ticker | Reason |
+|---|---|
+| VEEA | ~$29M; real edge AI BUT Nasdaq compliance / sub-$1 stock / 180-day cure / dilution risk = SHAZ-adjacent flag |
+| GAXOS (Gaxos.ai) | Bought 20% of "America First Defense" with no operating history; Cluster 8 pivot |
+| ELAB (PMGC Holdings) | Defense subsidiary formed April 2026, $682K rev; Cluster 8 rename pivot |
+| NXNT (Nexscient) | OTCQB, $21M, no defense/gov customers |
+| AIXC (AIxCrypto), AIXI (Xiao-I Chinese ADR), AMOD (Alpha Modus), YYAI (AiRWA), DUKR | Cluster 8 patterns / reverse splits / penny shells |
+
+**Quality fail — AI is feature not product:**
+
+| Ticker | Reason |
+|---|---|
+| MYND (Mynd.ai) | $14.68M cap but $209M rev ed-tech / interactive display w/ bolted-on AI partnerships; legacy biz with AI marketing |
+| CXAI (CXApp) | $12.4M; workplace experience SaaS w/ AI branding; revenue too thin |
+| AUID (authID) | Identity verification, not AI infra chokepoint |
+| NXTT | Bitcoin holding + AI SaaS mixed thesis |
+| DAIO | Semiconductor programming hardware, AI nominal |
+| OPXS | Traditional optical sighting, no AI claim despite defense context |
+| KITT (Nauticus Robotics) | $7.9M; mostly oil/gas commercial, defense aspirational |
+| IDAI (T Stamp), AIFF (Firefly Neuroscience), AIMD (Ainos), WLDS (Wearable Devices), CDIO (cardiac diagnostics AI), BFRG (BullFrog AI biotech) | Wrong sector or not chokepoint-aligned |
+
+**OTC / not on permitted exchanges:**
+
+| Ticker | Reason |
+|---|---|
+| AITX, OMQS, VISM, GTCH, CAUD (Collective Audience), NOTE (FiscalNote — delisted Apr 2026), TRUG (TruGolf), ZCAR (Zoomcar), AILE (iLearningEngines — Ch11 + delisted), ZPTA (Zapata — ceased ops), BNZI (Banzai — declining), DHAI | OTC, delisted, near-dead, or already excluded |
+
+**De-SPAC outside Nov 2023 - May 2024 window:**
+
+| Ticker | Reason |
+|---|---|
+| RZLV (Rezolve AI — Aug 2024), HPAI (Helport AI — Aug 2024 + Singapore HQ), CNTM (ConnectM — Jul 2024), DMN (Damon Motors — Nov 2024), RDZN (Roadzen — Sep 2023) | Outside Cluster 1 24-36mo reanim window |
+
+### Sub-threshold WATCH (re-evaluate next month — within 10% of trigger)
+
+| Ticker | Sector | Mkt Cap | Why sub-threshold | Re-eval trigger |
+|---|---|---|---|---|
+| **INFQ** (Infleqtion) | Quantum compute/sensing | $3.44B (verified 2026-05-27; -4%) | Contract liab +30.2% QoQ (just below 50%); just-IPO'd Feb 2026 | **Bellwether-rich partners: DOD, DARPA, NASA, Lockheed Martin, NVIDIA, SAIC, Safran, UK NQCC**; 85% gov rev. Next 10-Q (Q2 '26) for contract-liab continuation; named-Pentagon-program 8-K. |
+| **CECO** (CECO Environmental) | DC cooling adjacency | $3.22B (verified 2026-05-27; +10%) | Billings in excess +$60.5M = +48.9% QoQ (just below 50% trigger); v2 absolute passes ($60M > $25M) but multi-segment dilution | Next 10-Q + segment-level DC cooling carve-out. |
+| **BWMN** (Bowman Consulting) | AI Infra engineering services adjacency | $570.93M (verified 2026-05-27; -24% vs prior midpoint $750M; landed lower in prior band) | Q1 revenue +12% (below threshold); backlog +56% YoY / +36% QoQ; DC revenue doubled to 6% | Next 10-Q for DC segment % of revenue (>20% would elevate). **Risk: engineering services = AI-services anti-pattern.** |
+
+### Flag for standalone check (not surfaced via standard 90-day catalyst)
+
+- **BHAI** (Blaize, AI accelerator silicon) — **UNVERIFIED 2026-05-27**: stockanalysis.com 404 and Yahoo 404 on ticker. Possible delisting, ticker change, or reverse-merger SPAC name issue. Requires manual research (SEC EDGAR + 8-K Item 3.01 / 5.07 filings) before any re-inclusion. 29mo post-merger Dec 22 2023; in de-SPAC reanim window but no 90-day catalyst surfaced in Screen 5 full-run sweep. Worth a dedicated review next non-scan working day.
+
+### Blind-spot flags (do NOT promote — documented for traceability)
+
+| Ticker | Pattern | Notes |
+|---|---|---|
+| **BW** (Babcock & Wilcox Enterprises, $2.92B verified 2026-05-27; +14% vs prior midpoint) | **Documented Phase 3 winner / legacy-industrial-capacity-pivot blind spot firing post-rerate** | Full-run Screen 2: Q1 +44% YoY rev to $214.4M, bookings +1,971% to $2.5B, backlog +483% to $2.7B, driven by $2.4B Base Electron / Applied Digital natural-gas "AI Factory" project. **This is the canonical BW blind-spot pattern firing post-LOI revenue recognition** — Applied Digital LNTP Nov 2025 WAS the inflection. Anchor counterparty (Applied Digital) is itself a Cluster 8 sector-pivot SPV. Admitting BW = admitting all going-concern legacy industrials. Document for traceability; **do NOT promote**. ([10-Q via 8-K](https://www.sec.gov/Archives/edgar/data/0001630805/000163080526000028/e-2026q1earningsrelease.htm)) |
+| **CENX** (Century Aluminum, **$6.62B verified 2026-05-27; +231% vs prior $2B; BREACHED $5B H8 CEILING**) | **Legacy-industrial-capacity-pivot (BW analog) blind-spot — RESOLVED POST-RERATE** | Screen 7 keyword-emergence fire: first-ever "artificial intelligence data center" mention in 10-Q. JV with right-to-call structure to develop HPC/AI DC on smelter site (Glencore 56% holder). Power-stranded-asset narrative; aluminum still ~100% of revenue. **STATUS UPDATE 2026-05-27:** Cap has crossed $5B (+231% in maintenance audit) — the BW-pattern rerate has fired in real-time. No longer a future blind-spot risk; it's a confirmed post-rerate event. The framework correctly held during entry window. Remove from active blind-spot monitoring; document for future-reference calibration. ([10-Q](https://www.sec.gov/Archives/edgar/data/949157/000162828026032094/cenx-20260331.htm)) |
+| **WOLF** (Wolfspeed, $3.55B verified 2026-05-27; -5% vs prior $3.75B; squeeze partially unwound but still elevated; was $1.0B 5/1) | **Active squeeze in motion — WOLF anti-pattern guardrail firing live** | Full-run Screen 8: 57.6% SI rising; +275% MTD on Citrini Research 5/13 AI-infra call ("critical SiC supplier for power-hungry data centers"). NOT a bellwether-name-drop catalyst — third-party research. Framework correctly resists. **WOLF anti-pattern is project guardrail**; document for traceability of how the framework holds during meme-momentum events. Ch11 emergence 9/29/25 + new CEO Robert Feurle + new CFO Gregor van Issum + 7-director board reset = perfect on Cluster 3 structure, but **+1585% from emergence low = post-rerate, asymmetric window closed**. |
+| **PSIX** (Power Solutions International, $990M verified 2026-05-27; ~unchanged within $0.9-1B band) | **REORG cluster re-evaluation candidate for prior REJECT — confirmed via full-run Screens 2 + 6** | Full-run Screen 2 confirms Q1 10-Q discloses management is "not predicting any specific level of data center revenue in any future period" = intentional damping of AI-DC expectations. Screen 6 confirms governance reset: new Chairman 5/12/26 + new interim CEO Kenneth Li 5/13/26 (CFO promoted). Weichai (Chinese majority owner) $60M equity + 2 board seats; $135M credit facility extended to 2027 (Aug 2024 / Jul 2025 refi). Down ~65% from 52wk high $121.78 → $43.17. 79% Q2'25 segment revenue from emission-certified power systems incl. data centers. **Previously in REJECT log as "framework precedent reject"** (pre-pattern-discovery). **Sounding Board call still pending**: re-evaluate or maintain REJECT? ([BeyondSPX](https://beyondspx.com/quote/PSIX/power-solutions-international-the-data-center-power-play-with-a-control-premium-problem-nasdaq-psix)) |
+
+## TIER 2 DD COMPLETED (larger companies, equity or LEAPS candidates) + BTC-pivot watch list
+
+| Ticker | Mkt Cap | DD Verdict | Key finding |
+|---|---|---|---|
+| **IREN** | $21.36B (verified 2026-05-27; +7-13% vs prior band; +1,252% YTD) | **PROCEED WITH CAUTION** (0 RED, 1 CLEAR, 5 FLAG) | $9.7B Microsoft + $3.4B NVIDIA contracts. Counterparties are real. Execution/valuation risk, not integrity risk. LEAPS premiums too expensive — equity position recommended. |
+| **CLSK** | $4.25-4.30B (verified 2026-05-27; +13-23% vs prior band; +41% over past 30 days; **APPROACHING $5B THRESHOLD** — needs only ~16-18% more to breach) | **WATCH — pre-catalyst** (0 RED, 0 CLEAR, 4 FLAG, 1 N/A) | 1.8 GW power, "advanced discussions" with unnamed hyperscaler. Zero AI revenue today. Catalyst = hyperscaler announcement. LEAPS Jan 2028 $25C at ~$5.00 = asymmetric bet on the announcement. |
+| **BTDR** (Bitdeer Technologies) | $3.56B (verified 2026-05-27; within prior band; 52-wk $6.92-$27.80 extreme volatility) | **BTC-PIVOT WATCH (Level 3 — NOT framework ACCEPT)** | Surfaced via revenue-inflection v2 screen 2026-05-24. Foreign filer (Cayman, files 6-K not 10-Q). AI/HPC Cloud ARR $43M Q1 2026 with **+105% month-over-month growth**. Three segments: self-mining, hash rate sharing/hosting, AI/HPC cloud (developing). CEO Jihan Wu (ex-Bitmain founder). DC ops US/Norway/Bhutan. AI segment <10% of total today — pre-IREN stage. **NOT framework ACCEPT** (sector-pivot blind spot per INSIGHTS.md). Monitor for: hyperscaler/NVDA partnership 8-K, AI segment crossing 25-30% of revenue, next 2 quarters of ARR compounding. |
+| **HUT** (Hut 8 Corp) | $8-12.5B (verified via web search 2026-05-27; +35% post-Beacon Point catalyst; **GRADUATED ABOVE $5B H8 CEILING**) | **BTC-PIVOT REFERENCE (graduated — cannot promote; SCAN_02 2026-05-27 documented)** | $9.8B 15-yr Beacon Point AI campus lease signed 2026-05-06 (352 MW; investment-grade tenant UNNAMED; **NVIDIA DSX reference architecture** = vendor-level H10 category fire). Total contracted lease revenue **$16.8B across 597 MW** w/ $1.1B aggregate avg annual NOI. 7,500 MW total pipeline. Initial operations 2027. ([Q1'26 8-K](https://www.sec.gov/Archives/edgar/data/1964789/000110465926055894/hut-20260506xex99d1.htm)) Document for reference — entry window closed. Same shape as IREN-Microsoft / NBIS-Microsoft+Meta but at later stage. |
+| **WULF** (TeraWulf) | $8-12.5B (verified via web search 2026-05-27; **GRADUATED ABOVE $5B H8 CEILING**) | **BTC-PIVOT REFERENCE (graduated — cannot promote; SCAN_02 2026-05-27 documented)** | Q1'26 HPC leasing revenue $21M. Long-term datacenter lease agreements for GPU-based workloads since December 2024. CB-4/CB-5 projects at Lake Mariner, NY. Strong liquidity $3.1B. Document for reference. |
+| **CORZ** (Core Scientific) | $8.0-8.38B (verified via web search 2026-05-27; **GRADUATED ABOVE $5B H8 CEILING**) | **BTC-PIVOT REFERENCE (graduated — cannot promote; SCAN_02 2026-05-27 documented)** | CoreWeave colocation expanded contract +70 MW = $1.2B additional contracted revenue. Total AI backlog $10.2B over 12 years. CoreWeave NAMED counterparty (private but at-scale public-comparable). Document for reference. |
+| **RIOT** (Riot Platforms) | Mega-cap (verified 2026-05-27) | **BTC-PIVOT REFERENCE (over cap + sector-pivot blind spot; SCAN_02 2026-05-27 documented)** | $1B 10-yr AMD AI lease (25 MW phased Jan-May 2026; $311M base + options to $1B). Terrestrial Energy nuclear partnership for up to 4 GW. Document for reference only. AMD named hyperscaler (first BTC-miner to land an AMD deal at this scale). |
+| **MARA** (MARA Holdings) | Mega-cap (verified 2026-05-27) | **BTC-PIVOT REFERENCE (over cap + sector-pivot blind spot; SCAN_02 2026-05-27 documented)** | JV with Starwood for AI/HPC at power-rich sites; 64% stake in Exaion ($168M); 1.9 GW capacity; advanced conversations w/ multiple hyperscaler prospects. Document for reference only. |
+| **DGXX** (Digi Power X, ex-Digihost Technology) | $698.64M (see NEOCLOUD SECOND-WAVE WATCH section above for full entry) | **BTC-PIVOT WATCH (Level 2 — NOT framework ACCEPT; SCAN_02 2026-05-27 reclassified)** | $1.1B 10-yr Cerebras Systems Master Services Agreement signed 2026-05-04 (named counterparty, binding Item 1.01). Highest-quality sub-$5B BTC-pivot candidate in cycle. Framework correctly excludes from ACCEPT track on sector-pivot blind spot. See full entry above. |
+
+## TIER 4 SEGMENT WATCH ($5B-$15B parent with qualifying AI-DC segment) — added 2026-05-27 (Framework v2.0)
+
+These candidates have a parent market cap of $5B-$15B (exceeding the original H8 ceiling) but a qualifying AI-infrastructure segment that is (a) >50% of segment revenue from AI-DC end-market AND (b) growing >40% YoY. Parent cap waived; segment treated as synthetic standalone. Lower magnitude expectation (2-5x on parent, more on segment multiple expansion). LEAPS on parent; position size per Tier 3 rules.
+
+| Ticker | Parent Mkt Cap | AI-DC Segment | Segment Mix | Segment YoY | H10-extended Status | Re-eval trigger |
+|---|---|---|---|---|---|---|
+
+*Section currently empty. To be populated by the next weekly scan that includes Tier 4 screening. Candidates that fail the strict sub-$5B H8 ceiling but show >40% YoY AI-DC segment growth on >50% segment mix land here (SANM Cloud/AI organic +22% YoY did NOT qualify — failed >40% threshold; M&A pivot blind spot still routes M&A-driven segment growth to REJECT).*
+
+*Scan 05 (2026-05-27 Nuclear Supply Chain + Hidden AI Segment dual scan) result: **ZERO qualifying Tier 4 SEGMENT candidates surfaced.** Empirical Finding #1 documented in scan output (`weekly-scan/runs/2026-05-27-nuclear-supply-chain-hidden-ai-segment-scan.md`): the $5-15B layer is currently a "graduation transit zone" in mid-2026 — names either drop below it (BTC-pivot pure-plays at $3-5B in sector-pivot REJECT) or pass through to mega-cap (Vertiv $71B, Eaton, Celestica ~$20-25B). Names documented but failing criteria: EME (EMCOR $41B over cap); CLS (Celestica est. $20-25B over cap); MYRG ($7.17B in band but DC ~6% of revenue, segment H8 fails); VRT (Vertiv $71B over cap); BWXT ($18.76B just over cap; Commercial Ops ~30% of total, segment H8 fails). Calibrate future Tier 4 scans accordingly — expect zero-hit cycles to be common.*
+
+## SCAN-05 NUCLEAR SUPPLY CHAIN WATCH (added 2026-05-27 via Scan 05 dual scan — Chokepoint #11 candidates)
+
+These candidates surfaced via the 2026-05-27 Nuclear Supply Chain + Hidden AI Segment dual scan ([weekly-scan/runs/2026-05-27-nuclear-supply-chain-hidden-ai-segment-scan.md](weekly-scan/runs/2026-05-27-nuclear-supply-chain-hidden-ai-segment-scan.md)). All candidates here are sub-$5B nuclear-supply-chain pure-plays under the Framework v2.0 H10-N sector-conditional bellwether. Proposed CHOKEPOINT_TAXONOMY.md entry: Chokepoint #11 (Nuclear I&C + Fuel Fabrication + Reactor Components for SMR-for-AI-DC).
+
+| Ticker | Lens | Mkt Cap | Tier | Catalyst summary | Re-eval trigger |
+|---|---|---|---|---|---|
+| **MIR** (Mirion Technologies) | Nuclear chokepoint #11 (I&C / radiation detection / safety-related parts) | **$4.6B** (verified 2026-05-27 via public.com; $17.61 close 2026-05-21; alt $18.01 = $4.6B) | **TIER 3 COMPOUNDER (borderline graduation — daily monitoring required)** | Q1 2026 orders +42% (19% organic); backlog $1.1B +38% YoY; **SMR backlog +118% velocity acceleration ($85M YTD-Apr vs $39M FY25, $17M FY23+FY24 combined)**; 20+ SMR developer contractual relationships; Paragon Energy acquisition Dec 2025 ($585M cash) provides I&C / safety-related distribution + commercial-grade dedication across 100% of N.A. reactors. CertRec acquisition gives bulk grid data platform AI leverage. ([MIR FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1809987/000162828026009869/mir-20251231.htm)) ([Q1 2026 8-K](https://www.sec.gov/Archives/edgar/data/0001809987/000162828026027943/a2026-04x28exhibit991.htm)) **H10-N FLAG (multi-customer chokepoint validation, no single binding offtake / no NRC milestone / no DOE LPO commitment). Sounding Board call needed: does 20+ SMR developer contractual relationships constitute H10-N PASS-equivalent?** | Full DUE_DILIGENCE_CHECKLIST.md (6 sections) within 14 days. H10-N Sounding Board resolution. H8 segment-level AI-DC end-market carve-out (Nuclear & Safety segment $614.6M FY25 needs further decomposition: nuclear power plant I&C vs defense radiation safety vs research/industrial labs). Approaching $5B graduation — flag if breaches sustainably. |
+| **ASPI** (ASP Isotopes Inc.) | Nuclear chokepoint #11 (HALEU via Quantum Leap Energy subsidiary) + isotopes | **$871M** (verified 2026-05-27 — $6.93 × 125.9M shares) | **TIER 2 CATALYST** | FY25 revenue **$23.85M (+475% YoY)** vs $4.14M FY24; isotope-business-driven inflection (Si-28 for semiconductors, Mo-100 for medical/radioisotopes, Yb-176 for quantum). Quantum Leap Energy LLC subsidiary entered non-binding MOU with European nuclear technology company for advanced nuclear fuel (HALEU) supply collaboration. Single-day +18.47% pop on 2026-05-27 on HALEU MOU news. ([ASPI FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1921865/000119312526151294/aspi-20251231.htm)) ([ASPI 10-K/A](https://www.sec.gov/Archives/edgar/data/1921865/000119312526197329/aspi-20251231.htm)) **H10-N FLAG (non-binding MOU only — not NRC milestone or DOE LPO or binding offtake).** | Full 6-check + H8 segment mix verification (isotopes Si-28/Mo-100 vs nuclear-fuel %) + H11 cash-runway verification (ASP issued equity to fund commercialization) + DD Section 2 (insider activity) + /last30days social sweep. **Closest "AISP-template nuclear-lens" candidate.** Re-eval if HALEU MOU converts to binding offtake or H10-N government bellwether fires. |
+| **LEU** (Centrus Energy Corp.) | Nuclear chokepoint #11 (HALEU + LEU enrichment) — **already a documented Phase 3 winner; post-rerate PARTIAL-RECOVERING candidate** | **$3.65-4.07B** (verified 2026-05-27: $185.55 close 2026-05-26 = $3.65B; alt $192.31 May 13 = $4.07B) — sub-$5B again post-pullback | **TIER 3 COMPOUNDER (post-rerate; H5 PARTIAL-RECOVERING candidate)** | Already validated H10-N PASS (DOE $2.7B awards; DOE HALEU IDIQ Production Contract Oct 2024; canonical Cluster 2 Squeeze-amplified winner per SIGNAL_CLUSTERS.md with 21% SI + $189.8M Q3 2024 deferred revenue as Phase 3 calibration case). $3.8B backlog through 2040; 2026 rev guide $425-475M. Roth Capital raised PT to $230 from $137 on 2026-05-07. ([LEU FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1065059/000162828026007117/leu-20251231.htm)) | **PARTIAL-RECOVERING qualification monitor (Framework v2.0 H5)**: verify post-catalyst peak vs current price. 52-wk high ~$200-220; current $185-189 = ~10-15% off recent high. **Does NOT yet meet >25% retrace threshold for full PARTIAL-RECOVERING entry permission.** If LEU retraces another 10-15%, qualifies for 50% tier sizing entry. Magnitude expectation now PARTIAL-tier 50-265%, not IGNORED-tier 700-1,400% (post-rerate window). |
+
+### Scan-05 MONITOR additions (not WATCH — flag for future re-eval)
+
+| Ticker | Lens | Mkt Cap | Reason for MONITOR-not-WATCH |
+|---|---|---|---|
+| **MTRN** (Materion Corporation) | Nuclear/fusion Flibe coolant (BeF₂) | $4.47B (verified 2026-05-22) | Sole global producer of high-purity BeF₂ for Flibe coolant — used in Kairos molten salt reactor (operates Molten Salt Purification Plant in Elmore, OH) + Commonwealth Fusion Systems ARC power plant (shipments commence 2026). Q1 2026 sales $549.8M vs $420.3M (+31% YoY). **H8 likely fails (WOLF-anti-pattern structure: right product, wrong end-market)** — Performance Materials + Electronic Materials + Precision Optics segments dominate; auto/semi/aerospace are core end-markets; nuclear/fusion BeF₂ is small-share product. Re-eval if MTRN starts disclosing Flibe / Nuclear / Fusion as separate segment crossing 20% of revenue. The Flibe-chokepoint-with-no-pure-play-alternative gap is documented. ([MTRN Q1 2026 8-K](https://www.sec.gov/Archives/edgar/data/0001104657/000110465726000026/q12026pressrelease.htm)) |
+| **FLS** (Flowserve Corporation) | Reactor coolant pumps + valves + nuclear pump aftermarket | Est. $6-7B (over Tier 3 cap; near Tier 4 boundary) | Q1 2026 total bookings $1.15B with **>$110M nuclear orders for third consecutive quarter**; secured **first production SMR order Q1 2026**; Trillium Valves Division acquisition $490M closing mid-2026 (~$200M annualized rev + ~200k-unit installed base in 115 operating nuclear reactors). **H8 fails likely** (FPD + FCD segments broadly industrial: oil/gas/chemicals/power dominant; nuclear sub-10% likely). Routes to MONITOR. Re-eval if nuclear surpasses 20% of revenue or AI-DC power emerges as separate disclosure. ([FLS Q1 2026 8-K](https://www.sec.gov/Archives/edgar/data/0000030625/000119312526039379/d42935dex992.htm)) |
+
+### Existing nuclear universe entries — Scan 05 updates
+
+| Ticker | Prior status | 2026-05-27 update |
+|---|---|---|
+| **NNE** (Nano Nuclear Energy) | TIER 3 WATCH — H10-N PENDING (substance check required) | **Supermicro MOU 2026-05-06** for microreactor integration with AI server / data center platforms ADVANCES H10-N status from "PENDING substance check" to **H10-N FLAG** (private-counterparty MOU is partial signal — not government bellwether, not binding offtake, but is the most direct nuclear ↔ AI-DC commercial relationship of any current Archos candidate). Re-eval trigger advances to: next quarterly 10-Q + first Supermicro deployment milestone OR first government anchor (DOE LPO / NRC milestone). |
+| **NUCL** (Eagle Nuclear Energy) | TIER 3 WATCH — H10-N PENDING | No new substance signal this scan. Status unchanged. |
+
+## REJECT log (first forward screen + bellwether sweep)
+
+| Ticker | Reason |
+|---|---|
+| DUOT | H8 FAIL — AI-hosting >50% revenue projected H2 2026, not present |
+| EOSE | H11 FAIL — 2025 10-K going-concern |
+| TE (T1 Energy) | H10 + H8 FAIL — WOLF anti-pattern (solar, not AI-DC). Fuzzy Panda short report May 19: FEOC non-compliance, DOJ/SEC subpoenas, empty G2 factory site, $41.4M unearned tax credits booked |
+| HPS.A | H5 FAIL — LOVED; +111% YTD at ATH |
+| LTRX | H10 FAIL — edge-inference out-of-scope |
+| NNBR | H10 + H8 FAIL — BW blind-spot pattern |
+| DIOD, FPS, IESC, SPXC, CAMT, MOD | H8 size or revenue concentration |
+| IPWR | Pre-revenue moonshot |
+| HIVE, BITF, CLSK, RIOT, KEEL, EVTV | Sector pivot blind spot |
+| USAR | Geopolitical materials parallel framework |
+| GLW, MU | Mega-cap H8 fail |
+| HLIT, LPTH | Not AI-infrastructure pure-play |
+| AAON, PSIX | Framework precedent rejects |
+| KLIC | H5 LOVED (bellwether sweep) |
+| CWR.L (Ceres Power) | H5 LOVED post +100% rerate (bellwether sweep) |
+| AlphaTON, Bitzero, Axe Compute, Digi Power X, Alpha Compute, K Wave | Sector-pivot blind spot (bellwether sweep) |
+| OKLO | Pre-revenue moonshot blind spot — LWLG analog. Meta named OKLO via Pike County OH gigawatt prepayment (H10 vendor-level fire) but H8 ($7.2B mkt cap), pre-revenue, and large operating losses fail. Live-screening calibration of the pre-revenue moonshot blind-spot pattern. Tracked separately as potential first-mover for emerging chokepoint #11 (SMR-for-AI-DC). |
+| INOD | Already-documented out-of-scope: AI services not infrastructure. Q1 2026 +54% YoY ($90M revenue) but no bellwether names training data as binding constraint. Surfaced via revenue-inflection screen 2026-05-24; framework correctly rejected on H10 absence. |
+| SANM | **v2 update 2026-05-24:** Cloud/AI segment Q2 FY26 of $2.77B (+280% YoY) was driven by ZT Systems acquisition Oct 2024 from AMD ($1.88B of the segment is ZT). **Organic core SANM grew 22% YoY only** — fails the >40% threshold. **M&A pivot blind spot (SEI pattern)** — out of framework scope per INSIGHTS.md. v2 segment-level extension correctly surfaces SANM but routes to blind spot, not ACCEPT. Calibration case for v2 design. |
+| PENG | **v2 update 2026-05-24:** v1 reading WAS WRONG. Advanced Computing (HPC/AI) segment Q2 FY26: $116M, **DOWN 42% YoY** (not growing). Driver: wind-down of Penguin Edge + reduced hyperscale hardware. Forward bookings strong + AMD partnership announced (stock +13%), but Q2 segment data is contracting. Framework correctly does NOT flag. v2 caught and corrected the v1 false positive. |
+| VECO | Surfaced via revenue-inflection screen 2026-05-24 but Q1 2026 revenue declined (China BIS headwind). $250M order book for InP laser tools is a forward-leaning signal but appears under **supplier-mapping** category (2nd degree from NVDA via Lumentum/Coherent/AAOI). Re-screen next quarter if order book translates to revenue. |
+| FN (Fabrinet) | Surfaced via supplier-mapping screen 2026-05-24 with strongest one-degree NVIDIA disclosure of the run (NVDA 27.6%, CSCO 18.2% of FY2025 revenue). H8 fail at $27.3B mkt cap. Already-rerated. **Calibration case for screen design** — would have been caught at the inflection in 2022-2023 when FN was sub-$5B. |
+| Q (Qnity Electronics) | Surfaced via supplier-mapping screen 2026-05-24 with TSMC 8% + Samsung 11% customer concentration. H8 fail at $24B mkt cap (semiconductor materials spinoff). Out-of-scope reference for monitoring materials/electronics layer concentration. |
+| FORM (FormFactor) | Surfaced via supplier-mapping screen 2026-05-24 with one customer 22.9% (likely TSMC or Samsung). H8 fail at $10B mkt cap. Probe-card adjacency to chokepoint #4 (AEHR) but parametric test, different category. |
+
+### Master-screen REJECT additions (2026-05-24)
+
+**Sector-pivot blind spot (AGPU/SHAZ pattern — penny-stock or de-SPAC rename pivots into AI/defense narratives):**
+
+| Ticker | Reason |
+|---|---|
+| FABC (Fabric.AI, ex-StableX) | Penny-stock rename Apr 2026 into "Neural I/o MicroLED interconnect for GPU↔memory bottleneck." Surfaced via keyword-emergence Screen 5. AGPU/SHAZ pattern — exclude. |
+| VWAV (VisionWave Holdings) | de-SPAC defense AI/RF sensing; April 2026 Foresight 51% term sheet + LatAm purchase order. SHAZ-class reverse-merger pivot. Surfaced via keyword-emergence Screen 5. |
+| VDTA (Vertical Data Inc.) | SPAC-style new-issuer "GPU compute" first 10-Q with no operating history. Surfaced via keyword-emergence Screen 5. |
+| BSAI (BluSky AI) | Penny-stock neocloud branding play. Surfaced via keyword-emergence Screen 5. |
+
+**Insider-screen rejects (broad-universe path — out-of-lens or false-positive insider patterns):**
+
+| Ticker | Reason |
+|---|---|
+| BETR (Better Home & Finance) | CEO Garg buys $778K but he is also 10% Owner; repeat monthly accumulation pattern, not contrarian conviction. Surfaced via insider Screen 3. |
+| COE (51Talk Online Education) | CEO Huang $1.5M+ cluster but 10b5-1 plan (non-discretionary scheduled). Out of lens. |
+| VCIG (VCI Global) | CEO subscription at 10% PREMIUM via scheduled $13.3M program, not open-market conviction. Out of lens. |
+| STEX (Streamex) | RWA tokenization micro-cap; Interim Chair sold in 3-person cluster 4/13-15 then re-bought 5/21 — managed retail-facing insider signaling around price decline. Out of lens. |
+| ANVS (Annovis Bio) | Director Hoffman repeat YTD buys (~$2M, 12 transactions) but controlling-director pattern, not contrarian. Alzheimer pharma — out of lens. |
+| KLRS (Kalaris Therapeutics) | Casdin Capital "Director" buy is venture-fund accumulation via board seat (functionally 10% holder). Biotech — out of lens. |
+| EROK (EagleRock Land) | IPO insider commitment 5/14 at-offering, not contrarian. Permian land royalty, over cap, out of lens. |
+| FCN (FTI Consulting) | CEO/CSO/CFO cluster $2.08M but mkt cap >$5B and ~22% below high (under 25% drawdown threshold). |
+| NIQ (NIQ Global) | Director Peck $1.0M — over $500M cap ($3.0B). |
+| MP (MP Materials) | COO Rosenthal $962K — over cap; already-tracked critical-minerals name in non-Archos framework. |
+
+**Master-screen revenue / earnings rejects (sustained-growth-not-inflection, out-of-lens, or over-cap):**
+
+| Ticker | Reason |
+|---|---|
+| RNXT (RenovoRx) | "+136% QoQ revenue" but first commercial year — no prior baseline for inflection. Medical device, GLP-1 adjacent only. |
+| SI (Shoulder Innovations) | +65% YoY but prior 4 quarters were +33%/+58%/+65% — already-accelerating, not first-time inflection. Medtech, UNCATEGORIZED. |
+| PACK (Ranpak Holdings) | Automation segment +112.7% inside a $526M mkt cap, but segment was already +63%/+40% accelerating. UNCATEGORIZED (Amazon/Walmart packaging). Borderline cap. |
+| HYLN (Hyliion Holdings) | +460% Q1 YoY ($2.8M revenue base $489K) but $629M mkt cap = over screen cap. ONR + DARPA USX-1 Defiant. Reference case for "caught one quarter late." |
+| NRGV (Energy Vault) | +156% Q1 YoY ($21.9M revenue, 100MW AI DC Powered Land/Shell, $1.35B backlog) but $912M = over cap. Caught one quarter late. |
+| SATL (Satellogic) | +80% Q1 YoY but $1.14B = over cap (+434% in 6 months). LEO imaging. Caught two quarters late — the cleanest "if we'd had this screen 2 quarters ago" reference. |
+| XERS (Xeris Biopharma) | Recorlev +95% YoY but $1.13B = over cap. GLP-1/Pharma. |
+| FIGR (Figure Technology) | +94.8% YoY but $8B = over cap; recent IPO, fintech. |
+| KDK (Kodiak AI) | NVIDIA DRIVE Hyperion partnership but $1.45B = over cap (autonomous trucking). |
+| KRMN (Karman Holdings) | +51% YoY ($151M Q1) but $9.3B = over cap. Hypersonics + Strategic Missile Defense. |
+| ULBI (Ultralife) | Revenue declined -6.5% — not inflection. |
+| SOLS (Solstice Advanced Materials) | $12.7B = over cap (recent spin-off). Nuclear/electronic materials/sputtering targets. Reference case. |
+| DTST (Data Storage Corp) | "Sovereign AI Solutions" subsidiary just launched with $250-300K spend — concept only, single-digit growth. AGPU-vocabulary risk. |
+| CIFR (Cipher Digital) | $8.4B = over cap; already-tracked sector-pivot pattern. |
+| FRMI (Fermi Inc) | $3.82B = over cap; 8GW Amarillo campus. AI Infra + Nuclear hybrid. Reference case. |
+| INDV (Indivior) | $4.67B = over cap; SUBLOCADE +32% (not GLP-1-adjacent enough). |
+| AMN (AMN Healthcare) | +100% YoY likely M&A-driven, not organic. Healthcare staffing. UNCATEGORIZED. |
+
+**Master-screen Tier-2/3 reference rejects (over cap but worth documenting as adjacent context):**
+
+| Ticker | Reason |
+|---|---|
+| MRLN (Merlin) | $687M = over cap; USSOCOM C-130J autonomy IDIQ $105M ceiling. de-SPAC March 2026. Defense autonomy reference. |
+| AVEX (AEVEX Corp.) | $1.26B = over cap; IPO Apr 17 2026, Phoenix Ghost + EUCOM Deep Strike $1.2B contracts. Pure-play DoD UxS public-market repricing reference. |
+| IMSR (Terrestrial Energy) | $734M = over cap; de-SPAC Nov 2025, Riot Platforms MOU for AI-DC colocation + 7.8 GW indicative pipeline. Nuclear ↔ AI thesis reference. Re-screen if cap retraces. |
+
+**Master-screen miscellaneous (out-of-lens but documented):**
+
+| Ticker | Reason |
+|---|---|
+| TWFG (TWFG Inc) | $245M insurance brokerage; Director Doak $620K open-market buy ~50% below high — clean signal but UNCATEGORIZED. |
+| TISI (Team Inc) | $74M industrial services; new-CEO Hill open-market buy ($94K) + 3-insider cluster — clean signal but UNCATEGORIZED (only thin DC-mechanical-commissioning adjacency). |
+| FJET (Starfighters Space) | $227-317M but no Fortune-500/govt counterparty in 8-K — $17.5M PIPE only. NASA is landlord, not counterparty. |
+
+### Weekly-scan FULL-RUN REJECT additions (2026-05-26)
+
+**Material agreements (Screen 1) — incremental to partial:**
+
+| Ticker | Reason |
+|---|---|
+| NVTS | Contingent earnout share issuance from 2021 Live Oak SPAC merger — not customer agreement |
+| ONTO | $1.5B convertible senior notes + capped call — debt issuance |
+| CW (Curtiss-Wright) | $1B JPM revolver — mega-cap, bank facility |
+| EXYN | Amendment #3 CEO employment Deal Bonus — insider comp |
+| POLA | Mammoth Crest Capital restructuring — distress |
+| EMAT | de-SPAC via WTMA SPAC + DFARS positioning — sector-pivot pattern |
+| XE | Over Tier 2 ($11.11B); post-rerate; investor presentation 7.01 not 1.01 |
+| WULF | Muskie Data Campus supplier acquisition (counterparty = IEP private seller) |
+| FCEL | Board appointment + Q2 earnings date — framework precedent (BE is sub-$5B vehicle for #9 SOFC) |
+| NNDM | Governance dispute, not customer agreement |
+| CNTA | Being acquired by Eli Lilly (M&A pivot blind spot; pharma out-of-scope) |
+| AIB (BlockchAIn Digital) | Ireland reverse-merged commodity broker pivot to AI; $4.9M rev + $400M non-binding LOI; Cluster 8 microstructure |
+| BCAR | Pre-de-SPAC w/ Exascale Labs (target XLAB) — AGPU/SHAZ-class pre-merger |
+| UP | Delta Air Lines lockup extension — not customer contract |
+| DUOT | Already REJECTED previously; sector-pivot pattern |
+| CYN | $9.65M dilution + NVIDIA Isaac Sim "continued collaboration" mention (not binding) |
+| AGAE, KIDZ, IPW, EVTV, HOTH, SLNH, BSAI, GRML, COBA, NOEM, AUMN, HVII, SHAZ | All in REJECT log; identity-pivot SPVs / sector-pivot AGPU-SHAZ / mining false-positives |
+
+**Government contracts (Screen 4) — incremental:**
+
+| Ticker | Reason |
+|---|---|
+| EMAT (Evolution Metals & Tech) | Going-concern auditor opinion (H11 FAIL); $1.88M Q1 rev; pre-revenue de-SPAC rare-earth-magnet pivot |
+| CLIR (ClearSign Technologies) | DOE SBIR hydrogen burner — out-of-lens (decarbonization, not AI infra) |
+| SIDU | MDA SHIELD IDIQ awarded Dec 22 2025 — post-catalyst (5 months late); +250% past month |
+| COBA, KIDZ, LCCC, LVWR, KTB, FE, F, ZCAR, FRME, WAMFF, PLMK, BTU | Boilerplate gov-contract reps / mega-cap / CFIUS context / private-investor counterparty |
+| XE (X-Energy) | $11.11B over Tier 2; investor presentation 7.01 not award; post-IPO post-rerate |
+| RGTI (Rigetti Computing) | $8.79B over $5B cap; already in Phase 1+3 winner universe |
+| QBTS (D-Wave Quantum) | $10.87B over $5B cap; already in Phase 1+3 winner universe |
+
+**De-SPAC reanim (Screen 5) — incremental:**
+
+| Ticker | Reason |
+|---|---|
+| LDTC (LeddarTech) | Filed bankruptcy Jun 2025; Nasdaq delisted; stock $0.007 |
+| DHAI | Nasdaq delisting notice Sep 2025; -99.3% YoY |
+| VSTE (Vast Renewables) | Voluntary delisting; -89.7% 1Y |
+| STI (Solidion Technology) | 4.02 non-reliance on financials Mar 2026 + going-concern Nov 2025 |
+| ZPTA (Zapata Computing) | Moved to OTC; near-non-operating quantum compute |
+| ~30 wrong-sector de-SPACs | ALCE, ZEO, GTI, NMHI, AAGR, HGAS, BNZI, BNAI, HWH, AILE, BRLS, TRUG, ABVE, ECDA, COOT, FUFU, NUKK, ATCH, BCG, LOT, ZK, SVMH, ZCAR, CERO, NIVF, LENZ, SLXN, QTI, TVGN, FLYX, SOAR, PNST, HOVR, XTIA, XBP, AERT, VEEA, MSAI, SOC, LION, SHMD, NUVB, SHEN, ZOOZ — consumer/food/fintech/EV/pharma/media/aviation services |
+
+**Spinoff/REORG (Screen 6) — incremental:**
+
+| Ticker | Reason |
+|---|---|
+| WOLF | Ch11 emergence + new CEO/CFO + 7-director reset = perfect Cluster 3, but **+1585% post-emergence = fully rerated; window closed** |
+| ECG (Everus Construction) | Spinoff 11/1/24 — just outside window; +202% from low; 52w high; fully rerated |
+| AMTM (Amentum) | Sept 27 2024 — just outside window (20mo); flag for next-quarter borderline review |
+| ANGI | Out-of-sector (home services, not AI/defense/nuclear/pharma) |
+| Dead emergences: WW International, ModivCare, Vertex Energy, Container Store, The Lycra Co, Big Lots, Party City, Joann, Rite Aid, Azul, TWNP (Twin Hospitality re-Ch11) | Equity cancelled or delisted |
+| Out-of-scope spinoffs: RHLD (asset mgmt fees), SNRE (Swiss telecom), CMDB (dry bulk), EHLD (shipping), GLIBK/GLIBA (Alaska telecom), MAGN (nonwovens), CURB (REIT), CON (occ healthcare), BKKT (crypto custody Up-C collapse) | Not AI/defense/nuclear/pharma |
+
+**Keyword emergence (Screen 7) — incremental Cluster 8 / sector-pivot blind spot:**
+
+| Ticker | Reason |
+|---|---|
+| FRMM (Forum Markets / ETHZilla) | Multi-pivot SHAZ-class: biotech → iGaming → "neocloud" SPV |
+| CTGL (SkyTech Orion / Citrine Global) | Israeli "plant-based wellness" → drone defense pivot; OTC, zero rev |
+| TOMZ (TOMI Environmental) | Disinfection company w/ LOI for nuclear graphite "Carbonium Core" — pre-deal pivot |
+
+**Short interest (Screen 8) — incremental Cluster 8 auto-rejects:**
+
+| Ticker | Reason |
+|---|---|
+| TEM (Tempus AI) | Heavy SI per Schaeffer's; AI/health-services pure-play; H10 fail |
+| BETR (Better Home & Finance) | 43.93% SI; mortgage; out-of-universe |
+
+### Weekly-scan REJECT additions (2026-05-26 partial run, retained)
+
+**Sector-pivot / identity-pivot pattern (Cluster 8 microstructure or AGPU/SHAZ analog):**
+
+| Ticker | Reason |
+|---|---|
+| AGAE | Esports-to-AI sector pivot. Item 1.01 counterparty = HyalRoute Fiber Optic Group (not NVIDIA); NVIDIA Vera Rubin = marketing copy only in 8-K. |
+| KIDZ, IPW, EVTV, HOTH, SLNH | Identity-pivot GPU-financing SPVs surfaced via 8-K Item 1.01 corpus (Classover, iPower, Envirotech-AZIO, Hoth Therapeutics, Soluna). Cluster 8 microstructure / sector-pivot blind spot. |
+| HVII | de-SPAC of "ONE Nuclear" — development-stage entity, nominal assets, no operating history. AGPU/SHAZ shell pattern. |
+| PHGE (BiomX) | Israeli phage-therapy pharma renamed/acquired DFSL for counter-UAS pivot. Pure pharma-to-defense thematic shell. |
+
+**Financing / counterparty-bank false positives (not customer deals):**
+
+| Ticker | Reason |
+|---|---|
+| HAWK | $125M BofA revolving credit facility. Bank revolver, not customer deal. |
+| BKSY | $250M ATM equity dilution, not customer deal. |
+| LUMN, AKAM, GRDX, VERI, HDSN, DRCT, AVR | Debt/equity financings with banks. Counterparty = bank, not customer. |
+| TLN | $30B+ mega-cap; credit-amendment with banks (NOT the rumored Amazon nuclear PPA). |
+| SITM ($11-21B) | Renesas timing M&A + convertibles. Competitor-acquisition, not chokepoint counterparty deal. Mega-cap. |
+| F (Ford) | $9.6B DOE BOSK loan. Mega-cap, out-of-scope. |
+| LCCC, OCTV, LVWR, BFC | Boilerplate "Government Contract" reps-&-warranties in SPAC/M&A/financing agreements. False positives. |
+
+**Revenue-inflection: already-accelerating (failed first-time inflection filter):**
+
+| Ticker | Reason |
+|---|---|
+| EVC (Entravision) | Q1'26 +114% (ATS +204%) but Q4'25 ATS +123%, Q3'25 +66% — already-accelerating, not first-time. |
+| LIFE (Ethos) | Q1'26 +104% but Q4'25 already +65%; full-year 2025 +52% — already-accelerating. |
+| MXL (MaxLinear) | Q1'26 +43%; Q3'25 +56%, Q2'25 +18% — already-accelerating. |
+| MDGL (Madrigal Pharma) | Q1'26 +127% (Rezdiffra); ramping all of 2025; out-of-scope sectors. |
+| PNTG (Pennant Group) | +36% below threshold; Q4'25 +53%. |
+
+**Revenue-inflection: out-of-scope / out-of-universe:**
+
+| Ticker | Reason |
+|---|---|
+| RNXT (RenovoRx) | +186% YoY but $0.5M absolute revenue. Sub-material base. |
+| PDYN (Palladyne AI) | +107% but driven by Nov 2025 M&A (GuideTech / Warnke / MKR acquisitions). **M&A pivot blind spot (SEI/SANM analog).** |
+| AIRO | Revenue declining -24.5%. |
+| OPXS | Revenue declining. |
+| LOAR, DCO, MRCY, ESP | Below 40% YoY threshold. |
+
+**Customer-deposit: diluted across multi-segment parents:**
+
+| Ticker | Reason |
+|---|---|
+| ESE (ESCO Technologies, $8.0B) | A&D segment contract liabilities +$52.8M, but consolidated only +24% diluted across 4 segments (Utility + RF Test + Filtration + A&D). Naval (Globe/Maritime subs) is real signal but parent-level dilutes. |
+| MOG-A (Moog, $10.7B) | Contract advances +$96M but diversified A&D, signal diluted across 4 segments. |
+| NRGV (Energy Vault) | Contract liabilities +132.7% QoQ (real signal!) but already in REJECT (over cap, caught one quarter late). |
+| VDTA (Vertical Data) | $11.2M GPU equipment prepayment. Already in REJECT (sector-pivot SPAC-style new-issuer pattern). |
+
+**De-SPAC reanimation: out-of-window or dead:**
+
+| Ticker | Reason |
+|---|---|
+| FLYY / FLYYQ (Spirit Airlines) | Emerged from Ch11 April 2025 → re-collapsed into SECOND Ch11 May 2026. Dead. |
+| MRIN (Marin Software) | Emerged Sep 5 2025 → delisted, Plan of Dissolution. Dead. |
+| GPOR (Gulfport Energy) | Emerged 2021. Outside 6-18mo REORG window. |
+
+**Spinoff/REORG: over-cap (>$10B — no discoverable-from-scratch micro-cap dynamic):**
+
+| Ticker | Reason |
+|---|---|
+| SOLS (Solstice Advanced Materials) | $13.2B at spin from Honeywell Oct 30 2025. Over-cap; near 52wk high — post-rerate. |
+| Q (Qnity Electronics) | $23.4B at spin from DuPont Nov 1 2025. Over-cap. |
+| RAL (Ralliant) | $6.56B at spin from Fortive Jun 30 2025. At 52wk high $62.95 with new CEO Olumide Soroye — post-rerate. AI/datacenter exposure via Tektronix/Keithley already priced in. |
+| TKMS (thyssenkrupp Marine Systems) | $5.24B EUR Frankfurt-listed. Not US-listed. |
+| MRP (Millrose) | Lennar spin Feb 2025; residential land banking, no AI infra nexus. |
+| CMDB (Costamare Bulkers) | Spin May 2025; dry bulk shipping. |
+| GLIBA/GLIBK (GCI Liberty) | Liberty Broadband spin Jul 2025; Alaska telecom. |
+| RHLD (Resolute Holdings) | GPGI spin Feb 2025; management-fee holdco. |
+| DUOT | Already REJECTED previously. CEO change 4/1/26 too recent; pivot pattern not true restructuring. |
+
+**Keyword-emergence: shell pivots (Cluster 8 / sector-pivot blind spot reconfirms):**
+
+| Ticker | Reason |
+|---|---|
+| (PENG, WRAP, MIR, ASPI, URG, VKTX, TVE — failed emergence test; keyword already present in prior 4 quarters; not surfaced) | Working as intended — emergence filter discriminated correctly. |
+
+**Short-interest overlay: high SI but out-of-scope:**
+
+| Ticker | Reason |
+|---|---|
+| SOUN (40.7%), AI (37.1%), BBAI (25-30%), RXRX (38-40%) | High SI but AI services / drug-discovery pure-plays. Out-of-scope per H10 (not infrastructure). |
+| GRPN (62.2%), HTZ (43.7%), FLWS (40.2%), SPRY (38.1%), PCT (36.9%) | High SI but out of universe (retail / ground transport / specialty / biotech). |
+| YYAI, KALA, LNAI, KITT | Recent reverse splits May 2026, micro-cap, no AI infra chokepoint exposure. Cluster 8 microstructure signature. |
+
+**Mining / minerals (non-bellwether counterparty):**
+
+| Ticker | Reason |
+|---|---|
+| GRML, COBA, NOEM, AUMN, FCX, EROK | Counterparty = private investor or sub-scale, not bellwether (DoD DPA / DOE LPO / Pentagon equity). Out of Critical Minerals lens. |
+
+### SCAN_02 Neocloud Second-Wave REJECT additions (2026-05-27)
+
+**Calibration / explicit DD-reject case:**
+
+| Ticker | Reason |
+|---|---|
+| **BRUN** (Boost Run, Inc., Nasdaq debut May 11, 2026 via Willow Lane SPAC business combination) | **Per SCAN_02_NEOCLOUD_SECOND_WAVE.md prompt explicit calibration: "claimed to be second-wave but failed DD (unnamed customers, SPAC sponsor with two prior zeros)."** Surface signals strong: $940M total contracted customer revenue, $375M ARR exit FY26, 125 MW total capacity (6 active + 5 in progress), NVIDIA Exemplar Cloud on Blackwell (April 13, 2026), NVIDIA Preferred Cloud Provider, average 3-year customer contract terms. Market cap ~$1.5B = TIER 2 CATALYST band. **But all $940M portfolio counterparties are UNNAMED.** This is THE BRUN-pattern calibration case — Exemplar Cloud certification is a technical benchmark, not a counterparty validation. Maintain REJECT. |
+
+**Cluster 8 / sector-pivot pattern surfaced during SCAN_02 (added to known Cluster 8 vocabulary):**
+
+| Ticker | Reason |
+|---|---|
+| BIRD (Allbirds) | $2.75M NVIDIA Blackwell GPU lease via Lessor structure. Shoe co. → AI compute lessor — Cluster 8 microstructure rename. |
+| TGL (Treasure Global) | V Gallant service agreement for GPU servers + AI cloud. Cluster 8 SPAC-style sector pivot. |
+| RUM (Rumble) | Tether $150M GPU services 2-yr binding agreement (Tether buys from Rumble). $767M Northern Data acquisition closing mid-June 2026 (22,400 H100/H200 GPUs + 180MW Maysville GA datacenter). **M&A pivot blind spot per INSIGHTS.md (SEI/SANM pattern)** — Rumble was video platform; AI compute exposure acquired, not built. Out of framework scope. Document for reference. |
+| OBAI (Our Bond) | Cloud infrastructure pivot — Cluster 8 microstructure shell pattern. |
+| AIFC (AI Financial Corp) | Cloud infrastructure-themed Cluster 8 pivot. |
+| ZSQR (Z Squared) | Planned (pre-revenue) high-performance compute hosting business; will provide GPU/TPU compute capacity to AI/ML/scientific workloads. Stream 1 + planned colocation services. Cluster 8 / pre-revenue moonshot. |
+| DTCX (Datacentrex) | Colocation arrangements + hosting deposits ($621K). Small entity. Cluster 8 if pivoted to AI cloud narrative. |
+| GPUS (Hyperscale Data) | Hybrid BTC mining + AI GPU clusters via Sentinum subsidiary. Q1 revenue +76% YoY but BTC-dominant mix. Already documented as out-of-scope. |
+| AIB (BlockchAIn Digital Infrastructure) | Ireland reverse-merged commodity broker pivot to AI infra. Already REJECT — repeats here as Cluster 8 reconfirmation. |
+| KEEL (ex-BITF; Keel Infrastructure) | BTC → HPC/AI pivot. Already REJECT. |
+| MIGI/BGDE (Big Digital Energy, ex-Mawson Infrastructure) | Strategic colocation agreement with Endeavor Group affiliate (commercial relationship via affiliate); BTC mining context dominant. Cluster 8. |
+
+## Cadence
+
+- **Weekly (Sunday):** WEEKLY_SCAN_PROMPT.md — 8 parallel screens. Output: weekly-scan/runs/{date}-run.md.
+- **Monthly:** Refresh H5 sentiment per candidate; ETF inclusion check; re-check WATCH triggers
+- **Quarterly (after 13F deadlines 5/15, 8/15, 11/15, 2/15):** Re-pull Aschenbrenner + specialist watchlist
+- **Quarterly (after NVDA/TSMC/AVGO/MSFT/META/AMD earnings):** Update CHOKEPOINT_TAXONOMY.md
+
+## Next screening: 2026-05-31 (next Sunday weekly cadence)
+Sooner if: (a) NVDA Q1 FY27 earnings, (b) SIVEF annual report or Nasdaq US dual listing, (c) Sakura Internet quarterly with AI-cloud disclosure, (d) CLSK hyperscaler announcement, (e) **WYFI counterparty identification + DD checklist completion** (URGENT — full DD required given $160M binding agreement caught 5/21 with unnamed customer), (f) BTDR 6-K with hyperscaler partnership, (g) ICHR or UCTT 10-Q with AI-DC WFE end-market disclosure, (h) **CTM full lens-framework check + Sounding Board discussion** (URGENT — $65M Defense pure-play with 5x TTM Navy backlog), (i) **SCIA Q2 10-Q for end-market mix disclosure (H8 gate)**, (j) **CRML next 6-K filing + H13 codification decision** (paired with ALOY + PPTA — three sub-$5B Critical Minerals names on US-defense-aligned chains in 8 days), (k) **SYPR / OPTX / RDW first follow-on 8-K or 10-Q** (weekly-scan WATCH), (l) **PPTA next 8-K (EXIM def docs / construction commencement)** — H13 codification gate, (m) **AISP next DHS award follow-on or insider buying continuation** — fast-track DD candidate, (n) **LFCR + H11' Pharma chokepoint codification gate** — Sounding Board, (o) **SPAI full DUE_DILIGENCE_CHECKLIST.md** (URGENT — highest-conviction nano-cap AI find of 2026 H1; cross-stream double-fire on AISP-template archetype), (p) **EXYN S-1 + post-IPO ops + USSOCOM contract structure verification**, (q) **ONMD Cluster 1 reanim DD (Q1 FY26 10-Q + Palantir Foundry integration + Form 4 insider buying detail)**, (r) **DFNS / XTIA DD Section 2 (Cluster 8 gates: Nukkleus prior-entity history for DFNS; TriFan VTOL→drone rename pivot for XTIA)** — required BEFORE any framework promotion, (s) **8-K Item 1.01 design-win disclosures naming "1.6T" or "co-packaged optics" from sub-$5B US-listed entities** (per SCAN_04 2026-05-27 watch list — chokepoint #8 currently structurally consolidated; no current sub-$5B US-listed pure-play; watch for first sub-$5B emergence over next 2-3 quarters), (t) **Ayar Labs IPO filing or Lightmatter S-1** (SCAN_04 top IPO watch for sub-$5B CPO/SiPho pure-play emergence — both private companies in active fundraising), (u) **AXTI un-breach scenario** (now $7.60B, down 17.5% WoW; would need ~$3.5B further compression to re-enter sub-$5B chokepoint #1 entry window — daily monitor).
+
+Insider-buying-weakness screen next run: 2026-07-01 (monthly cadence, 1st of month). Sooner if any WATCH name takes a >20% drawdown.
+
+Master-screen (universal multi-lens) next run: 2026-06-21 (monthly cadence).
+
+## Active discovery screens
+
+- **weekly-scan** — WEEKLY (Sundays). Single canonical entry point: `archos/weekly-scan/WEEKLY_SCAN_PROMPT.md`. 8 parallel screens: (1) material-agreement, (2) revenue-inflection, (3) customer-deposit (NEW from Phase 3), (4) gov-contracts, (5) de-SPAC reanimation (NEW), (6) spinoff/REORG (NEW), (7) keyword-emergence, (8) short-interest amplifier overlay. v1 first run 2026-05-26 (partial, ~1,000 artifacts): 0 TIER 1, 0 TIER 2, 4 TIER 3 WATCH, 2 blind-spot flags. **v1 FULL run 2026-05-26 (canonical Sunday scan, ~1,800-2,200 artifacts)**: 0 TIER 1, **3 TIER 2 STRONG (WYFI catalyst-confirmation, PPTA $2.9B EXIM, AISP DHS+pipeline cleanest)**, **11 TIER 3 WATCH (4 partial-run + 7 new full-run: CRML triple-amp + AIRJ + GCTS + SLNG + TH + LFCR + AMPG + VOYG; SYPR/OPTX/RDW status quo)**, **3 sub-threshold WATCH (INFQ/CECO/BWMN)**, **3 blind-spot flags (BW + CENX + WOLF active squeeze)**, ~50 REJECT log additions. Highest-yield screens full run: **Screen 4** (vocabulary expansion to DOE/EXIM/CHIPS unlocked PPTA + VOYG vs partial's 1 SYPR), **Screen 5** (5 de-SPAC hits aggregated full+partial: CRML/OPTX/AISP/AIRJ/GCTS), and **Screen 1** (WYFI catalyst-confirmation). **Two parallel-framework codification gates now actionable: H11' Pharma chokepoint (LFCR), H13 Critical Minerals (CRML+ALOY+PPTA triple support).** Output lives in `archos/weekly-scan/runs/`.
+- **revenue-inflection** (now subsumed into weekly-scan Screen 2) — historical: monthly v2 design 2026-05-24, surfaced BTDR (Level 3 BTC-pivot watch); correctly rejected SANM (M&A pivot) and PENG (segment declining). Now executes weekly inside the master prompt.
+- **supplier-mapping** — quarterly standalone. v2 design (2026-05-24): one-degree (sub-$5B 10-K naming bellwether) + two-degree (sub-$5B 10-K naming mid-chain COHR/LITE/FN/AAOI/AMKR/AMAT/LRCX). v2 surfaced ICHR + UCTT (WFE upstream chain via AMAT/LRCX/TSMC). **AXTI retroactive test STILL FAILED on v2** due to structural reason: COHR/LITE/AAOI are all vertically integrated on InP and don't disclose substrate suppliers. Runs separately from weekly cadence.
+- **insider-buying-weakness** — monthly standalone. v1 design (2026-05-24): EdgarTools `insider_activity` per-name on WATCH list + chokepoint pure-plays + extended sub-$10B AI-adjacent universe. v1 first run: 45 names checked, 38 show insiders SELLING (validates Phase 1 H3 in real-time), 1 cluster BUY hit (EOSE — CEO + 2 directors $693K Mar 2026) but routed to H11 FLAG calibration branch (going-concern). Zero new WATCH candidates added. OpenInsider unreachable from environment — EdgarTools per-name pulls is the primary path going forward. Runs separately from weekly cadence.
+- **patent-cluster, conference-presenter** — PLANNED (need additional tooling)
+- **de-SPAC master list build** — PLANNED. One-time build of `archos/weekly-scan/de-spac-master-2023-2024.md` will 10x Screen 5 efficiency. Seed sources: stockanalysis.com/actions/spinoffs/ + bankruptcies/ filtered sub-$10B + US-listed.

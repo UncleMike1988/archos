@@ -1,0 +1,952 @@
+# state.md — Archos
+# Framework version: v2.0 (bumped 2026-05-27 evening — see Framework Evolution Session entry below)
+
+## Current status: LEAPS SECTOR SCAN COMPLETED 2026-05-28 EVE — Multi-sector LEAPS scan based on NOW/CRM template (quality compounders down 35%+ from highs with Jan 2028 LEAPS for 2x+ on PARTIAL recovery to PT). **SEPARATE STRATEGY from Archos chokepoint framework** — distinct bucket targeting >$5B liquid-LEAPS quality compounders (Archos = sub-$5B chokepoint pure-plays). **4 parallel general-purpose agents** fanned across 8 sectors (~75 names): SaaS/Fintech (Agent 1), Semis/Healthcare (Agent 2), Consumer/Energy/Industrials (Agent 3), China ADRs/Misc (Agent 4). **UNIVERSE: 75 names | PASS: 21 (28%) | WATCH: 14 | REJECT: 40+.** **Top tier-A recommendations (4 NEW positions to consider alongside CRM coming in):** (1) **VEEV $160C Jan 2028** ~$30 premium est — 3.80x at PT $274 = CLEANEST LEAPS MATH in scan; world-class life-sciences SaaS in distinct subsector from NOW/CRM (no SaaS-stacking violation); FY27 guide RAISED above estimates; earnings June 3 binary — recommend AFTER print sizing; (2) **NKE $50C Jan 2028** $9.80 ask — direct NOW analog (Hill turnaround, brand permanence, "competition kills NKE" fear); 1.33x at PT $63 / 3.06x at 52wk high $80; ATH $179 implies ~30x lottery; no near-term catalyst, deploy pre-emptively; (3) **LULU $130C Jan 2028** $37.50 last — direct CRM analog (growth-decel fear + premium brand at all-time-low P/E 10.5 / P/S 1.4); 1.65x at PT $192 / 2.80x at midpoint $235 = BEATS CRM bar at midpoint; China comp +30% Q4; earnings June 4 binary; (4) **DASH $160C Jan 2028** $46.30 bid — revenue +33% accelerating + GOV +37%; 3.02x at TIKR PT $300 (1.55x at MarketBeat PT $232 = wide PT band creates uncertainty); -45% drawdown on AV/grocery fear overstated 12-18mo. **Tier-B alternatives if slot remains:** RBLX $45C $19 mid (3.16x at PT $105, deepest healthy drawdown -70%); BABA $125C $31.96 last (2.03x at PT $190 ≈ 52wk high; China rerating + AI cloud +38%); CHWY $22.50C $6.55 mid (2.98x at PT $42 but Q1 EPS missed by 68% on 5/27 — sentiment hasn't reset). **Explicitly NOT recommended** (despite passing filters, would violate diversification mandate "max 3 SaaS"): HUBS / TEAM / WDAY / ADBE / INTU (all SaaS — already 2 deployed in NOW + CRM). Also NOT recommended on math: NFLX 1.35x at PT, PYPL 1.47x at PT, HOOD 1.60x at PT, SHOP 1.13x at PT, PINS 1.19x at PT, W (PT < BE = math broken + H11 risk), DG (PT ≈ BE = no asymmetry). **Sector verdicts:** SaaS = 1 of 14 cleanly clears math bar (VEEV); Consumer/Brand = 2 A-grade template fits (NKE + LULU); China = BABA only; Semis = 0 PASS (entire sector at/near ATH on AI rerate); Clean Energy = 0 PASS (graduated, too-small, or impaired); Industrials = 0 PASS (rerated through AI/electrification cycle); Healthcare = 1 conditional (ALNY excellent fundamentals but no Jan 2028 LEAPS — only Dec 2027 = strict filter fail). **NVO is critical REJECT calibration case** — 56% peak drawdown LOOKS like template but management is guiding FY26 SALES CONTRACTION (-4 to -12%) and CagriSema Phase 3 failed Feb 23 2026 = thesis-broken / structurally impaired (OPPOSITE of NOW/CRM); template is NOT "down 50%+ = buy". TTD is parallel calibration (Amazon DSP structural taking share — KeyBanc: "does not see competitive factor changing"). **CRM benchmark math:** $160C at $56 spot $175 → 2.50x your money at PT $300. **Only 4 of 21 PASS candidates beat the 2.50x-at-PT CRM bar cleanly:** VEEV (3.80x), RBLX (3.16x), DASH-TIKR-PT (3.02x), CHWY (2.98x). The remainder either clear at MIDPOINT (LULU 2.80x, HUBS 4.28x, INTU 4.17x), at 52wk-HIGH (NKE 3.06x, PYPL 3.74x, HOOD 3.16x, ADBE 4.02x), or marginally miss (TEAM 2.12x, WDAY 2.17x, BABA 2.03x). **Recommended deployment order (assuming CRM enters as planned):** CRM $60K → VEEV $30-60K post-6/3-print → NKE $30-50K (no binary) → LULU $40-75K post-6/4-print. If $30-60K remains: DASH or RBLX. **Don't stack:** avoid BOTH NKE and LULU at full size (both Consumer brand, same fear cluster). **CRITICAL DATA CAVEATS:** (1) Massive Market Data option-snapshot endpoints HTTP 403 on current tier — premiums sourced from Yahoo Finance / StockOptionsChannel direct chains; some SaaS premiums (ADBE/VEEV/HUBS/INTU/WDAY/TEAM/HOOD/PYPL) are Black-Scholes estimates that may diverge ±10-20% from broker bid/ask, VERIFY in Fidelity/Schwab/Tastytrade before order; (2) Liquidity check OI>100 and spread<15% NOT verified — confirm at broker; (3) June 2026 earnings binary calendar: DG 6/1, VEEV 6/3, LULU 6/4, ADBE 6/12; pre-position 50% on binary names if entering early. **Strict filter borderline-misses to monitor:** ALNY (Dec 2027 LEAPS only — substitution decision); REGN (24% drawdown vs 30% bar — watch for ~$580 pullback); ULTA (27% drawdown — watch for ~$500 pullback); MNDY (cap $4.1B vs $5B bar — watch for rally through $5B). Files modified: weekly-scan/runs/2026-05-28-leaps-sector-scan.md (created — full scan with 6 sections + LEAPS math tables + final ranked recommendations + CRM benchmark comparison + sector insights + critical caveats; ~25 pages); state.md (current status + project timeline updated — this file). NOT modified per session brief: CANDIDATE_UNIVERSE.md and CHOKEPOINT_TAXONOMY.md (this is a SEPARATE STRATEGY from Archos chokepoint framework, intentionally orthogonal). **GIT NOTE — FIFTH CONSECUTIVE SESSION FLAG:** archos directory remains NOT a git repository (verified via `git status` → "fatal: not a git repository"). Session-end git commit/push protocol from CLAUDE.md CANNOT be executed. Today's accumulated session work (SCAN_CPO_FULL_SWEEP + ANRITSU DD + AEHR DD + SOITEC DD + AIXTRON DD + LEAPS SECTOR SCAN = 6 major artifacts) is unversioned on disk. **User decision URGENT** — `git init` Archos before next research session OR codify alternative versioning protocol. Will NOT initialize unsolicited per WORKING_PHILOSOPHY.md sensitive-file protocol. Prior status: AIXTRON DD COMPLETED 2026-05-28 PM — Full v2.0 DD on AIXTRON SE (Xetra: AIXA / OTC: AIXXF) finished. **VERDICT: GRADUATED REJECT for new ACCEPT-track entry — DD passes adversarial vetting (0 RED / 2 FLAG / 4 CLEAR) but framework filters H8 + H5 fail on real-time data and override.** This is the **second canonical "DD-window-graduation" case of 2026-05-28** alongside SOI/Soitec same-day — both Tier A DD QUEUE candidates from the CPO Full Supply Chain Sweep crossed the $5B Tier 3 ceiling during DD execution windows, validating the SOI-dd "REAL-TIME CAP RE-CHECK BLOCKER" operating rule (added to INSIGHTS.md per SOI-dd session). Cap was $4.9B borderline at CPO sweep AM per SCAN_CPO_FULL_SWEEP Tier A assignment; +8.4% one-day May 27 (€52.76 → €57.20) plus continued momentum through May 28 to **€58.90 = €6.62B = ~$7.15B USD** crossed the threshold by DD launch — at 52-wk high (within 1.1% of €59.54 ATH), **+230% YTD from €17.31**. DD aggregate: §1 Management **FLAG** (Felix Grawert CEO since 2021 MIT PhD + Infineon high-voltage pedigree + contract extended Aug 2030; CFO Christian Danninger clean; supervisory board chair Alexander Everke ex-ams OSRAM CEO; vice chair Frits van Hout ex-ASML; KPMG-audited; BaFin Directors' Dealings show insider net BUYERS in 12mo — Grawert+Danninger+van Hout+Schindelhauer all bought 2024-2025, ZERO top-of-rally sells; SINGLE FLAG = CEO honest valuation skepticism at Q1 2026 call "€450M 0%-coupon convert really great opportunity we couldn't resist" + "won't buy back at this share price level" — honesty is GREEN but implicit "stock fully priced" message is direct entry-timing input); §2 Counterparty **CLEAR** (**Lumentum publicly named AIXTRON G10-AsP MOCVD systems May 19 2026 in EQS press for InP laser AI-DC expansion = vendor-level H10 fire**; Coherent inferred via 70-90% photonic MOCVD share + multi-fab InP ramp at Sherman TX + Järfälla SE + Zürich CH; SMART Photonics named May 2025; IQE plc historical; NVDA $4B EML lockup at LITE/COHR March 2026 is 3-degree pull-through; AVGO flagged "lasers and PCBs" as 2026 bottleneck); §3 Funding **CLEAR** decisively (€272.7M cash + ZERO bank debt pre-convert + €450M zero-coupon convert April 23 2026 at €50.375 conversion = 30% premium over €38.75 reference → **~€722M pro-forma net cash**; 85% equity ratio; FCF €49M Q1 2026; modest capex €55M FY26 incl Malaysia Penang fab €40M operational 2027; conversion price FIXED — opposite of CYCU's ELOC at 90% of lowest VWAP); §4 Adversarial **CLEAR** (NO published bear case — **Kerrisdale Capital published LONG thesis Nov 2025** at €17 reference, captured the 3x rerate; no Gotham/Viceroy/Muddy/Hindenburg/Spruce/Wolfpack reports; total disclosed BaFin net short ~1.4% of float well below squeeze threshold; WorldQuant + Marshall Wace + JPMorgan AM UK shorts actively COVERING not pressing; pattern inverse of SHAZ); §5 Revenue Reality **FLAG** (FY25 €556.6M -12% YoY; Q1 2026 €59.4M -47% YoY = shipment-timing dislocation NOT structural; **€171.4M orders +30% YoY + €359.1M backlog +39% QoQ = book-to-bill 2.88x confirms acceleration**; FY26 guide RAISED to €560M ±€30M; **Opto = 52% Q1 equipment revenue vs 10% Q1 2025 = 5x mix shift**; Opto orders 70% Q1 intake = €118M vs ~€11M Q1 2025 = **+972% YoY Opto orders**; Berenberg models Opto FY26 €243M = 43% of guide; Kerrisdale FY28 €1.0B target; valuation: TTM P/S 13.2x; FY26 fwd 11.8x; FY27 fwd 8.3x; FY28 fwd 6.6x — priced like ASML on monopoly-share basis; **sell-side PTs LAG spot 30-40%: Berenberg DOWNGRADED to Hold PT €42 May 6 on valuation; DB upgrade-to-Buy PT €31; consensus PT €35; Kerrisdale €66 fair value = only +12% upside from €58.90 spot**); §6 Social **CLEAR** (organic bull case from credible NAMED capital — Kerrisdale LONG thesis, Jason's Chips paid Substack, Citrini Research, PhotonCap, Asymmetrical Bets; ZERO Reddit dedicated DD threads; zero YouTube/TikTok/Instagram organic finfluencer push; no paid promotion; convert timing FLAG noted — Lumentum order announced 34 days AFTER convert pricing argues against insider coordination). **Framework filter verdict:** H10 PASS Vendor-level; H8 **GRADUATED above $5B Tier 3 ceiling at $7.15B** (Tier 4 SEGMENT letter-of-framework MARGINAL — Opto 52% of equipment revenue + 70% of orders + +972% YoY Opto orders qualifies on letter but past spirit because AIXTRON does not have separately reported segments; true AI-DC carveout ~30-40% of Q1 2026 revenue today trending 50-60% by FY 2027); H5 **LOVED-rerated** NOT PARTIAL-RECOVERING (stock AT 52-wk high with no >25% retracement; +230% YTD has consumed most of LOVED dose-response window of <500% remaining magnitude); H11 PASS decisively. **3 of 4 filters PASS; H5+H8 graduation together close the entry window. DD passes but framework overrides per Archos governance.** This is DISTINCT from SHAZ pattern (SHAZ = framework PASS + DD FAIL = HARD REJECT; AIXTRON = framework FAIL + DD PASS = "GRADUATED, past entry window, define re-eval triggers"). **POSITION DECISION: NO NEW ENTRY at current state.** Re-eval triggers: (1) 30-40% pullback to €35-40 + thesis intact → PARTIAL-RECOVERING reclassify at 50% Tier 4 sizing $5-10K equity, magnitude PARTIAL-tier 50-265%; (2) cap pullback <$5B in correction → Tier 3 COMPOUNDER reinstatement at standard $10-25K; (3) NVDA explicitly names MOCVD or AIXTRON tools in Q2 FY27 (late May 2026) or Q3 FY27 (Aug 2026) earnings; (4) customer-deposit step-change in next interim (Aug 2026) propagating from TSEM $290M SiPh Q1 2026 prepayment macro signal. **Calibration:** AIXTRON is NOT SHAZ/POET (no fraud, no toxic financing, no counterparty cancellation, no class action); AIXTRON IS canonical **POWL-late-entry case** — verified chokepoint pure-play with vendor-level H10 fire that rerated ~5x on real fundamentals (€17 → €59) and graduated above $5B during DD execution window, where DD passes adversarial vetting but framework H5+H8 close entry window. **Lessons captured (3 new) — pending INSIGHTS.md ratification:** (L1) "Borderline graduation candidates can graduate during the DD window itself" — when discovery surfaces BORDERLINE-GRADUATION candidates, treat DD as TIME-CRITICAL with 48-72 hour cadence rather than 14-30 day horizon (AIXTRON moved $4.9B → $7.15B in 4 days = +46%/month trajectory; SOI moved same-day on FY26 print); document DD-window-graduation calibration cases. (L2) "DD passing + framework rejecting is distinct verdict from DD failing" — verdict taxonomy: SHAZ-pattern (framework PASS + DD FAIL = HARD REJECT); AIXTRON/SOI-pattern (framework FAIL + DD PASS = "GRADUATED, define re-eval triggers"); Conviction-pattern (both PASS = ACCEPT $15-25K LEAPS); Hard reject (both FAIL = REJECT-log). (L3) "Convertible-at-top-of-rally with honest management is YELLOW not RED" — check (a) management commentary for explicit acknowledgment of opportunistic timing, (b) use of proceeds (growth/M&A/future buyback = neutral; debt refi = defensive RED), (c) structure (fixed conversion = friendly; VWAP-linked = death spiral RED); AIXTRON: honest disclosure + growth proceeds + fixed 30% premium = FLAG entry-timing input NOT RED. **Files modified this session:** `archos/due-diligence/AIXA-dd-2026-05-28.md` (created — full v2.0 DD report with all 6 sections, executive summary, 8 critical DD questions, H8 Tier 4 SEGMENT analysis, framework verdict synthesis, position recommendation with 4 re-eval triggers, 3 lessons captured, ~50 source citations); `archos/CHOKEPOINT_TAXONOMY.md` (header refreshed with AIXA-dd entry pushing SOI-dd to Prior refresh; chokepoint #1 row AIXA inline reference updated cap $4.9B → GRADUATED $7.15B with redirect to Graduated Pure-Plays; AIXA entry added to Graduated Pure-Plays section as third chokepoint #1 graduation alongside AXTI + SOI); `archos/CANDIDATE_UNIVERSE.md` (header refreshed with AIXA DD entry; Tier A DD QUEUE row AIXA updated with DD COMPLETED status + GRADUATED tier verdict + re-eval triggers + DD file link); `archos/state.md` (current status + project timeline updated — this file). **GIT NOTE — FOURTH CONSECUTIVE SESSION FLAG:** archos directory remains NOT a git repository (verified via `git status` returning "fatal: not a git repository"). Session-end git commit/push protocol from CLAUDE.md cannot be executed. SOI + AIXA + Anritsu + AEHR DDs all completed today 2026-05-28 are unversioned. **User decision URGENT** — initialize Archos as git repo before next DD session OR codify alternative versioning protocol. Will NOT initialize unsolicited per WORKING_PHILOSOPHY.md sensitive-file protocol.
+
+## Previous status: SOITEC DD COMPLETED 2026-05-28 PM — Full v2.0 DD on Soitec S.A. (Euronext: SOI / OTC: SLOIY) finished. **VERDICT: REJECT-FRAMEWORK-FAIL / POST-DISCOVERY GRADUATE** — a structurally NEW reject mode not previously documented. Soitec spiked +24.64% intraday on FY26 print (released May 27 after-hours) to €192.20 = €6.86B = **~$8.16B USD — GRADUATED above $5B threshold during the DD session itself**. The scan-time cap of €3.05B / $3.3B (CPO sweep AM same day) was already stale by the PM DD launch. DD scoring: **0 RED / 2 FLAG / 4 CLEAR / 1 PARTIAL-FAIL** → does NOT trigger SHAZ/ALMU-style hard reject by DD section findings. Soitec is structurally DIFFERENT from prior rejects — clean management with net INSIDER BUYING in trailing 12 months, pristine balance sheet (€562M cash, 0.4x ND/EBITDA, +€63M FCF restored beating €6M consensus, OCEANE 2025 refinanced via clean €222M Schuldschein), organic discovery via 8+ independent Substack deep dives with disclosed long positions (Vantix, Crux Capital, Jason's Chips, AlphaDoc, Asymmetrical Bets, PhotonCap, Convequity, WealthyReadings), no paid promotion, no fraud, no AMF enforcement, no accounting restatements, no going-concern qualification. **It rejects only because the four-filter FRAMEWORK FILTERS H5 + H8 fail on real-time data**: H5 LOVED-extreme (52-wk high TODAY, +25% on print, +717% YTD on ADR proxy, +238% 1Y on Euronext), H8 cap >$5B by ~$3.16B, H8 strict end-market FAILS (Photonics-SOI revenue ~$100M ≈ €92M = only **15.5% of FY26 €592M revenue**; Mobile RF-SOI dominates at 52.2% = WOLF anti-pattern parallel), H8 Tier 4 SEGMENT path FAILS (Edge & Cloud AI segment growth only +8% YoY, +19% ex-Imager-SOI; below +40% threshold). H10 partial CONFIRMED — **GlobalFoundries (Fotonix) TIER 1 confirmed via joint 2019 PR + GF SEC 20-F Exhibit 4.12 redacted material contract; STMicroelectronics (STARLight 2025 consortium) TIER 1 confirmed; TSMC COUPE + Tower Semiconductor remain TIER 2/3 INFERRED ONLY — no direct counterparty primary-source acknowledgment found despite Soitec's unilateral marketing claim of being "only supplier approved for volume photonics-grade SOI production by TSMC + GFS + Tower"**. H11 CLEAN PASS. 6 sophisticated quant funds disclosed AMF >0.5% net short positions in last 4 months (Citadel 0.60% + AQR 0.71% + Millennium International 0.79% + Millennium Capital Partners 0.60% + Two Sigma 0.52% + Walleye 0.96% + Numeric 0.78% ≈ 4.4-5% aggregate); **no published Hindenburg/Spruce/Muddy Waters report** — bear case is cyclical-fundamental (mobile RF-SOI destocking + Apple modem in-housing + SmartSiC €41M impairment), NOT fraud. CEO transition Pierre Barnabé → Laurent Rémont (ex-Infineon SVP RF & Sensors, ex-STM 15+ yrs) effective April 1, 2026. **$2B/40% EBITDA medium-term target WITHDRAWN May 2025 and NOT reinstated in May 27 2026 FY26 print** → Soitec is now guidance-light with only Q1 FY27 disclosed. State-shareholder governance (Bpifrance 11% + CEA 7.2% + FSP all on board + double voting rights) means decisions are nationally-strategic. NSIG (Chinese state-affiliated) reduced from 14.5% to 5.8% but signed 10-year manufacturing license extension March 13, 2026 = ongoing related-party + geopolitical risk. **3 NEW STRUCTURAL FINDINGS for the framework:**  (1) **POST-DISCOVERY GRADUATE classification** is a NEW reject mode structurally distinct from SHAZ/ALMU/CYCU REJECTS — DD scoring is clean but framework filters fail on real-time data. Calibration parallel: AIXA DD (2026-05-28 AM) had cap move during DD over multi-day window; Soitec moved during a single session. (2) **REAL-TIME CAP RE-CHECK BLOCKER** new operating rule — verify cap <$5B via Alpha Vantage / stockanalysis intraday at TOP of every DD checklist BEFORE running Sections 1-6; if cap has crossed threshold since scan-time entry, abort full DD and produce GRADUATED-DURING-DD short report; this DD itself serves as the template. (3) **GF 2019 LTA + 20-F redacted Exhibit 4.12 pattern is the canonical "TIER 1 counterparty acknowledgment" template** — when evaluating DD Check 2.3, the strongest possible evidence is the counterparty filing the agreement as a redacted material contract in their SEC 20-F/F-1/10-K Exhibits index. Soitec validated GF + ST at TIER 1; TSMC + Tower at TIER 2/3 only. **PARTIAL-RECOVERING re-entry triggers:** (a) ≤ €144.15 (-25% pullback) with thesis intact → 50% Tier 3 sizing $5-12.5K equity, magnitude expectation PARTIAL-tier 50-265%; (b) ≤ ~€118 (cap <$5B) with Photonics-SOI on >30%-of-revenue trajectory → re-run full DD as IGNORED-tier re-entry; (c) ≤ ~€60 (-70%) → full Tier 3 sizing IGNORED-extreme re-entry. Thesis-break triggers (REJECT extended to DELETE): TSMC or Tower publicly disclaims Soitec as supplier; NSIG Chinese-state forced divestiture under French foreign-investment review; further SmartSiC-style asset impairment >€50M; going-concern qualification in FY26 full annual report when filed (July-August 2026); Pasir Ris extension further impairment. Files modified: due-diligence/SOI-dd-2026-05-28.md (created), CHOKEPOINT_TAXONOMY.md (header refreshed; chokepoint #1 row SOI entry replaced with GRADUATED note pointing to Graduated Pure-Plays section; Soitec ROW ADDED to Graduated Pure-Plays table parallel to AXTI with full DD outcome + re-entry triggers), CANDIDATE_UNIVERSE.md (header refreshed with SOI DD entry; Tier A DD QUEUE table row for SOI/SLOIY updated with DD COMPLETED status + corrected cap to €6.86B / $8.16B + framework-fail rationale + re-entry triggers + DD file link), INSIGHTS.md (3 new structural insights added: REAL-TIME CAP RE-CHECK BLOCKER operating rule + POST-DISCOVERY GRADUATE classification + GF 2019 LTA TIER 1 counterparty template). **Note: archos remains NOT a git repository** — verified again this session via `git status` returning "fatal: not a git repository". This is the 3rd consecutive session flagging the git state (after ANRITSU DD + AEHR DD). Session-end git commit/push protocol from CLAUDE.md cannot be executed; files persisted to disk locally but unversioned. **Sounding Board decision URGENT: initialize Archos as git repo before next DD session OR codify alternative versioning protocol.** Prior status: AEHR DD COMPLETED 2026-05-28 — Full v2.0 DD on Aehr Test Systems (NASDAQ: AEHR) finished. **VERDICT: HOLD / POST-RE-RATE / PARTIAL-RECOVERING WATCH**. Cap CORRECTED from prompt's "$2.4-2.9B" trough reading → **$3.16B verified intraday 2026-05-28** (Finviz + stockanalysis.com cross-check; 31.45M shares × $100.58); the "$2.4-2.9B" reading captured the 5/18-5/20 trough only ($81.14 low close) — AEHR has bounced 24% off the low to $101 in 8 trading sessions. **Chokepoint #1 CPO cross-tag CONFIRMED** via Q2 FY26 8-K (Jan 8, 2026) "lead silicon photonics customer firmed up production ramp" + Q3 FY26 8-K (Apr 7, 2026) "major new customer win... initial order for multiple FOX systems for both qualification and production" — but **prompt was off on source 8-K (said Q1 FY26 8-K; actual sources are Q2 FY26 and Q3 FY26)** and **SiPh customer identity is ANONYMOUS in all FY26 filings** (NOT Tower Semi, NOT GFS, NOT TSMC, NOT Coherent, NOT Lumentum, NOT Marvell). DD aggregate: **1 RED (§5 valuation 70x TTM P/S on declining revenue + analyst PTs 33-45% below spot) + 5 FLAG + 0 CLEAR** — does NOT trigger hard-reject rule (RED is not on §1 or §2). Section breakdown: §1 Management FLAG (CEO Erickson 14-yr tenure clean fundamentals BUT heaviest insider selling cascade in Archos DD history — $44.3M / 13 insiders / 0 10b5-1 / 0 open-market buys in 180 days, CEO sold $10.8M on 4/10/26 during $60M ATM); §2 Counterparty FLAG (customer concentration IMPROVING — top-customer 79% FY23 → 39% FY25 — BUT all customers anonymous; HBM exposure verified as OSAT-mediated forward pipeline NOT direct SK hynix/Samsung/Micron revenue, contradicting prompt context); §3 Funding CLEAR (zero debt, $95M cash post-$60M April ATM, no going-concern) with FLAG on serial dilution ($80M ATM in 12 months); §4 Adversarial FLAG (16.33% SI rising / 1.7 days to cover not a squeeze setup; NO published activist short report; bear case lives in Seeking Alpha + Zacks F-rating + Simply Wall St $16-$64 fair value); §5 Revenue Reality **RED** (TTM $45.25M on $3.16B = 70x P/S vs AAOI 5-7x or CRDO 10-15x graduation comps; revenue declining 4 quarters in a row -16% → -27% → -44% YoY; all 3-4 covering analysts at $56-$68 PTs implying -33% to -45% downside from $101 spot despite Buy ratings; Craig-Hallum + William Blair are BOTH agents on April ATM yet still bearish on price); §6 Social FLAG with **SiPh sub-thesis LOVED** (25+ posts in 30 days from PhotonCap + Citrini + Damnang Substacks + 6+ FinTwit accounts >10K followers — invalidates "hidden second chokepoint optionality" framing). H10 status DOWNGRADED from Vendor-level to Vendor-adjacency (one degree from NVDA-named CPO ecosystem). H5 = PARTIAL-RECOVERING POST-RE-RATE (52-wk $9.38 → $112 = 12x rerate done; -28% retrace from peak then +24% bounce). **POSITION DECISION: HOLD existing; do NOT initiate new at $101**. Re-entry triggers: (1) retrace to $75-85 zone → 50% tier-standard position at PARTIAL-tier magnitude, (2) retrace to $60-70 → full Tier 3 sizing, (3) Q4 FY26 10-K (June/July 2026) first-time SiPh customer-deposit spike >$10M (Framework v2.0 DISCOVERY HIERARCHY propagation from TSEM $290M macro signal — NOT YET FIRED in Q3 FY26 deferred revenue), (4) customer identity reveal (Tower/GFS/NVDA-direct), (5) Q4 FY26 revenue inflection >$20M confirming bookings-to-revenue conversion. Files modified: due-diligence/AEHR-dd-2026-05-28.md (created), CHOKEPOINT_TAXONOMY.md (chokepoint #1 row AEHR entry updated cap + cross-tag CONFIRMED + Vendor-adjacency annotation; chokepoint #4 row updated cap + cross-tag CONFIRMED + POST-RE-RATE annotation; tier distribution + summary updated; framework validation summary updated), CANDIDATE_UNIVERSE.md (header refreshed with AEHR DD entry; Tier B DD QUEUE row for AEHR updated with DD COMPLETED status + re-eval triggers + DD file link). **Calibration:** AEHR is NOT SHAZ (no fraud, no self-dealing, no DeFi, no paid promotion, no published short report); AEHR is NOT POET (no counterparty cancellation, no related-party warrant overlay, no CFO-NDA lawsuit, no PIPE-flipper); AEHR IS analogous to POWL at $328 — verified chokepoint pure-play that rerated 5-10x on real fundamentals, existing holders fine but new entries valuation-constrained. This is a "framework worked, capture window closed" outcome. **GIT NOTE:** archos directory remains NOT a git repository (verified again this session via `git status` returning "fatal: not a git repository") — session-end git commit/push protocol from CLAUDE.md cannot be executed; user decision still pending on whether to `git init` Archos (sensitive change per WORKING_PHILOSOPHY.md — flag rather than do unsolicited). Files persisted to disk locally but unversioned. Prior status: ANRITSU DD COMPLETED 2026-05-28 — TIER A DD QUEUE candidate (3rd of 3) finished. **VERDICT: WATCH (not ACCEPT)**. 6754.T Anritsu cap CORRECTED $2B → **$3.79B USD** (TIER 3 COMPOUNDER firmly; iamfabian Substack $2B was stale; ¥603B @ ¥159.38/USD verified). DD aggregate: **3 CLEAR + 3 FLAG + 0 RED**, BUT **H8 STRICT END-MARKET TEST FAILS** at consolidated level — optical T&M/Network Infrastructure sub-segment only ~24% of total revenue; mobile T&M ~26% is single largest end-market; PQA food/pharma 27% is passive earnings ballast. **This is the WOLF anti-pattern at chokepoint #1 layer** — best-in-class product (BERTWave MP2110A 10G-1.6T optical test workhorse) attached to a diluted parent envelope. H5 PARTIAL → trending LOVED (+185% 1y, +31% 30d, at 98% of 52-wk high ¥4,848; sell-side consensus PT ¥2,836 lags spot ¥4,732 by 40%). Co-dominant (NOT dominant) with Keysight in optical module BERT/sampling-scope niche (~30-40% share each). DD passes integrity gates (130-yr operating history, internal career executives, no shorts, no activists, no scandals, net cash ¥49.3B, voluntary GLP2026 ROE 12% target FY27 / 15% goal FY30) but framework H8 strict gate holds. **Re-eval triggers documented** (optical sub-segment crosses 30%+ / 25% retrace to ¥3,636 for PARTIAL-RECOVERING entry / PQA divestiture / mega-contract >¥10B / customer deposit >¥10B). Default thesis expiry 2026-11-28. **Framework gap surfaced for Sounding Board:** Tier 4 SEGMENT exception (v2.0) requires parent $5-15B but Anritsu at $3.79B falls into gap. Files modified: due-diligence/ANRITSU-dd-2026-05-28.md (created), CHOKEPOINT_TAXONOMY.md (chokepoint #1 row Anritsu entry updated cap + WATCH verdict; header refreshed), CANDIDATE_UNIVERSE.md (header refreshed; Tier A DD QUEUE row for 6754.T updated with DD verdict). **Note: archos is NOT a git repository** — session-end git commit/push protocol from CLAUDE.md cannot be executed; user decision required on whether to initialize repo. Prior status: SCAN_CPO_FULL_SWEEP COMPLETED 2026-05-28 — Co-Packaged Optics complete supply-chain sweep across 14 layers. BREADTH-FIRST methodology produced ~6x expansion of CPO-relevant surface area vs prior tight-filter scans (SCAN_04 2026-05-27 returned 0 new ACCEPT-track; SCAN_CPO_FULL_SWEEP returned 6 DD QUEUE + 18 WATCH + 13 REJECT). Chokepoint #1 CPO row expanded from 1 ACTIVE US-listed pure-play (POET) to 6 ACTIVE US-investable + 5 foreign-handicap, with cross-tags AEHR + VECO. Chokepoint #8 RECLASSIFIED from EMPTY-consolidated to PARTIALLY ACTIVE — module layer remains consolidated but chip layer (MXL, SMTC) + Korean transceiver layer (138080 OE Solutions, 069540 Lightron) + Taiwan newly-public (TPEX:3485 Centera Photonics) re-emerged sub-$5B. **TIER A DD QUEUE: SOI/SLOIY Soitec (~$3.3B USD, strongest foreign AI-DC pure-play, Photonics-SOI substrate to TSMC COUPE/GFS/Tower SiPh/ST); AIXA/AIXXF AIXTRON (~$4.9B borderline, 90% G10-AsP MOCVD share); 6754.T Anritsu (~$2B, BERTWave optical test workhorse)**. **TIER B DD QUEUE: VECO promoted from supplier-mapping; 138080 OE Solutions Korean DART access required; AEHR cap-reduced cross-tag.** **CANONICAL FRAMEWORK V2.0 SIGNAL: TSEM Q1 2026 $290M SiPh customer prepayments + $1.3B 2027 contracts** = highest-magnitude customer-deposit disclosure in AI-Infra cohort; validates DISCOVERY HIERARCHY thesis at SiPh foundry layer; propagation to sub-$5B suppliers expected Q3/Q4 2026 (Soitec, AIXTRON, Sivers, OE Solutions, AEHR, VECO). AEHR cap REDUCED from $3.46B → ~$2.4-2.9B (no longer borderline graduation). Files modified: weekly-scan/runs/2026-05-28-cpo-full-sweep.md (created), CHOKEPOINT_TAXONOMY.md (chokepoint #1 row expanded, #4 AEHR row updated, #8 row reclassified, EMPTY-chokepoints table updated #8 strikethrough, summary line updated 4→6 ACTIVE chokepoints), CANDIDATE_UNIVERSE.md (new SCAN_CPO_FULL_SWEEP section at top, 6 DD QUEUE + 18 WATCH + 13 REJECT entries documented). Prior status: FRAMEWORK EVOLUTION SESSION COMPLETED 2026-05-27 evening — Framework version bumped v1.0 → v2.0 with 4 structural changes; entries below preserved.
+
+## Project timeline
+
+### 2026-05-28 EVE (latest) — LEAPS SECTOR SCAN: Multi-sector LEAPS scan based on NOW/CRM template (SEPARATE STRATEGY from Archos chokepoint framework)
+
+- **Trigger:** User prompt 2026-05-28 EVE — explicit separation from Archos chokepoint framework. Team has NOW Jan 2028 $90C deployed (+34%) and CRM Jan 2028 $160C ~$56 about to enter. Strategy: identify quality compounders down 35%+ from highs across ALL sectors where Jan 2028 LEAPS deliver 2x+ on PARTIAL recovery to consensus PT. Distinct from Archos (sub-$5B chokepoint pure-plays) — this is >$5B liquid-LEAPS quality-compounder bucket. Deployable pool ~$189K total; ~$50-100K per LEAPS position. User mandate: "diversify across sectors, don't stack 4 SaaS LEAPS" + "high-PROBABILITY 2-3x plays, not lottery tickets."
+- **Method:** 4 parallel general-purpose subagents fanned across 8 sectors (~75 names total): (Agent 1) SaaS + Fintech (ADBE, TEAM, WDAY, MNDY, ZS, OKTA, TWLO, HUBS, VEEV, INTU, DDOG, CRWD, NET, SNOW + PYPL, XYZ, SOFI, AFRM, UPST, HOOD, COIN, LC); (Agent 2) Semis + Healthcare (AMD, INTC, QCOM, ON, MCHP, LSCC, WOLF, MRVL, TXN, STM, NXPI, MPWR, AMAT, KLAC, LRCX, COHR + MRNA, BIIB, BMY, ABBV, PFE, AMGN, GILD, VRTX, NVO, LLY, REGN, INCY, BNTX, ALNY); (Agent 3) Consumer + Energy + Industrials (NKE, EL, SBUX, LULU, DIS, TGT, MCD, DG, PEP, KO, F, GM, CHWY, ETSY, W, RH, ULTA + ENPH, SEDG, PLUG, BE, FSLR, RUN, NEP, ARRY, SHLS, ALB + DE, CAT, DD, MMM, BA, HON, ETN, EMR, GE, LMT); (Agent 4) China ADRs + Misc (BABA, PDD, JD, NIO, XPEV, LI, BIDU, TME, NTES, BILI, KWEB + AMZN, GOOGL, META, AAPL, NFLX, SHOP, ABNB, UBER, DASH, ROKU, SPOT, PINS, SNAP, RBLX, TTD, ZM, DOCN, PATH, BILL). Total: 4 agents, ~25 minutes wall-clock parallel execution + ~5 minutes synthesis. Each agent pulled: current price + cap (intraday-verified across 2+ sources), 52wk high + % below, ATH + % below, TTM revenue + YoY growth, last quarterly EPS beat/miss, consensus PT + # analysts, PT upside, Jan 2028 LEAPS availability + bid/ask for 2-3 strikes per name, forward P/E or P/S vs 5yr average. Hard filters applied: revenue declining YoY = REJECT, PT upside <25% = REJECT, no Jan 2028 LEAPS = REJECT, cap <$5B = REJECT, drawdown <30% = REJECT, structural impairment = REJECT.
+- **Headline finding — 21 PASS / 14 WATCH / 40+ REJECT across 75 names.** Universe scan yielded:
+  - SaaS PASS (8): VEEV, HUBS, TEAM, WDAY, INTU, ADBE, HOOD, PYPL (HOOD + PYPL = Fintech)
+  - Consumer PASS (5): NKE, LULU, DG, CHWY, W
+  - Healthcare PASS (1 conditional): ALNY (no Jan 2028 LEAPS — only Dec 2027 = strict filter fail)
+  - China + Misc PASS (7): SHOP, DASH, NFLX, BABA, PINS, RBLX, KWEB (ETF basket)
+  - Semis PASS: ZERO (entire sector at/near ATH on AI rerate)
+  - Clean Energy PASS: ZERO (graduated, too-small, or structurally impaired)
+  - Industrials PASS: ZERO (rerated through AI/electrification cycle)
+- **LEAPS math — CRM benchmark = 2.50x your money at PT $300.** Per-candidate math computed for all 21 PASS names at ATM and 1-2 OTM strikes. Of 21 PASS candidates:
+  - **4 cleanly BEAT CRM 2.50x-at-PT bar:** VEEV (3.80x at PT), RBLX (3.16x at PT), DASH (3.02x at TIKR PT), CHWY (2.98x at PT)
+  - **3 clear bar at MIDPOINT recovery:** LULU (2.80x at midpoint), HUBS (4.28x at midpoint), INTU (4.17x at midpoint)
+  - **5 clear bar at 52wk-HIGH recovery:** NKE (3.06x), PYPL (3.74x), HOOD (3.16x), ADBE (4.02x), NFLX (2.48x)
+  - **3 marginal at PT:** TEAM (2.12x), WDAY (2.17x), BABA (2.03x)
+  - **3 sub-2x even at 52wk high:** SHOP (2.04x), PINS (2.96x — wait, beats at high), W (PT below LEAPS BE), DG (PT ≈ BE), KWEB (ETF basket exposure)
+- **Final ranked recommendations (TIER A — high conviction):**
+  1. **VEEV $160C Jan 2028** ~$30 premium (E) — TOP MATH 3.80x at PT $274. World-class life-sciences SaaS in DISTINCT subsector from NOW/CRM general enterprise SaaS (no 4-SaaS-stacking violation). FY27 guide RAISED above estimates. Pharma capex tailwind structural. Salesforce-Vault competitive threat years away. **Earnings June 3 = binary catalyst** — recommend enter AFTER print if FY27 beat reaffirms. Pre-earnings sizing 50% of full position.
+  2. **NKE $50C Jan 2028** $9.80 ask (V Yahoo) — A-grade NOW template purity. Hill returned as CEO Oct 2024 turnaround story. -41% drawdown on tariff + Hoka/On + China-weak fear. Q3 EPS beat by 25%. Math 1.33x at PT $63 (conservative), 1.40x at midpoint, 3.06x at 52wk high $80 (requires +69% stock recovery). No near-term binary; multi-year compound play. Suggested size $30-50K = 3-5 contracts (high-count benefit = liquidity).
+  3. **LULU $130C Jan 2028** $37.50 last (V Yahoo) — A-grade CRM template purity. -62% drawdown on growth-decel fear + GLP-1 athleisure narrative + premium-pricing pressure. Fwd P/E 10.5 / P/S 1.4 = all-time lows. China comp +30% Q4. Math 1.65x at PT $192, **2.80x at midpoint $235 = BEATS CRM bar at midpoint**, 5.60x at 52wk high $340. **Earnings June 4 = binary catalyst** — consider AFTER print.
+- **TIER B — medium-high conviction (size smaller or wait for entry):**
+  4. **DASH $160C Jan 2028** $46.30 bid (V Yahoo) — revenue +33% accelerating, GOV +37%. Math 1.55x at MarketBeat PT $232 vs 3.02x at TIKR PT $300 (wide PT band = uncertainty). Use $260 mid-PT = 2.16x.
+  5. **RBLX $45C Jan 2028** $19 mid (V Yahoo) — DEEPEST healthy drawdown -70%. Revenue +39% real. Math 3.16x at PT $105. Bookings reset is bear case; engagement compounding is bull.
+  6. **BABA $125C Jan 2028** $31.96 last (V Yahoo) — China rerating thesis + AI cloud +38% + Apple iPhone-China deal. Math 2.03x at PT $190 (= 52wk high; tight setup). VIE + geopolitical wildcards.
+- **TIER C — only if slots remain:**
+  7. **CHWY $22.50C Jan 2028** $6.55 mid (V Yahoo) — 2.98x at PT $42 = beats CRM bar. BUT Q1 EPS missed by 68% on May 27 — Citi already cut PT to $37 (still 2.21x). Size smaller — Q1 miss not fully reset.
+  8. **INTU $310C Jan 2028** ~$60 est — direct NOW analog (AI eats TurboTax). 2.33x at PT $450, 3.50x at upper $520. WOULD make 3rd SaaS LEAPS — acceptable only if VEEV slot is SKIPPED.
+- **EXPLICITLY NOT RECOMMENDED** (passes filters but fails math or diversification):
+  - HUBS / TEAM / WDAY / ADBE (all SaaS, would push 4+ SaaS LEAPS — violates diversification mandate)
+  - NFLX (1.35x at PT, needs 52wk high for 2x); PYPL (1.47x at PT, deep value but PT compresses math); HOOD (1.60x at PT, crypto correlation creates portfolio risk vs other potential crypto exposure); SHOP (1.13x at PT, premium too rich); PINS (1.19x at PT)
+  - W (PT $99 BELOW LEAPS breakeven $101.50 = math broken at any strike + H11 balance-sheet FCF -$106M Q1 = structural impairment risk)
+  - DG (PT and BE coincide, even 52wk high doesn't quite hit 2x)
+  - ALNY (excellent fundamentals 96% rev growth + $470 PT + 3.80x-equivalent math BUT only Dec 2027 LEAPS listed; strict Jan 2028 filter fails — substitution decision pending Sounding Board)
+- **Critical REJECT calibration cases (don't confuse with NOW/CRM setup):**
+  - **NVO** — 56% peak drawdown LOOKS like template, but Q1 FY26 management guidance is SALES CONTRACTION (-4 to -12%) + CagriSema Phase 3 FAILED Feb 23 2026 = thesis-broken / structurally impaired. OPPOSITE of NOW which had 22% growth. The template is NOT "down 50%+ = buy."
+  - **COIN** — Revenue declining -21 to -31% YoY (cyclical not structural but rule is explicit).
+  - **TTD** — Amazon DSP taking share is STRUCTURAL not cyclical; KeyBanc note: "does not see competitive factor changing." Kokai transition fumbled. Fits structural-impairment exclusion.
+  - **XPEV / LI** — Revenue declining (XPEV -17.6% YoY) or Q2 guide -20% (LI). Structural deterioration in price war.
+- **Sector-level findings (for INSIGHTS.md ratification):**
+  - (L1) The NOW/CRM template requires TWO simultaneous conditions: (a) pattern condition = quality compounder + growing rev + deep drawdown on overdone fear, AND (b) math condition = consensus PT high enough that PARTIAL recovery to PT delivers 2x on LEAPS. **Pattern condition is more common than math condition in this market.** Many beaten-down names have CONSERVATIVE PTs that imply recovery only to ~midpoint, not full recovery to PT — making LEAPS math work at midpoint/52wk-high but not cleanly at PT. CRM is mathematically unusual because PT $300 is ABOVE 52wk high $279 (analysts priced in re-acceleration past prior peak).
+  - (L2) Semis are uninvestable for this template May 2026. Entire complex at/near ATHs on AI rerate. The Aschenbrenner thesis is working and now priced in. Window closed until AI capex pause or macro drawdown.
+  - (L3) Healthcare/biotech is where the asymmetric setups live, but most that screen "down a lot" are down for thesis-broken reasons (NVO/BNTX/MRNA/PFE patent cliffs). Only ALNY + REGN are quality compounders with overdone fears — and ALNY fails strict Jan 2028 LEAPS filter; REGN fails strict 30% drawdown filter (at 24%).
+  - (L4) Consumer brand permanence (NKE, LULU, CHWY) is the cleanest NON-SaaS source of pattern matches. NKE = direct NOW analog (turnaround under proven CEO + brand permanence + "competition kills it" fear). LULU = direct CRM analog (growth decel + premium franchise + cheap vs history).
+  - (L5) Clean Energy and Industrials are CLOSED for this template right now — either rerated through AI cycle (BE/FSLR/CAT/GE/HON/ETN), too small for liquid LEAPS (RUN/ARRY/SHLS), or structurally impaired (PLUG/ALB/NEP).
+  - (L6) Diversification math: With NOW + CRM already deployed (= 2 SaaS), adding VEEV is OK (life-sci subsector distinct from enterprise SaaS) = 3 SaaS max. Adding HUBS/TEAM/WDAY/INTU/ADBE pushes to 4+ SaaS = violates user mandate.
+  - (L7) **MASSIVE MARKET DATA OPTION-SNAPSHOT BLOCKER reconfirmed** (3rd consecutive scan this session): HTTP 403 NOT_AUTHORIZED on `/v3/snapshot/options/*` endpoints. Workaround was Yahoo Finance direct contract pages + StockOptionsChannel + Black-Scholes estimation. SaaS premiums (ADBE/VEEV/HUBS/INTU/WDAY/TEAM/HOOD/PYPL) marked (E) = estimated; Consumer + China + Misc premiums (NKE/LULU/DG/CHWY/W/ULTA/SHOP/NFLX/DASH/BABA/RBLX/PINS) marked (V) = verified from Yahoo/StockOptionsChannel. Standing recommendation: upgrade Massive plan OR add broker-API connector.
+- **Files modified (this session, 2 files):**
+  - `archos/weekly-scan/runs/2026-05-28-leaps-sector-scan.md` (created — full scan with 6 sections + LEAPS math tables per candidate + final ranked recommendations + CRM benchmark comparison + sector insights + critical caveats; ~28 pages)
+  - `archos/state.md` — current status + project timeline updated (this file)
+- **NOT modified (per session brief — separate strategy from Archos):**
+  - CANDIDATE_UNIVERSE.md — intentionally NOT updated; Archos chokepoint framework universe is separate bucket
+  - CHOKEPOINT_TAXONOMY.md — intentionally NOT updated; same reason
+- **GIT STATE — FIFTH CONSECUTIVE SESSION FLAG:** archos directory is NOT a git repository. `git status` returns "fatal: not a git repository". Session-end protocol from CLAUDE.md (git add -A → git commit → git push origin main → verify) CANNOT be executed. Today's accumulated session work (SCAN_CPO_FULL_SWEEP + ANRITSU DD + AEHR DD + SOITEC DD + AIXTRON DD + LEAPS SECTOR SCAN = 6 major artifacts touching ~12 files) is unversioned on disk. Per WORKING_PHILOSOPHY.md sensitive-file protocol, will NOT run `git init` unsolicited (would also need GitHub remote configuration). **User decision URGENT before next research session.**
+- **Next session priorities:**
+  1. **Resolve git state** — decide on `git init` + GitHub remote OR alternative versioning protocol.
+  2. **VEEV earnings June 3 review** — verify FY27 guide holds; if PASS, deploy $30-60K VEEV $160C.
+  3. **LULU earnings June 4 review** — verify China/US comps hold; if PASS, deploy $40-75K LULU $130C.
+  4. **NKE entry decision** — no near-term binary, can deploy pre-emptively if user agrees with template purity argument.
+  5. **DASH vs RBLX deep-dive** — single-pick analysis for the 5th slot (decided after VEEV/NKE/LULU positions filled).
+  6. **REGN watch trigger** — alert if stock pulls back to ~$580 (would clear 30% drawdown filter cleanly).
+  7. **ALNY substitution decision** — Sounding Board call on Dec 2027 LEAPS substitution as equivalent of Jan 2028 strict filter.
+  8. **Broker premium verification** — verify (E)-marked SaaS premiums (VEEV $160C est $30, INTU $310C est $60, HUBS $200C est $50) against actual Fidelity/Schwab/Tastytrade quotes before deploying.
+
+### 2026-05-28 PM — SOITEC DD: Full v2.0 due diligence on Soitec S.A. (Euronext: SOI / OTC: SLOIY) completed (Tier A DD QUEUE #1 of 3 from CPO sweep)
+
+- **Trigger:** User prompt 2026-05-28 PM — Soitec was Tier A DD QUEUE #1 candidate from SCAN_CPO_FULL_SWEEP (2026-05-28 AM, same day). Scan-time entry: ~$3.3B USD (€3.05B), foreign-handicap, Photonics-SOI substrate to TSMC COUPE / GFS Fotonix / Tower SiPh / ST. The team's stated context: Soitec parallel to AXTI (InP substrate chokepoint that did 97x at sub-$50M); test whether the AXTI parallel holds; test whether TSEM $290M Q1 2026 SiPh customer prepayments macro signal had propagated to Soitec's FY26 deferred revenue. DD scope: full v2.0 (all 6 sections) with extra attention to (a) Photonics-SOI revenue carveout and AI-DC end-market % per H8 strict test, (b) French AMF insider filings, (c) TSMC / GFS / Tower / ST counterparty verification (named vs inferred), (d) capex funding mechanism, (e) European short-seller / sell-side coverage.
+- **Method:** 4 parallel general-purpose subagents fanned out across (a) real-time cap verification + revenue/segment mix (THE LOAD-BEARING TOPIC for H8 disposition), (b) management integrity + balance-sheet / funding (Sections 1 + 3), (c) counterparty verification + short interest / adversarial (Sections 2 + 4), (d) social signal sweep / French media (Section 6). Total: 4 agents, ~15 minutes wall-clock for parallel research execution + ~10 minutes for synthesis and DD writing.
+- **Headline finding — REJECT-FRAMEWORK-FAIL / POST-DISCOVERY GRADUATE. Structurally NEW reject mode.**
+  - **Cap exploded during DD session.** Scan-time AM cap was €3.05B / $3.3B. By DD launch PM same day, Soitec had spiked +24.64% intraday on the May 27 after-hours FY26 print to €192.20 = €6.86B = **~$8.16B USD — GRADUATED above $5B threshold**. 52-week high TODAY. +717% YTD on the SLOIY ADR proxy. +238% 1Y on Euronext. **The four-filter framework discovery hierarchy was CORRECT (Tower TSEM $290M propagation prediction validated by Soitec's $100M Photonics-SOI revenue "earlier than initially anticipated") but the public market re-pricing speed exceeded Archos's research-then-DD cycle by hours.**
+  - **DD aggregate: 0 RED / 2 FLAG / 4 CLEAR / 1 PARTIAL-FAIL.** Section 1 Management FLAG (two CEO transitions in 4 years — Boudre forced out 2022 by state-backed board, Barnabé self-departure Oct 2025 → Rémont ex-Infineon RF & Sensors effective April 2026; state-shareholder governance Bpifrance 11% + CEA 7.2% + FSP on board + double voting rights; net insider BUYING in trailing 12 months — opposite of SHAZ/ALMU pattern; no fraud, no AMF enforcement, no restatements). Section 2 Counterparty FLAG — GlobalFoundries TIER 1 confirmed (joint 2019 PR + SEC 20-F Exhibit 4.12 redacted) + ST TIER 1 confirmed (STARLight 2025); **TSMC + Tower TIER 2/3 INFERRED ONLY — no direct counterparty primary-source naming Soitec despite Soitec's unilateral claim**. Section 3 Funding CLEAR (€562M cash, 0.4x ND/EBITDA, +€63M FCF restored beat €6M consensus, OCEANE 2025 refinanced via clean €222M Schuldschein, no dilution). Section 4 Adversarial FLAG (6 quant funds disclosed AMF >0.5% net shorts in 4 months: Citadel 0.60% + AQR 0.71% + Millennium x2 + Two Sigma 0.52% + Walleye 0.96% + Numeric 0.78% ≈ 4.4-5% aggregate; NO published Hindenburg/Spruce/Muddy Waters; bear case is cyclical-fundamental). Section 5 Revenue Reality **PARTIAL-FAIL** — the LOAD-BEARING section. FY26 revenue €592M (-34% reported, -30% organic vs FY25 €891M). Mobile Communications €309M = **52.2%** (down -41% YoY) / Edge & Cloud AI €214M = **36.1%** (up +8% YoY, +19% ex-Imager) / Auto & Industrial €69M = 11.7% (down -44%). **Photonics-SOI revenue alone = ~$100M ≈ €92M ≈ 15.5% of total revenue** — WELL BELOW the >50% H8 threshold. **H8 strict end-market FAILS — WOLF anti-pattern parallel (right product family, wrong dominant end-market — 52% mobile RF-SOI vs only 15% AI-DC Photonics-SOI)**. **H8 Tier 4 SEGMENT path FAILS** because Edge & Cloud AI segment growth +8% (+19% ex-Imager) is below the +40% YoY threshold. P/S TTM 11.6x; forward P/S ~10x; EV/EBITDA 46x; consensus PT €91.82 vs €192.20 spot = -52% downside per stockanalysis.com. **$2B / 40% EBITDA medium-term target was WITHDRAWN May 2025 and NOT reinstated** in the FY26 print. Section 6 Social Signal CLEAR (5 CLEAR / 1 FLAG / 0 RED) — organic discovery via 8+ independent Substack deep dives with disclosed long positions (Vantix, Crux Capital, Jason's Chips, AlphaDoc long-with-short-leash, Asymmetrical Bets, PhotonCap, Convequity, WealthyReadings); divergent sell-side ratings (Nomura BUY @ €250 + DB BUY raised to €150 + Oddo Neutral €125 vs Citigroup SELL €40); BofA independent third-party validation (95%+ photonics-grade SOI share); no paid promotion, no Edison/AlphaValue sponsored research, no microcap newsletter pumping SLOIY ADR; only FLAG on 6.2 Reddit volume (structurally low for EU mid-cap profile).
+  - **H5 = LOVED-EXTREME.** 52-wk high TODAY. +24.64% on the print. +238% 1Y. +717% YTD on ADR proxy. Per dose-response from INSIGHTS.md (PARTIAL 50-265%, IGNORED 700-1,400%, IGNORED-extreme 1,500-9,600%), Soitec at the current price has already paid the IGNORED-extreme premium to early entrants; remaining magnitude expectation is closer to LOVED <500%.
+  - **POSITION DECISION: DO NOT INITIATE.** No equity, no LEAPS, no calls at €192.20 / $112.40 ADR.
+- **Re-entry triggers documented:**
+  1. **Price pullback ≥25% from peak (≤ €144.15)** with thesis intact → PARTIAL-RECOVERING entry at 50% of Tier 3 sizing ($5-12.5K equity), magnitude expectation PARTIAL-tier 50-265%.
+  2. **Price pullback ≥38% (≤ ~€118, cap < $5B)** with Photonics-SOI on >30%-of-revenue trajectory → re-run full DD as IGNORED-tier re-entry.
+  3. **Price pullback ≥70% (≤ ~€60)** with thesis intact → IGNORED-extreme re-entry; full Tier 3 sizing.
+  4. **TSMC or Tower Semi publicly names Soitec as supplier** → upgrades H10 from TIER 2/3 inferred to TIER 1 confirmed at thesis-critical foundry.
+  5. **Photonics-SOI revenue crosses 30% of total** (= ~€180M vs current ~€92M) → end-market mix legitimizes Tier 4 SEGMENT path.
+- **3 NEW STRUCTURAL FINDINGS captured in INSIGHTS.md:**
+  - **L1 — POST-DISCOVERY GRADUATE classification.** A structurally NEW reject mode: DD scoring is clean (no SHAZ-fraud, no ALMU-network-failure, no CYCU-promotional-trap) but framework filters H5+H8 fail on real-time data. The candidate REJECTS only because public-market discovery beat Archos DD-cycle timing. Calibration parallel: AIXTRON DD (2026-05-28 AM) had cap move during DD over multi-day window; Soitec moved during a single session.
+  - **L2 — REAL-TIME CAP RE-CHECK BLOCKER operating rule.** Verify cap <$5B via Alpha Vantage / stockanalysis intraday at TOP of every DD checklist BEFORE running Sections 1-6. If cap has crossed threshold since scan-time entry, abort full DD and produce GRADUATED-DURING-DD short report instead. This DD itself is the template. **This is a workflow / operating discipline rule, NOT a framework modification** — four-filter framework itself unchanged; what changes is the ordering of operations within DD execution.
+  - **L3 — GF 2019 LTA + 20-F redacted Exhibit 4.12 = canonical "TIER 1 counterparty acknowledgment" template.** When evaluating any counterparty relationship in DD Section 2 (Check 2.3), the strongest possible evidence is a joint press release + the counterparty filing the agreement as a material contract in their SEC 20-F / F-1 / 10-K — even if redacted. Tag this as TIER 1 — CONFIRMED. TIER 2 = only one party names the other. TIER 3 = trade-press attribution only. Soitec's TIER 1 confirmation at GF + ST contrasts with TIER 2/3 INFERRED-only at TSMC + Tower; the asymmetry propagates into DD scoring + re-entry trigger design.
+- **Calibration:**
+  - Soitec is NOT SHAZ (no fraud, no DeFi counterparty, no paid promotion, no self-dealing, no published verified short report).
+  - Soitec is NOT ALMU (no network-failure pattern, no Akoustis-style prior bankruptcy ties, no industrial-scale insider selling, no toxic ATM).
+  - Soitec is NOT CYCU (no death-spiral ELOC, no PCAOB-deficient auditor, no promotional Litchfield Hills / CorporateAds infrastructure).
+  - Soitec IS analogous to AIXTRON at the same DD timing (graduated during DD via FY26 print + intraday surge) but more extreme (cap moved during a single session, not multi-day).
+  - The AXTI 100x parallel BREAKS at magnitude: AXTI started sub-$50M; Soitec started €3B = 60x larger. The realistic Soitec corridor is €3B → €10-15B (3-5x), Tier 3 COMPOUNDER outcome, NOT TIER 1 NANO IGNORED-extreme outcome.
+  - This is a **"framework caught it, public discovery beat DD-cycle timing by hours"** outcome — structurally different from "framework caught it, DD rejected it on findings" (ALMU, CYCU, SHAZ).
+- **Files modified (this session, 4 files):**
+  - `archos/due-diligence/SOI-dd-2026-05-28.md` (created — full v2.0 DD with all 6 sections, executive verdict, verdict table, position decision with re-entry triggers, four-filter framework re-check on real-time data, technology deep dive on Photonics-SOI manufacturing, peer comparison vs AXTI + WOLF, ~70+ source citations across Soitec primary, GF SEC, ST STARLight, AMF short disclosures, 8 Substack deep dives, 4 sell-side notes, French financial media)
+  - `archos/CHOKEPOINT_TAXONOMY.md` — header refreshed with SOI DD entry (prior ANRITSU DD entry pushed to "Prior refresh"); chokepoint #1 row SOI entry REPLACED with GRADUATED note pointing to Graduated Pure-Plays; **Soitec ROW ADDED to Graduated Pure-Plays table parallel to AXTI** with full DD outcome + re-entry triggers + 6 quant fund shorts disclosed + clean balance sheet + structural reject-mode distinction from SHAZ/ALMU/CYCU.
+  - `archos/CANDIDATE_UNIVERSE.md` — header refreshed with SOI DD entry (prior AIXTRON DD entry pushed to "Prior maintained"); Tier A DD QUEUE table row for SOI/SLOIY updated with DD COMPLETED status + corrected cap to €6.86B / $8.16B + framework-fail rationale + re-entry triggers + DD file link.
+  - `archos/INSIGHTS.md` — 3 new structural insights added in dedicated section "REAL-TIME CAP RE-CHECK BLOCKER — new operating rule (2026-05-28 from Soitec DD)": L1 POST-DISCOVERY GRADUATE classification, L2 REAL-TIME CAP RE-CHECK BLOCKER workflow rule, L3 GF 2019 LTA TIER 1 counterparty template.
+  - `archos/state.md` — current status + this project timeline entry updated.
+- **Sounding Board calls pending:**
+  - **#1 — Codify "Step 0: real-time cap re-check" at top of DUE_DILIGENCE_CHECKLIST.md** (formal v2.1 update to DD checklist; not just an INSIGHTS.md memo).
+  - **#2 — Codify "POST-DISCOVERY GRADUATE" as 7th formal verdict class in DD checklist** (alongside CLEAR / FLAG / RED / hard-reject / ACCEPT / etc.). Current 3-tier scoring per section doesn't capture this case where sections are clean but framework fails.
+  - **#3 — Update CHOKEPOINT_TAXONOMY.md Graduated Pure-Plays section header** to explicitly distinguish (a) AXTI-style graduates (caught by framework BEFORE rerate, captured 97x) vs (b) Soitec-style graduates (caught by framework AT rerate, post-discovery, no capture).
+  - **#4 — Initialize Archos as git repository.** This is the 3rd consecutive session flagging the git state (after AEHR + ANRITSU). Session-end git commit/push protocol from CLAUDE.md cannot be executed. Recommend explicit decision before next DD session. Note: per WORKING_PHILOSOPHY.md Sensitive File Protocol, repo initialization is a sensitive change requiring explicit user authorization.
+- **Note: archos remains NOT a git repository** — verified again this session via `git status` returning "fatal: not a git repository". This is the 3rd consecutive session flagging git state. Files persisted to disk locally but unversioned.
+
+### 2026-05-28 (prior) — AEHR DD: Full v2.0 due diligence on Aehr Test Systems (NASDAQ: AEHR) completed (chokepoint #1 cross-tag verification + Tier B DD QUEUE candidate)
+
+- **Trigger:** User prompt 2026-05-28 — AEHR was Tier B DD QUEUE candidate per SCAN_CPO_FULL_SWEEP (2026-05-28). The team's stated context: AEHR already tracked as chokepoint #4 (HBM/SiC WLBI) ACTIVE Tier 3 Compounder; the NEW finding from SCAN_CPO_FULL_SWEEP was a cross-tag to chokepoint #1 (CPO) per "Q1 FY26 8-K" disclosed SiPh WLBI production ramp. Prompt also noted cap dropped from $3.46B (5/27 reading) to "$2.4-2.9B" (5/28 verification) — implying either earnings miss / guidance cut / sector rotation. DD scope: full v2.0 (all 6 sections) with extra attention to (a) SiPh WLBI customer identity (Tower? GFS? TSMC?), (b) HBM customer concentration (SK hynix vs Samsung vs Micron), (c) backlog composition by chokepoint, (d) customer prepayment / deferred revenue signal per Framework v2.0 DISCOVERY HIERARCHY, (e) cause of cap compression, (f) dual-chokepoint thesis quantification.
+- **Method:** 3 parallel general-purpose subagents fanned out across (a) SEC filings deep dive (EdgarTools + LLMQuant — 10-K, 10-Q, 8-K, Form 4, DEF 14A, institutional ownership; sections 1-5 + segment quantification + customer concentration + insider activity + cash/runway + the specific 8-K SiPh language); (b) live market cap + adversarial verification (Massive Market Data + WebFetch/WebSearch for live price, shares outstanding, cap calculation, recent price action chart, short interest, analyst PTs, published short reports, sector context); (c) /last30days-equivalent social signal sweep (Firecrawl + WebSearch across Reddit + X + Substack + YouTube + Stocktwits with specific focus on whether SiPh sub-thesis has been picked up by retail/FinTwit). Total: 3 agents, ~25 minutes wall-clock, ~80 web searches + ~30 SEC tool calls.
+- **Headline finding — HOLD (not new ACCEPT). 5 corrections to prompt context:**
+  - **Correction 1 — Market cap:** Prompt framed as "$3.46B → $2.4-2.9B" compression. Reality: $3.46B was 5/26-5/27 PEAK (post-+15.7% one-day rally to $112 intraday); $2.55B ($81.14 close × 31.45M shares) was 5/19 TROUGH. **Current intraday 2026-05-28: $100.58 = $3.16B** verified via Finviz + stockanalysis.com. The "$2.4-2.9B" reading captured the trough only — stock has bounced 24% off the low in 8 trading sessions. **AEHR is firm mid-Tier 3 Compounder, NOT borderline graduation, NOT crashing.**
+  - **Correction 2 — Source 8-K:** Prompt said "Q1 FY26 8-K" for SiPh production-ramp language. Reality: Q1 FY26 8-K (Oct 6, 2025) only contains an UPGRADE of existing customer. The "lead customer firmed up production ramp" language is in the **Q2 FY26 8-K (Jan 8, 2026)**. The BIGGER second-customer-win disclosure is in the **Q3 FY26 8-K (Apr 7, 2026)**: "major new customer win... initial order for multiple FOX systems for both qualification and production... developing advanced silicon photonics–based transceivers for data center networking."
+  - **Correction 3 — SiPh customer identity:** Prompt suggested Tower Semi, GlobalFoundries, or TSMC as likely SiPh WLBI customers. Reality: **ALL customer identities are ANONYMOUS in AEHR's FY26 filings.** Neither Tower, GFS, TSMC, Coherent, Lumentum, Marvell, Ayar Labs, Lightmatter, nor Celestial AI is named. Could be hyperscaler-adjacent transceiver maker, vertically integrated SiPh design house, or startup — cannot pin down without external corroboration.
+  - **Correction 4 — HBM exposure:** Prompt context framed "HBM customer concentration risk — if SK hynix slows orders, AEHR has no second customer." Reality: **SK hynix is NOT named in any AEHR FY26 filing.** AEHR's HBM exposure is OSAT-mediated forward pipeline language: "significant interest in doing WLBI for devices that are expected to be put in advanced packages such as CoWoS that include HBM DRAM stacks." This is "interest in" / "expected to" language, NOT direct memory-vendor customer relationships. The HBM thesis as historically framed overstates AEHR's current HBM exposure; the accurate framing is "OSAT-mediated CoWoS-advanced-package WLBI with HBM as one component die" — different revenue/customer-leverage profile.
+  - **Correction 5 — Cap compression cause:** Prompt asked "earnings miss? guidance cut? sector rotation?" Reality: **Multi-factor AEHR-specific, NOT primarily sector rotation.** Drivers: (a) Q3 FY26 revenue print -43.7% YoY reported April 7; (b) $60M ATM completed April 17 in 9 trading days at ~$86 avg; (c) insider selling cascade — Director Slayen sold $714K at $104.73 on 5/15 (1 trading day pre-flush); (d) momentum unwind from extreme 12-month run; (e) sector beta ~25% of move. Peer comp confirms AEHR-specific: SOXX -6.3%, ONTO -10.5%, FORM -8.4% over same 5-day window vs AEHR -23.7%.
+- **DD aggregate: 1 RED + 5 FLAG + 0 CLEAR — does NOT trigger hard-reject (RED is on §5, not §1 or §2).**
+  - §1 Management **FLAG** — Long-tenured CEO Erickson (14 yrs), clean fundamentals on 8 of 8 classic checks (no fraud, no SEC enforcement, no restatements, no supervoting, no related-party, no paid promotion, no network-failure pattern, auditor clean). BUT insider behavior overlay: $44.3M sold across 13 insiders in 90 days, ZERO 10b5-1 plans, ZERO open-market buys in 180 days, CEO sold $10.8M at $70.58 on 4/10/26 (three days post-Q3 earnings, during $60M ATM execution), Founder/Chairman Posedel ~$7M, Director Scott ~$7M, Director Slayen sold up to $104.73 on 5/15. **Heaviest insider selling cascade in any Archos DD to date** but does NOT trigger management RED gate because absent fraud/self-dealing/paid-promotion markers. Per INSIGHTS.md "Phase 1 H3 insiders sell into strength is empirically reconfirmed" — AEHR is the canonical magnitude case.
+  - §2 Counterparty **FLAG** — Customer concentration improving (top-customer FY23 79% → FY25 39%; Q3 FY26 10-Q period 42.1%/10.5%). Counterparties anonymous but candidates (hyperscalers, top-tier OSATs) are balance-sheet credible. No reverse-economics warrant overlays. Strategic logic checks out. BUT: SiPh customer identity gating; HBM exposure verified as OSAT-mediated forward pipeline (not direct memory-vendor); TSEM $290M SiPh customer prepayment macro signal has NOT yet propagated to AEHR Q3 FY26 deferred revenue ($1.86M, normal billing fluctuation).
+  - §3 Funding **CLEAR** (with FLAG noted on dilution) — Zero debt, ~$95M cash post-April $60M ATM (William Blair + Craig-Hallum agents), no going-concern. No toxic financing (no death-spiral, no convertibles with variable conversion, no S-1 serial takedowns). BUT $80M ATM in last 12 months on $45M TTM revenue base + dilution from 28.4M to 31.5M shares in 3 fiscal years + April 2026 ATM completed at $86 avg while stock peaked at $112 ~5 weeks later (timing suspicious).
+  - §4 Adversarial **FLAG** — NO published activist short report (Hindenburg, Citron, Spruce Point, Wolfpack, Night Market, Kerrisdale, Bonitas, Iceberg, Muddy Waters all silent on AEHR). 16.33% SI rising but days-to-cover only 1.7 = not a squeeze setup. No class action (prior Lucid Alternative Fund LP suit plaintiff-dismissed 5/16/2025). BUT all 3-4 covering analysts (Craig-Hallum Schwab $68 PT, Lake Street Michaelis $56 PT, William Blair Dorsheimer Outperform no PT) have PTs **30-45% below current $101 spot** despite Buy ratings. Craig-Hallum + William Blair are both agents on April $60M ATM (conflicted positively yet still bearish on price). The price has decoupled from research consensus.
+  - §5 Revenue Reality **RED** — TTM $45.25M on $3.16B cap = **70x P/S TTM**. Revenue declining 4 consecutive quarters (-16% → -27% → -44% YoY) on SiC/EV legacy collapse. FY26 guide ~$45-50M = -18% YoY. Forward P/S on FY26 guide = 63x, on optimistic FY27 $80M = 40x. **Comparable benchmarks at similar inflection: AAOI graduated at ~5-7x P/S; CRDO graduated at ~10-15x P/S.** AEHR trading at **5-10x the historical chokepoint pure-play graduation multiple**. Pricing in simultaneously: hyperscaler-PPBI ramp $50-100M+, SiPh WLBI ramp $50-100M+, HBM-CoWoS optionality, GM recovery to 50%+ from 30%. All four must execute; any partial execution leaves stock structurally overvalued. Effective backlog $50.9M record + Q3 bookings $37.2M (3.6x book-to-bill) is real but backlog-to-mcap ratio only 1.6% vs framework comps. Forward P/E 661x per Finviz.
+  - §6 Social **FLAG** with **SiPh sub-thesis LOVED** — No paid promotion (no RedChip/Litchfield Hills/CorporateAds/IBN/Zacks SCR), measured IR, no AOL "newest meme stock" framing, no Stocktwits bot patterns. BUT: **25+ posts in 30 days connecting AEHR to SiPh/CPO** across paid-tier Substacks (PhotonCap "100-Second Bottleneck Behind NVIDIA CPO" + "Three Pillars of SiPh Wafer Test"; Citrini Research "Semis Memo: Supply Chain Inheritance"; Damnang "Why You Should Be Watching Optical Test"), 6+ FinTwit accounts >10K followers (PhotonCap, JasonL_Capital, SingularityRes, SergeyCYW, RosannaInvests, TheValueist, Kuyza), Reddit basket-list mentions (r/wallstreetbets passing, r/AIFU_stock photonics value chain, r/TheRaceTo10Million), Instagram/Threads/Facebook reels (10+), mainstream finance (Motley Fool, Insider Monkey, MarketBeat). **Per framework threshold >20 posts = LOVED on sub-thesis. The "hidden second chokepoint optionality" framing the team hoped to capture via cross-tag has been priced in by the market over last 30 days.**
+- **H10 status DOWNGRADED:** From Vendor-level (CHOKEPOINT_TAXONOMY.md row #1 prior reading) to **Vendor-adjacency** (one degree from NVDA-named CPO ecosystem). AEHR has not been named by NVDA/TSMC/AVGO/MSFT/META/AMD in earnings calls. Q3 FY26 SiPh win framed as "tied to recently announced products from major AI processor suppliers" — indirect attribution, not direct customer relationship with NVDA-type bellwether.
+- **H5 classification:** **PARTIAL-RECOVERING POST-RE-RATE.** 52-wk range $9.38 → $112.00 (12x rerate done). Recent geometry: $112 peak 5/26-5/27 → $81 trough 5/19 (-28% retrace) → $101 current 5/28 (+24% bounce). Per Framework v2.0, PARTIAL-RECOVERING qualifies, but only at trough zone ($75-85), NOT current $101 with $56-68 PTs implying -33% to -45% downside.
+- **POSITION DECISION: HOLD existing; do NOT initiate new at $101.**
+- **Re-entry triggers documented:**
+  1. Retrace to **$75-85 zone** with no thesis-break event → 50% tier-standard position ($5-12.5K) at PARTIAL-tier magnitude expectation (50-265%)
+  2. Retrace to **$60-70 zone** → full Tier 3 size ($10-25K). Would imply institutional sell-side PTs have caught up to spot.
+  3. **Q4 FY26 10-K (June/July 2026 filing) first-time SiPh customer-deposit spike >$10M** (Framework v2.0 DISCOVERY HIERARCHY propagation from TSEM $290M macro signal). Not yet fired in Q3 FY26 deferred revenue ($1.86M, normal billing).
+  4. **Customer identity reveal** (Tower / GFS / Coherent / Lumentum / NVDA-direct) → could upgrade to direct vendor-level H10 + justify entry at $80+.
+  5. **Q4 FY26 revenue inflection >$20M** (vs Q3 FY26 $10.3M) confirming bookings-to-revenue conversion → could justify entry at $80+ on multiple compression.
+- **Calibration:**
+  - AEHR is NOT SHAZ (no fraud, no self-dealing, no DeFi counterparty, no paid promotion, no published verified short report)
+  - AEHR is NOT POET (no counterparty cancellation, no related-party warrant overlay, no CFO-NDA-violation lawsuit, no PIPE-flipper investor)
+  - AEHR IS analogous to POWL at $328: verified chokepoint pure-play that rerated 5-10x on real fundamentals, where existing holders should hold but new entries are valuation-constrained
+  - This is a **"framework worked, capture window closed"** outcome — the framework correctly identified AEHR as a chokepoint pure-play in Phase 1; it has rerated ~10x; the 16-100x asymmetry is now consumed; remaining upside is PARTIAL-tier and entry-timing-dependent.
+- **Files modified (this session, 3 files):**
+  - `archos/due-diligence/AEHR-dd-2026-05-28.md` (created — full v2.0 DD with all 6 sections, headline verdict, 12 critical DD questions, CPO competitive assessment, position decision with re-entry triggers, taxonomy update recommendations, candidate universe update recommendations, 4 lessons captured, ~80 source citations)
+  - `archos/CHOKEPOINT_TAXONOMY.md` — header refreshed with AEHR DD entry (prior ANRITSU DD entry pushed to "Prior refresh"); chokepoint #1 row AEHR entry updated cap $2.4-2.9B → $3.16B + cross-tag CONFIRMED + Vendor-adjacency annotation; chokepoint #4 row updated cap + cross-tag CONFIRMED + DD COMPLETED + POST-RE-RATE annotation + corrected source 8-K from "Q1 FY26" to "Q2 FY26 + Q3 FY26"; tier distribution + summary paragraphs updated; framework validation summary updated to note AEHR has effectively rerated 10x.
+  - `archos/CANDIDATE_UNIVERSE.md` — header refreshed with AEHR DD entry (prior ANRITSU DD entry pushed to "Prior maintained"); Tier B DD QUEUE table row for AEHR updated with DD COMPLETED status + corrected cap + Vendor-adjacency H10 + re-eval triggers + DD file link; cross-reference line updated.
+  - `archos/state.md` — current status + project timeline updated (this file).
+- **Lessons captured for Sounding Board (3 new) — pending INSIGHTS.md ratification:**
+  - **L1.** When the cross-tagged sub-thesis is LOVED in social signal, the cross-tag's optionality is consumed. The prompt context framed AEHR's chokepoint #1 cross-tag as a potential "hidden second chokepoint" that would unlock new conviction. Social signal sweep found 25+ posts in 30 days from paid-tier Substacks (PhotonCap, Citrini, Damnang) and FinTwit explicitly connecting AEHR to SiPh/CPO. **Asymmetric optionality the cross-tag was supposed to capture has already been priced in over the last 30 days.** How to apply: Before treating a cross-tag as upside optionality, run the social signal sub-thesis penetration test (count independent posts in 30 days that explicitly map the candidate to the new chokepoint). >20 posts = LOVED on sub-thesis = optionality consumed.
+  - **L2.** Real-time cap verification protocol per CLAUDE.md is doing its job, but team prompt construction assumed yesterday's reading was the current state. Prompt framing "$3.46B (2026-05-27) → $2.4-2.9B (2026-05-28)" — DD verification: $3.46B was 5/26-5/27 peak, $2.55B was 5/19 trough, current $3.16B (5/28). Team was treating $112-to-$81-to-$101 bounce-back as sustained compression. How to apply: Always verify cap intraday at DD start; never trust a "verified yesterday" cap when intraday volatility is >10%. AEHR has 9% intraday range routinely now.
+  - **L3.** AEHR is the empirical confirmation of INSIGHTS.md H3 "insiders sell into strength" pattern at extreme magnitude. AEHR's 90-day insider selling: $44.3M / 13 insiders / 0 10b5-1 / 0 open-market buys in 180 days. More aggressive than ALMU's $27.5M cascade but NOT a thesis-break signal — it's the modal pattern at peak rerate. How to apply: Insider selling cascade at peak rerate windows is EXPECTED behavior, not thesis-break signal. Treat as position-sizing-discount input (reduce 25-50% from tier standard) rather than auto-reject. Thesis-break signal would be insider selling CONCURRENT with customer cancellation / restatement / going-concern flag — which AEHR does NOT have.
+- **Sounding Board call pending:** AEHR's "OSAT-mediated forward pipeline" HBM exposure pattern — should the framework distinguish between (a) test equipment vendors with direct memory-maker relationships (SK hynix/Samsung/Micron customer of record) and (b) test equipment vendors with OSAT-mediated forward pipeline language? The dose-response on revenue ramp is different in each case, and the prompt context conflated them.
+- **Note: archos remains NOT a git repository** (verified again this session via `git status` returning "fatal: not a git repository"). Session-end git commit/push protocol from CLAUDE.md cannot be executed; user decision still pending on whether to initialize repo. Files persisted to disk locally but unversioned. This is the 2nd consecutive session flagging the git state — recommend Sounding Board explicit decision before next DD session.
+
+### 2026-05-28 (prior) — ANRITSU DD: Full v2.0 due diligence on 6754.T Anritsu Corporation completed (Tier A DD QUEUE #3 of 3)
+
+- **Trigger:** User prompt 2026-05-28 — Anritsu surfaced as #3 Tier A DD QUEUE candidate from SCAN_CPO_FULL_SWEEP (2026-05-28). Layer 9 (Optical Test & Measurement) of CPO supply chain. Profile parallel to AEHR-for-HBM but for optical/CPO layer.
+- **Method:** 1 cap verification call + 6 parallel general-purpose subagents (one per DD section), with section-specific Japanese-listing adaptations (TSE EDINET, TDnet, JPX short-selling, Japanese broker coverage, ¥/USD FX cross-check). Total: 7 agents, ~5 minutes wall-clock for cap verification + ~5 minutes for parallel DD execution.
+- **Headline finding — WATCH (not ACCEPT). H8 strict end-market test FAILS:**
+  - **Cap correction:** $2B (iamfabian Substack figure stale) → **$3.79B USD verified** (¥603B @ ¥159.38/USD; price ¥4,732). Anritsu is firmly TIER 3 COMPOUNDER, not TIER 2/3 borderline.
+  - **DD aggregate: 3 CLEAR + 3 FLAG + 0 RED.** Section 1 (Management) CLEAR — 130-year operating history (founded 1895), internally promoted career executives (Hamada CEO since 2018, Sugita CFO 2026), majority-independent board, declining cross-holdings <1.4% NAV, Big-4 Japan auditor, zero litigation/scandal/fraud. Section 2 (Counterparty) CLEAR with 1 FLAG on China BIS exposure (Asia & Others = 38% of H1 FY2026 T&M revenue). Section 3 (Balance Sheet) CLEAR — net cash ¥49.3B, debt/equity 2.7%, FY26 FCF compression flagged (¥3.2B vs ¥11.7B NI; investment-cycle related). Section 4 (Adversarial) CLEAR — no shorts (not on JPX disclosure list, well under 5% threshold), no activists, no scandals, A-rated bond. Section 5 (Revenue Reality) FLAG with H8 sub-test FAIL. Section 6 (Social Signal) FLAG — entry-window compression.
+  - **THE CRITICAL FINDING — WOLF ANTI-PATTERN AT CHOKEPOINT #1 LAYER:** Anritsu's optical T&M / Network Infrastructure sub-segment is only ~24% of consolidated revenue. Mobile T&M is ~26% — the single largest end-market is NOT AI-DC. PQA (food/pharma X-ray inspection) at 27% is passive earnings ballast. **By a strict reading, Anritsu fails the >50% AI-infrastructure end-market test.** This is the same shape as WOLF (100% SiC product but >50% EV/auto end-market → REJECTED). Best-in-class product (BERTWave MP2110A is industry-standard 10G-1.6T optical module test) attached to a diluted parent corporate envelope.
+  - **H5 entry-window risk:** Stock +185% in 12 months, +31% in 30 days, at 98% of 52-wk high (¥4,848). Sell-side consensus PT ¥2,836 lags spot ¥4,732 by 40%. Classification: PARTIAL → trending LOVED. PARTIAL-tier magnitude expectation 50-265%, NOT IGNORED-tier 700-1,400%.
+  - **Competitive position:** Co-dominant (NOT dominant) with Keysight in optical module BERT/sampling-scope niche (~30-40% share each). KEYS strengthening via Oct 2025 Synopsys OSG acquisition.
+  - **Not AEHR-parallel:** AEHR is ~100% pure-play test equipment for HBM/SiC burn-in. Anritsu's optical T&M is only ~24% of corporate revenue. Comparable to "Lam Research with a food-inspection arm."
+- **FY26 actuals + FY27 guidance signal real inflection (but already partially priced):**
+  - FY26 (year ended March 2026): revenue ¥117.46B (+4.0%), OP ¥14.83B (+22.3%), NP ¥11.68B (+26.1%), backlog ¥27.4B (+40% YoY).
+  - FY27 guidance: revenue ¥140B (+19.2%), OP ¥20B (+35%), NP ¥15B (+28%). T&M segment guide +23.6%. Beat ¥17.8B consensus on OP.
+  - Q4 FY26 T&M orders +20% YoY explicitly attributed to "demand for optical transceiver related measuring equipment."
+  - GLP2026 T&M target raised mid-plan from ¥80B to ¥90B (+12.5%).
+- **Re-eval triggers documented** (Section 7 WATCH protocol):
+  1. Optical T&M sub-segment crosses 30%+ of consolidated revenue (requires Anritsu to begin separate disclosure)
+  2. 25%+ retrace from peak (¥4,848 → ¥3,636 or lower) → H5 PARTIAL-RECOVERING entry at 50% position size
+  3. PQA segment divestiture or spin-off → makes H8 PASS
+  4. Mega-contract with named hyperscaler (NVDA/META/MSFT/AMZN/GOOG) or transceiver-maker (LITE/COHR/AAOI/Innolight/Eoptolink) with disclosed dollar value >¥10B → H10-V vendor-level fire
+  5. Customer-deposit / deferred-revenue first-time appearance >¥10B per Framework v2.0 Discovery Hierarchy
+- **Default thesis expiry:** 2026-11-28 (6 months from DD date) unless one of above triggers fires. Monthly cadence during weekly WATCH re-eval cycle.
+- **Framework gap surfaced for Sounding Board:**
+  - Tier 4 SEGMENT exception (v2.0) requires parent cap $5-15B. Anritsu at $3.79B is BELOW the Tier 4 floor but has the same structural shape (segment growing fast inside diluted parent).
+  - **Recommendation:** Do NOT extend Tier 4 to <$5B cap. The framework correctly rejects Anritsu at consolidated level on H8 strict reading. Extending Tier 4 to smaller caps would re-admit the WOLF anti-pattern.
+  - WATCH trigger #1 (optical sub-segment crosses 30%+) provides clean re-eval path if Anritsu's segment mix shifts toward true AI-DC purity.
+- **Foreign-handicap (TSE-listed primary + thin OTC ADR ANRZF/AITUF/AITUY):** Per SCAN_CPO_FULL_SWEEP Lesson 5, foreign-handicap is a position-sizing input (30-50% reduction), not binary rejection. Applies if triggers fire: no LEAPS available on TSE primary, US Form 4/13F-HR coverage gap, US analyst coverage gap.
+- **Files modified (this session, 4 files):**
+  - `archos/due-diligence/ANRITSU-dd-2026-05-28.md` (created — full v2.0 DD with all 6 sections, framework pass, executive summary, WATCH re-eval triggers, calibration vs WOLF/AEHR, Sounding Board call documentation, ~60+ source citations)
+  - `archos/CHOKEPOINT_TAXONOMY.md` — header refreshed with ANRITSU DD entry (prior AEHR DD entry pushed to "Prior refresh"); chokepoint #1 row Anritsu entry updated with cap correction $2B→$3.79B + WATCH verdict
+  - `archos/CANDIDATE_UNIVERSE.md` — header refreshed with ANRITSU DD entry; Tier A DD QUEUE table row for 6754.T updated with DD verdict, corrected cap, and re-eval triggers
+  - `archos/state.md` — current status + project timeline updated (this file)
+- **Lessons captured for Sounding Board:**
+  - **L1.** Iamfabian Substack market cap figures may be stale by months — always cross-check with live web/Bloomberg/Yahoo Finance JP. Anritsu was cited at $2B but verified $3.79B (+90% rerate occurred between Substack writeup and DD date).
+  - **L2.** Japanese mid-caps post-TSE governance reform are very clean Section 1-4 DD candidates. Internal career executives, voluntary value-up plans (GLP2026), declining cross-holdings, A-rated bonds, no activist overhang. Different DD profile than US micro-cap shell companies that the checklist was originally calibrated against.
+  - **L3.** The H8 strict end-market test continues to be the load-bearing framework gate — Anritsu has the cleanest integrity profile observed in the universe but is correctly rejected by H8 strict. This validates the framework's design.
+  - **L4.** Co-dominant ≠ dominant for chokepoint pure-play classification. AEHR is the dominant (~100% share) pure-play in HBM burn-in test → 16-100x asymmetry. Anritsu shares optical module test 50/50 with Keysight → magnitude expectation structurally lower.
+  - **L5.** Customer-deposit / deferred-revenue disclosure (Framework v2.0 Discovery Hierarchy) is harder to verify in Japanese IFRS filings — PDF parsing failed; backlog growth (+40% YoY) is the cleanest proxy signal for now. Recommend EdgarTools-equivalent or direct Anritsu IR contact for future Japanese DD passes.
+- **Note: archos is NOT a git repository.** The CLAUDE.md session-end protocol assumes a git repository for commit/push but archos has not been git-initialized. User decision required on whether to initialize git repo (and if so, where to push — would need GitHub remote setup). This DD session is complete on file-write side; git operations not executed.
+
+### 2026-05-28 (prior) — SCAN_CPO_FULL_SWEEP: Co-Packaged Optics complete supply-chain sweep across 14 layers
+
+- **Trigger:** User prompt 2026-05-28 — chokepoint #1 (CPO) was functionally empty (POET sole ACTIVE; SIVEF OTC ADR; ALMU HARD REJECTED); chokepoint #8 declared structurally consolidated per SCAN_04 (2026-05-27). Hypothesis: prior scans applied tight filters too early and may have missed names worth investigating in less-explored supply chain layers. Cast widest possible net first, filter second.
+- **Method:** 5 parallel agents fanned out across (a) EdgarTools full-text discovery on upstream layers (substrates, epi, lasers, SiPh foundry, PIC design, foreign 6-K filers); (b) EdgarTools full-text discovery on downstream layers (modulators, photodetectors, fiber attach, packaging, test, materials, drivers/TIAs, connectors, thermal mgmt); (c) Firecrawl web discovery on industry landscape; (d) Firecrawl web discovery on per-layer supply chain drill-down; (e) Firecrawl web discovery on foreign listings + broken-IPO + de-SPAC + insider buying + deferred revenue retrospective questions. Plus 1 cap verification agent on 17 candidates. Total: 6 agents, ~60 minutes wall-clock, ~70 web searches + 35 EdgarTools queries.
+- **Headline finding — 28 sub-$5B candidates surfaced across 13 of 14 chokepoint layers:**
+  - 17 US-listed sub-$5B candidates
+  - 11 foreign-listed sub-$5B candidates with handicap (Euronext / Xetra / TSE / TPEX / KOSDAQ / LSE / Stockholm)
+  - 6 promoted to DD QUEUE (3 Tier A within 14 days; 3 Tier B within 30 days)
+  - 18 promoted to WATCH (Tier C with explicit trigger conditions)
+  - 13 added to REJECT log
+  - 1 cross-tag taxonomy update (AEHR chokepoint #4 + cross-tag #1)
+- **Tier A DD QUEUE — DD within 14 days:**
+  - **SOI / SLOIY (Soitec, Euronext Paris / OTC ADR, ~$3.3B USD)** — STRONGEST FOREIGN AI-DC PURE-PLAY of sweep. SEMI SiPh Industry Alliance member; named Photonics-SOI substrate supplier to TSMC COUPE + GFS Fotonix + Tower SiPh + ST. H10 PASS at vendor level. H5 IGNORED-equivalent — cyclical RF-SOI trough is masking Photonics-SOI ramp. Mgmt target $2B rev / ~40% EBITDA. OTC ADR (SLOIY) liquidity caveat.
+  - **AIXA / AIXXF (AIXTRON, Xetra / OTC ADR, ~$4.9B USD borderline)** — 90% G10-AsP MOCVD reactor share for InP fab tools; serves Coherent/Lumentum InP fabs (= NVDA 2-degree). Raised 2026 guidance €560M. CAP RISK: at $4.9B = right at H8 threshold.
+  - **6754.T (Anritsu, TSE Tokyo / OTC ADR ANRZF, ~$2B USD)** — BERTWave MP2110A 10G-1.6T optical test workhorse. Explicit Taiwanese module-house qualification content. Picks-and-shovels of CPO ramp.
+- **Tier B DD QUEUE — DD within 30 days:**
+  - **VECO (Veeco Instruments, NASDAQ, $3.52B)** — PROMOTED from supplier-mapping WATCH; May 2026 8-K crystallized SiPh thesis; $250M InP laser tool order book.
+  - **138080 (OE Solutions, KOSDAQ Korea, $400-700M)** — 1.6T InfiniBand AI-DC compatible transceivers; "Patents for the CPO Era" Mar 2026. Korean DART filing access required.
+  - **AEHR (Aehr Test Systems, NASDAQ, ~$2.4-2.9B)** — NO FRESH DD — taxonomy update is the action. Cap REDUCED from $3.46B per 2026-05-28 verification (no longer borderline graduation). Q1 FY26 8-K SiPh WLBI vendor-level fire = cross-tag chokepoint #1.
+- **Canonical Framework v2.0 confirmation:** TSEM Q1 2026 10-Q (filed May 13, 2026) disclosed **$290M silicon photonics customer prepayments + $1.3B SiPh revenue contracts signed for 2027**. Highest-magnitude single-quarter customer-deposit disclosure in AI Infrastructure cohort to date. TSEM is graduated (cap $32B) so not directly investable, but this validates Framework v2.0's "balance-sheet signals lead bellwether mentions by 1-3 quarters" thesis at the SiPh foundry layer. Propagation to sub-$5B upstream suppliers expected in Q3/Q4 2026 filings — monitor: Soitec next 6-K, AIXTRON next 10-K equivalent, Sivers next 6-K, OE Solutions/Lightron Korean DART, AEHR Q2 FY26 10-Q, VECO Q2 FY26 10-Q.
+- **Files modified (this session, 3 files):**
+  - `archos/weekly-scan/runs/2026-05-28-cpo-full-sweep.md` (created — full sweep documentation with supply chain map, EdgarTools results, web discovery, master matrix, DD queue, supply chain gaps, retrospective answers, taxonomy updates, lessons captured)
+  - `archos/CHOKEPOINT_TAXONOMY.md` — header refreshed; chokepoint #1 row expanded from 1 to 6 ACTIVE US-investable + 5 foreign-handicap with cross-tags; chokepoint #4 AEHR row updated (cap reduction + cross-tag #1); chokepoint #8 row reclassified from EMPTY-consolidated to PARTIALLY ACTIVE with chip-layer (MXL, SMTC) + Korean transceiver-layer (138080, 069540) + Taiwan newly-public (TPEX:3485); EMPTY-chokepoints table updated (#8 row strikethrough + replaced with reclassification note); summary line updated from "4 of 12 ACTIVE / 8 of 12 EMPTY" to "6 of 12 ACTIVE / 6 of 12 EMPTY"; tier distribution updated.
+  - `archos/CANDIDATE_UNIVERSE.md` — header refreshed with SCAN_CPO_FULL_SWEEP context; Last-screened pointer updated; new SCAN_CPO_FULL_SWEEP section inserted before SCAN_12 section with 6 DD QUEUE entries (3 Tier A + 3 Tier B) + 18 new WATCH entries + 13 new REJECT-log additions + cross-reference notes for VECO promotion + AEHR cross-tag + SIVE.ST replacing SIVEF reference + INFQ cross-tag CPO #5 + ALNT cross-tag CPO #8; forward catalyst calendar (next 90 days).
+  - `archos/state.md` — this entry.
+- **Lessons captured (4 new) — pending Sounding Board ratification into INSIGHTS.md:**
+  - Lesson 1: Breadth-first methodology outperforms tight-filter early-application by ~6x on chokepoint-specific scans. **How to apply:** For periodic chokepoint-specific scans (run quarterly or after bellwether earnings), use breadth-first methodology; apply 4-filter framework at matrix-build stage only. For routine weekly scans, continue tight-filter.
+  - Lesson 2: TSEM Q1 2026 $290M SiPh customer prepayments is canonical Framework v2.0 DISCOVERY HIERARCHY confirmation. **How to apply:** Build quarterly customer-deposit screen specifically on CPO supplier list (DD QUEUE + WATCH set from this sweep).
+  - Lesson 3: 2022-2023 photonics de-SPAC cohort structurally dominated by industrial-laser + biosensing; AI-DC photonics IPO channel opens 2026-2028 via traditional IPOs not de-SPAC. **How to apply:** Skip de-SPAC reanim screening for AI-DC photonics lens going forward; focus IPO-watch budget on traditional-IPO calendar for Ayar Labs / Lightmatter / OpenLight / HyperLight / NewPhotonics / Innolume.
+  - Lesson 4: Layer-13 (Drivers/TIAs) was NOT structurally consolidated — prior SCAN_04 finding was over-generalized to all of chokepoint #8. **How to apply:** Distinguish module-layer (empty-consolidated) from chip-layer (re-emerging) in chokepoint #8 taxonomy classification.
+  - Lesson 5 (bonus): Foreign-handicap should be a position-sizing input (reduce 30-50%), not a binary disqualifier. **How to apply:** Update DUE_DILIGENCE_CHECKLIST.md and DISCOVERY_PROMPT.md to formalize "foreign-handicap discount factor" — Sounding Board call required.
+- **GIT STATE — FLAGGED ANOMALY:** `archos/` directory is NOT a git repository (verified via `git status` returning "fatal: not a git repository"). Other `Claude Builds/*/` projects (signal-forge, autoresearch-lab, mythify, _master_docs, Signal-cre-scout, Clawback, seykota_machine, og-deal-scout, Mem0-Service) DO have `.git`. The Archos project has been operating without version control — no prior session-end git protocol has actually run on this directory. Files have been written to disk only. **Recommend Sounding Board confirm whether to `git init` Archos in next session (this is a sensitive change per WORKING_PHILOSOPHY.md — flag rather than do unsolicited).** Until then, file changes are persisted locally but unversioned.
+- **Next session priorities:**
+  1. **DD on SOI/SLOIY (Soitec)** — Tier A; foreign-handicap; full DUE_DILIGENCE_CHECKLIST.md within 14 days; verify OTC ADR (SLOIY) liquidity meets Archos threshold.
+  2. **DD on AIXA/AIXXF (AIXTRON)** — Tier A; foreign-handicap + borderline-graduation; full DD within 14 days; include entry-window-closing risk in position sizing.
+  3. **DD on 6754.T (Anritsu)** — Tier A; foreign-handicap; full DD within 14 days; verify OTC ADR ANRZF liquidity.
+  4. **VECO promotion DD** — Tier B; promote existing supplier-mapping WATCH file to full chokepoint #1 ACTIVE DD; Section 2.6 China BIS exposure focus.
+  5. **138080 (OE Solutions) DD** — Tier B; Korean DART filing access workflow setup; Section 2.3 hyperscaler counterparty acknowledgment.
+  6. **Sounding Board calls:** (a) chokepoint #1 expansion ratification; (b) chokepoint #8 reclassification ratification; (c) foreign-handicap discount factor codification; (d) git init for Archos directory decision.
+  7. **Watchlist monitoring:** SKYT, MXL, CAMT, SMTC, HIMX, PLAB, SVCO, CPSH, TPEX:3485, LASR, 069540 (verify H5 LOVED-risk), LPK/LPKFF, 6777, 6502.TWO, TWSE:6820, 4979, BELFB, ACLS — 18 names with explicit trigger conditions.
+  8. **Customer-deposit propagation screen:** Run a targeted quarterly screen on the CPO supplier list (Soitec, AIXTRON, Sivers, OE Solutions, AEHR, VECO) for first-time deferred revenue >$10M from a chokepoint-adjacent end-market — looking for the propagated signal of TSEM's $290M anchor.
+
+### 2026-05-27 (latest) — FRAMEWORK EVOLUTION SESSION: v1.0 → v2.0 (4 structural changes)
+
+- **Trigger:** After 7 days of live operation following the 2026-05-21 forward screening launch, four structural constraints were identified that were preventing the framework from finding the next AXTI- or SNDK-class opportunity in real time. The constraints were validated against the backward-looking research (Phase 1-4) AND the forward screening experience (May 21-27, 2026, 4 weekly scans, 8 completed DDs, 3 live positions). This is NOT a screening session — pure structural framework upgrades.
+- **Change 1 — DISCOVERY HIERARCHY flipped (balance sheet leads, H10 confirms).** Evidence: SNDK deferred revenue led NVDA HBM commentary by 1 quarter; LEU $189.8M deferred + $32.8M advances showed up Q3 2024, quarters before nuclear consensus; POWL record backlog $1.4B visible in 10-Q filings before any bellwether named the power chokepoint; INSIGHTS.md already documented customer-deposit/deferred-revenue spike as the highest-yield NEW unorthodox signal (36% universe-wide, 70% in DEF/SPACE/NUKE/QC). Files: CLAUDE.md (DISCOVERY HIERARCHY paragraph added after H10 description); WEEKLY_SCAN_PROMPT.md (Screen 3 elevated to first execution position with execution-priority note); CANDIDATE_UNIVERSE.md (SLNG promoted TIER 3 → TIER 2 WATCH on $14.67M first-time deferred rev; RDW promoted TIER 3 → TIER 2 WATCH on $79.8M absolute deferred + DoD/allied ISR cross-screen; AMPG held at TIER 3 — $391K absolute fails new $10M threshold).
+- **Change 2 — TIERED H8 (4 magnitude bands).** Evidence: Winner universe dose-response by pre-move cap is dramatic — sub-$100M produced 50-100x (AXTI $50M), sub-$500M produced 16-38x (NVTS $200M, POWL $230M), $2-5B produced 5-15x (SNDK $4.1B, ONTO $3.3B). Old flat sub-$5B treatment obscured magnitude-expectation signal critical for position sizing and instrument selection. Tier 4 SEGMENT pattern (SANM AI segment 3.78x YoY inside $13.8B parent) being filtered out entirely despite actionable segment exposure. Files: CLAUDE.md (H8 description replaced with 4-tier classification: NANO/CATALYST/COMPOUNDER/SEGMENT, position sizing per tier); CHOKEPOINT_TAXONOMY.md (H8 Tier column added — 0 NANO, 1 CATALYST PSIX, 3 COMPOUNDER POET/AEHR/HPS.A, AEHR borderline-to-graduation; tier-distribution summary added noting zero nano-cap chokepoint pure-plays for AI Infra); CANDIDATE_UNIVERSE.md (TIER 4 SEGMENT WATCH section added, currently empty, to be populated by next scan).
+- **Change 3 — PARTIAL-RECOVERING H5 classification added.** Evidence: WYFI transitioned IGNORED → PARTIAL on $160M NVIDIA contract catalyst (+74% rerate $700M → $1.21B), then framework hesitated because H5 no longer classified as IGNORED. Dose-response shows PARTIAL still predicts 50-265% returns — highly asymmetric, especially on LEAPS. A name that transitions IGNORED → PARTIAL on a single catalyst, then retraces >25% without a thesis-breaking event, is often a BETTER entry than the original IGNORED state because the catalyst has VALIDATED the thesis while the price has given back the initial pop. Files: CLAUDE.md (H5 PARTIAL-RECOVERING paragraph added: permits entry at 50% tier sizing with PARTIAL-tier magnitude expectation 50-265%; re-eval trigger if name retraces to within 10% of pre-catalyst price with thesis intact → reclassify back to IGNORED + full sizing); CANDIDATE_UNIVERSE.md (WYFI flagged PARTIAL-RECOVERING WATCH — calibration case; GCTS flagged PARTIAL-RECOVERING QUALIFIED — needs post-catalyst peak verification).
+- **Change 4 — Sector-conditional H10-extended (H10-D, H10-N, H10-M, H10-P).** Evidence: CTM ($65M, $273M Navy backlog), PPTA ($3.34B, $2.9B EXIM loan), MNTS ($35-75M, multi-agency), CRML ($1.36B, triple cross-screen), MNTS ($35-75M, multi-agency), ODYS ($74M, NAWCAD CRADA) all stuck in WATCH with "blocked on lens-framework codification" for 3+ days. DD checklist v2.0 already lens-agnostic — only H10 was lens-specific. Phase 4 universal discovery (N=61) confirmed extended bellwether fires for 90% of winner universe vs 48% for narrow NVDA-list only. The chokepoint LOGIC is universal; the bellwether IDENTITY is sector-conditional. Files: CLAUDE.md (new section "Sector-Conditional Bellwether Extension (H10-extended)" added after H11 with bellwether identities per lens: Defense = funded DoD/NASA/DARPA/AFRL/Space-Force/NRO/SDA awards or named defense prime; Nuclear = NRC milestone or DOE LPO or binding utility/hyperscaler offtake; Critical Minerals = DPA Title III / EXIM Board loan / DOE LPO / DFARS deadline / binding offtake from defense prime; Pharma = FDA Breakthrough Therapy or binding CDMO agreement w/ top-10 pharma); CANDIDATE_UNIVERSE.md (CTM UNBLOCKED with H10-D PASS = $219M Navy NAVAIR firm-fixed-price; PPTA UNBLOCKED with H10-M PASS = $2.9B EXIM Board-approved loan; MNTS UNBLOCKED with H10-D PASS = multi-agency funded; CRML H10-M FLAG = private offtake clears commercial but H10-M requires government bellwether; ALOY H10-M FLAG = soft DoW memorandum; ODYS H10-D FLAG = CRADA is R&D not funded procurement; LFCR H10-P FLAG = late-stage GLP-1 program but pharma counterparty NOT NAMED; NUCL H10-N FLAG = no NRC milestone, no DOE LPO).
+- **Candidates with material status changes:**
+  - **CTM** — UNBLOCKED (TIER 1 fast-track); advance to DD queue.
+  - **PPTA** — UNBLOCKED (TIER 2 STRONG); advance to DD queue. $2.9B EXIM is canonical H10-M fire.
+  - **MNTS** — UNBLOCKED (TIER 2). Post +109.76% pop, also flagged for PARTIAL-RECOVERING re-eval per H5 v2.0.
+  - **SLNG** — PROMOTED TIER 3 → TIER 2 WATCH per discovery hierarchy ($14.67M first-time deferred rev >$10M threshold qualifies even without H10 fire).
+  - **RDW** — PROMOTED TIER 3 → TIER 2 WATCH per discovery hierarchy ($79.8M absolute deferred + cross-screen + H10-D PASS on DoD/allied ISR).
+  - **WYFI** — Flagged H5 PARTIAL-RECOVERING WATCH (calibration case: catalyst validated thesis, monitor for >25% retrace from post-catalyst peak).
+  - **GCTS** — Flagged H5 PARTIAL-RECOVERING QUALIFIED pending post-catalyst peak verification (-20% from prior week + cap drop $300M→$239M approaching threshold).
+  - **CRML, ALOY, ODYS, LFCR, NUCL** — FLAG status with explicit H10-extended upgrade triggers documented.
+- **Framework version stamps applied:**
+  - `archos/CLAUDE.md` line 2: `# Framework version: v2.0 (bumped 2026-05-27 — adds discovery hierarchy, tiered H8, PARTIAL-RECOVERING H5, sector-conditional H10-extended)`
+  - `archos/state.md` line 2 (this file): `# Framework version: v2.0 (bumped 2026-05-27 evening — see Framework Evolution Session entry below)`
+- **Conflicts with concurrent pricing audit session:** None. The pricing audit session (earlier 2026-05-27) modified CHOKEPOINT_TAXONOMY.md to add a Status column and Graduated Pure-Plays section. The Framework Evolution session ADDED to that work (H8 Tier column) without overwriting or conflicting. All edits surgical.
+- **Output files modified (this session, 7 files):**
+  - `archos/CLAUDE.md` — version stamp + DISCOVERY HIERARCHY paragraph + tiered H8 replacement + PARTIAL-RECOVERING H5 paragraph + Sector-Conditional Bellwether Extension section
+  - `archos/CANDIDATE_UNIVERSE.md` — CTM/PPTA/MNTS unblocked; ODYS/ALOY/CRML/LFCR/NUCL H10-extended flags; SLNG/RDW promoted to TIER 2; AMPG held at TIER 3 with v2.0 review note; WYFI/GCTS PARTIAL-RECOVERING flags; TIER 4 SEGMENT WATCH section added
+  - `archos/CHOKEPOINT_TAXONOMY.md` — H8 Tier column added with distribution summary
+  - `archos/weekly-scan/WEEKLY_SCAN_PROMPT.md` — Screen 3 elevated to first execution position with v2.0 primary-discovery note; Screen 1 reframed as H10 confirmation overlay against Screen 3 hits
+  - `archos/INSIGHTS.md` — 4 new framework lessons appended in single batched block under "Framework v2.0 evolution lessons" header
+  - `archos/architecture.md` — data-flow diagram updated to reflect discovery hierarchy (Screen 3 / Customer Deposit primary)
+  - `archos/state.md` — this entry
+- **Next session priorities:**
+  1. DD on CTM (now UNBLOCKED) — full 6-section DUE_DILIGENCE_CHECKLIST.md
+  2. DD on PPTA (now UNBLOCKED) — full 6-section DUE_DILIGENCE_CHECKLIST.md, special attention to H11 (net debt about to expand $2.9B) and Section 5 pre-revenue
+  3. DD on MNTS (now UNBLOCKED) — full 6-section, special attention to whether +109.76% pop was supported by binding catalyst or speculative
+  4. Daily monitor on RDW cap (approaching $5B; promoted to TIER 2 but window may close)
+  5. Verify WYFI/GCTS post-catalyst peak prices for full PARTIAL-RECOVERING quantification
+  6. Next weekly scan executes with Screen 3 FIRST per new execution order
+- **Cross-session lesson (already captured in INSIGHTS.md):** Framework v2.0 changes resolve four operational constraints that the backward-looking research (Phase 1-3) couldn't surface, because the constraints are only visible under live forward operation. Phase 4 universal pattern discovery + the post-2026-05-21 weekly scans created the evidence base — but the structural fixes require a dedicated evolution session to land cleanly. **Cadence rule:** schedule a framework evolution session after every 4-6 weekly scans, OR after any week where multiple candidates land in WATCH with "blocked on framework codification" status. Don't accumulate framework debt.
+
+### 2026-05-27 (earlier) — MAINTENANCE SESSION: full real-time price audit + governance rule
+
+- **Trigger:** Stale market-cap data discovered across CHOKEPOINT_TAXONOMY.md and CANDIDATE_UNIVERSE.md. The original Phase 1-3 research (May 2026) was conducted using prices from web searches that were current at the time, but the AI infrastructure sector has rerated dramatically since — many names by 10-40x. Root cause was structural: Code sessions had no standing rule requiring real-time price verification before committing market cap data to a .md file.
+- **Method:** Three parallel general-purpose subagents (plus one replacement after the first nano-cap+weekly attempt hung) performed the audit across ~62 tickers covering (a) the 16 chokepoint pure-plays in CHOKEPOINT_TAXONOMY.md, (b) all WATCH candidates across the main WATCH + Master-Screen WATCH + Weekly-Scan WATCH + Nano-Cap AI WATCH tables, (c) sub-threshold WATCH + standalone + blind-spot flags + Tier 2 DD names. Primary data source: stockanalysis.com close 2026-05-26; cross-checked against companiesmarketcap.com, Yahoo Finance, Robinhood, MacroTrends. CAD/USD conversion (0.7237) and JPY/USD (~149) applied to foreign listings.
+- **Headline finding — 11 of 14 chokepoint pure-plays have GRADUATED:**
+  - GRADUATED-LARGE (>$25B): SNDK $235B (~44x in a year, 52-wk $35.79→$1,600), BE $86B (+1,200% YoY, +259% YTD), LITE $71B (+189%, NVDA $2B PIPE catalyst Mar 2026), NBIS $53B (+684% YoY rev), CRDO $41B (broken-IPO textbook case fully resolved)
+  - GRADUATED-MID ($5B-$25B): IREN $21B (+1,252% YTD), AAOI $15B (52-wk ~15x), ONTO $13B, APLD $13B, POWL $11B (~6x), AXTI $9.2B (~97x in a year — single most stunning move in framework history), NVTS $6.84B
+  - Still ACTIVE (sub-$5B): POET $2.30B (#1 CPO), AEHR $3.46B (#4 burn-in, borderline +15.68% single-day on 5/26), HPS.A US$2.71B (#6 grid, Canadian-listed), PSIX $990M (#10 gensets, sponsor-dependent)
+- **Headline finding — 6 of 10 chokepoints are now EMPTY of sub-$5B pure-plays:** #2 HBM/HBF (SNDK graduated), #3 HBM inspection (ONTO graduated), #5 GaN/SiC (NVTS graduated), #7 AI hosting (APLD + IREN + NBIS all graduated), #8 optical (AAOI + CRDO + LITE all graduated), #9 SOFC (BE graduated). Each requires a fresh sub-$5B candidate sweep at the next quarterly refresh. Discovery vectors per chokepoint enumerated in updated CHOKEPOINT_TAXONOMY.md.
+- **WATCH-tier material status changes (from audit):**
+  - **CENX BREACHED $5B** at $6.62B (+231% vs prior $2B reading). Blind-spot flag is now structurally moot — the BW-pattern rerate has fired in real-time. Document for traceability; remove from active blind-spot monitoring. The framework correctly held during the entry window.
+  - **LFCR DROP -60%** to $180M. Pharma chokepoint thesis at risk; investigate before H11' lens codification proceeds.
+  - **CYCU DROP -53%** to $5.13M. Tier 2 NANO; backlog asymmetry now even more extreme but cap below institutional micro-cap floor.
+  - **CRML MAJOR-RERATE +26%** to $1.72B (still sub-$5B, entry window compressing).
+  - **RDW +25% to $4.36B; approaching $5B** — after-hours print implies near-$4.82B; daily monitoring required.
+  - **MNTS +109.76% single-day pop on 5/26** to $95.67M. Speculative-grade move; verify catalyst before next eval.
+  - **SIVEF +62-112% rerate** to $2.75B (+1,171% YoY). Still sub-$5B; expedite H8/H11 verification.
+  - **VTIX DROP -35%** over past 30 days to $105.1M.
+  - **BHAI UNVERIFIED** — both stockanalysis.com and Yahoo 404 on ticker; possible delisting, ticker change, or reverse-merger SPAC name issue. Requires manual SEC EDGAR research before any re-inclusion.
+- **Approaching $5B threshold (daily watch):** CLSK at $4.25-4.30B (+41% over 30 days; needs ~16-18% more to breach), AEHR at $3.46B (+15.68% single-day on 5/26; could graduate within weeks).
+- **No new $5B breach inside WATCH itself.** IREN was already breached pre-audit (now $21.36B; remains Tier 2 DD). Universe is otherwise stable; 14 of 18 nano-caps moved <25% vs prior values; weekly-scan WATCH median move ~6%.
+- **Governance rule added to CLAUDE.md (Governance section):**
+  > Real-time data verification is MANDATORY before writing any market cap, stock price, or valuation metric to a project file. EdgarTools XBRL market caps are stale (confirmed multiple times — AXTI showed $273M when real was $4.5B). Training-data prices are often months or years old. Before any price, market cap, P/S ratio, or "sub-$5B" classification is committed to a .md file, the session MUST verify via Alpha Vantage, live web search, or equivalent real-time source. A file with stale pricing is worse than no file — it creates false confidence in outdated classifications. This rule applies to: CHOKEPOINT_TAXONOMY.md, CANDIDATE_UNIVERSE.md, all DD reports, all screening run outputs, and any file that references a company's current market cap or stock price.
+- **Framework implication — the framework worked exactly as designed.** 12 of 14 documented pure-plays delivered 10x+ rerates, with SNDK ($235B) and BE ($86B) materially exceeding the original 20-100x thesis upper bound. The H8 sub-$5B filter is now binding at a different layer of the supply chain: the chokepoints whose original pure-plays graduated need fresh discovery for the next-tier sub-$5B candidates. **This is a SUCCESS signal (framework validated), not a failure signal.** Median outcome inside the design-intent universe materially exceeded thesis upper bounds.
+- **Calibration: the WOLF anti-pattern guardrail held even as WOLF rallied** — WOLF at $3.55B is now slightly UNDER prior $3.75B reading; squeeze partially unwound; framework's refusal to chase the meme-momentum rally was correct ex-post.
+- **Other audit-surfaced corrections:**
+  - SCIA trades on OTC PINX, not Nasdaq as previously listed in CANDIDATE_UNIVERSE.md. Corrected.
+  - NUAI has active securities-fraud lawsuits — relevant to DD Section 6 if name advances. Flagged.
+- **Output files modified:**
+  - `archos/CLAUDE.md` — governance rule appended to Governance section
+  - `archos/CHOKEPOINT_TAXONOMY.md` — full rewrite with Status column, Graduated Pure-Plays section listing all 12 historical wins, EMPTY-chokepoint discovery vectors enumerated for each of the 6 empty chokepoints, Last refreshed updated to 2026-05-27, Next refresh due updated to URGENT
+  - `archos/CANDIDATE_UNIVERSE.md` — header note added describing material status changes; every WATCH row updated with verified market cap + "(verified 2026-05-27)" tag; CENX/LFCR/CYCU/CRML/RDW/MNTS/SIVEF/VTIX flagged for status change; BHAI flagged unverified; SCIA noted as OTC PINX
+  - `archos/state.md` — this entry
+- **Next actions priority shift:** Action #4 (quarterly taxonomy refresh after next NVDA earnings) is now elevated to URGENT because 6 of 10 chokepoints are empty. The next NVDA Q1 FY27 earnings parse (late May / early June 2026) must include a fresh sub-$5B candidate sweep for HBM/HBF (#2), HBM inspection (#3), GaN/SiC (#5), AI hosting (#7), optical (#8), and SOFC (#9). Discovery vectors per chokepoint already enumerated in updated CHOKEPOINT_TAXONOMY.md.
+- **Cross-session lesson (queue for INSIGHTS.md append next session):** Real-time price verification at the moment of writing is the only reliable mechanism for keeping the screening framework's H8 filter accurate. Stale prices compound the worst classification errors — a stock recorded at $400M may actually be $4.5B, putting it in a different framework tier with different action implications. The governance rule formalizes what the project should have been doing all along. Sub-lesson: the audit confirms that the AI-infrastructure rerate cycle, which Aschenbrenner's "Situational Awareness" framed as a 4-7 year capital mobilization, is currently compressing the entry window for the original chokepoint cohort. Future discovery work must move down-cap (sub-$2B and sub-$500M is the new hunting ground) and out-sector (the EMPTY chokepoints likely have their next pure-plays among foreign filings, recent IPOs, and supply-chain second-tier suppliers).
+- **Next session priorities:** (1) NVDA Q1 FY27 earnings parse + fresh discovery sweep for the 6 EMPTY chokepoints, (2) BHAI manual SEC EDGAR research to resolve UNVERIFIED status, (3) LFCR thesis-break investigation (-60% needs a why), (4) RDW daily $5B-threshold monitor until it either breaches or pulls back, (5) decide whether to raise H8 threshold from $5B to $7-10B given sector-wide rerate (or maintain $5B with discipline that "ACTIVE" pool will be smaller going forward).
+
+### 2026-05-26 — NANO-CAP AI UNIVERSE SCAN — sub-$100M AISP-template hunt
+
+- **Fourth Claude Code session of 2026-05-26**, after weekly partial + weekly full + Universal Pattern Discovery + directory reorg. Targeted complement to the canonical Sunday weekly master scan (`2026-05-26-full-run.md`); operates one cap-tier below (sub-$100M nano-cap, vs sub-$500M Tier 1 / $500M-$5B Tier 2 / $5B-$25B Tier 3 weekly tiering).
+- **Template anchor:** AISP (Airship AI, ~$79M, defense AI edge surveillance, DHS+DoD+FBI+DOJ contracts, 22-year founder, $270K CEO insider buying). The original AISP find from the weekly full run was the forcing function — find every AISP-equivalent in the sub-$100M universe.
+- **Method:** 4 parallel general-purpose subagents (~5-9 min wall-clock per stream, ~30 min total wall-clock):
+  - Stream 1: EdgarTools 10-K full-text — 10 single-phrase AI keyword queries (artificial intelligence, machine learning, edge computing, computer vision, NLP, deep learning, neural network, autonomous systems, predictive analytics, AI-driven/powered)
+  - Stream 2: EdgarTools 8-K full-text — DoD/DHS/DARPA/AFRL counterparty intersection with AI/ML/autonomous/surveillance/sensor-fusion vocabulary
+  - Stream 3: Web search — 12 broad nano-cap AI surface queries (Finviz screener, stockanalysis.com, news aggregator triangulation)
+  - Stream 4: De-SPAC AI 2023-11 → 2024-05 — Cluster 1 reanim window (24-36mo post-merger) via 8-K Item 2.01 + web cross-check
+- **Headline finding — SPAI (Safe Pro Group, ~$90M):** Cross-stream double-fire on Streams 2 + 3 (both ranked it #1 in their pool). Cleanest AISP-template analog of any nano-cap surface scan to date. U.S. Army **Short Range Reconnaissance Program of Record** + $1M LRIP subcontract Feb 2026 + 1.66M Ukraine battlefield images processed (>150 landmine types) + Q1'26 rev +560% YoY + AI segment +2,400% YoY + founder-CEO Erdberg 10% ownership + Tudor Investment $1.79M build Mar 2026 + Davidson Kempner top institutional + $14M PIPE at $7 (current ~$4) + OBBBA $30-33B defense AI/drone modernization tailwind. NO Cluster 8 risk signals (US-domiciled, no rename pivot, no paid-promo, no foreign Cayman shell). Fast-track to full DUE_DILIGENCE_CHECKLIST.md within 7 days.
+- **Secondary TIER 1 — EXYN (Exyn Technologies, ~$43M):** USSOCOM Vendor Loan Agreement + USAF Warner Robins (via Asylon) + AFRL inspection + ExynAI autonomy stack (GPS-denied 3D mapping). Just-IPO'd May 2026 at $7.75 → ~$5 = recent-IPO Cluster 1 functional analog. $5.8M TTM, 36% gross margin.
+- **Cross-stream double-fires (highest-conviction signal type per INSIGHTS.md auto-promotion rule):** SPAI (Streams 2 + 3 = TIER 1), MSAI (Streams 1 + 3 = TIER 2), KSCP (Streams 1 + 3 = TIER 2). All three are credible. Single-stream candidates that did NOT double-fire required individual DD assessment.
+- **TIER 2 NANO highlights:** MSAI ($12M, Houston TX HQ, multi-sensor edge AI for industrial, Ford EV + Fortune 50 retailer customers, $5.6M TTM 52.5% GM); CSAI ($13M, AI video surveillance multifamily, 7 of top 11 mgmt firms, +271% YoY); KSCP ($48M, autonomous security robots, Q1'26 +106% YoY); MTEK ($14-15M, edge AI for UAVs/kamikaze drones/IFVs, US IFV pilot); WRAP ($89M, WrapAI ML for body-cam, DHS purchase order, **7 insider buyers / 0 sells last 90 days — rare H3-contrarian-inverse**); CYCU ($11M, AI cybersecurity, **$112M backlog vs $11M cap = 10x asymmetry**); SSTI ($87M, public safety AI — declining rev = risk); GRDX ($22-24M, AI x DC power — pivot from biopharma = Cluster-8-adjacent caveat); FUSE ($45M, agentic AI — fresh listing late 2025, outside reanim window).
+- **TIER 3 NANO — Cluster 8 gates + reanim shapes:**
+  - **DFNS** ($15-23M, T3 Defense) — **CROSS-STREAM CONFLICT**: Stream 1 #1 most interesting find (real defense AI + Iron Dome supplier + $26M FY26 guide); Stream 2 REJECT (5 CEO entries, Israeli defense + fintech overlay, Cluster 8 pivot/SPAC residual from Nukkleus prior entity). **Per SHAZ calibration discipline, conflicting Cluster 8 signal routes to TIER 3 + mandatory DD Section 2 + Section 6 BEFORE promotion.** Proposed standing rule for INSIGHTS.md.
+  - **XTIA** ($72M, XTI Aerospace) — Cluster 8 caveat: recent rename pivot **TriFan VTOL → drone defense**. Real CENTCOM advisor + $147M pipeline + $160M FY26 guide BUT rename pattern is SHAZ-adjacent. Full DD 2/6 mandatory.
+  - **ONMD** ($44M, OneMedNet) — **Cleanest Cluster 1 reanim shape of entire run** (Nov 7 2023 merger = 30mo post-SPAC, exactly mid-window; -80% off 52w high $0.84 vs $4.22; insider buying April 2026; iRWD AI imaging + Palantir Foundry integration; 2,130+ healthcare site network; +111% YoY rev; +329% RWD growth). Healthcare-AI not defense — different bellwether identity (Palantir = mega-cap AI/gov-data anchor) but same reanim mechanic.
+- **Sector distribution (final 14 candidates):** Defense/Gov AI 7 (SPAI/EXYN/MTEK/DFNS/XTIA/DETX/WRAP) / Security-Surveillance 3 (CSAI/KSCP/SSTI) / Industrial 1 (MSAI) / Cyber 1 (CYCU) / Healthcare 1 (ONMD) / DC Power 1 (GRDX) / Logistics 2 (RVSN/ARAI) / Enterprise 2 (FUSE/AERT). **Defense AI 50% concentration = strongest sector-lens signal yet recorded in any single scan.**
+- **Framework extension forcing functions strengthened:**
+  - **Defense-AI lens-framework codification** — already due since 2026-05-24 master-screen (CTM/ALMU/MNTS/ODYS). Now reinforced: SPAI + EXYN + MTEK + WRAP + DFNS add 5 more sub-$100M Defense AI candidates. Plus AISP from full-run. **Without codified H10' (gov-anchor) + H8' (gov-rev %), none of these can graduate beyond TIER 2 WATCH.** Sounding Board call gating.
+  - **Cluster 8 routing protocol (NEW)** — DFNS/XTIA force the question: when streams cross-signal Cluster 8 risk, default is TIER 3 + mandatory DD Section 2 (insider/relateds, prior-entity history) + DD Section 6 (/last30days social sweep) BEFORE any framework re-evaluation. SHAZ calibration discipline non-negotiable.
+- **REJECT log additions (~30):** Just-over-cap names (ROC $109-123M — closest AISP analog above cap line, re-screen if pullback; MDAI $77-85M sector-adjacent; REKR/RDZN/VHUB/BNAI/ZENA/PDYN/AERG/ISSC/BZAI/AIRO/MITK/TSSI/VERI/etc.); Cluster 8 patterns (VEEA dilution risk, GAXOS pivot, ELAB rename, NXNT OTCQB, AIXC/AIXI/AMOD/YYAI/DUKR); quality-fail (MYND/CXAI/AUID/NXTT/DAIO/OPXS/KITT/IDAI/AIFF/AIMD/WLDS/CDIO/BFRG); OTC exclusions (AITX/OMQS/VISM/GTCH/CAUD/NOTE/TRUG/ZCAR/AILE/ZPTA/BNZI); de-SPAC outside Cluster 1 window (RZLV/HPAI/CNTM/DMN/RDZN).
+- **Tool-stack lessons (new):**
+  - **8-K gov-contract + AI intersection produced highest hit-to-candidate ratio.** Stream 2: ~1,800 snippets → 5 high-quality candidates = clean ratio. Stream 1: ~10,000 snippets → 7 candidates = much noisier (marketing-buzzword AI dominates 10-Ks).
+  - **Cluster 8 pattern density is HIGHER in sub-$100M universe than sub-$500M master-screen universe.** Aggressive Cluster 8 filtering is load-bearing.
+  - **Live web-search mkt cap verification was the difference-maker.** EdgarTools XBRL stale (confirmed for Nth time).
+  - **Cross-stream confluence is even more valuable at nano-cap than master-screen scale.** Three cross-stream double-fires (SPAI/MSAI/KSCP) — all credible. Single-stream candidates required individual DD.
+- **Sounding Board open questions added:**
+  - Defense-AI lens-framework codification (5 new sub-$100M candidates + 7 prior from full-run + master-screen + AISP from full-run = critical mass — overdue).
+  - Cluster 8 routing protocol standing rule (DFNS/XTIA force this).
+  - SPAI fast-track DD slot allocation (target completion 2026-06-02).
+- **Output files:**
+  - `archos/weekly-scan/runs/2026-05-26-nano-ai-scan.md` (this scan)
+  - `archos/CANDIDATE_UNIVERSE.md` (NEW SECTION: NANO-CAP AI WATCH — 2 TIER 1 + 9 TIER 2 + 7 TIER 3 nano additions; ~30 incremental REJECT log additions; footer cadence updated with SPAI/EXYN/ONMD/DFNS/XTIA re-eval triggers)
+  - `archos/state.md` (this entry)
+- **Next run:** 2026-05-31 (next Sunday weekly cadence). Sooner if SPAI DD checklist completes ahead of schedule or if any TIER 1 nano-cap catalyst fires.
+
+### 2026-05-26 (later) — WEEKLY SCAN FULL RUN — canonical Sunday master scan
+
+- **Second execution of WEEKLY_SCAN_PROMPT.md on 2026-05-26.** Eight parallel subagents (vs sequential in partial), 25-40min budget per agent, ~30-45min wall-clock. ~1,800-2,200 filings/issuers triaged across full lookback windows (vs ~1,000 in partial).
+- **Headline finding:** Partial run was vocabulary-bounded, NOT breadth-bounded. Three screens (1, 4, 7) materially under-yielded in partial because of query-set design choices, not because of true zero-supply. Full run with broader query sets surfaced **9 NEW candidates** beyond partial's 4, and confirmed partial's calibration on the others.
+- **Single most important catalyst this week — WYFI:** 8-K 2026-05-21 disclosing **$160M+ binding 5-yr AI compute agreement** w/ "investment-grade technology customer" for Paris-region NVIDIA GPU deployment, service commences July 2026. Satisfies CANDIDATE_UNIVERSE.md re-eval trigger (e). Mkt cap rerated $700M → $1.21B in 4 weeks (+74%) = H5 transitioning IGNORED → PARTIAL. Full DD checklist required before ACCEPT (counterparty identity verification, /last30days social sweep, H10 vendor-level fire, H8 segment cut, H11 post-convert).
+- **PPTA $2.9B EXIM:** Strongest single capital-allocation event of the week. Only US domestic antimony reserve (148M lbs = 35% of US 6-yr demand). End-market DoD small arms/munitions/missiles. White-House strategic-priority designation. Insider sentiment bullish (6 insiders bought $91K open-market). Caveats: pre-revenue moonshot blind spot (H8 unscored), H11 net-debt about to expand $2.9B, sentiment already PARTIAL not IGNORED-extreme. Sounding Board H13 codification gate before ACCEPT.
+- **AISP:** Cleanest single-screen TIER 2 candidate. 29mo post-merger, -68% off high, $79M micro-cap. $2.1M DHS follow-on + $3M commercial + $165M validated pipeline + CEO insider buying $270K bullish + Roth Buy $6.50 PT. Cluster 1 (de-SPAC reanim) + Cluster 4 (gov-anchor extended). Defense AI lens-framework gate before ACCEPT.
+- **TIER 3 new candidates:** AIRJ (AI-DC water/sustainability, 26mo de-SPAC, Net Zero Innovation Hub w/ Google/Microsoft/Schneider/Vertiv), GCTS (5G/satellite semi, 26mo de-SPAC, Q1 +287% YoY, mid-rerate), SLNG (LEU-pattern customer-deposit first-time appearance, $25M committed to unnamed DC-power vendor), TH (DC workforce lodging adjacency, +60% QoQ deferred rev), LFCR (Pharma chokepoint H11' first viable real-emergence candidate), AMPG (near-inflection RF/satcom margin re-rate), VOYG (DARPA Phase 2 borderline).
+- **Cross-screen confluences (highest conviction):** CRML triple-amp (Screen 1 + Screen 5 + Screen 8 42% SI), WYFI catalyst-confirmation + post-hoc 5/24→5/26 mkt-cap rerate +74%, RDW (Screen 2 backlog+ + Screen 3 deferred+, cross-confirms partial), PSIX (Screen 2 data-center revenue mention + Screen 6 REORG), AMPG (Screen 2 + Screen 3).
+- **Blind-spot flags new this run:** BW (Phase 3 winner blind-spot firing post-LOI revenue recognition — Q1 +44% YoY, $2.4B Base Electron / Applied Digital AI Factory project; document do not promote; Applied Digital is itself Cluster 8 SPV), WOLF (active +275% MTD squeeze on Citrini Research 5/13 AI-infra call; 57.6% SI; framework correctly resists per WOLF anti-pattern guardrail).
+- **Screen-effectiveness lessons:** (a) Screen 4 partial-run's "mid-May lull" hypothesis was WRONG CAUSE — vocabulary-driven undersampling, not true 8-K drought; DoD-narrow vocab returned 0-1 hits, DOE/EXIM/CHIPS/Critical-Minerals vocab returned 4+ real hits. Add to v2. (b) Screen 5 systematic EDGAR 8-K Item 2.01 sweep is canonical primary path (~140 matches); persistent de-SPAC master list build is next-cycle priority (10x efficiency lift). (c) Screen 3 v2 first-time-appearance trigger paid off — SLNG wouldn't have crossed v1 50% QoQ from $0 base. (d) Screen 7 v2 8-K pharma parallel CONFIRMED — pharma GLP-1 disclosure lives structurally in 8-K (99 hits) not 10-Q (0 hits). (e) Cluster 1 de-SPAC reanim is signal-clean at 10% hit rate (5 surfaced from ~50 enumerated; all credible operating businesses; zero sector-pivot blind-spot).
+- **Sounding Board open questions:** (1) H11' Pharma chokepoint codification (LFCR forcing function), (2) H13 Critical Minerals codification (triple-supported: CRML + ALOY + PPTA), (3) WYFI re-eval to ACCEPT (full DD this week?), (4) PSIX REORG re-eval (carry from partial; Q1 mgmt damping AI-DC expectations), (5) AISP fast-track to DD, (6) De-SPAC master list build (planned), (7) PPTA flag (caveat-only WATCH or expedited H13 codification then re-eval).
+- **Output files:** `archos/weekly-scan/runs/2026-05-26-full-run.md` (canonical Sunday scan, supersedes partial); CANDIDATE_UNIVERSE.md (3 TIER 2 + 8 TIER 3 + 3 sub-threshold WATCH additions; new BW blind-spot flag; WOLF active-squeeze documentation; ~50 incremental REJECTs); INSIGHTS.md (new lessons appended below).
+- **Next run: 2026-05-31** (next Sunday). Earlier if WYFI counterparty disclosure, PPTA EXIM def docs, NVDA Q1 FY27 earnings, or any TIER 2 catalyst fires.
+
+### 2026-05-26 — WEEKLY_SCAN_PROMPT.md authored + first scan executed (partial — superseded by full run above)
+
+- **WEEKLY_SCAN_PROMPT.md written** to `archos/weekly-scan/` — permanent reusable Sunday cadence prompt. 8 parallel screens consolidate prior monthly/quarterly screens into one consolidated weekly workflow:
+  - Screen 1: Material Agreement Scanner (mega-cap + defense/gov counterparties + corpus-wide Item 1.01)
+  - Screen 2: Revenue Inflection Scanner (first-time >40% YoY with <20% prior 4Q)
+  - Screen 3: Customer Deposit / Deferred Revenue Spike Scanner (NEW from Phase 3 universal pattern discovery — Cluster 4 anchor)
+  - Screen 4: Government Contract Awards Scanner
+  - Screen 5: De-SPAC Reanimation Timing Screen (NEW — Cluster 1; 24-36 month post-merger window)
+  - Screen 6: Spinoff / REORG Catalyst Screen (NEW — Cluster 3)
+  - Screen 7: Keyword Emergence Scanner
+  - Screen 8: Short Interest Amplifier Overlay (Cluster 2 magnitude amplifier, not standalone candidate path)
+- **First scan executed 2026-05-26.** ~1,000 filings/issuers triaged across 8 parallel subagent screens.
+- **Surfaced:** 4 TIER 3 WATCH candidates:
+  - **CRML** (Critical Metals, ~$1.36B, Critical Minerals/H13 parallel) — 27mo post-de-SPAC + 15-yr binding REE offtake with REalloys (matches ALOY) + 42% SI rising
+  - **SYPR** (Sypris Solutions, $72M, Defense/Space) — NASA Orion follow-on production through 2027 via Lockheed prime
+  - **OPTX** (Syntec Optics, $318-430M, Defense/Space photonics pivot) — 30mo post-de-SPAC + DoD AR camera order + space-optics expansion + NDAA positioning
+  - **RDW** (Redwire, $3.5B, Defense/Space) — deferred revenue +32.8% QoQ (sub-threshold but real signal)
+- **Blind-spot flags (do not promote, document for traceability):**
+  - **CENX** (Century Aluminum, ~$2B) — first-ever AI/DC language in 10-Q via smelter HPC JV; legacy-industrial-capacity-pivot (BW analog) blind spot. Working as designed.
+  - **PSIX** (Power Solutions International, ~$0.9B) — REORG cluster surfaces it but previously rejected as "framework precedent." Sounding Board call: re-evaluate or maintain REJECT?
+- **REJECT log additions: ~40 names** spanning sector-pivot SPVs (AGAE/KIDZ/IPW/EVTV/HOTH/SLNH/HVII/PHGE), financing false-positives (HAWK/BKSY/LUMN/AKAM/etc.), already-accelerating revenue names (EVC/LIFE/MXL/MDGL/PNTG), M&A-driven (PDYN), out-of-scope AI services with high SI (SOUN/AI/BBAI/RXRX), and mega-cap spinoffs (SOLS/Q/RAL/TKMS).
+- **New vocabulary spotted:**
+  - Critical Minerals offtake chain forming (CRML → REalloys/ALOY → DoD via Tanbreez Greenland)
+  - "Domestic defense tech / NDAA onshoring" becoming common pivot language for sub-$500M micro-caps (OPTX); test remains: did the company exist >3 years with prior operating baseline (OPTX = yes, photonics since 2008)
+  - Aluminum smelter → AI DC stranded-power pivot pattern (CENX)
+  - Foreign-controlled US-listed AI-DC power names (Weichai → PSIX) — new governance/sanctions exposure profile vs. SHAZ promotion pattern
+  - GLP-1 chokepoint disclosure structurally lives in 8-K / PR, not 10-Q narrative (Screen 7 pharma sub-cluster returned 0 across all queries)
+- **Screen effectiveness:** Screens 5 (de-SPAC) + 4 (gov contracts) most productive this cycle. Screen 5 needs persistent de-SPAC master list build for fast subsequent runs. Screen 3 threshold (50% QoQ) may be too strict — RDW just-missed signal warrants v2 supplementary trigger (first-time-appearance OR absolute-dollar threshold). Screen 4 highest-yield prediction from prior master-screen did NOT repeat — likely cyclic (Apr/early-May concentration; mid-May lull); not yet enough cycles to recalibrate.
+- **Tool issues logged:** EdgarTools boolean AND broken (4th confirmation — single-phrase queries only); `material_events` payload >32KB needs `detail:'compact'`; sec.gov direct WebFetch 403s (use Stocktitan/TipRanks/GlobeNewswire summaries); Fintel/ChartMill/Seeking Alpha 403'd for SI; highshortinterest.com works.
+- **Output files:** `archos/weekly-scan/WEEKLY_SCAN_PROMPT.md` (permanent, reused every Sunday); `archos/weekly-scan/runs/2026-05-26-run.md` (first run); CANDIDATE_UNIVERSE.md (4 new WATCH + 2 blind-spot flags + ~40 REJECT additions); INSIGHTS.md (4 new lessons appended).
+- **Next run: 2026-05-31** (next Sunday). Earlier if NVDA Q1 FY27 earnings or CTM Sounding Board discussion fires.
+
+### 2026-05-20 — Research Phase 1: Pattern Matrix (8 winners)
+- Autoresearch run across AXTI, SNDK, AEHR, NVTS, POWL, ONTO, APLD,
+  POET, IREN (8 winners + LSCC control)
+- Derived H10 + H8 + H5 as core three-filter framework
+- Killed H2 (analyst PT revisions), H3 (insider Form 4), H4 (generic 13F)
+- Output: PATTERN_MATRIX_v2.md, INDIVIDUAL_STOCK_REPORTS_v2.md,
+  DISCOVERY_ENGINE_SPEC_v2.md, HYPOTHESIS_EVOLUTION.md
+
+### 2026-05-20 — Research Phase 2: Anti-Pattern Controls (10 non-winners)
+- Tested framework against AMAT, KLAC, MRVL, AMD, COHR, WOLF, ACLS,
+  AMKR, ARM, CRUS
+- Result: 0/10 false positives. Framework discriminates.
+- Added H11 (balance-sheet survival) after WOLF case
+- Refined H8 to require >50% AI-infrastructure revenue
+- Output: CONTROL_MATRIX_v1.md, FRAMEWORK_STRESS_TEST.md
+
+### 2026-05-21 — Research Phase 3: Expanded Winner Universe (14 new names)
+- Discovered 12 new 10x+ winners + 2 sensitivity flags via
+  Aschenbrenner 13F + broad screen + adjacent chokepoint search
+- 4 framework-confirmed (BE, NBIS, AAOI, CRDO)
+- 1 true blind spot (BW — legacy-industrial-capacity-pivot)
+- 5 different-pattern names (CIFR, LWLG, SEI, MP, UUUU)
+- Expanded taxonomy from 7 to 10 chokepoints
+- Output: EXPANDED_WINNERS_v1.md, TAXONOMY_UPDATE_v1.md
+
+### 2026-05-21 — Project scaffolded
+- Directory structure created
+- CLAUDE.md, architecture.md, state.md written
+- Remaining: CHOKEPOINT_TAXONOMY.md, DISCOVERY_PROMPT.md,
+  CANDIDATE_UNIVERSE.md, INSIGHTS.md
+
+### 2026-05-21 — Scaffold completed
+- CHOKEPOINT_TAXONOMY.md, DISCOVERY_PROMPT.md, INSIGHTS.md written.
+  All project files in place.
+- CHOKEPOINT_TAXONOMY.md: 10 active chokepoints, 3 monitor entries,
+  5 rejected categories, H10 vendor/category tier column
+- DISCOVERY_PROMPT.md: 6-check evaluation prompt with batch wrapper,
+  Phase 3 refinements baked in (H8 end-market, H10 tiering, H11 core)
+- INSIGHTS.md: 59 lines (well under 200 cap), 14 framework lessons,
+  7 pattern lessons, 5 blind spots, 5 tool-stack lessons,
+  empty screening section reserved for first forward run
+
+### 2026-05-21 — First forward screen completed
+- Universe construction across 5 sources (prior research, Aschenbrenner
+  Q1 2026 13F filed 2026-05-18, EdgarTools 8-K full-text last 60 days,
+  chokepoint-specific web search, specialist 13F cross-reference)
+- 22 unique candidates surfaced after dedup; 14 quick-rejected on H8/H10;
+  8 advanced to full 6-check evaluation
+- 1 ACCEPT (SHAZ — SharonAI Holdings, chokepoint #7, $928M, Aschenbrenner
+  NEW 13F holder, NVIDIA Cloud Partner certified, $1.25B + $950M LTAs)
+- 1 WATCH (SIVEF — Sivers Semiconductors, chokepoint #1 CPO, $1.3-1.7B USD,
+  borderline H8/H11 pending FY2025 annual report)
+- 6 REJECT on full evaluation (DUOT, EOSE, TE, HPS.A, LTRX, NNBR) — every
+  rejection mapped to a documented blind-spot or filter logic
+- Output: archos/screening/2026-05-21-first-screen.md (new),
+  archos/CANDIDATE_UNIVERSE.md (new)
+- INSIGHTS.md: 6 new screening lessons appended
+
+### 2026-05-21 — First weekly bellwether-relationship sweep completed
+- New recurring screen: catch sub-$10B companies announcing bellwether
+  relationships (NVDA / TSMC / AVGO / MSFT / META / AMD) BEFORE the
+  13F lag (45 days). 22 web queries + 1 EdgarTools 8-K full-text.
+- 0 Tier 1 hits (equity / direct contract) under $10B not in exclusion
+  list. The 2026 NVDA $2B+ equity cohort (COHR, MRVL, LITE, IREN, NBIS,
+  CRWV) all either confirmed winners, Phase 2 controls, or mega-cap
+  post-announcement.
+- 1 Tier 2 hit: **SAKURA Internet (3778.T)** — ~$762M USD, Microsoft Japan
+  vendor-level partnership in $10B 2026-2029 sovereign-cloud initiative
+  (2026-04-03). H10 PASS vendor-level; H8 / H5 / H11 unverified. Added
+  to WATCH pending H8 revenue-mix decomposition.
+- 1 Tier 2-borderline: KLIC ($5.30B TCB equipment) — REJECTED on H5
+  LOVED (+211% trailing 1yr) + H8 likely fail. Noted in Tier 4.
+- 1 Tier 3: Ceres Power (CWR.L, ~$1.65B SOFC, +100% in 1 month) —
+  Delta + Centrica data-center deal but Delta is not a bellwether,
+  category-level bellwether only via chokepoint #9. H5 LOVED — note
+  but do not advance.
+- 6 sector-pivot rejections — AlphaTON, Bitzero, Axe Compute, Digi
+  Power X, Alpha Compute Corp, K Wave Media. All exhibit the
+  HIVE/BITF/CLSK/RIOT analog blind-spot pattern (shell or
+  bitcoin-miner-pivot retroactively re-narrated as AI compute).
+  Framework correctly rejected ex ante.
+- Output: archos/screening/2026-05-21-bellwether-sweep.md (new),
+  archos/CANDIDATE_UNIVERSE.md (updated — Sakura Internet added to
+  WATCH), archos/INSIGHTS.md (bellwether-sweep lessons appended)
+
+### 2026-05-24 — Discovery screen insider-buying-weakness v1 — built and first-run live
+
+- **SCREEN_PROMPT.md written** for insider-buying-weakness. Design
+  notes: this is NOT a resurrection of killed H3. H3 hypothesized
+  Form 4 buying as a leading signal for confirmed 20x+ winners;
+  Phase 1 killed it 0/12 leading because those insiders SOLD into
+  the rerate. This screen captures the contrarian inverse:
+  insider open-market BUYS (code P) into 25-40%+ drawdowns by
+  CEO/CFO/COO/Director with $100K+ aggregate in trailing 90 days.
+- **Three execution options documented**: A (Form 4 full-text
+  search via EdgarTools — expected low-yield), B (EdgarTools
+  `insider_activity` per-name on a targeted universe), C
+  (OpenInsider.com + WhaleWisdom + targeted web search hybrid).
+  Conviction ranking (CEO > CFO > COO > director; cluster > solo;
+  $500K+ > $100K; 40%+ drawdown > 25%+; first-time-in-2yrs >
+  regular). Cross-screen overlay logic for revenue-inflection,
+  supplier-mapping, bellwether sweep.
+- **v1 LIVE run (45 min):** OpenInsider.com **ECONNREFUSED** on
+  both HTTP and HTTPS — Option C primary broken in this environment.
+  EdgarTools `search_filings_full_text` over Form 4 returned only
+  one unrelated result, confirms INSIGHTS.md note that Form 4 XML
+  isn't text-indexed usefully — Option A skipped going forward.
+  Fell back to Option B: 45 names pulled via `insider_activity`
+  across WATCH list + 14 chokepoint pure-plays + Phase 2 controls
+  + extended sub-$10B AI-adjacent universe.
+- **Result: 1 cluster BUY hit (EOSE), 0 strict PASS, 0 new WATCH
+  candidates.** EOSE: Mastrangelo (CEO) + Urban (dir) + Dimitrief
+  (dir) bought $693K aggregate March 2-9, 2026 in a 7-day cluster
+  at $5.75-6.58 — 50%+ below 52wk high. Chokepoint #9 BESS
+  adjacency (Cerberus 8-K May 13, 2026 named EOSE as DC BESS
+  partner). **But H11 FLAG**: 2025 10-K has explicit going-concern
+  qualification. Framework correctly rejected on H11 in 2026-05-21
+  first forward screen. Adding insider-buy signal does NOT change
+  the H11 rejection — this is exactly the "optic creation by
+  management" risk the SCREEN_PROMPT.md documented. **EOSE is the
+  H11 FLAG calibration case** for the insider screen.
+- **Sub-threshold hit: IPWR** — CEO David Somo bought $250K on
+  2026-02-25 but per Form 4 footnote, this was participation in
+  an underwritten public offering at the offering price with a
+  90-day lockup, NOT open-market into weakness. Plus IPWR is
+  pre-revenue moonshot blind spot. Disambiguation lesson: future
+  versions need at-offering-vs-open-market filter.
+- **Dominant signal: 38 of 39 queryable names show insiders
+  SELLING.** AXTI/AAOI/BE/NVTS/CRDO/AEHR/LITE/ALAB/POWL all show
+  textbook H3 SELL clusters in last 90 days — insiders selling
+  as stocks rerate. Empirically validates Phase 1 H3 lesson in
+  real-time live data.
+- **Foreign-filer gap confirmed**: POET (Canadian), IREN
+  (Australia), BTDR (Cayman 6-K), SIVEF (Sweden), 3778.T (Tokyo),
+  HPS.A (Canadian — EdgarTools couldn't resolve ticker) have
+  no US Form 4 coverage. Same gap noted in bellwether sweep.
+- **Universe coverage budget**: 45 names per monthly run is
+  the right ceiling. Maintain via WATCH list + chokepoint pure-
+  plays + Phase 2 controls + rotating extended universe.
+- Output:
+  - archos/screens/insider-buying-weakness/SCREEN_PROMPT.md (new)
+  - archos/screens/insider-buying-weakness/runs/2026-05-24-run.md (new)
+  - archos/screens/SCREENS_README.md (insider-buying status flipped
+    PLANNED → ACTIVE)
+  - archos/CANDIDATE_UNIVERSE.md (header + footer updated; no new
+    WATCH candidates added)
+  - archos/INSIGHTS.md (new insider-screen lessons appended)
+
+### 2026-05-24 — Universal Master Screen v1 — first run live (5 parallel screens, 5 sector lenses)
+
+- **Scope expansion**: Prior screens (revenue-inflection, supplier-mapping, insider-buying) ran against the AI-infrastructure-specific universe. The Universal Master Screen broadens to ALL sub-$500M US-listed companies across FIVE sector lenses (AI Infra, Defense/Space, Nuclear, Critical Minerals, GLP-1/Pharma). Hit doesn't need to match a lens — UNCATEGORIZED bucket exists for Sounding Board review.
+- **Five universal screens, run as parallel general-purpose subagents (~28 min wall-clock each):**
+  1. Material Agreement Scanner (8-K Item 1.01 + mega-cap/govt counterparties)
+  2. Revenue Inflection Scanner (10-Q first-time YoY >40%)
+  3. Insider Buying Into Weakness (open-market P-buys into 25%+ drawdowns)
+  4. Government Contract Awards Scanner (DoD/DOE/NASA/DARPA, 30-day window)
+  5. Earnings Call Keyword Emergence Scanner (10-Q first-mention emergence)
+- **Universe excluded ~75 names** (5 WATCH + SHAZ DD REJECT + 3 Tier-2 DD + ~40 REJECT log + 15 Phase 1+3 winners + 10 Phase 2 controls).
+- **Result: 1 TIER 1, 4 TIER 2, 8 TIER 3, ~25 REJECT log additions.**
+- **TIER 1 — CTM (Castellum, $65M)** — Defense-Space pure-play with $219M Navy (NAVAIR) contract wins announced Q1, $273M backlog = **414% of $52.9M TTM revenue**. Production-scale cyber/C4ISR services. Sub-$200M micro-cap with binding mega-counterparty contracts. The URGENT moonshot flag of the run. Single-screen hit but matches all the TIER-1 fast-track criteria (sub-$200M + binding mega-counterparty + production scale + zero analyst coverage). [8-K 2026-05-13](https://www.sec.gov/Archives/edgar/data/1877939/000187793926000036/exhibit991may82026.htm)
+- **TIER 2 cross-screen confluence — ALMU (Aeluma, $420-460M)** — Same NASA award catalyst surfaced via BOTH Screen 1 (material agreement) AND Screen 4 (gov contract). Cross-screen confluence = highest-conviction signal type. AI Infra + Defense-Space dual lens.
+- **TIER 2 — MNTS (Momentus, $35-75M)** — Multi-agency contracts (DARPA + AFRL SpaceWERX + SDA + Space Force + NASA), Q1 narrative cites "inflection in government space spending." 30 insider buys / 0 sells (90d) — bullish sentiment validates.
+- **TIER 2 — ODYS (Odysight.ai, $74M)** — NAWCAD CRADA + Sikorsky/Army Black Hawk PdM. AI-driven predictive maintenance. Defense + AI dual lens.
+- **TIER 2 — SCIA (SCI Engineered Materials, $33M)** — TRUE V-bottom revenue inflection: Q1'26 +133% YoY on Q1'25 base that was -58% YoY (both inflection criteria satisfied). ITO sputtering targets (PVD thin-film) + enriched boron carbide (defense). Backlog 2.7x. **H8 GATE pending: end-market mix verification (>50% AI-DC vs display/automotive coatings).**
+- **TIER 3 WATCH** (8 names): NUCL (Nuclear SMR pure-play, substance check pending), NUAI (AI DC pivot, pre-revenue from pivot), ALOY (Critical Minerals, borderline OVER cap), GWH (Power, H11 risk), PPSI (AI Infra, unnamed counterparty), VTIX, OPTT, UAVS (Defense WATCH-level).
+- **REJECT log additions (~25 names):**
+  - **Sector-pivot blind spot (AGPU/SHAZ pattern)**: FABC, VWAV, VDTA, BSAI — all penny-stock or de-SPAC rename pivots. Same pattern as HIVE/BITF/CLSK/RIOT in prior bellwether sweeps. Framework correctly rejected ex ante.
+  - **Insider-screen rejects**: BETR (10% holder repeat), COE (10b5-1), VCIG (at-premium), STEX (distribution pattern), ANVS (controlling director), KLRS (venture fund via board), EROK (IPO at-offering), FCN/NIQ/MP (over cap).
+  - **Revenue/earnings out-of-lens or over-cap**: RNXT, SI, PACK, HYLN, NRGV, SATL, XERS, FIGR, KDK, KRMN, ULBI, SOLS, DTST, CIFR, FRMI, INDV, AMN.
+  - **Tier-2/3 reference rejects (over cap, adjacent context)**: MRLN, AVEX, IMSR — all are de-SPAC defense/nuclear pure-plays that JUST crossed $500M cap. Public-market repricing of the sector lenses is visible at the $600M-$1.3B band.
+  - **UNCATEGORIZED out-of-lens**: TWFG, TISI, FJET, TLSI (kept as FLAG-MEDIUM Sounding Board discretion).
+- **Critical findings:**
+  - **Screen 4 (Government Contracts) produced the most actionable yield** — CTM, MNTS, ODYS, ALMU cross-screen. Gov-contract awards are the cleanest demand signal for Defense/Space/Nuclear/Critical Minerals lenses.
+  - **Screen 3 (Insider Buying) broad-universe path is mostly broken in this environment** — OpenInsider unreachable (ECONNREFUSED reconfirmed), Barchart 404'd, Finviz only ~10 days deep. Zero sector-lens hits. Recommend deprioritizing as universe-wide screen; per-name monthly is the working path.
+  - **Screen 5 (Keyword Emergence) is structurally biased toward AGPU/SHAZ pivot pattern** — micro-cap "first mentions" are almost all new-issuer/de-SPAC/rename-pivot by definition. Suggest splitting into (a) established-company emergence (true lead) and (b) new-issuer substance check (stricter vetting).
+  - **Three over-cap reference cases (HYLN $629M, NRGV $912M, SATL $1.14B)** all crossed $500M in last 6 months on +156%/+460%/+80% Q1 prints. We are running revenue-inflection ONE QUARTER late on these. Next-cycle addition: $300-500M near-inflection watchlist tier.
+  - **Boolean AND between phrases reconfirmed BROKEN in EdgarTools `search_filings_full_text`** — three more screens worth of independent data points. Single-phrase + post-filter remains the only working query pattern.
+  - **EdgarTools Pro-tier 100-row cap on corpus 1.01 feed is BINDING** during heavy-filing weeks (~3 days saturated). Next run: date-narrower buckets.
+- **Tool friction encountered:**
+  - High-volume queries ("Department of Defense", "U.S. Army", "Department of Energy") exceeded 24KB payload budget on the standard EdgarTools call. Workaround: date-restrict tighter or filter to items=["1.01"].
+  - Foreign-filer blind spot persists (6-K, no Form 4, no US 8-K full-text). Same gap as bellwether sweep.
+  - Subsidiary/program name → ticker lookup gap (Mistral, Vigilante, MERROWS named in releases). Need a maintained sub-name → ticker lookup file.
+- Output:
+  - archos/screens/master-screen/2026-05-24-run.md (new — full master-screen artifact)
+  - archos/CANDIDATE_UNIVERSE.md (NEW SECTION: MASTER-SCREEN WATCH multi-lens, ~25 REJECT log additions, footer cadence updated)
+  - archos/screens/SCREENS_README.md (master-screen added to inventory table, status ACTIVE)
+  - archos/INSIGHTS.md (master-screen v1 lessons appended)
+
+### 2026-05-24 — Discovery screens v2 — both ACTIVE screens upgraded and re-run
+
+- **Supplier Mapping v2 upgrade**: added two-degree chain extension.
+  Mid-chain priority list (COHR, LITE, FN, AAOI, AMKR) plus extended
+  list (CRDO, MU, AMAT, ONTO, BE, POWL, MTSI). Per-mid-chain forward
+  pass (read mid-chain 10-K for supplier names) + reverse pass (search
+  sub-$5B 10-Ks naming mid-chain as customer). Chain output format
+  "NVDA → COHR → [ticker]". AXTI retroactive validation mandatory.
+- **Revenue Inflection v2 upgrade**: added Level 2 segment-level
+  analysis for $5-15B mid-caps (AI segment >40% YoY growth even if
+  total company flat), plus Level 3 BTC-miner-to-AI pivot scan (separate
+  watch queue, NOT framework ACCEPT). Transition ETA calculation: months
+  until AI segment crosses 50% of total revenue.
+- **Supplier Mapping v2 LIVE run (60 min):** ~145 one-degree + ~98
+  two-degree filings reviewed. **AXTI test STILL FAILED on v2** —
+  structural reason: COHR/LITE/AAOI are all vertically integrated on
+  InP (own fabs) and don't disclose substrate supplier dependencies.
+  AXTI's real customers are 3-degree from NVDA (MACOM/MRVL/ALAB/SMTC
+  layer). **But NEW chain surfaced via WFE upstream**: ICHR ($2.4B,
+  76% revenue from AMAT + LRCX combined) and UCTT ($3.6-3.8B, AMAT
+  + LRCX each individually >10%) — both added to WATCH. Chain: NVDA
+  → TSMC → AMAT/LRCX → ICHR/UCTT. New provisional chokepoint surface
+  ("WFE upstream subsystems") for taxonomy refresh discussion.
+- **Revenue Inflection v2 LIVE run (50 min):** Level 1 zero new strict
+  passes (correct calibration; tight specificity). Level 2 verification
+  of SANM and PENG (v1 flags): **SANM correctly routed to M&A pivot
+  blind spot** ($1.88B of $2.77B segment is ZT Systems acquisition
+  from AMD Oct 2024; organic growth only 22%); **PENG v1 reading
+  CORRECTED** — Advanced Computing segment Q2 FY26 is $116M, **DOWN
+  42% YoY** (not growing). Level 3 BTC-pivot scan surfaced **BTDR
+  (Bitdeer Technologies, $3.1-3.6B)** — AI Cloud ARR $43M +105% MoM,
+  pre-IREN stage, foreign filer (Cayman 6-K). Added to BTC-pivot watch
+  list alongside IREN (matured) and CLSK (pre-catalyst); NOT framework
+  ACCEPT.
+- **v2 calibration wins**: (a) screens correctly surfaced both candidates
+  and routed to appropriate blind spots (SANM M&A pivot, PENG segment
+  decline). (b) New WFE-chain candidates surfaced that v1 missed. (c)
+  BTDR pre-IREN pattern captured for separate watch queue.
+- **v2 structural finding**: two-degree mapping works when mid-chain
+  outsources, fails when mid-chain is vertically integrated. v3 priority
+  is a vertical-integration audit step + expanded optical-chain
+  mid-chain (MTSI, MRVL, ALAB, SMTC).
+- Output:
+  - archos/screens/supplier-mapping/SCREEN_PROMPT.md (v1 → v2 rewrite)
+  - archos/screens/revenue-inflection/SCREEN_PROMPT.md (v1 → v2 rewrite)
+  - archos/screens/supplier-mapping/runs/2026-05-24-v2-run.md (new)
+  - archos/screens/revenue-inflection/runs/2026-05-24-v2-run.md (new)
+  - archos/CANDIDATE_UNIVERSE.md (updated — ICHR + UCTT added to WATCH;
+    BTDR added to TIER 2 BTC-pivot watch; SANM + PENG REJECT entries
+    updated with v2 corrections; footer cadence + screen descriptions
+    updated)
+  - archos/INSIGHTS.md (7 new v2 screening lessons appended; 114/200 lines)
+
+### 2026-05-24 — Discovery screens scaffold built + first 2 screens run live (v1)
+- New directory `archos/screens/` with 5 screen folders:
+  - revenue-inflection (ACTIVE), supplier-mapping (ACTIVE),
+    insider-buying-weakness (PLANNED), patent-cluster (PLANNED),
+    conference-presenter (PLANNED)
+- SCREENS_README.md documents what each screen finds, cadence, and
+  how candidates flow into CANDIDATE_UNIVERSE.md
+- SCREEN_PROMPT.md files written for revenue-inflection and supplier-mapping
+- **First Revenue Inflection live run (45 min):** surveyed 76 10-Qs
+  via EdgarTools `"AI infrastructure"` + variants. Filtered to 4
+  sub-$5B candidates (VECO, PENG, WYFI, SANM). After strict
+  inflection criterion (>40% current, <20% prior), zero strict
+  passes; 1 borderline WATCH (WYFI: Q1 2026 +47% YoY but 2024-25
+  was already +65% — sustained growth pattern, not first-time
+  inflection). VECO is a supplier-mapping signal (InP laser tool
+  order book) not revenue inflection. PENG and SANM are mid-cap
+  parent companies with growing AI segments inside flat overall
+  revenue (segment-level extension pattern documented for v2).
+- **First Supplier Mapping live run (45 min):** 145 10-K hits across
+  NVDA/MSFT/META/TSMC. After mkt cap filter + disambiguation, 4
+  hits: FN (NVDA 27.6%, CSCO 18.2% — but $27B mkt cap H8 fail),
+  Q (TSMC 8% + Samsung 11% — $24B H8 fail), FORM ($10B H8 fail),
+  OKLO (Meta gigawatt prepayment — but pre-revenue moonshot, $7.2B,
+  rejected on H8 + LWLG blind spot). AAOI confirmed as one-degree
+  Meta + Microsoft supplier but already a Phase 3 winner.
+- **AXTI retroactive test FAILED as expected:** AXTI's recent 10-Ks
+  do NOT name any bellwether — confirms documented v1 → v2 limitation:
+  the screen catches one-degree suppliers, misses two-degree suppliers
+  (AXTI sells to Lumentum/Coherent/EMCORE, who sell to NVIDIA).
+- Output:
+  - archos/screens/SCREENS_README.md (new)
+  - archos/screens/revenue-inflection/SCREEN_PROMPT.md (new)
+  - archos/screens/supplier-mapping/SCREEN_PROMPT.md (new)
+  - archos/screens/revenue-inflection/runs/2026-05-24-run.md (new)
+  - archos/screens/supplier-mapping/runs/2026-05-24-run.md (new)
+  - archos/CANDIDATE_UNIVERSE.md (updated — WYFI added to WATCH,
+    OKLO/INOD/SANM/PENG/VECO/FN/Q/FORM added to REJECT log)
+  - archos/INSIGHTS.md (5 new screening lessons appended)
+
+### 2026-05-26 — Universal Pattern Discovery autoresearch session (Phase 4 expansion)
+
+- **Scope:** Most ambitious pattern-recognition session Archos has run. Expanded
+  methodology from 32-stock AI-infrastructure universe to ALL 500%+ winners
+  across ALL sectors in last 18 months (Dec 2024 - May 2026). Goal: identify
+  EVERY common signal — especially unorthodox — that the original Archos
+  research did not test.
+- **Universe built:** 61 stocks across 5 sector batches (AI infra pure-plays,
+  AI optical/memory/REORG, biotech, defense/space/nuclear/quantum,
+  mining/critical/meme/other). All US-listed (or US-tradable ADR) with ≥500%
+  return Dec 2024 - May 2026. Pre-move cap <$10B (most <$2B).
+- **Methodology:** 25-dimension signal matrix (6 obvious + 14 unorthodox + 5
+  structural) tested against each stock. 5 parallel general-purpose subagents
+  fanned out, each handling ~12 stocks across all 25 dimensions (~1,525 data
+  points total, ~30-45 min per agent in parallel).
+- **Three NEW universal signals surfaced** (not in PATTERN_MATRIX_v2.md):
+  1. **Customer-deposit / deferred-revenue spike** — 36% univ, 70% in
+     DEF/SPACE/NUKE/QC. Gov-contract prepayments + hyperscaler advances +
+     Apple/Meta/Equinix prepayments + Big Pharma milestone receivables all
+     surface in deferred-revenue balance-sheet lines 1-3 quarters before
+     the public earnings catalyst. CLEANEST screen-able signal discovered.
+     LEU is the calibration case ($189.8M deferred + $32.8M advances Q3 2024).
+  2. **De-SPAC reanimation at 24-36 months post-merger** — 31% univ, 60%+ in
+     DEF/SPACE/NUKE/QC. PL/RKLB/OKLO/SMR/RGTI/QBTS/CTM all cluster at this
+     timing window. SPAC redemption pressure resolved, sponsor lockups
+     expired, PIPE warrants exited, chart-bottom discoverable. The most
+     actionable timing signal discovered.
+  3. **Corporate restructuring (spinoff/REORG/CFO-CEO change) -12 to -18mo**
+     — 36% univ. SNDK (spinoff), NBIS (Yandex divest + relist), WOLF (Ch11),
+     BE (new CFO + refi), USAR (de-SPAC + new CEO), WW (Ch11), TOI (debt
+     restructure), PVLA (reverse merger), INBX (Sanofi spin), LITE (new CEO),
+     WDC (post-Sandisk-spin). New CFO/CEO change is the under-rated
+     leading governance signal (20% univ-wide, 4/12 in AI-optical batch).
+- **Extended H10 (Bellwether) definition:** narrow NVDA-list fires for 48% of
+  universe; extended-bellwether (+ DoD/NASA/DOE/Treasury/EXIM/Apple +
+  Big Pharma/FDA + Google/Oracle/CoreWeave) fires for 90%. **Universal
+  chokepoint logic survives sector boundary; only the bellwether identity
+  changes**. This is the primary framework extension.
+- **Existing H10/H8/H5/H11 framework still holds and discriminates 10/10 on
+  Phase 2 controls** with the new signal stack. The new signals do not
+  improve specificity (already perfect on tested controls) but EXTEND
+  sensitivity into Defense/Space/Nuclear/Quantum/Critical-Minerals/Biotech.
+- **Signal cluster discoveries** — 7 organic clusters + 1 REJECT cluster
+  identified:
+  1. Abandoned De-SPAC Reanimation (PL/RKLB/OKLO/SMR/RGTI/QBTS/USAR/MP/CIFR)
+  2. Squeeze-Amplified Inflection (NVTS/AAOI/BE/AEHR/APLD/IREN/BTDR/RKLB/LEU/OKLO/NNE/QBTS/RGTI)
+  3. Spinoff/REORG Catalyst Structure (SNDK/NBIS/WOLF/WDC/BE/TOI/PVLA/INBX/RLMD/USAR/LITE/WW)
+  4. Gov Contract Concentration Anchor (PL/VSAT/KTOS/ATRO/RKLB/ONDS/CTM/OKLO/LEU/NNE/SMR/RGTI/QBTS/MP/USAR/NB/LASR/KOPN/TTMI/MU)
+  5. Broken-IPO / Post-Failure Pivot (RLMD/CRDO/PVLA/SLS/SLGL/TOI/POET/NVTS/AXTI)
+  6. Commodity Macro Beta (ASM/CDE/HL/PAAS/FET) — CORRECTLY EXCLUDED, no chokepoint
+  7. Legacy-Industrial-Capacity-Pivot (BW) — ACCEPTED BLIND SPOT
+  8. Meme/Squeeze Structural Anomaly (RGC/SHAZ) — EXPLICIT REJECT pattern
+- **Triple-firing candidates** identified for highest-conviction signal stack:
+  RKLB (Cluster 1+2+4), OKLO (1+2+4), QBTS (1+2+4), USAR (1+3+4), CIFR (1+4ext).
+- **Six new screens specified** (NEW_SCREENS_SPEC.md):
+  1. Customer Deposit Spike Screen (HIGHEST priority — balance-sheet read,
+     monthly cadence, EdgarTools XBRL)
+  2. De-SPAC Reanimation Timing Screen (quarterly, master spreadsheet of
+     2021-2023 de-SPAC cohort)
+  3. Spinoff/REORG Catalyst Screen (monthly, 8-K Items 1.03/2.01/5.02 +
+     Form 10-12B)
+  4. Reverse-Split-Recovery Biotech Screen (monthly, biotech-specific +
+     specialist healthcare fund 13F overlay)
+  5. Foreign-Filer Discovery Screen (quarterly, TSE EDINET / HKEX / RNS
+     parallel feeds)
+  6. Short Interest Amplifier Overlay (cross-applied to existing screens,
+     magnitude-expectation upgrade)
+  Plus: Meme/Squeeze REJECT pre-screen criteria for DISCOVERY_PROMPT.md.
+- **Discrimination test outcome:** existing Phase 2 controls (AMAT/KLAC/MRVL/
+  AMD/COHR/ACLS/AMKR/ARM/CRUS) reject 10/10 under universal-signal stack.
+  WOLF pre-petition closest false-positive but H11 still catches it. No
+  loosening required.
+- **Seven new hypotheses proposed (H14-H20)** for HYPOTHESIS_EVOLUTION.md:
+  H14 Extended Bellwether Family (sector-conditional H10),
+  H15 Customer Deposit Spike,
+  H16 De-SPAC Reanimation Timing,
+  H17 Spinoff/REORG/CFO-Change Catalyst Structure,
+  H18 Short Interest Amplifier (overlay not thesis),
+  H19 Foreign-Filer Discovery Friction Amplifier,
+  H20 Meme/Squeeze Microstructure REJECT pattern.
+- Output:
+  - archos/screens/pattern-discovery/WINNER_UNIVERSE.md (new — 65 stocks)
+  - archos/screens/pattern-discovery/batch1_ai_infra_pureplay.md (new)
+  - archos/screens/pattern-discovery/batch2_ai_optical_mem.md (new)
+  - archos/screens/pattern-discovery/batch3_biotech.md (new)
+  - archos/screens/pattern-discovery/batch4_def_space_nuke_qc.md (new)
+  - archos/screens/pattern-discovery/batch5_mining_meme_other.md (new)
+  - archos/screens/pattern-discovery/PATTERN_MATRIX_UNIVERSAL.md (new — synthesis)
+  - archos/screens/pattern-discovery/SIGNAL_CLUSTERS.md (new — 8 clusters)
+  - archos/screens/pattern-discovery/NEW_SCREENS_SPEC.md (new — 6 screens + REJECT criteria)
+  - archos/INSIGHTS.md (universal pattern discovery lessons appended)
+  - archos/state.md (this entry)
+
+### 2026-05-26 — Directory reorganization (project structure overhaul)
+
+- **Scope:** Reorganized the archos/ directory to retire the 4-screen
+  `screens/` layout (revenue-inflection, supplier-mapping, insider-buying-
+  weakness, master-screen) and the parallel `screening/` directory in
+  favor of a single weekly-master-scan workflow. Snapshot taken
+  (/tmp/archos-before.txt: 43 files including 2 .DS_Store; final active
+  count 32). Conducted as a safe cp-then-archive operation — no file
+  permanently deleted in this session (everything obsolete lives in
+  `_archive/`).
+- **Directories created:**
+  - `weekly-scan/runs/` — replaces both `screens/master-screen/` and
+    `screening/`. Future weekly master scans land here.
+  - `research/pattern-discovery/` — receives the Phase 4 universal
+    pattern discovery artifacts (winner universe, signal clusters,
+    new screens spec, 5 sector batches, universal pattern matrix).
+  - `research/bottleneck-phases/` — contains only a README.md pointer
+    to `_master_docs/bottleneck-asymmetry-research/` (no duplication
+    of canonical 3-phase research files).
+  - `content/drafts/`, `content/published/` — empty, reserved for
+    future essays and write-ups.
+  - `_archive/old-screens/`, `_archive/old-screening/`,
+    `_archive/duplicate-builds/` — receive moved/obsolete files.
+- **Files relocated:**
+  - `screens/master-screen/2026-05-24-run.md` → `weekly-scan/runs/`
+    (copied; original archived).
+  - `screening/2026-05-21-bellwether-sweep.md` and
+    `screening/2026-05-21-first-screen.md` → `weekly-scan/runs/`
+    (copied; originals archived under `_archive/old-screening/screening/`).
+  - 9 pattern-discovery files → `research/pattern-discovery/`
+    (copied; originals archived under `_archive/old-screens/pattern-discovery/`).
+  - All other `screens/` subdirectories (revenue-inflection,
+    supplier-mapping, insider-buying-weakness, patent-cluster,
+    conference-presenter) + `SCREENS_README.md` → `_archive/old-screens/`.
+  - `Builds/` (empty duplicate nest) → `_archive/duplicate-builds/`.
+  - `DISCOVERY_PROMPT.md` → `_archive/` (logic superseded; weekly-scan
+    prompt to embed methodology in next session).
+- **Cruft removed:** 2 .DS_Store files; empty top-level `screens/` directory.
+- **Project docs updated:** CLAUDE.md Key files table rewritten (added
+  weekly-scan/, research/, content/, _archive/ rows; removed
+  screening/, DISCOVERY_PROMPT.md, added ARCHOS_RESEARCH_TEMPLATE.md).
+  state.md current status rewritten + this timeline entry appended.
+  architecture.md data-flow paths updated (screening/ → weekly-scan/runs/).
+- **Acceptance checks passed:** 32 active files (target = 32); every
+  original .md preserved in active or archive tree; no `archos/screens/`,
+  `archos/screening/`, or `archos/Builds/` paths remain; zero .DS_Store.
+- **Out-of-scope for this session:** WEEKLY_SCAN_PROMPT.md drafting
+  (next session). Removing files from `_archive/` (deferred until
+  reorganization is verified clean across at least one weekly scan run).
+- **Why this matters now:** The 5 prior screens were all converging on
+  the same artifact (a ranked candidate list across multiple sector
+  lenses). Maintaining 5 SCREEN_PROMPT.md files + 5 run subdirectories
+  produced duplicate friction without proportional discrimination
+  upside. Phase 4 universal pattern discovery confirmed the same
+  signal stack carries across all sector lenses with bellwether-identity
+  swap (H14). Collapsing to a single weekly-master-scan reflects that
+  finding structurally.
+- Output:
+  - archos/weekly-scan/runs/ (3 files, populated)
+  - archos/research/pattern-discovery/ (9 files)
+  - archos/research/bottleneck-phases/README.md (pointer)
+  - archos/content/ (empty, scaffolded)
+  - archos/_archive/ (22 files preserved)
+  - archos/CLAUDE.md (Key files table rewrite)
+  - archos/state.md (current status + this entry)
+  - archos/architecture.md (path references updated)
+
+## Next actions
+
+1. Begin 90-day paper-track period on SHAZ (entry signal: ACCEPT verdict
+   2026-05-21; tracking horizon: through 2026-08-21). NOTE: SHAZ was
+   DD-REJECTED in DUE_DILIGENCE_CHECKLIST 6/6 RED — confirm paper-track
+   status with Sounding Board before continuing tracking.
+2. Re-evaluate SIVEF when FY2025 annual report drops (April-May 2026
+   Stockholm filing window)
+3. Re-evaluate Sakura Internet (3778.T) when next TSE quarterly filing
+   surfaces with AI-cloud revenue-mix carve-out + re-measure H5
+   sentiment post-+20.27% Apr 3 pop
+4. First quarterly taxonomy refresh after next NVDA earnings (Q1 FY27,
+   expected late May / early June 2026) — re-parse for new chokepoint
+   vocabulary; specifically track NVDA DSX vocabulary, Vera Rubin
+   forward generation references, and any new sub-$10B partner mentions
+5. Monthly H5 sentiment refresh on SHAZ + SIVEF + 3778.T (next: 2026-06-21)
+6. Weekly EdgarTools 8-K cadence on candidate universe (SHAZ, SIVEF,
+   3778.T — note 3778.T is foreign-listed; use TSE EDINET for 3778)
+   + chokepoint-language scan for new emergent names
+7. Next bellwether-relationship sweep: 2026-05-28 (weekly cadence).
+   Tool-stack improvement before next run: refine EdgarTools 8-K
+   full-text query (current `NVIDIA AND (agreement OR ...)` returned
+   zero hits — switch to phrase-NEAR proximity or Item 1.01 feed)
+8. Schedule WYFI full 6-check evaluation via DISCOVERY_PROMPT.md before
+   2026-06-15 (next Revenue Inflection screen run). Specifically test
+   whether WYFI's pattern matches APLD-shaped (pre-inflection) or
+   CRWV-shaped (already-discovered).
+9. ~~Build SCREEN_PROMPT.md for insider-buying-weakness next~~ —
+   **DONE 2026-05-24.** v1 built and first run live (45 min, 45
+   names). Zero strict PASS, EOSE H11 FLAG calibration case
+   documented, 38 of 39 names confirm Phase 1 H3 lesson in live
+   data. Next run 2026-07-01 (monthly). v2 priorities: at-offering-
+   vs-open-market disambiguation; foreign-filer hook; universe
+   ceiling raise to ~75 names.
+10. ~~Revenue-inflection screen v2 priorities~~ — **DONE 2026-05-24.**
+    v2 live with Level 2 segment-level + Level 3 BTC-pivot. Next: v3
+    add M&A pivot check at top of Level 2 + 6-K coverage for foreign
+    filers.
+11. ~~Supplier-mapping screen v2 priority: two-degree extension~~ —
+    **DONE 2026-05-24.** v2 live with two-degree chain. **AXTI test
+    STILL failed** for structural reason (mid-chain vertical
+    integration on InP). v3 priority: vertical-integration audit step
+    + expand optical-chain mid-chain to MTSI/MRVL/ALAB/SMTC + 20-F
+    pass for foreign InP/GaAs vendors.
+12. ICHR and UCTT full 6-check (DISCOVERY_PROMPT.md): verify whether
+    WFE end-market is >50% AI-DC. If yes → potential ACCEPT after DD.
+    If no → POWL-style adjacency rejection. Critical H8 test.
+13. BTDR monitoring: next 6-K filing for AI Cloud ARR update; any 8-K
+    Item 1.01 with hyperscaler partnership. NOT a framework ACCEPT
+    track — separate BTC-pivot watch queue.
+14. Taxonomy refresh consideration: provisional new chokepoint entry
+    "WFE upstream subsystems (gas/fluid/plasma delivery)" pending ICHR/UCTT
+    H8 verification. Distinct from existing #4 (wafer-level burn-in test).
+15. **URGENT — CTM (Castellum) Sounding Board discussion before next monthly cadence.**
+    $65M Defense-Space cyber/C4ISR pure-play with $219M Navy contracts and
+    $273M backlog = 414% of $52.9M TTM revenue. Single screen but matches
+    moonshot profile (sub-$200M + binding mega-counterparty + production
+    scale + zero analyst coverage). Defense/Space sector lens does not have
+    a codified 4-filter framework — need to either (a) define one for the
+    lens, or (b) qualify CTM via Archos-lens analogy (gov-contract = vendor-
+    level H10 analog; revenue concentration >50% Navy = H8 analog). The
+    framework gap is the gating issue, not the candidate quality.
+16. **SCIA (SCI Engineered Materials) H8 end-market verification.** $33M
+    cap, true V-bottom revenue inflection (+133% on -58% prior). The
+    question: are the sputtering targets and boron carbide >50% AI-DC /
+    semi / advanced photonics end-market, or display/automotive coatings?
+    Read MD&A end-market disclosure in Q2 FY26 10-Q. If AI-DC dominant,
+    this is an Archos-shaped pure-play at $33M cap. If not, downgrade to
+    UNCATEGORIZED.
+17. **ALMU (Aeluma) lens-framework check.** Cross-screen confluence
+    (Screens 1 + 4) NASA + DoD = ~85% of TTM revenue, quantum-dot lasers.
+    Boundary cap $420-460M. Photonic-chokepoint adjacency (CPO emergence).
+    Pull Q1 FY26 10-Q for end-market mix decomposition.
+18. **NUCL (Eagle Nuclear) substance check.** SMR first-ever 10-Q. Need
+    background research: real capital + reactor design + IP team, or
+    SPAC-shell penny-stock pattern (NUSCALE/OKLO/SMR analog)? Read full
+    10-Q + S-1 + management bios + cap table before any promotion.
+19. **Sector-lens framework codification.** Four-filter framework (H10 +
+    H8 + H5 + H11) is AI-Infrastructure-specific. Master-screen surfaced
+    Defense/Space candidates (CTM, MNTS, ODYS) and Nuclear (NUCL) and
+    Critical Minerals (ALOY) without codified frameworks for these
+    lenses. Sounding Board discussion: either (a) derive parallel
+    H-set per lens, or (b) handle parallel lenses via DD-checklist only
+    with no Stage-1 screen. Cannot promote sector-lens candidates to
+    ACCEPT without resolving this gap.
+20. Master-screen v1 refinement priorities for v2 (next monthly cadence
+    2026-06-21): (a) date-narrower buckets on Screen 4 high-volume
+    queries; (b) split Screen 5 into established-emergence and new-issuer
+    substance-check; (c) add $300-500M near-inflection watchlist tier
+    to Screen 2; (d) deprioritize Screen 3 broad-universe path (Finviz
+    only ~10 days deep — not worth the time); (e) add cross-screen
+    auto-promotion rule (2+ screens → TIER 2 minimum).
+
+## Framework version
+
+Four-filter framework v1.0 (H10 + H8 refined + H5 + H11)
+- Validated: 12/12 sensitivity, 0/10 false positives (backward-looking)
+- First forward screen 2026-05-21: 1 ACCEPT, 1 WATCH, 6 REJECT (full eval) +
+  14 quick-reject; framework specificity held — every reject mapped to a
+  documented blind-spot or filter logic (no admissions on weak grounds)
+- Chokepoint taxonomy: 10 entries, 14 cataloged pure-plays + 1 forward
+  candidate (SHAZ joining chokepoint #7)
+- Known blind spots: 1 (legacy-industrial-capacity-pivot — NNBR was a
+  real-time test of this and was correctly rejected)
+
+## Open questions (for Sounding Board)
+
+- Position sizing methodology: flat $25K per name, or weighted by
+  sentiment-extremity dose-response?
+- LEAPS vs equity: framework doesn't specify instrument. ServiceNow
+  trade established LEAPS as native instrument. Formalize?
+- Exit rules: half at 5x? Trailing stop? LTCG hold minimum?
+- Capital allocation: $100K total, how many positions max?
+- Aschenbrenner 13F as formal signal layer: add to screening cadence
+  or keep informal?
