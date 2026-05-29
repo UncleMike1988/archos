@@ -1,7 +1,18 @@
 # DUE_DILIGENCE_CHECKLIST.md — Archos
-# Version: 2.0 (major update — tiered H11, moonshot classification,
-# network-failure-pattern check, forward P/S framing, going-concern
-# tiering, WATCH re-eval integration)
+# Version: 3.0 (detection-and-ranking refactor — the checklist now produces the
+# TRAP RISK verdict (Clear/Caution/Kill) via a two-pronged trap check; position-
+# sizing tiers converted to MAGNITUDE/RISK descriptors (operator owns sizing);
+# Moonshot $ caps removed; Section 7 WATCH re-eval → RE-SCORING protocol)
+#
+# CHANGELOG v2.0 → v3.0:
+# - Hard-reject rules reframed: the two-pronged TRAP CHECK is the SOLE hard-reject
+#   (Kill); everything else is a graded weakness in Pattern Strength (SCORING_SYSTEM.md)
+# - "Position sizing tiers" table → MAGNITUDE / RISK SHAPE descriptors (no $ amounts)
+# - Moonshot Classification: $1-2K cap REMOVED; criterion #6 (insider net-selling
+#   disqualifier) STRUCK (contradicts killed-H3; audit rec #5) — net selling is at
+#   most a minor graded weakness, never a veto
+# - Section 7: WATCH Re-eval → RE-SCORING protocol (recompute Pattern Strength + Δ)
+# - Added the two-pronged Trap Check (Prong A authenticity / Prong B promotion)
 #
 # CHANGELOG v1.1 → v2.0:
 # - Added Check 1.7: Network-failure-pattern (from ALMU DD lesson)
@@ -15,54 +26,100 @@
 # - Added Section 7: WATCH Re-eval Protocol
 # - Updated SHAZ calibration case + added CYCU/ALMU calibration cases
 #
-# PURPOSE: Every ACCEPT candidate must pass this checklist BEFORE
-# capital allocation. The four-filter framework (H10/H8/H5/H11)
-# finds candidates. This checklist vets them. Both are required.
+# PURPOSE: Any candidate the operator considers for capital must pass this
+# checklist first. The four-filter framework + Pattern Strength (SCORING_SYSTEM.md)
+# finds and ranks candidates; this checklist runs the TRAP CHECK that produces
+# Trap Risk. Both are required.
 #
 # TIME BUDGET: 60-90 minutes per candidate via Code session.
-# A single RED does not auto-reject — but it MUST be documented
-# and the risk explicitly accepted before proceeding.
+# A single RED outside the trap walls does NOT reject — it lowers Pattern Strength.
+# Only a TRAP (the two prongs below, or §1/§2 RED, counterparty insolvency, fraud,
+# meme/squeeze Cluster 8, H11 going-concern-to-zero, LOVED-EXTREME) is a Kill.
 
 ## How to use
 
-After a candidate surfaces from the weekly scan or other screening,
-run this checklist via Code. Each section produces a score:
+After a candidate surfaces from the scan and is scored (Pattern Strength,
+SCORING_SYSTEM.md), run this checklist via Code. Each section produces:
 
   CLEAR  — no issues found
-  FLAG   — issue found, manageable with position sizing or monitoring
-  RED    — material risk that likely disqualifies the candidate
+  FLAG   — a graded weakness (lowers Pattern Strength) or a watch item
+  RED    — material risk (a TRAP if on a trap axis; otherwise a heavy graded weakness)
 
-Hard reject rules:
-- Three or more RED scores = hard reject regardless of framework score
-- Any single RED on Section 1 (Management) or Section 2 (Counterparty)
-  = hard reject unless the human explicitly overrides with documented reasoning
+The checklist produces the **TRAP RISK verdict (Clear / Caution / Kill)** via the
+two-pronged trap check below. It does NOT produce a position size — the operator
+sizes off Pattern Strength + Bet Shape + Trap Risk (Archos does not size, v3.0).
 
-**Flag Taxonomy cross-reference (Framework v2.1).** These hard-reject rules
-ARE the thesis-breaking vs magnitude-lowering distinction (see CLAUDE.md →
-Flag Taxonomy) applied at the DD stage:
-- A RED on §1 (Management) or §2 (Counterparty) is a *thesis-breaker* → hard reject.
-- A RED on §5 (Revenue Reality / valuation) is *magnitude-lowering* → it does
-  NOT hard-reject; it discounts position size. AEHR is the calibration case
-  (§5 RED on 70x P/S, but a real chokepoint pure-play held at reduced size,
-  not rejected).
-After scoring all six sections, classify the worst finding: thesis-breaker or
-sizing input? Reject only on the former; let the rest set magnitude → size.
+## The two-pronged TRAP CHECK — the SOLE hard-reject (the crown jewel)
 
-**H5 application guardrail (Framework v2.1).** H5 is a magnitude dose-response,
-not a binary gate. Only **LOVED-EXTREME** (parabolic, retail-driven, at or
-above the cap fundamentals justify) rejects. "Near 52-wk high" or "already +Nx
-off the lows" is NOT a reject — it is a magnitude-lowering / sizing input (H5
-PARTIAL or PARTIAL-RECOVERING). Wonik Materials is the calibration case: an H5
-PARTIAL was treated as a reject when it was really a sizing input.
+In the sub-$500M world the base rate of paid-promotion fluff is high; separating a
+real company from a manufactured one is the single most valuable thing Archos does.
+Two prongs — **the GAP between them is the signal.**
 
-## Position sizing tiers (determined by DD outcome):
+**Prong A — AUTHENTICITY (is the company real underneath?)** — fed by §1, §2, §3:
+clean-enough balance sheet (no death-spiral ELOC / variable-conversion notes; H11
+going-concern-to-zero is the kill line); real product with NAMED, verifiable paying
+customers (not LOI/MOU theater); credible operator-founders (run §1.7
+network-failure check — COMSovereign/Akoustis pattern); genuine advisory-board /
+executive pedigree (real domain authority — verify it's not decorative); auditor not
+a PCAOB-deficient single-office shop (§1.8).
 
-| Tier | DD Profile | Sizing | Instrument | Horizon |
+**Prong B — PROMOTION (organic or manufactured?)** — fed by §6 (/last30days) + §1.6:
+IBN / DefenseWireNews / NetworkNewsWire / MissionIR / RedChip / PCG / MZ Group /
+Litchfield Hills syndication; "may receive compensation for placement"; news-bot
+cashtag amplification; PR reposted as analysis; announcements timed to lockups/raises.
+Is there ORGANIC credible capital (named buy-side, substantive independent DD), or
+does the ENTIRE bull case trace back to paid infrastructure?
+
+**Verdict logic:**
+- **KILL (hard reject):** manufactured promotion AND hollow substance
+  (SPAI/PPSI/SHAZ class) → REJECT log with the evidence; removed from the ranked
+  field. **A Kill overrides any Pattern Strength.**
+- **CAUTION:** loud/manufactured promotion BUT real substance underneath (the
+  dangerous middle — SPAI had a real Army demo + $1M subcontract under the IBN
+  froth). NOT a reject — value the substance, treat the retail narrative as noise,
+  name the gap explicitly.
+- **CLEAR:** real substance, organic-or-no promotion. A POSITIVE signal — "real AND
+  ignored" is the core winner profile; trap-detection here CONFIRMS, it doesn't just
+  veto.
+
+**Other conditions that also route to KILL (traps, not graded weaknesses):**
+- Any single RED on §1 (Management — fraud / self-dealing / restatement) or §2
+  (Counterparty — insolvency / contract cancellation). [SHAZ]
+- §3 toxic financing actively diluting, or H11 going-concern-to-zero. [CYCU, EOSE]
+- Meme/squeeze structural anomaly (SIGNAL_CLUSTERS Cluster 8): float <20% + borrow
+  >50% + zero bellwether + zero gov-contract + minimal revenue. [RGC]
+- H5 LOVED-EXTREME (parabolic retail mania at/above the justified cap) — magnitude veto.
+
+**NOT a hard reject (graded weaknesses → lower Pattern Strength, never a Kill):**
+a §5 valuation RED (AEHR — 70x P/S, a real chokepoint pure-play, held at low rank,
+not deleted); a STACK of FLAGs / non-trap REDs (a pile of graded weaknesses is a low
+score, not a veto — the over-rejection guardrail); net insider selling (modal,
+killed-H3); a diluted/flat end-market (now the H8(b) inflection signal, +0 to +6).
+**The old "3-or-more RED = hard reject" rule is RETIRED — count TRAPS, not REDs.**
+
+**Flag Taxonomy cross-reference (v3.0).** Maps to CLAUDE.md → Flag Taxonomy: every DD
+finding is either a TRAP (Kill, above) or magnitude-lowering (a graded Pattern
+Strength input). After scoring all six sections, classify the worst finding: TRAP or
+graded weakness? Kill only on a trap; let the rest lower the score.
+
+**H5 application guardrail (v3.0).** H5 is a dose-response Pattern Strength input
+(SCORING_SYSTEM.md signal #2), not a binary gate. Only LOVED-EXTREME is a Kill. "Near
+52-wk high" or "already +Nx off the lows" is NOT a reject — it is a magnitude-lowering
+input (H5 PARTIAL / PARTIAL-RECOVERING). Wonik Materials is the calibration case: an
+H5 PARTIAL was treated as a reject when it was really a score input.
+
+## Magnitude / risk-shape descriptor (NOT position sizing — operator owns sizing)
+
+The DD outcome describes the opportunity's MAGNITUDE and RISK shape; it does NOT
+prescribe dollars (v3.0 — the old $ tiers are removed). The operator reads this shape
++ Pattern Strength + Bull/Base/Bear + Trap Risk and sizes the bet.
+
+| Profile | DD shape | Historical magnitude | Instrument availability | Horizon shape |
 |---|---|---|---|---|
-| Conviction | 0 RED, ≤2 FLAG, bellwether confirmed | $15-25K | LEAPS preferred | 12-18 months |
-| Standard | 0 RED, 3-4 FLAG, solid fundamentals | $5-10K | LEAPS or equity | 12-18 months |
-| Nano-cap | 0 RED, ≤4 FLAG, sub-$500M, real revenue | $3-5K | Equity only | 12-18 months |
-| Moonshot | 0 RED, pre-revenue, bellwether relationship, can raise capital | $1-2K | Equity only | 18-month hard expiry |
+| Conviction | 0 trap, ≤2 FLAG, vendor-level bellwether | high-confidence within its cap tier | LEAPS often available | 12-18 mo |
+| Standard | 0 trap, 3-4 FLAG, solid fundamentals | mid within tier | LEAPS or equity | 12-18 mo |
+| Nano-cap | 0 trap, ≤4 FLAG, sub-$500M, real revenue | highest asymmetry (16-100x), highest variance | equity only | 12-18 mo |
+| Moonshot | 0 trap, pre-revenue, bellwether relationship, can raise capital | high-variance / binary; vendor-level bellwether = higher-conviction shape | equity only | ~18-mo thesis-expiry shape |
 
 ---
 
@@ -158,11 +215,11 @@ Output goes to: archos/due-diligence/last30days/{TICKER}-last30days-{date}.md
 
 ---
 
-## H11 Going-Concern Tiering (v2.0 — replaces binary treatment)
+## H11 Going-Concern Tiering (v2.0 logic, v3.0 labels)
 
-Going-concern language in filings is NOT an automatic RED. Tier it:
+Going-concern language in filings is NOT an automatic Kill. Tier it:
 
-**RED (hard reject):**
+**KILL (TRAP — going-concern-to-zero):**
 - Going concern + declining revenue + no binding customer contracts +
   cash < 6 months + no demonstrated ability to raise capital
 - Going concern + toxic financing (death spiral ELOC, variable
@@ -172,7 +229,7 @@ Going-concern language in filings is NOT an automatic RED. Tier it:
 - Examples: CYCU ($2M cash, revenue declining, death spiral ELOC,
   paid promotion); GCTS ($7.2M cash, $49M debt due 2026, 37x P/S)
 
-**FLAG (proceed with caution, reduce position size):**
+**FLAG (graded weakness — lowers Pattern Strength, NOT a Kill):**
 - Going concern + real customers with binding contracts + post-IPO
   or post-de-SPAC with demonstrated ability to raise equity at
   reasonable terms + revenue growing or stable
@@ -190,58 +247,80 @@ not going concern in isolation.**
 
 ---
 
-## Moonshot Classification (v2.0 — new tier)
+## Moonshot Classification (v3.0 — a MAGNITUDE / RISK-SHAPE descriptor, not a sizing tier)
 
-A candidate that passes H10 (bellwether relationship), H5 (IGNORED),
-and H11-tiered (can survive 12+ months with a raise) but is
-PRE-REVENUE gets classified as a Moonshot rather than auto-rejected.
+A PRE-REVENUE candidate that clears the trap walls and carries a real bellwether
+relationship is CLASSIFIED as a Moonshot (high-variance / binary magnitude shape) and
+SCORED on Pattern Strength — with revenue-inflection (signal #6) normalized as N/A
+(SCORING_SYSTEM.md). It is NOT auto-rejected and NOT capped at a dollar amount.
+**Archos flags the shape; the operator sizes** (this dissolves the old $1-2K cap and
+the proposed "Moonshot+" $3-5K tier — there is no cap to calibrate because Archos
+doesn't size).
 
-**Moonshot criteria (ALL must be met):**
-1. H10 passes at category level or higher (real bellwether relationship)
+**Moonshot classification criteria (all must be met to call it a Moonshot rather than
+a Kill):**
+1. H10 fires at category level or higher (a real, sector-conditional bellwether relationship)
 2. H5 is IGNORED or NEUTRAL (asymmetry exists)
-3. H11 is FLAG-tier (not RED-tier) going concern
-4. DD Sections 1-2 are CLEAR or FLAG (no RED on management or counterparty)
-5. No promotional infrastructure (Section 1.6 / 6.5 must be CLEAR)
-6. Insider behavior is BUYING or NEUTRAL (not net selling)
-7. Technology has independent validation (peer review, government
-   testing authority, Nobel-class scientific foundation, or equivalent)
+3. H11 is FLAG-tier, not going-concern-to-zero (can survive 12+ months with a raise)
+4. DD §1-2 are CLEAR or FLAG (no §1/§2 RED trap)
+5. No promotional infrastructure (Prong B / §1.6 / §6.5 CLEAR — else it's a Kill, not a Moonshot)
+6. Technology has independent validation (peer review, government testing authority,
+   Nobel-class scientific foundation, or equivalent)
 
-**Moonshot position rules:**
-- $1-2K equity only (no LEAPS — no options chain at this cap)
-- 18-month hard thesis expiry date set at entry
-- If the commercial catalyst hasn't fired by expiry, sell regardless
-- No averaging down — if the thesis breaks, exit at any price
-- Monthly re-eval during WATCH re-eval cycle
+**STRUCK (was criterion #6 in v2.0): "insider behavior is BUYING or NEUTRAL (not net
+selling)."** Net insider selling is MODAL across the winner universe (killed-H3; 38/39
+in the live insider screen) and contradicts this disqualifier. The OKLO trap proves
+it: OKLO's $174.7M selling was a 10b5-1 plan executed post-rerate near peak; at the
+mid-2024 low insiders were neutral. Net selling is **at most a minor graded weakness,
+never a disqualifier** — and only *discretionary open-market* selling AT the entry
+window is even that (exclude 10b5-1 and post-rerate sales).
+
+**Moonshot risk-shape characteristics (descriptors the operator weighs — not rules
+Archos imposes):**
+- Equity only (no liquid options chain at this cap) — an instrument fact.
+- ~18-month thesis-expiry SHAPE: the asymmetry decays if the commercial catalyst
+  doesn't fire; the operator owns the exit discipline (no-averaging-down, expiry sale).
+- A **vendor-level / binding** bellwether at the pre-revenue low (NRC cert, DOE LPO,
+  named-prime funded award, Big-Pharma binding partner) is a HIGHER-conviction /
+  higher-magnitude Moonshot shape (SMR/OKLO analog) than a category-only one — it
+  raises Pattern Strength (signal #1 vendor-level +20), it does not change a cap.
 
 **Moonshot examples from DD history:**
-- AIRJ: Would qualify (GE Vernova JV, insiders buying, Nobel
-  chemistry, CLEAR management, pre-revenue, $299M cap). $1-2K
-  equity with 18-month expiry on commercial launch.
-- ALMU: Would NOT qualify (RED management — insider selling
-  $27.5M, Akoustis network failure pattern)
-- EXYN: Would NOT qualify (RED H11 — Hesai NDAA regulatory cliff
-  makes the going concern structural, not just a cash problem)
+- AIRJ: Moonshot shape (GE Vernova JV, Nobel chemistry, CLEAR management, pre-revenue,
+  ~$299M cap) — equity-only, ~18-month thesis-expiry shape; operator sizes.
+- SMR / OKLO: vendor-level pre-revenue Moonshots (NRC cert / DOE OT + Meta) — the
+  higher-conviction shape; the old flat cap under-captured these (audit Tension C).
+- ALMU: NOT a Moonshot — §1 RED trap (insider selling $27.5M + Akoustis
+  network-failure pattern).
+- EXYN: NOT a Moonshot — H11 going-concern-to-zero (Hesai NDAA regulatory cliff makes
+  it structural, not a cash problem).
 
 ---
 
-## Section 7 — WATCH Re-eval Protocol (v2.0 — new section)
+## Section 7 — RE-SCORING Protocol (v3.0 — was "WATCH Re-eval")
 
-Every WATCH candidate gets a 5-point status check during the
-weekly WATCH re-eval cycle (runs from WATCH_REEVAL_PROMPT.md):
+On each rescan, every live candidate is RE-SCORED — Pattern Strength is event-driven
+and recomputed every cycle (SCORING_SYSTEM.md). The protocol:
 
-| Check | What | Action |
+1. **Recompute Pattern Strength** from current inputs (re-score all 7 signals).
+2. **Re-run the two-pronged Trap Check** if any new filing or social signal warrants
+   (a promotion pattern emerging can flip Clear → Caution → Kill).
+3. **Update Bull / Base / Bear** if a catalyst, earnings, or PT moved.
+4. **Refresh the ranking** vs the rest of the live watchlist.
+5. **Write the Δ line** — what moved the score and why.
+
+| Check | What | Effect on the score / verdict |
 |---|---|---|
-| 7.1 Trigger status | Has the specific re-eval trigger documented in CANDIDATE_UNIVERSE.md fired? | FIRED → promote to DD queue. NOT FIRED → hold. |
-| 7.2 New material filings | Any 8-K, 10-Q, 10-K, Form 4 filed in last 14 days? | Material positive → consider promoting. Material negative (going concern, restatement, insider dump) → consider demoting. |
-| 7.3 Price action | Stock up or down >20% since added to WATCH? | Up >50% with no catalyst → asymmetric window may be closing. Down >30% → verify thesis intact or cut. |
-| 7.4 Sentiment shift | Has sentiment moved from IGNORED toward LOVED? | Analyst upgrades, ETF inclusion, FinTwit discovery all erode H5 edge. |
-| 7.5 Thesis integrity | Based on 7.1-7.4, is the original thesis intact? | INTACT → hold. DEGRADED → consider demotion. BROKEN → demote to REJECT. |
+| 7.1 Bellwether status | Did a bellwether name the company as a vendor / make a binding award since last run? | Signal #1 flips category→vendor (+10→+20) → **score jumps** (biggest Δ-driver). |
+| 7.2 New material filings | New 8-K / 10-Q / 10-K (deferred-rev, backlog, customer name, segment mix)? | First deferred-rev / customer-deposit >$10M → signals #4/#5 fire → **score jumps**. Going-concern / restatement → Trap Risk = Kill. |
+| 7.3 Sentiment shift | Has sentiment moved IGNORED → PARTIAL → LOVED? | Signal #2 DROPS → **score DROPS** (asymmetry eroding; a falling score is as useful as a rising one — the window is closing). LOVED-EXTREME → Kill. |
+| 7.4 Price action | Up or down >20-50% since last run? | Informs H5 class + PARTIAL-RECOVERING re-score; feeds Bull/Base/Bear, not a standalone verdict. |
+| 7.5 Promotion / trap emergence | New IBN/RedChip syndication, lockup-timed PR, toxic financing? | Re-run Trap Check → can flip Clear → Caution → Kill. |
 
-**WATCH re-eval verdicts:**
-- PROMOTE → trigger fired, thesis intact, queue for DD or position decision
-- HOLD → no change, continue monitoring
-- DEMOTE → thesis broken or degraded beyond recovery, move to REJECT log
-- THESIS EXPIRY → name has been on WATCH >6 months with no trigger → demote unless human explicitly overrides with updated reasoning
+**Re-scoring outcomes:**
+- **Score Δ (up or down)** → update the dossier entry + ranking; the Δ line IS the signal.
+- **Trap Risk flip** → if it flips to Kill, remove from the ranked field → REJECT log with evidence.
+- **Thesis-expiry shape** → a name on the watchlist >6 months with a flat/eroding score and no bellwether fire ranks itself to the bottom; the operator decides whether to keep tracking. (No forced demotion — ranking does the work.)
 
 ---
 

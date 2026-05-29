@@ -1,6 +1,8 @@
 # ARCHOS_RESEARCH_TEMPLATE.md
 # Template for X/Twitter DD threads and Substack posts
-# Version 1.0
+# Version 3.0 (aligned to the detection-and-ranking dossier/scorecard:
+# Pattern Strength + Trap Risk + Bull/Base/Bear + closest analog + rank.
+# See SCORING_SYSTEM.md for the canonical dossier format.)
 
 ## Brand identity
 
@@ -16,20 +18,28 @@ Built on Claude. Not financial advice. We show the work."
 Each DD thread follows this structure. Keep each tweet under
 280 chars. Thread length: 6-8 tweets max.
 
-### Tweet 1 — Hook + Verdict
-Format: "ARCHOS DD: $TICKER — [VERDICT]"
+### Tweet 1 — Hook + Scorecard
+Format: "ARCHOS: $TICKER — Pattern Strength NN | Trap Risk: Clear/Caution/Kill"
 One sentence on what the company claims to be.
-One sentence on what we found.
+One sentence on the single most important thing we found.
+Lead with the scorecard, not a binary verdict — Archos ranks, it doesn't gate.
 Must be attention-grabbing and honest.
 
-Example:
-"ARCHOS DD: $VELO — REJECT
+Example (a Kill):
+"ARCHOS: $VELO — Pattern Strength 18 | Trap Risk: KILL
 
 Velo3D claims to be SpaceX's critical 3D printing supplier.
 
 We downloaded SpaceX's S-1 (filed 3 days ago) and grep'd it.
 Zero mentions of Velo3D. SpaceX brags about building parts
-in-house. The thesis is dead."
+in-house. Hollow substance → Kill (parked in the reject log)."
+
+Example (a high-score Clear):
+"ARCHOS: $XMPL — Pattern Strength 74 | Trap Risk: Clear | Rank 2 of 9
+
+Closest analog: AXTI pre-breakout — sub-cap substrate pure-play,
+AI-DC the fastest-growing minority slice, IGNORED, no paid promo.
+The first deferred-rev >$10M just hit the 10-Q (+11 this run)."
 
 ### Tweet 2 — What the company says (the bull case)
 Steelman the bull case in 1-2 sentences.
@@ -50,9 +60,10 @@ One sentence on CEO history.
 One sentence on insider activity (buying or selling?).
 One sentence on any related-party transactions.
 
-### Tweet 6 — The verdict explained
-Why we're passing or proceeding.
-What would change our mind.
+### Tweet 6 — The score explained
+Why the Pattern Strength is what it is (which signals fired, which are missing/weak).
+The Trap Risk call (Clear/Caution/Kill) and the gap between authenticity and promotion.
+The Δ-driver to watch — what single event would re-score it up or down.
 Link to full report on Substack.
 
 ### Tweet 7 (optional) — Comparison
@@ -71,13 +82,18 @@ methodology and report at [Substack link]. Built on Claude by
 ### Title
 "$TICKER DD: [VERDICT] — [One-line summary]"
 
-### Header block
+### Header block (the v3.0 scorecard — see SCORING_SYSTEM.md)
 | Field | Value |
 |---|---|
 | Ticker | |
 | Price at analysis | |
-| Market cap (computed) | |
-| Verdict | |
+| Market cap (verified real-time) | |
+| **Pattern Strength (0-100)** | |
+| **Trap Risk** | Clear / Caution / Kill |
+| **Rank** | k of N (live watchlist) |
+| **Closest analog** | <winner> pre-breakout (<why>) |
+| **Bet Shape** | Bear … / Base … / Bull … |
+| Δ since last run | |
 | Date | |
 
 ### Section 1 — What the company claims (2-3 paragraphs)
@@ -96,10 +112,13 @@ Compare to relevant peers or prior DD'd names.
 CEO history, insider transactions, related-party dealings,
 share structure.
 
-### Section 5 — The verdict (1-2 paragraphs)
-Clear recommendation: REJECT / PROCEED WITH CAUTION / CLEAR.
-What would change the verdict.
-What to monitor.
+### Section 5 — The scorecard & what would move it (1-2 paragraphs)
+State the Pattern Strength (with the signals firing + missing/weak), the Trap Risk
+(Clear / Caution / Kill, and the authenticity-vs-promotion gap), the Bet Shape
+(Bull / Base / Bear), and the rank. NOT a buy/sell recommendation and NOT a position
+size — Archos ranks and flags traps; the operator sizes. Then: the Δ-drivers — what
+would re-score it up (bellwether vendor-fire, first deferred-rev >$10M) or down
+(sentiment → LOVED, promotion emerging → Caution/Kill).
 
 ### Disclaimer
 "Archos Research uses AI (Claude by Anthropic) to analyze SEC
@@ -128,7 +147,8 @@ candidate universe updates, and the bellwether sweep output.
 
 ## Rules
 
-1. Never recommend buying or selling. Present findings, state verdict.
+1. Never recommend buying or selling, and never state a position size. Present the
+   scorecard (Pattern Strength + Trap Risk + Bet Shape) and the rank — the operator sizes.
 2. Always disclose positions. If we own it, say so.
 3. Always source claims to specific filings with accession numbers or URLs.
 4. Compute every ratio from raw data. Never cite third-party calculations.

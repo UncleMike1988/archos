@@ -1,15 +1,18 @@
 # architecture.md — Archos
-# Framework version: v2.1 (bumped 2026-05-28 — multi-strategy buckets + flag taxonomy + over-rejection guardrail; validated four-filter logic unchanged)
+# Framework version: v3.0 (bumped 2026-05-28 — detection-and-ranking refactor; sizing removed (operator-owned), H8(b) → graded inflection signal, H10-extended co-primary, two-pronged trap check as sole hard-reject, Pattern Strength scoring. See CLAUDE.md + SCORING_SYSTEM.md.)
 
 ## System overview
 
-Archos is a human-in-the-loop discovery engine. It screens for sub-$5B
-AI-infrastructure chokepoint stocks using a four-filter framework
-validated across 32 stocks in three research phases. **As of Framework
-v2.0 (2026-05-27), the discovery hierarchy has been flipped: balance-sheet
-signals (deferred revenue, customer deposits, backlog inflections) are the
-PRIMARY discovery layer; bellwether mentions (H10/H10-extended) are the
-CONFIRMATION layer that upgrades conviction tier.**
+Archos is a human-in-the-loop detection-and-ranking engine. It surfaces sub-$5B
+chokepoint stocks via a four-filter framework validated across 32 stocks in three
+research phases (+ N=61 universal). **v3.0 NOTE (2026-05-28): the discovery DATA FLOW
+below is UNCHANGED — balance-sheet signals remain the PRIMARY discovery layer and
+bellwether mentions the CONFIRMATION layer (the v2.0 hierarchy). What changed is the
+TERMINAL step: the old "4-Filter Gate → ACCEPT/WATCH/REJECT" is now "four SCORED
+signals → Pattern Strength (0-100) + Trap Risk (Clear/Caution/Kill) → RANKING," with
+position-sizing removed (operator-owned). Read the diagram's "4-Filter Gate" and
+"ACCEPT/WATCH/REJECT" boxes as the scoring+ranking layer; see SCORING_SYSTEM.md. The
+diagram itself was not redrawn this session.**
 
 **Multi-strategy system (Framework v2.1, 2026-05-28):** Archos now spans three
 strategy buckets — Bucket 1 (large-cap LEAPS), Bucket 2 (sub-$5B chokepoint
