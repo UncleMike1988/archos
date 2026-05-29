@@ -1,8 +1,18 @@
 # DUE_DILIGENCE_CHECKLIST.md — Archos
-# Version: 3.0 (detection-and-ranking refactor — the checklist now produces the
+# Version: 3.1 (detection-and-ranking refactor — the checklist now produces the
 # TRAP RISK verdict (Clear/Caution/Kill) via a two-pronged trap check; position-
 # sizing tiers converted to MAGNITUDE/RISK descriptors (operator owns sizing);
 # Moonshot $ caps removed; Section 7 WATCH re-eval → RE-SCORING protocol)
+#
+# CHANGELOG v3.0 → v3.1 (from PENG-dd-2026-05-29 §7, notes #1 and #3):
+# - CAUTION split into two named subtypes: PAID-MANUFACTURED (a promotion-integrity
+#   flag — paid syndication around real-but-thin substance, SPAI) vs ORGANIC-OVERHEATED
+#   (a valuation/timing flag — organic narrative overstated vs the filings + chased pop
+#   at a rich price, PENG). Different operator handling; both stay on the ranked field.
+# - H8(b) inflection signal range updated +0-to-+6 → −4-to-+16: a DECLINING chokepoint
+#   slice (PENG AI/HPC −42% YoY) scores the −4 penalty rung (worse than flat).
+# - Load-bearing walls untouched (H11 kill, meme/squeeze Cluster 8, fraud/counterparty,
+#   LOVED-EXTREME, real-time-cap rule, SHAZ/CYCU/ALMU calibration cases).
 #
 # CHANGELOG v2.0 → v3.0:
 # - Hard-reject rules reframed: the two-pronged TRAP CHECK is the SOLE hard-reject
@@ -74,10 +84,23 @@ does the ENTIRE bull case trace back to paid infrastructure?
 - **KILL (hard reject):** manufactured promotion AND hollow substance
   (SPAI/PPSI/SHAZ class) → REJECT log with the evidence; removed from the ranked
   field. **A Kill overrides any Pattern Strength.**
-- **CAUTION:** loud/manufactured promotion BUT real substance underneath (the
-  dangerous middle — SPAI had a real Army demo + $1M subcontract under the IBN
-  froth). NOT a reject — value the substance, treat the retail narrative as noise,
-  name the gap explicitly.
+- **CAUTION — PAID-MANUFACTURED:** paid/syndicated promotion (IBN / RedChip / MZ
+  Group / Litchfield Hills / "compensation for placement" / news-bots) wrapped around
+  real-but-thin substance (SPAI: real Army demo + $1M subcontract under the IBN froth).
+  A PROMOTION-INTEGRITY flag — the closer the substance is to hollow, the closer it
+  trends to Kill. Value only the verifiable substance; name the gap.
+- **CAUTION — ORGANIC-OVERHEATED:** promotion is ORGANIC (no paid infrastructure — the
+  paid axis reads CLEAR), but the loud narrative's specific claims are contradicted by
+  the filings and/or the entry is a chased sympathy/momentum spike at a rich price (PENG:
+  organic FinTwit + "same AI clusters as Dell" while the AI segment is −42%, at ~2x
+  consensus PT). A VALUATION/TIMING flag, NOT a promotion-integrity flag — a real company
+  that can become a GOOD entry on a pullback; most of the warning expresses through LOW
+  Pattern Strength + Bet Shape, not Trap Risk. Name the narrative-vs-filings gap.
+
+  *Both are CAUTION (not Kill, not Clear) and stay on the ranked field; the subtype tells
+  the operator WHICH caution — integrity (is the promotion bought?) vs valuation/timing (is
+  a real company being chased too hard?). BOTH paid-manufactured AND hollow = a Kill, not a
+  Caution.*
 - **CLEAR:** real substance, organic-or-no promotion. A POSITIVE signal — "real AND
   ignored" is the core winner profile; trap-detection here CONFIRMS, it doesn't just
   veto.
@@ -94,7 +117,8 @@ does the ENTIRE bull case trace back to paid infrastructure?
 a §5 valuation RED (AEHR — 70x P/S, a real chokepoint pure-play, held at low rank,
 not deleted); a STACK of FLAGs / non-trap REDs (a pile of graded weaknesses is a low
 score, not a veto — the over-rejection guardrail); net insider selling (modal,
-killed-H3); a diluted/flat end-market (now the H8(b) inflection signal, +0 to +6).
+killed-H3); a diluted/flat end-market (now the H8(b) inflection signal, −4 to +16; a *declining*
+chokepoint slice scores the −4 penalty rung).
 **The old "3-or-more RED = hard reject" rule is RETIRED — count TRAPS, not REDs.**
 
 **Flag Taxonomy cross-reference (v3.0).** Maps to CLAUDE.md → Flag Taxonomy: every DD

@@ -1,6 +1,6 @@
 # INSIGHTS.md — Archos
 # Cap: 200 lines (Signal Forge convention)
-# Last updated: 2026-05-28 (Framework v3.0 — detection-and-ranking refactor: sizing removed, H8 inflection signal, H10-extended co-primary, two-pronged trap check, Pattern Strength scoring)
+# Last updated: 2026-05-29 (Framework v3.1 — CAUTION split into paid-manufactured vs organic-overheated + inflection #4 declining-slice −4 penalty rung + multi-segment chokepoint-ID hazard, from PENG-dd-2026-05-29 §7; v3.0 base: detection-and-ranking refactor)
 # Read this at session start. Capture lessons across runs.
 
 ## Framework lessons (from 3-phase research, 32 stocks)
@@ -357,6 +357,14 @@
 - **NEW vendor-attribution anti-pattern catalogued this sweep — "already-ran obvious pure-play": a bellwether names a real un-mapped constraint AND a clean sub-$5B pure-play exists, but it has already re-rated to LOVED/near-52-wk-high before the sweep catches it (SKYT ~$1.9B/~20x off low on trusted microelectronics; VPG ~$1.72B/+2.7x on force/torque).** [confirmed: 2 cases 2026-05-29] [structural] Distinct from "graduated >$5B" (AXTI), "private" (ForwardEdge/Niron/Bachem), and "foreign-only" (Harmonic Drive 6324, GSA Swiss). **How to apply:** when a sweep surfaces the obvious pure-play, re-verify its 52-wk position + % off low BEFORE flagging — an already-run name is an H5 magnitude-lowering input (PARTIAL/PARTIAL-RECOVERING), and the real action is hunting the still-IGNORED second-source, not chasing the priced name. Reinforces the failure-mode-over-rejection H5 guardrail (only LOVED-EXTREME vetoes). [[failure-mode-over-rejection]]
 
 > NOTE: INSIGHTS.md remains over its 200-line cap (pre-existing). This Bellwether-Sweep-#6 entry is additive; the queued pruning pass should fold it alongside the 2026-05-28/29 DD calibration entries.
+
+### Framework v3.0 → v3.1 — two scoring refinements from the first live scorecard (2026-05-29) [structural]
+
+- **GOVERNANCE v3.1 — the action taken on PENG-dd-2026-05-29 §7 notes #1 + #3.** [confirmed: 1 governance session 2026-05-29, last 2026-05-29] [structural] The first live v3.0 scorecard (PENG: Pattern Strength 32 / Trap Risk CAUTION / bottom-of-field) was a deliberately hard case — a REAL company chased on a Dell-sympathy pop while its actual AI/HPC segment declines −42% YoY — and scoring it cleanly surfaced two real calibration gaps. v3.1 patches both while fresh. **NOT a structural change**: the load-bearing walls (H11 going-concern kill, meme/squeeze Cluster 8, fraud/counterparty traps, LOVED-EXTREME, real-time-cap rule, SHAZ/CYCU/ALMU calibration cases) are UNTOUCHED; specificity unchanged. Files edited: SCORING_SYSTEM.md, DUE_DILIGENCE_CHECKLIST.md, CLAUDE.md (version note + one Flag-Taxonomy pointer), state.md.
+- **CHANGE 1 — CAUTION split into two named subtypes (§7 note #1).** The single CAUTION tier conflated two opposite animals: **PAID-MANUFACTURED** (SPAI — paid/syndicated IR infrastructure wrapped around real-but-thin substance; a PROMOTION-INTEGRITY flag that trends toward Kill as the substance approaches hollow) vs **ORGANIC-OVERHEATED** (PENG — organic FinTwit, specific claims contradicted by the filings, chased sympathy spike at ~2x consensus PT; a VALUATION/TIMING flag that should express mostly through LOW Pattern Strength + an unfavorable Bet Shape, not through Trap Risk). **How to apply:** name the subtype on the dossier Trap-Risk line; BOTH paid-manufactured AND hollow = a Kill, not a Caution. [[nano-cap-narrative-vs-substance]]
+- **CHANGE 2 — inflection signal #4 gains a −4 declining-slice penalty rung + a multi-segment chokepoint-ID hazard (§7 note #3).** The old rubric floor (`0` = flat/incidental, the WOLF/Anritsu shape) had no rung for a DECLINING chokepoint slice; PENG's AI/HPC slice is −42% YoY — strictly worse than flat — yet mapped to the same 0. #4 now ranges **−4 to +16** (the −4 is a penalty FLOOR, not part of the additive 100-pt all-fire ceiling). **HAZARD codified:** in a multi-segment company, FIX which reported segment IS the chokepoint thesis BEFORE scoring #4 — PENG is manipulable (AI/HPC −42% vs Integrated-Memory +63% swings #4 by 14 points, −4 ↔ +10, and inverts the verdict). PENG is the calibration case for both changes. [[failure-mode-over-rejection]]
+
+> NOTE: INSIGHTS.md remains over its 200-line cap (pre-existing). This v3.1 governance entry is additive; the queued pruning pass should fold it into the v2.1→v3.0 refactor entry as that refactor's first-live-test refinement.
 
 ## Source files
 

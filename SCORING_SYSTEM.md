@@ -1,5 +1,5 @@
 # SCORING_SYSTEM.md — Archos
-# Framework version: v3.0 (created 2026-05-28 — detection-and-ranking refactor)
+# Framework version: v3.1 (created 2026-05-28 as v3.0; refined 2026-05-29 — v3.1: CAUTION split into paid-manufactured vs organic-overheated; inflection signal #4 gains a declining-slice −4 penalty rung + multi-segment chokepoint-identification hazard note — both from PENG-dd-2026-05-29 §7)
 # Read this at session start. This file defines the scorecard the operator reads.
 
 ## What this file is
@@ -57,11 +57,15 @@ which essentially never happens. Real winners scored ~55-85 with named weaknesse
 | 1 | **Extended bellwether fire** (sector-conditional H10 family — see CLAUDE.md) | **90%** univ | HEAVY | **20** |
 | 2 | **IGNORED / NEUTRAL sentiment** (H5, dose-response) | **87%** univ | HEAVY | **20** |
 | 3 | **Sub-$2B cap geometry** (H8, dose-response; smaller = more) | **80%** univ | HEAVY | **16** |
-| 4 | **Chokepoint end-market INFLECTION** (fastest-growing slice + balance-sheet confirm — the AXTI-vs-MIR discriminator) | composite (rev-inflection 67% + deposit 36/70%) | HEAVY | **16** |
+| 4 | **Chokepoint end-market INFLECTION** (fastest-growing slice + balance-sheet confirm — the AXTI-vs-MIR discriminator) | composite (rev-inflection 67% + deposit 36/70%) | HEAVY | **16** (−4 floor) |
 | 5 | **Customer-deposit / deferred-revenue spike** (sector-conditional) | **36%** univ / **70%** def-nuke | MEDIUM | **8** |
 | 6 | **Revenue inflection >40% YoY first-time** (where eligible) | **67%** eligible | MEDIUM | **8** |
 | 7 | **Signal-cluster match** (de-SPAC / squeeze / spinoff-REORG / gov-anchor; multi-cluster scores highest) | 30-36% each; triple-firers = top winners | BONUS | **12** |
 | | **TOTAL** | | | **100** |
+
+*Signal #4 can score a **−4 declining-slice penalty** (a multi-segment chokepoint whose anchor
+end-market is SHRINKING YoY — PENG AI/HPC −42%); the −4 is a penalty FLOOR, not part of the
+additive 100-point all-fire ceiling.*
 
 **Overlays — NOT base points (they raise magnitude expectation, i.e. the Bull
 case, not Pattern Strength):**
@@ -92,16 +96,26 @@ PATTERN_MATRIX (IGNORED-extreme winners 1,500-9,600%; PARTIAL 50-265%).
 base = larger mechanical re-rate (Cluster 5 dollar-stock geometry). *This is a
 MAGNITUDE descriptor, not a sizing instruction — the operator sizes.*
 
-**4. Chokepoint end-market INFLECTION — max 16 (the discriminator).** This is the
-audit's #1 fix (CHANGE 3): score the *derivative*, not the *level*. `0` = chokepoint
-end-market is flat/incidental and NOT the fastest-growing slice (the WOLF / Anritsu
-/ Sumitomo / MIR "diluted-and-flat" shape — hold) · `6` = chokepoint slice growing
-but not yet the fastest-growing end-market · `10` = chokepoint end-market is the
-**fastest-growing** slice (even if a minority of trailing total) · `16` =
-fastest-growing **AND** a first-time chokepoint deferred-revenue / customer-deposit
-signal >$10M OR >X% of incremental/forward (next-2-quarter or contracted) revenue.
-**This is what separated AXTI-at-low (diluted-but-inflecting → catch) from
-MIR-today (diluted-and-flat → hold).** It need NOT be >50% of trailing total.
+**4. Chokepoint end-market INFLECTION — max 16, −4 floor (the discriminator).** This is the
+audit's #1 fix (CHANGE 3): score the *derivative*, not the *level*. `−4` (penalty) = the
+chokepoint slice is **DECLINING YoY** (PENG AI/HPC −42%) — strictly worse than flat; this is an
+active Bear-case driver, not a neutral zero. Floor the signal at −4 (do not let it drag the
+whole score below what the other signals support — it is a penalty rung, not an unbounded
+negative). · `0` = flat/incidental, NOT the fastest-growing slice (the WOLF / Anritsu / Sumitomo
+/ MIR "diluted-and-flat" shape — hold) · `6` = chokepoint slice growing but not yet the
+fastest-growing end-market · `10` = chokepoint end-market is the **fastest-growing** slice (even
+if a minority of trailing total) · `16` = fastest-growing **AND** a first-time chokepoint
+deferred-revenue / customer-deposit signal >$10M OR >X% of incremental/forward (next-2-quarter
+or contracted) revenue. **This is what separated AXTI-at-low (diluted-but-inflecting → catch)
+from MIR-today (diluted-and-flat → hold).** It need NOT be >50% of trailing total.
+
+*HAZARD — fix the chokepoint segment BEFORE scoring #4.* In a multi-segment company, identify
+which reported segment IS the chokepoint thesis and score #4 on THAT segment's trajectory — not
+the fastest-growing segment by default. PENG is the calibration case: the chokepoint thesis is
+the AI/HPC (Advanced Computing) segment (−42% YoY → −4), NOT the Integrated-Memory segment
+(+63%, memory-cycle-driven, not the AI-cluster thesis). Scoring the wrong segment swings #4 by
+14 points (−4 ↔ +10) and inverts the verdict. State explicitly in the dossier which segment was
+scored and why.
 
 **5. Customer-deposit / deferred-revenue spike — max 8, sector-conditional.** `0` =
 none · `5` = present (AI-infra / general, PM 36%) · `8` = present in
@@ -185,10 +199,25 @@ Run the `/last30days` sweep. Tells of a manufactured narrative:
   PPSI, SHAZ class). Goes to the REJECT log with the evidence. Pattern Strength is
   irrelevant — **a Kill overrides any score** and removes the name from the ranked
   field.
-- **CAUTION:** manufactured/loud promotion **BUT real substance underneath** (the
-  dangerous middle — SPAI had a real Army demo + $1M subcontract under the IBN
-  froth). NOT a reject. Flag it: value the substance, treat the retail narrative as
-  noise, **name the gap explicitly**.
+- **CAUTION — PAID-MANUFACTURED:** paid/syndicated promotion infrastructure (IBN /
+  RedChip / MZ Group / Litchfield Hills / "compensation for placement" / news-bot
+  amplification) wrapped around real-but-thin substance (SPAI: real Army demo + $1M
+  subcontract under the IBN froth). This is a PROMOTION-INTEGRITY flag — the closer the
+  substance is to hollow, the closer it trends to Kill. Value only the verifiable
+  substance; treat the paid narrative as adversarial noise; name the gap.
+- **CAUTION — ORGANIC-OVERHEATED:** promotion is ORGANIC (no paid infrastructure — Prong B
+  on the paid axis reads CLEAR), but the loud organic narrative's specific claims are
+  contradicted by the filings and/or the entry is a chased sympathy/momentum spike at a
+  rich price (PENG: organic FinTwit + "same AI clusters as Dell" while the AI segment is
+  −42% + ~2x consensus PT on a Dell-sympathy pop). This is a VALUATION/TIMING flag, NOT a
+  promotion-integrity flag — a real company that can become a GOOD entry on a pullback.
+  Most of the warning should express through LOW Pattern Strength + an unfavorable Bet
+  Shape, not through Trap Risk. Name the gap between the narrative and the filings.
+
+  *Both are CAUTION (not Kill, not Clear) and both stay on the ranked field. The subtype tells
+  the operator WHICH kind of caution: integrity (is the promotion bought?) vs valuation/timing
+  (is a real company being chased too hard?). If a name is BOTH paid-manufactured AND hollow, it
+  is a Kill, not a Caution.*
 - **CLEAR:** real substance with organic-or-no promotion. This is a **POSITIVE
   signal** — "real AND ignored" is the core winner profile. A Clear on a
   high-Pattern-Strength name *strengthens* the bull case; trap-detection here
@@ -274,7 +303,7 @@ multi-cluster firing, (3) freshness of the bellwether fire.
 
 Use this exact shape per candidate (in CANDIDATE_UNIVERSE.md and DD outputs):
 
-> **TICKER** — Pattern Strength **NN** | Trap Risk: **Clear/Caution/Kill** | Rank: **k of N**
+> **TICKER** — Pattern Strength **NN** | Trap Risk: **Clear / Caution (paid-manufactured | organic-overheated) / Kill** | Rank: **k of N**
 > Closest analog: <winner> pre-breakout (<why>)
 > Bear: <thesis-break, downside>. Base: <partial/consensus>. Bull: <full completion>.
 > Firing: <signals on, with hit-rate weights, e.g. "bellwether vendor-level +20, IGNORED +16, sub-$500M +14, end-market fastest-growing+deposit +16, gov-anchor cluster +4">.
@@ -321,3 +350,9 @@ unchanged (~88% discovery sensitivity); v3.0 replaces the overfit ACCEPT/SIZING
 gates with this graded scoring layer, restoring effective sensitivity to ~92% (audit
 Reading C) without touching specificity (H11 / meme-squeeze / fraud / counterparty
 traps still reject all 10 adversarial controls).*
+
+*v3.1 (2026-05-29) — minor refinement from the first live v3.0 scorecard (PENG-dd-2026-05-29
+§7): CAUTION split into PAID-MANUFACTURED (promotion-integrity) vs ORGANIC-OVERHEATED
+(valuation/timing) subtypes; inflection signal #4 gains a −4 declining-slice penalty rung
+(a shrinking chokepoint segment is worse than flat) + a multi-segment "fix the chokepoint
+segment first" hazard note. Load-bearing walls untouched; specificity unchanged.*

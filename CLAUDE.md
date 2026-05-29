@@ -1,5 +1,5 @@
 # CLAUDE.md — Archos
-# Framework version: v3.0 (bumped 2026-05-28 — DETECTION-AND-RANKING REFACTOR. Position-sizing logic REMOVED (operator-owned); H8(b) end-market reformulated from a hard gate into a graded INFLECTION signal; H10-extended promoted to co-primary with the discovery hierarchy folded into the four-filter section; the two-pronged TRAP CHECK is now the SOLE hard-reject layer; scoring is Pattern Strength + Trap Risk + Bull/Base/Bear + analog + Δ + ranking (see SCORING_SYSTEM.md). Authorized by research/FRAMEWORK_OVERFIT_AUDIT.md + Sounding Board 2026-05-28. v2.1 trap-detection walls (H11, meme/squeeze, fraud/counterparty) PRESERVED.)
+# Framework version: v3.1 (bumped 2026-05-29 — minor refinement from PENG-dd-2026-05-29 §7: CAUTION split into paid-manufactured vs organic-overheated subtypes; inflection signal #4 gains a declining-slice −4 penalty rung + a multi-segment "fix the chokepoint segment first" hazard note. Load-bearing walls untouched.) · v3.0 (bumped 2026-05-28 — DETECTION-AND-RANKING REFACTOR. Position-sizing logic REMOVED (operator-owned); H8(b) end-market reformulated from a hard gate into a graded INFLECTION signal; H10-extended promoted to co-primary with the discovery hierarchy folded into the four-filter section; the two-pronged TRAP CHECK is now the SOLE hard-reject layer; scoring is Pattern Strength + Trap Risk + Bull/Base/Bear + analog + Δ + ranking (see SCORING_SYSTEM.md). Authorized by research/FRAMEWORK_OVERFIT_AUDIT.md + Sounding Board 2026-05-28. v2.1 trap-detection walls (H11, meme/squeeze, fraud/counterparty) PRESERVED.)
 
 ## What is this project?
 
@@ -250,7 +250,7 @@ test (SCORING_SYSTEM.md + DD checklist).
 - H5 LOVED-EXTREME: parabolic, retail-driven, at/above the cap fundamentals justify (magnitude veto — the upside is gone)
 
 **MAGNITUDE-LOWERING → graded Pattern Strength input, NOT a reject:**
-- **Diluted / flat chokepoint end-market — the OLD ">50% majority" fail. RETIRED as a veto (CHANGE 3): now a graded H8(b) inflection signal (+0 to +6 if not the fastest-growing slice), NOT a reject.** [Anritsu/Sumitomo/MIR — held at low rank, not deleted]
+- **Diluted / flat chokepoint end-market — the OLD ">50% majority" fail. RETIRED as a veto (CHANGE 3): now a graded H8(b) inflection signal (−4 to +16; +0 to +6 if not the fastest-growing slice, −4 if the chokepoint slice is *declining* YoY — PENG), NOT a reject.** [Anritsu/Sumitomo/MIR — held at low rank, not deleted]
 - Structural (not cyclical) revenue decline [NVO] — craters the inflection signals (#4/#6) and the winner-pattern match → near-floor Pattern Strength; it ranks at the bottom on its own, no separate veto needed
 - Already ran / near 52-wk high with real runway left (H5 PARTIAL)
 - Some dilution / serial ATM, absent going-concern
