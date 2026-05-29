@@ -366,6 +366,10 @@
 
 > NOTE: INSIGHTS.md remains over its 200-line cap (pre-existing). This v3.1 governance entry is additive; the queued pruning pass should fold it into the v2.1→v3.0 refactor entry as that refactor's first-live-test refinement.
 
+### First v3.1 ranked board — "the asymmetry is in the IGNORED state, not the fire" (2026-05-29) [structural]
+
+- **A verified bellwether fire on a name the MARKET HAS ALREADY REPRICED is a near-zero Δ — the fire-gain on signal #1 is offset by the sentiment-loss on signal #2.** [confirmed: 1 ranked board 2026-05-29, last 2026-05-29] [structural] The first full ranked board re-scored the InP pair on a REAL, primary-source-verified bellwether fire (Coherent FQ3-2026, verbatim "industry-wide constraint in indium phosphide," May-6-2026) — but BOTH sub-$5B InP pure-plays had ALREADY RUN on it: SIVE.ST +60% in a week to near its 52-wk high; IQE.L ~10x off its 52-wk low. Re-scoring honestly: signal #1 fires 0→+10 (category) but signal #2 collapses IGNORED→PARTIAL (+16→+6), so the net Pattern-Strength Δ is ~flat AND the Bet Shape WORSENS (entry near the high). **Why:** the framework's edge is the IGNORED state (H5 dose-response: IGNORED 700-1,400% vs PARTIAL 50-265%); once the market repriced, the fire is confirmation the rerate already started — the same "supplier-mapping retroactively confirms, does not generate new entries" lesson, now seen on the bellwether axis. **How to apply:** when a sweep flags a name "Δ-up on a fresh fire," VERIFY THE PRICE REACTION, not just the event — if it already ran, score #2 down and rank it below a still-IGNORED name. On this board a still-IGNORED no-bellwether nano (USEG, #2, PS 42) out-ranked both fired-and-ran InP names (IQE #3 32, SIVE #5 28); the cleanest #1 (SDGR, PS 52) was the rare case where a verified vendor-level fire fired ~4.5 months ago and the market STILL hasn't repriced (fire + persistent IGNORED). [[chokepoint-taxonomy-sector-conditional]]
+
 ## Source files
 
 Full audit trail: `_master_docs/bottleneck-asymmetry-research/HYPOTHESIS_EVOLUTION.md`
