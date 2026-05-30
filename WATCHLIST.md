@@ -19,6 +19,7 @@ make me act (the trigger) · Status note (last update).
 | LWLG | 2/3 spec | EO-polymer modulator materials; Marvell/Polariton record device uses LWLG material | 2026-05-29 | The lead licensing deal signs; first real revenue | ~20 yrs pre-revenue — option on adoption |
 | SIMO | 3 | KV-cache→NVMe AI-memory tier; MonTitan SSD controllers align with NVIDIA ICMS | 2026-05-29 | Adoption proof; entry on a pullback (already +138% yr) | Only clean investable lever on the tier |
 | LFCR | 1 | Fill-finish nano; doubled capacity; GLP-1 + intl pharma customer wins (unnamed) | 2026-05-29 | A named top-10 customer with $; utilization climbs off ~20% | Fragile balance sheet — turnaround not grower yet |
+| USEG | 1 | Helium + CO₂/45Q nano (~$50M); FID'd Big Sky Carbon Hub; IG take-or-pay helium offtake ($285/MCF fixed); ~$130M 45Q optionality | 2026-05-30 | EPA MRV approval (summer 2026) lands + plant commissions on time (first gas Q1-2027) without a dilutive raise | Full DD done 2026-05-30 — real & FID'd, passes fraud gate; equity-only option on execution; carbon is the prize (>2x helium) but gated on one EPA stamp; ~$30M build on a ~$28M balance sheet (no cushion); watch MRV + schedule |
 
 ## IPO-watch (calendar these, not yet investable)
 - L3Harris Missile Solutions (SRM spinout) — $1B DoW convertible closed Apr 2026; IPO targeted H2-2026.

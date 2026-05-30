@@ -3,7 +3,7 @@
 Archos finds quality investing opportunities, analyzes them, and hands me the
 file. **I make every decision** — what to buy, how much, when to enter, when to
 exit. Archos does not size positions, manage risk, or tell me what to do. It is
-a research analyst and a sounding board, not a manager.
+a research analyst and a sounding board, not a manager. 
 
 ## What Archos looks for — three buckets
 
