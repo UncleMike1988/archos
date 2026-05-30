@@ -101,6 +101,14 @@ That's the only automatic "no." Everything else is a judgment I make.
   (except the one hard rule above).
 - **Verify, don't guess.** Use real filings and real-time prices/caps. Flag
   uncertainty instead of inventing precision.
+- **Hard rule — division of labor and language.** Code is the professional
+  analyst: detailed, rigorous, and technical. DD files and Code's work stay
+  jargon-heavy and complete — do not simplify them. The Sounding Board chat is
+  the translator: Michael does not read Code's raw outputs, so chat's job is to
+  read them and report back to Michael succinctly, leading with the answer, in
+  language a 17-year-old could understand, with no jargon. Professional depth
+  lives in Code and the files; plain-English summaries live in chat. Chat
+  provides technical detail only when Michael explicitly asks.
 
 ## Reference (read, don't obey)
 
