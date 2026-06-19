@@ -80,7 +80,7 @@ Reddit total engagement across all SHAZ-related posts: **8 upvotes, 3 comments.*
 
 **FinTwit interpretation:** Surprisingly muted on the SHAZ-specific angle. The most-read 13F coverage (davemanuel.com, TrendSpider, KuCoin, Quiver Quantitative, Bankless) leads with the put book and barely mentions SHAZ. A Threads post from [@mwi.invest](https://www.threads.com/@mwi.invest/post/DYe_P1CFC8W/) cautions that options-heavy 13Fs will be misread by retail — useful framing but no SHAZ-specific endorsement. TikTok @trade_tracker (May 21, 400 views) mentions Aschenbrenner Q1 holdings generically, no SHAZ commentary.
 
-**Critical context for Archos DD:** Aschenbrenner's position was **opened in Q1 2026** — the report only became public on May 18. The position was therefore established **before**:
+**Critical context for Archos Equities DD:** Aschenbrenner's position was **opened in Q1 2026** — the report only became public on May 18. The position was therefore established **before**:
 - April 13: NVIDIA-strategic-shareholder retraction 8-K
 - April 30: Bleecker Street short report
 - Q1 earnings miss (May 15)
@@ -105,7 +105,7 @@ Manning's response has been **deflective, not substantive**.
 
 **SKEPTICAL** — with the caveat that "skeptical" understates how genuinely *quiet* the social channel is.
 
-Per the Archos H5 framework: **IGNORED** would have been the right pre-Bleecker classification. Post-Bleecker, the stock has moved into a posture where the institutional bull case (Compass Point, Aschenbrenner Q1) is being defended by paid promotion and bot accounts while the bear case is being carried by Bleecker alone with one independent verifier. The wider FinTwit / Reddit ecosystem has not engaged on either side. This is neither HATED (no widespread short-squeeze hunting) nor DIVIDED (no two-sided debate) nor CAUTIOUSLY BULLISH (no organic bull momentum). It is SKEPTICAL-with-thin-promotional-overlay.
+Per the Archos Equities H5 framework: **IGNORED** would have been the right pre-Bleecker classification. Post-Bleecker, the stock has moved into a posture where the institutional bull case (Compass Point, Aschenbrenner Q1) is being defended by paid promotion and bot accounts while the bear case is being carried by Bleecker alone with one independent verifier. The wider FinTwit / Reddit ecosystem has not engaged on either side. This is neither HATED (no widespread short-squeeze hunting) nor DIVIDED (no two-sided debate) nor CAUTIOUSLY BULLISH (no organic bull momentum). It is SKEPTICAL-with-thin-promotional-overlay.
 
 ## Red flags spotted in social chatter
 
@@ -117,7 +117,7 @@ Per the Archos H5 framework: **IGNORED** would have been the right pre-Bleecker 
 6. **Q1 earnings call deflection** — Manning's "Have you seen the share price today?" non-response at Macquarie has been documented in Capital Brief but has gotten essentially zero FinTwit traction. Either FinTwit didn't notice, or it noticed and decided not to engage.
 7. **Wiseek and edgar_news bot posts** — auto-generated "10/10 Positive" SEC-filing summaries on niche bot subreddits are not real signal. Treat as noise.
 
-## Key takeaway for Archos DD
+## Key takeaway for Archos Equities DD
 
 The social signal layer **strongly confirms** the Bleecker-Street-driven DD REJECT and adds three pieces of evidence the DD checklist did not yet capture:
 

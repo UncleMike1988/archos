@@ -2,11 +2,11 @@
 ## Out-of-Framework Deep Value / Asset-Based Investigation
 
 **Date:** 2026-05-27
-**Author:** Code (Archos diagnostic session — NOT a four-filter DD)
+**Author:** Code (Archos Equities diagnostic session — NOT a four-filter DD)
 **Session type:** OUT-OF-FRAMEWORK. ARAY does not pass H10 (no bellwether
 chokepoint mention), does not pass H8 (radiation oncology is not an
-AI-infrastructure chokepoint), and is not in any Archos taxonomy bucket.
-This document is filed alongside Archos DDs for traceability only and
+AI-infrastructure chokepoint), and is not in any Archos Equities taxonomy bucket.
+This document is filed alongside Archos Equities DDs for traceability only and
 does NOT enter `CANDIDATE_UNIVERSE.md`. The thesis under test is purely
 deep value: hidden asset value (CNNC JV stake) > current market cap.
 
@@ -637,7 +637,7 @@ This becomes more interesting if:
 
 ## If actionable: what entry, what size, what timeline?
 
-This is **NOT an Archos framework candidate** and the user explicitly
+This is **NOT an Archos Equities framework candidate** and the user explicitly
 flagged this as out-of-framework. Even on its own merits, this is
 not a position the four-filter framework would generate — it has
 no AI-infrastructure chokepoint relationship, no bellwether linkage,

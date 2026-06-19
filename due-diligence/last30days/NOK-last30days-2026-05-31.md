@@ -334,7 +334,7 @@ froth riding a real story, not a manufactured story.
 
 ---
 
-## Key takeaway for Archos DD
+## Key takeaway for Archos Equities DD
 
 **The social layer confirms a genuine Bucket-2/Bucket-3 hybrid catalyst story and shifts the entire
 DD question off the fraud gate and onto valuation + durability — exactly where it belongs.** Five

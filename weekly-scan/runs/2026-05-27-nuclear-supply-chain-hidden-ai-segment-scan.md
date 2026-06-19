@@ -48,8 +48,8 @@
 | 2 | **MTRN** | Materion Corporation | **$4.47B** (verified 2026-05-22) | Specialty materials — BeF₂ for Flibe coolant + beryllium alloys + ceramics | **TIER 3 COMPOUNDER** | **FLAG — H8 likely fails (nuclear/fusion BeF₂ is small share; auto/semi/aerospace dominate). MONITOR list addition.** |
 | 3 | **LEU** | Centrus Energy | **$3.65-4.07B** (verified 2026-05-26 close $185.55 = $3.65B; $192.31 May 13 = $4.07B) | HALEU + LEU enrichment | **TIER 3 COMPOUNDER** (post-rerate) | **PARTIAL-RECOVERING candidate under H5 v2.0** — verify post-catalyst peak retrace criteria |
 | 4 | **ASPI** | ASP Isotopes Inc. | **$871M** (verified 2026-05-27 = $6.93 price × 125.9M shares) | Isotopes + HALEU via Quantum Leap Energy subsidiary | **TIER 2 CATALYST** | **WATCH — H10-N FLAG (non-binding MOU); H8 segment verification needed** |
-| 5 | **NNE** | Nano Nuclear Energy | already in Archos universe — $358M | SMR / HALEU subsidiary | TIER 3 WATCH | **UPDATE re-eval: Supermicro MOU 2026-05-06 added** |
-| 6 | **NUCL** | Eagle Nuclear Energy | already in Archos universe — $358M | SMR | TIER 3 WATCH | No new updates this scan |
+| 5 | **NNE** | Nano Nuclear Energy | already in Archos Equities universe — $358M | SMR / HALEU subsidiary | TIER 3 WATCH | **UPDATE re-eval: Supermicro MOU 2026-05-06 added** |
+| 6 | **NUCL** | Eagle Nuclear Energy | already in Archos Equities universe — $358M | SMR | TIER 3 WATCH | No new updates this scan |
 
 ### Excluded / already-tracked / out-of-scope
 
@@ -60,14 +60,14 @@
 | **J** | Jacobs Solutions $14.43B — engineering services, not chokepoint pure-play (AI services anti-pattern analog). |
 | **FLS** | Flowserve — nuclear pumps + first SMR production order Q1 2026 + Trillium Valves $490M acquisition (200k-unit installed base in 115 operating nuclear reactors). Need mkt cap verification — likely $6-7B (over Tier 3 cap, near Tier 4 boundary). Likely fails H8 (FPD + FCD segments are broadly industrial). Document on MONITOR. |
 | **NuScale (SMR)** | At $11.23/$12.40, mkt cap >$5B. Already past entry window. |
-| **XE (X-Energy)** | $12.14B — already in Archos REJECT log; over Tier 2 cap. Real chokepoint via TRISO-X + 11.5GW Dow/Amazon/Centrica backlog but post-IPO post-rerate. |
+| **XE (X-Energy)** | $12.14B — already in Archos Equities REJECT log; over Tier 2 cap. Real chokepoint via TRISO-X + 11.5GW Dow/Amazon/Centrica backlog but post-IPO post-rerate. |
 | **OKLO** | $7-8B post-rerate; pre-revenue moonshot blind spot — already in REJECT log. |
 | **LTBR** | Lightbridge $395M — pre-revenue moonshot (LWLG analog); metallic-fuel R&D only; correctly rejected. |
-| **IMSR (Terrestrial Energy)** | $734M; already in Archos REJECT log; over Tier 1 NANO cap, MSR developer not chokepoint supplier. |
+| **IMSR (Terrestrial Energy)** | $734M; already in Archos Equities REJECT log; over Tier 1 NANO cap, MSR developer not chokepoint supplier. |
 | **NUAI** | Already in WATCH; pre-revenue pivot from natural gas to AI-DC. |
 | **HACQ / HVII / SVAC** | SPACs (some incl. ONE Nuclear / Spring Valley III) — Cluster 8 microstructure / shell pattern; already in REJECT log. |
 | **FRMI (Fermi)** | $3.82B; already in REJECT log (over Tier 2 cap when added; AI Infra + Nuclear hybrid reference). |
-| **CEG (Constellation), TLN (Talen), D (Dominion), VST (Vistra)** | Mega-cap utilities — operators not supply chain; out of Archos lens. |
+| **CEG (Constellation), TLN (Talen), D (Dominion), VST (Vistra)** | Mega-cap utilities — operators not supply chain; out of Archos Equities lens. |
 | **Cameco, GE Vernova, Samsung C&T, Mitsubishi Heavy, Rolls-Royce** | NUKZ ETF top-25 holdings — all mega-cap or foreign-listed conglomerates not sub-$5B pure-plays. |
 | **Holtec Palisades** | DOE LPO $1.52B conditional commitment for Palisades plant restart — but Holtec is private (not publicly traded). |
 | **Constellation Crane** | $1B DOE LPO closing November 2025 — Constellation is $107B+ mega-cap; out of scope. |
@@ -75,7 +75,7 @@
 ### DOE LPO pipeline scan
 - **$1B Constellation Crane Clean Energy Center** — Nov 2025 close. Constellation mega-cap.
 - **$1.52B Holtec Palisades** — conditional commitment; Holtec private.
-- **No sub-$5B publicly-traded recipients identified in last 6 months.** The DOE LPO pipeline as a discovery vector for the Archos lens is currently producing mega-cap / private-only outputs.
+- **No sub-$5B publicly-traded recipients identified in last 6 months.** The DOE LPO pipeline as a discovery vector for the Archos Equities lens is currently producing mega-cap / private-only outputs.
 
 ### Nuclear ETF (NUKZ) holdings cross-reference
 NUKZ has 53 holdings; top 25 are visible without subscription. Top weighted suppliers (vs uranium miners / utilities):
@@ -102,7 +102,7 @@ NUKZ has 53 holdings; top 25 are visible without subscription. Top weighted supp
 |---|---|---|
 | **H10-N** | **FLAG (multi-customer chokepoint validation pattern)** | NOT a single NRC milestone or DOE LPO commitment. BUT: contractual commitments with **20+ SMR developers** (vendor-aggregation pattern). Paragon Energy acquisition gives access to ALL Westinghouse AP1000 + multiple SMR I&C platforms. Hadron Energy collaboration for SMR "nervous system". NuScale strategic agreement on monitoring/protection technologies. **The framework's H10-N as written demands a single binding offtake — MIR's pattern is closer to "named by 20+ chokepoint participants" which is structurally different but arguably stronger.** Sounding Board discussion warranted on whether multi-customer chokepoint validation = H10-N PASS-equivalent. |
 | **H8** | **BORDERLINE — segment mix unverified at AI-DC end-market level** | $4.6B mkt cap = Tier 3 COMPOUNDER (approaching graduation). Revenue mix: Nuclear & Safety segment $614.6M (66%) + Medical $310.8M (34%) FY25. Nuclear & Safety includes nuclear power plant instrumentation + defense radiation safety + research/industrial labs. The **AI-DC end-market exposure is via nuclear power expansion narrative** (cloud computing / AI data centers cited in 10-K MD&A as nuclear power demand driver) — NOT a separately-broken-out segment. **SMR-specific revenue sub-3% of 2026 expected (growing from sub-2% in 2025) but SMR order velocity is accelerating 2x — $85M YTD (Q1 + April) vs $39M for all of 2025.** Trajectory looks like a $200-400M annual SMR run-rate by 2027 if order pace continues. |
-| **H5** | **NEUTRAL (post-pullback from ATH)** | 52-wk range $15.55-$30.28; current $17.61-$18.01. Down ~40% from $30 high. Analyst sentiment: 9 buy, 0 sell. Not LOVED (post-pullback) and not IGNORED-extreme (analyst coverage is broad). Closer to NEUTRAL — within Archos magnitude expectation framework (500-4,700% per dose-response). |
+| **H5** | **NEUTRAL (post-pullback from ATH)** | 52-wk range $15.55-$30.28; current $17.61-$18.01. Down ~40% from $30 high. Analyst sentiment: 9 buy, 0 sell. Not LOVED (post-pullback) and not IGNORED-extreme (analyst coverage is broad). Closer to NEUTRAL — within Archos Equities magnitude expectation framework (500-4,700% per dose-response). |
 | **H11** | **PASS** | Q1 2026 EPS $0.10 beat $0.09. Profitable. Q1 rev $257.6M. Operating income $101.1M FY25 from Nuclear & Safety segment alone. No going-concern concerns. Paragon acquisition $585M cash is large vs cap but accretive to EPS expected first full year. |
 
 **MIR verdict: TIER 3 COMPOUNDER WATCH (borderline graduation). H10-N is the rate-limiter — Sounding Board call needed on whether 20+ SMR developer relationships constitutes vendor-level H10-N PASS. If yes, MIR is near-ACCEPT-track pending DD checklist.**
@@ -140,7 +140,7 @@ NUKZ has 53 holdings; top 25 are visible without subscription. Top weighted supp
 
 **ASPI verdict:** TIER 2 CATALYST WATCH **— Real revenue inflection (+475% YoY) on isotope business; nuclear-fuel optionality via Quantum Leap subsidiary.** Closest to the "AISP-template hunt" for nuclear-lens. Promote to WATCH pending: (a) H8 segment mix verification (isotopes vs nuclear fuel %), (b) H11 cash runway check, (c) DD Section 2 (insider activity + capital structure given equity issuance pattern).
 
-### Existing Archos nuclear candidates — re-eval
+### Existing Archos Equities nuclear candidates — re-eval
 
 - **NNE (Nano Nuclear Energy)** — $358M (verified 2026-05-27). Now in WATCH with **strengthened H10-N FLAG status**: Supermicro MOU 2026-05-06 for microreactor integration into AI server / data center platforms is a private-counterparty MOU (not the canonical H10-N government bellwether) but is the most direct nuclear ↔ AI-DC commercial relationship of any name in the universe. Re-eval trigger advance from "substance check required" to "next quarterly 10-Q + Supermicro deployment milestone".
 - **NUCL (Eagle Nuclear Energy)** — $358M; no new updates this scan; still H10-N PENDING with substance check required.
@@ -166,7 +166,7 @@ NUKZ has 53 holdings; top 25 are visible without subscription. Top weighted supp
 | Ticker | Parent Mkt Cap | Segment | Segment % | Segment YoY | Verdict |
 |---|---|---|---|---|---|
 | **EME** (EMCOR Group) | **$41.07B** | DC construction (Electrical + Mechanical) | DC-related revenue % undisclosed; "largest revenue increase" attributed to DC | High (FY26 guidance $18.5-19.25B revenue lifted) | **OVER CAP — $41B exceeds Tier 4 $15B ceiling.** Document for reference. |
-| **MYRG** (MYR Group) | **$7.17B** | Commercial & Industrial (DC + clean energy + EV) | **~6% DC contribution per analyst estimates** | C&I growth 20% (mixed); DC growth estimated >30% in 2027 | **H8 SEGMENT FAILS** — DC is 6% of revenue, far below 50% threshold. Backlog $2.84B / +7.7% YoY total. Adjacency-pattern (per Archos rule: adjacency-pattern names land at TIER 3 WATCH lower-conviction; do not elevate). |
+| **MYRG** (MYR Group) | **$7.17B** | Commercial & Industrial (DC + clean energy + EV) | **~6% DC contribution per analyst estimates** | C&I growth 20% (mixed); DC growth estimated >30% in 2027 | **H8 SEGMENT FAILS** — DC is 6% of revenue, far below 50% threshold. Backlog $2.84B / +7.7% YoY total. Adjacency-pattern (per Archos Equities rule: adjacency-pattern names land at TIER 3 WATCH lower-conviction; do not elevate). |
 | **CLS** (Celestica) | **Estimated $20-25B+** | Connectivity & Cloud Solutions (CCS) = 80% of rev | CCS 80% with hyperscaler exposure; AI/cloud-driven | Q1 2026 +53% YoY rev to $4.05B; 76% YoY segment growth | **OVER CAP likely** ($17B 2026 rev guide × ~1.2-1.5 P/S = $20-25B mkt cap range). Even if borderline-Tier-4-eligible by cap, AI/cloud is now >50% of revenue and the multiple has likely already re-rated to AI peer set. **Document as reference — post-rerate Tier 4 graduation case.** |
 | **VRT** (Vertiv) | **$71B** | Data Center power + thermal | >80% DC exposure | +29% YoY Q3 2025; backlog $15B; book-to-bill 2.9x | **OVER CAP — mega-cap; post-rerate.** Reference only. |
 | **FLS** (Flowserve) | **Est. $6-7B (over Tier 3 cap)** | Nuclear + power orders rising; FPD + FCD segments | Nuclear $110M+ Q1 2026; SMR first production order | Bookings $1.15B Q1 2026 | **POSSIBLE TIER 4 CANDIDATE but H8 fails likely** — Flowserve serves broadly industrial (oil/gas/chemicals dominant; nuclear is single-digit % of revenue). The "first SMR production order" is exciting but small. Routes to MONITOR — re-eval if nuclear surpasses 20% of revenue and AI-DC power emerges as separate disclosure. |
@@ -179,7 +179,7 @@ NUKZ has 53 holdings; top 25 are visible without subscription. Top weighted supp
 
 The structural reasons:
 1. **Successful AI-DC segments inside $5-15B parents have already graduated past $15B.** Vertiv ($71B), Eaton (mega-cap), Celestica (likely $20-25B), Schneider, EMR, NXT, GEV — every name where the AI-DC segment crossed 50% of revenue has been re-rated to the AI peer set and graduated past the Tier 4 cap.
-2. **Companies still in the $5-15B band with growing AI-DC exposure are either (a) sector-pivot pure-plays already in the blind spot (CIFR $8.4B / APLD $12.9B / CLSK $4.3B / IREN $21.4B — bitcoin-miner-pivots; already in Archos universe or REJECT log)**, or (b) industrial-services with DC as small-% adjacency (MYRG 6%, EME at $41B over cap, J at $14B is services).
+2. **Companies still in the $5-15B band with growing AI-DC exposure are either (a) sector-pivot pure-plays already in the blind spot (CIFR $8.4B / APLD $12.9B / CLSK $4.3B / IREN $21.4B — bitcoin-miner-pivots; already in Archos Equities universe or REJECT log)**, or (b) industrial-services with DC as small-% adjacency (MYRG 6%, EME at $41B over cap, J at $14B is services).
 3. **The SANM-template pattern (organic AI segment growing >40% inside diversified mid-cap parent) has been HARD to find ex ante in May 2026.** The SANM scan itself routed to M&A pivot blind spot (organic was 22%). The PENG scan caught a v1 false positive corrected in v2 (segment declining -42% YoY). 
 4. **The actionable nuclear ↔ AI-DC Tier 4 segment hybrid** would be a $5-15B nuclear parent where the AI-DC power offtake segment has crossed 50% and is growing >40% YoY. **BWXT** ($18.76B) is the closest analog but is just-over the $15B ceiling and Commercial Operations is sub-30% of total (naval-reactor defense dominant).
 

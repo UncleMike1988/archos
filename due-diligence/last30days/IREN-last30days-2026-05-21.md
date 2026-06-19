@@ -215,7 +215,7 @@ the central piece of the Bleecker Street short report and remains
 front-and-center. **IREN's history is dormant.** This is either (a)
 the legal exposures are genuinely resolved/contained and the market
 correctly priced it, or (b) the market is forgetting an unresolved
-class action that names the co-CEOs by name. For Archos DD purposes,
+class action that names the co-CEOs by name. For Archos Equities DD purposes,
 the class action should be checked on the active docket before
 position allocation — it is a real legal claim about HPC-readiness
 that overlaps the current bull narrative.
@@ -270,7 +270,7 @@ response pattern. **No formal point-by-point Chanos rebuttal exists.**
 | Independent verification of bear claims | Chanos's framework (FY27/28 EPS estimates -90%/-60% post-MSFT deal; "$500M ARR guidance silence") is publicly stated; not independently re-derived by a second researcher in 30-day sample but is consensus-acknowledged | Bollwerk AI Blog independently re-derived all of Bleecker's facts |
 | Active class action | **Yes — Williams-Israel v. Iris Energy** (EDNY, filed Oct 2024) names co-CEOs Daniel & William Roberts + CFO Nucifora; claims Childress lacked HPC-ready infrastructure; **not appearing in 30-day social discussion** | None of comparable substance |
 
-**The honest read for Archos DD:** IREN does have a promotional layer
+**The honest read for Archos Equities DD:** IREN does have a promotional layer
 (comment-bait Instagram/TikTok, news-bot amplification) and a real
 institutional bear (Chanos publicly, JPM in print). But unlike SHAZ,
 the **bull case does not depend on the promotional layer to exist**.
@@ -318,7 +318,7 @@ from NVIDIA and Microsoft.
 24. @austintalks_investments TikTok ("BREAKING AI NEWS")
 25. @whatisaloss TikTok ("it's gonna double, dude")
 
-## Key takeaway for Archos DD (Section 6 score)
+## Key takeaway for Archos Equities DD (Section 6 score)
 
 **Section 6 Social Signal scoring per the DD checklist:**
 
@@ -361,7 +361,7 @@ rather than fraud. Promotional patterns exist but do not dominate.
    activist has found a Bleecker-style fraud thesis to publish. The
    absence of a 2026 short report is itself a positive signal vs. SHAZ.
 5. **Sentiment temperature CAUTIOUSLY BULLISH / DIVIDED** maps onto
-   Archos H5 framework as **PARTIAL** (not IGNORED) — implying
+   Archos Equities H5 framework as **PARTIAL** (not IGNORED) — implying
    smaller expected magnitude of return. IREN is no longer an
    IGNORED candidate; the market knows the story. This is consistent
    with the framework's PARTIAL = lower-magnitude classification.
@@ -375,7 +375,7 @@ carried-by-paid-promotion signature. The single biggest risk surfaced
 by this sweep that was not in the standing DD: **the active 2024
 class-action lawsuit naming Daniel & William Roberts personally for
 alleged HPC-readiness misrepresentation at Childress.** That belongs
-on Archos's monitoring list before any position is sized.
+on Archos Equities' monitoring list before any position is sized.
 
 ---
 

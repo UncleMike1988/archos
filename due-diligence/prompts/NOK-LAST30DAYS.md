@@ -5,8 +5,8 @@
 Read these files IN FULL before doing anything:
 
 1. /Users/michaelturner/Desktop/Claude Builds/_master_docs/WORKING_PHILOSOPHY.md
-2. /Users/michaelturner/Desktop/Claude Builds/Archos/CLAUDE.md
-3. /Users/michaelturner/Desktop/Claude Builds/Archos/due-diligence/last30days/SHAZ-last30days-2026-05-21.md
+2. /Users/michaelturner/Desktop/Claude Builds/archos-equities/CLAUDE.md
+3. /Users/michaelturner/Desktop/Claude Builds/archos-equities/due-diligence/last30days/SHAZ-last30days-2026-05-21.md
 
 Confirm by stating the LAST LINE of WORKING_PHILOSOPHY.md.
 Do not write any code or make any changes until all files are confirmed read.
@@ -91,7 +91,7 @@ verified FinTwit > anonymous > promotional).
 ## OUTPUT
 
 Write the full /last30days report to:
-/Users/michaelturner/Desktop/Claude Builds/Archos/due-diligence/last30days/NOK-last30days-2026-05-31.md
+/Users/michaelturner/Desktop/Claude Builds/archos-equities/due-diligence/last30days/NOK-last30days-2026-05-31.md
 
 Format:
 ```markdown
@@ -121,7 +121,7 @@ Format:
 
 ## Red flags spotted in social chatter
 
-## Key takeaway for Archos DD
+## Key takeaway for Archos Equities DD
 ```
 
 ## SESSION END

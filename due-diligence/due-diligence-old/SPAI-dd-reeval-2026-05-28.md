@@ -2,7 +2,7 @@
 **Date:** 2026-05-28
 **Analyst:** Claude Opus 4.7 (1M context) for Michael Turner
 **Session type:** Diagnostic DD re-evaluation — addendum to SPAI-dd-2026-05-26.md (NOT a replacement)
-**Trigger:** Screen 9 (Senior Defense/IC Board Appointment Scan) produced the strongest single conviction-upgrade signal in the Archos universe. Four-screen confluence (Screen 2 + 3 + 4 + 9) now applies. Re-eval window is 2 days post prior DD.
+**Trigger:** Screen 9 (Senior Defense/IC Board Appointment Scan) produced the strongest single conviction-upgrade signal in the Archos Equities universe. Four-screen confluence (Screen 2 + 3 + 4 + 9) now applies. Re-eval window is 2 days post prior DD.
 
 ---
 
@@ -270,7 +270,7 @@ This is genuinely an unusual and informative signal. It is consistent with **eit
 
 ---
 
-## 7 — Calibration update: SPAI vs prior Archos DDs
+## 7 — Calibration update: SPAI vs prior Archos Equities DDs
 
 | Candidate | Prior verdict | This re-eval | Mechanism |
 |---|---|---|---|

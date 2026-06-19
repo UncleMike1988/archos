@@ -11,7 +11,7 @@
 
 ## Verdict: **CLEAR** (the inverse of the SHAZ 6/6-RED profile)
 
-SDGR-specific social attention is **near-zero**, the little discussion that exists is **organic and fundamentally accurate**, and there is **no paid-promotion infrastructure** of any kind. This is the IGNORED profile Archos seeks — not the LOVED/pumped profile it rejects. The AI-drug-design retail narrative is flowing to *other* names (Isomorphic Labs / AlphaFold), confirming SDGR's under-the-radar H5 classification.
+SDGR-specific social attention is **near-zero**, the little discussion that exists is **organic and fundamentally accurate**, and there is **no paid-promotion infrastructure** of any kind. This is the IGNORED profile Archos Equities seeks — not the LOVED/pumped profile it rejects. The AI-drug-design retail narrative is flowing to *other* names (Isomorphic Labs / AlphaFold), confirming SDGR's under-the-radar H5 classification.
 
 ---
 
@@ -30,7 +30,7 @@ SDGR-specific social attention is **near-zero**, the little discussion that exis
 
 ## Does the narrative flow to SDGR or elsewhere?
 
-**Elsewhere.** The highest-engagement AI-drug-discovery item in the entire sweep — [chenny.talks on TikTok, 2026-05-19, 2,144 views / 142 likes](https://www.tiktok.com/@chenny.talks/video/7641712910242303246) — is about **Google's Isomorphic Labs** raising $2.1B, not SDGR. A separate TikTok ([malfletcher1](https://www.tiktok.com/@malfletcher1/video/7642994489652448534), 724 views) covers generic "AI bioweapon" risk. The thesis's prediction holds and then some: SDGR at ~$1B is **more** ignored than RXRX ($1.74B) — retail can't even find it. For an Archos contrarian setup, that is the desired state.
+**Elsewhere.** The highest-engagement AI-drug-discovery item in the entire sweep — [chenny.talks on TikTok, 2026-05-19, 2,144 views / 142 likes](https://www.tiktok.com/@chenny.talks/video/7641712910242303246) — is about **Google's Isomorphic Labs** raising $2.1B, not SDGR. A separate TikTok ([malfletcher1](https://www.tiktok.com/@malfletcher1/video/7642994489652448534), 724 views) covers generic "AI bioweapon" risk. The thesis's prediction holds and then some: SDGR at ~$1B is **more** ignored than RXRX ($1.74B) — retail can't even find it. For an Archos Equities contrarian setup, that is the desired state.
 
 ---
 

@@ -1,6 +1,6 @@
 # Defense AI Production Transition Scan — 2026-05-27
 
-**Prompt:** `archos/research/prompts/SCAN_03_DEFENSE_AI_PRODUCTION.md`
+**Prompt:** `archos-equities/research/prompts/SCAN_03_DEFENSE_AI_PRODUCTION.md`
 **Framework version:** v2.0 (H10-extended Defense/Space — H10-D)
 **Scan target:** $100M-$2B Defense AI companies transitioning from SBIR/R&D/CRADA into PRODUCTION procurement
 **Date window:** 2026-02-26 → 2026-05-27 (90 days)
@@ -97,7 +97,7 @@ Per Framework v2.0, balance-sheet signal is PRIMARY discovery and bellwether men
 - **H10-D:** PARTIAL — Diversified DoD satellite communications exposure; sells to U.S. federal, state, local governments + defense contractors. No single discloseable named production-contract 8-K this window.
 - **Revenue:** FY2025 (July year-end) **$499.5M** (large rev base), net income **-$155.3M (going-concern adjacent)**, operating cash flow -$8.3M, stockholders equity only $104.4M ([FY25 10-K acc 0000023197-25-000xxx pending lookup](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000023197&type=10-K)). **H11 RISK — large losses, recent CFO change, governance instability (recent CEO transitions to Kenneth Traub).**
 - **Insider activity (180d):** Mostly tax-withholding (F codes) and RSU conversions. No real open-market sells. Most recent open-market buy: 2023-06-26 (3 years ago).
-- **Verdict:** **TIER 1 NANO WATCH (H11 GATE)** — Cap-to-revenue is extreme (0.2-0.3x P/S on $499M revenue) which signals the market sees significant restructuring/dilution risk. The -$155M net loss + $104M equity = the next equity raise is the binary catalyst. This is more an event-driven turnaround than a clean Archos-shaped defense-AI play.
+- **Verdict:** **TIER 1 NANO WATCH (H11 GATE)** — Cap-to-revenue is extreme (0.2-0.3x P/S on $499M revenue) which signals the market sees significant restructuring/dilution risk. The -$155M net loss + $104M equity = the next equity raise is the binary catalyst. This is more an event-driven turnaround than a clean Archos Equities-shaped defense-AI play.
 - **Re-eval trigger:** H11 verification (cash runway, debt covenants, equity raise terms). If a new defense-prime production contract 8-K combined with a clean equity raise, reassess.
 
 ---
@@ -115,7 +115,7 @@ Per Framework v2.0, balance-sheet signal is PRIMARY discovery and bellwether men
 - Multi-acquisition counter-UAS / drone defense consolidator. FY2026 revenue guide raised to **$390M+** (vs $50.1M Q1 2026 = +10x YoY). Stock +1,570% in 2025.
 - **H10-D:** PASS (counter-UAS production via OAS platform; Sentrycs + Iron Drone subsidiaries; Heidelberg JV; Palantir partnership; multi-domain ISR).
 - **Insider/structure:** Major recent name change Ondas Holdings → Ondas Inc. Jan 2026. de-SPAC adjacent.
-- **Verdict:** **OUT OF SCAN SCOPE** (cap exceeds $2B target ceiling). However, this name is the canonical example of a counter-UAS consolidator that has fully transitioned and re-rated. **Add to Archos broader Tier 3 COMPOUNDER monitor list** as a post-rerate calibration case for the defense-AI cohort. Entry window closed at the $100M-$2B level.
+- **Verdict:** **OUT OF SCAN SCOPE** (cap exceeds $2B target ceiling). However, this name is the canonical example of a counter-UAS consolidator that has fully transitioned and re-rated. **Add to Archos Equities broader Tier 3 COMPOUNDER monitor list** as a post-rerate calibration case for the defense-AI cohort. Entry window closed at the $100M-$2B level.
 
 #### LUNR (Intuitive Machines) — $4.9B-$7.5B (OVER $5B THRESHOLD, GRADUATED)
 - $428.9M new contracts Q1 2026; **SDA Tranche 3 Proliferated Warfighter Space Architecture** prime; **$6.2B U.S. Space Force Andromeda IDIQ** (Q2 2026); Q1 2026 revenue $186.7M, $1.1B backlog.
@@ -203,9 +203,9 @@ Per Framework v2.0, balance-sheet signal is PRIMARY discovery and bellwether men
 1. **FEIM (Frequency Electronics)** — $439-578M, DoD PNT + anti-spoofing AI — **TIER 1 NANO / TIER 2 CATALYST WATCH**. Profitable (+323% NI inflection), zero insider extraction 180d, 4-star general on board, Edenbrook Capital top holder, reasonable valuation. Cleanest profile from the scan. **Run full DUE_DILIGENCE_CHECKLIST.md within 30 days.**
 2. **UMAC (Unusual Machines)** — $529M, counter-UAS components — TIER 2 NANO WATCH. True quarterly inflection (+296% Q1), but counterparty quality is weak (Powerus is private, not named DoD/prime), insider mixed-negative. Add to MASTER-SCREEN WATCH; full DD only if named gov-prime contract fires.
 3. **OSS (One Stop Systems)** — $441M, rugged AI/sensor fusion for DoD — TIER 3 WATCH. First profitable year + 8-K commentary on accelerated momentum, but the 3-director sell cluster on 5/26 is a meaningful caution. Wait for 2-month insider follow-through before DD.
-4. **CMTL (Comtech Telecom)** — $108-151M, satcom DoD — TIER 1 NANO WATCH but H11 GATE. Large revenue base but heavy losses and equity erosion. Event-driven turnaround, not clean Archos-shaped. Hold until next 10-Q + clean equity raise.
+4. **CMTL (Comtech Telecom)** — $108-151M, satcom DoD — TIER 1 NANO WATCH but H11 GATE. Large revenue base but heavy losses and equity erosion. Event-driven turnaround, not clean Archos Equities-shaped. Hold until next 10-Q + clean equity raise.
 5. **VELO (Velo3D)** — $506M, AM for defense prime — TIER 3 WATCH. Real FRP contract but CEO turnover + persistent losses + modest revenue growth. Identify the named "defense prime contractor" before any DD.
-6. **DEPRIORITIZE KOPN + MRAM** — Production contracts are real but insider extraction during the catalyst signals the post-PARTIAL transition is largely complete. The remaining asymmetry is likely lower than the historical 16-100x Archos-target magnitude.
+6. **DEPRIORITIZE KOPN + MRAM** — Production contracts are real but insider extraction during the catalyst signals the post-PARTIAL transition is largely complete. The remaining asymmetry is likely lower than the historical 16-100x Archos Equities-target magnitude.
 
 ---
 

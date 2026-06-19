@@ -3,7 +3,7 @@
 **Screen run:** 2026-06-03 (prompt dated 2026-06-01)
 **Price/cap data as-of:** 2026-06-02 (Massive snapshot); SEC financials per latest 10-K/10-Q on file
 **Sizing rule (operator's, not a recommendation):** $1K max per position. Expect 80-90% zeros. Entertainment with an edge.
-**Isolation:** This box is a SEPARATE category from the Archos research universe. NOT added to WATCHLIST.md.
+**Isolation:** This box is a SEPARATE category from the Archos Equities research universe. NOT added to WATCHLIST.md.
 
 ---
 

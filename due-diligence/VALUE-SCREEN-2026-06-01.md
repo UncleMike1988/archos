@@ -1,5 +1,5 @@
 # VALUE SCREEN — Forgotten Quality at Sub-15× While AI Ate the Tape
-**Date:** 2026-06-01 · **Analyst:** Archos (Code) · **Type:** Systematic value screen → DD funnel
+**Date:** 2026-06-01 · **Analyst:** Archos Equities (Code) · **Type:** Systematic value screen → DD funnel
 **Thesis under test:** The AI rotation pulled capital and attention out of quality, non-AI businesses, leaving established, profitable, >$5B companies at historically cheap multiples. Find the names that re-rate when the market broadens — the ADBE playbook applied systematically.
 
 > **Language note (per CLAUDE.md):** This file is the analyst's workpaper — jargon-heavy, complete, technical. The plain-English translation lives in the Sounding Board chat, not here.
@@ -22,7 +22,7 @@
 
 3. **Primary gate = FORWARD P/E (the brief's stated preference), and this matters enormously.** Trailing TTM net income on many of the *exact names this screen targets* is depressed by one-time charges (impairments, restructuring, IPR&D, acquisition amortization). **GM trails at 32.6× but is 6.6× forward.** A pure trailing-P/E screen would have **rejected the single best forgotten-quality names.** I used forward P/E as the gate, trailing as a backstop, and flag every name whose two multiples diverge.
 
-4. **The score (§3) is a triage sort key, NOT a verdict.** Per Archos doctrine (no invented frameworks-as-law), the 0–10 tally just funnels ~33 survivors down to a deep-dive set. The real judgment is in plain English in §4–§5.
+4. **The score (§3) is a triage sort key, NOT a verdict.** Per Archos Equities doctrine (no invented frameworks-as-law), the 0–10 tally just funnels ~33 survivors down to a deep-dive set. The real judgment is in plain English in §4–§5.
 
 5. **Staleness / precision flags:** insider data lags 5–48 days (SEC pipeline); FOXA SEC TTM is as-of 2026-02-04; **5-year-average P/E (signal g) was not pulled as an exact series** (no source cleanly exposed it) — "historically cheap" is assessed against known multiple history and flagged *approximate*; **live Jan-2028 option chains were not pulled** (Massive options tier likely gated) — LEAPS analysis is qualitative, **re-quote the live chain before acting.**
 
@@ -183,7 +183,7 @@ Cheapest mega-cap pharma (~9× fwd), **6.8% dividend**, 70%+ gross margin, $4.5B
 
 ## PHASE 4 — THE FINAL THREE
 
-**Selection logic:** highest-conviction *forgotten-quality-that-re-rates*, diversified across sector (industrial / healthcare / consumer), each answering a different brief-signal, each with a **verified** catalyst. Fraud gate is trivial for all three (mega/large-cap, audited, decades-real, no promotion) — the Archos "is it real?" check is a formality here; the work is valuation + catalyst durability.
+**Selection logic:** highest-conviction *forgotten-quality-that-re-rates*, diversified across sector (industrial / healthcare / consumer), each answering a different brief-signal, each with a **verified** catalyst. Fraud gate is trivial for all three (mega/large-cap, audited, decades-real, no promotion) — the Archos Equities "is it real?" check is a formality here; the work is valuation + catalyst durability.
 
 ---
 ### 🥇 #1 — UPS (United Parcel Service) · $108.71 · 14.2× fwd · ~6% yield
@@ -273,4 +273,4 @@ Cheapest mega-cap pharma (~9× fwd), **6.8% dividend**, 70%+ gross margin, $4.5B
 ## APPENDIX B — full verified pass-list quick reference
 26 core + 3 refiners (tagged) + 4 insurers (tagged) = **33 names passing criteria 1–8**. Finalists: **UPS, AMGN, BBY** (added to WATCHLIST.md). Top-10 also-rans tracked informally: CVS, INCY, TGT, APTV, NXST, SOLV, PFE (+ BMY, FOXA, GM, HII, AGCO, MO, DVA as honorable mentions).
 
-*End of screen. The operator decides — Archos only finds and frames.*
+*End of screen. The operator decides — Archos Equities only finds and frames.*

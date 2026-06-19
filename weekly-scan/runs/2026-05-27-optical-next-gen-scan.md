@@ -53,7 +53,7 @@
 - **Chokepoint #1 (CPO) — ACTIVE.** Two sub-$5B pure-plays: POET ($2.22B, NASDAQ canonical) + SIVEF ($2.75B USD, OTC ADR). No new US-listed Tier 1 NANO replacement surfaced. POET retains the only fully US-investable slot at this chokepoint.
 - **Chokepoint #8 (800G+ / 1.6T transceivers / AECs / SerDes) — REMAINS EMPTY.** AAOI / CRDO / LITE all firmly graduated and not retracing to threshold (closest is AAOI at $14.5B — still 190%+ above $5B). No sub-$5B US-listed replacement on this chokepoint.
 - **No breach / un-breach events** since 2026-05-21.
-- **POETF ticker correction:** POETF OTC ticker was retired in March 2022 when POET uplisted to NASDAQ. POET trades NASDAQ as the single canonical primary listing (with a separate TSX cross-listing as POET.TO). The Archos taxonomy should reflect "NASDAQ: POET" as canonical.
+- **POETF ticker correction:** POETF OTC ticker was retired in March 2022 when POET uplisted to NASDAQ. POET trades NASDAQ as the single canonical primary listing (with a separate TSX cross-listing as POET.TO). The Archos Equities taxonomy should reflect "NASDAQ: POET" as canonical.
 
 ---
 
@@ -63,7 +63,7 @@
 |---|---|---|---|---|---|
 | **TSEM** (Tower Semi, Nasdaq) | **$31.0-32.7B** | NVDA 1.6T SiPho partnership Feb 5 2026 (vendor-level) | Multi-end-market specialty foundry; AI-DC sub-50% | Vendor-level (NVDA) | **EXCLUDE — GRADUATED >$5B.** Confirms thesis (the bellwether is paying for SiPho fab capacity) but TSEM is too large. Note as bellwether confirmation for chokepoint #1. |
 | **ADTN** (ADTRAN, Nasdaq) | $1.44B | LiteWave800 800G DR8 LPO Mar 10 2026; Q1'26 rev +15.5% | **FAIL** — Optical Networking = 34% of rev; Subscriber + Access/Aggregation = 66% (telecom-dominant) | Category-level only | **REJECT on H8 end-market.** Re-eval if optical mix crosses 50% within 2 quarters OR named directly by bellwether. ([Q1'26 10-Q](https://www.sec.gov/Archives/edgar/data/0000926282/000119312526205276/adtn-20260331.htm)) |
-| **LPTH** (LightPath Technologies, Nasdaq) | $1.01B | Backlog $37.4M → $110.6M (+196%); G5 Infrared + Amorphous Materials acquisitions; Adj EBITDA flip positive | **FAIL** — defense/public-safety thermal-IR end-market; NOT AI-DC optical; no 1.6T/CPO exposure | None | **REJECT on H8 end-market (AI-infra lens).** Real backlog inflection but Defense/IR-imaging lens, not AI-infrastructure. Possible reference candidate if Archos opens Defense/IR sub-lens. ([Q3 FY26 8-K](https://www.sec.gov/Archives/edgar/data/0000889971/000143774926015581/ex_922748.htm)) |
+| **LPTH** (LightPath Technologies, Nasdaq) | $1.01B | Backlog $37.4M → $110.6M (+196%); G5 Infrared + Amorphous Materials acquisitions; Adj EBITDA flip positive | **FAIL** — defense/public-safety thermal-IR end-market; NOT AI-DC optical; no 1.6T/CPO exposure | None | **REJECT on H8 end-market (AI-infra lens).** Real backlog inflection but Defense/IR-imaging lens, not AI-infrastructure. Possible reference candidate if Archos Equities opens Defense/IR sub-lens. ([Q3 FY26 8-K](https://www.sec.gov/Archives/edgar/data/0000889971/000143774926015581/ex_922748.htm)) |
 | **LWLG** (Lightwave Logic, Nasdaq) | (pre-revenue moonshot) | Rev $0.24M FY25; "1.6 terabit" + "200G per lane" + AMF SiPh foundry partnership | n/a (no revenue) | None vendor-level | **REJECT — pre-revenue moonshot blind spot (LWLG canonical pattern).** Material/IP licensing play; framework correctly hesitates per documented blind spot. ([FY25 10-K](https://www.sec.gov/Archives/edgar/data/1325964/000107997326000348/lwlg_10k-123125.htm)) |
 | **ALMU** (Aeluma, Nasdaq) | **$410M** (verified 5/27; was $438-444M on 5/27 maintenance audit — down -7% intraday) | III-V-on-Si quantum-dot laser platform; NASA award Apr 21 2026; Navy interconnect-mfr subcontractor | Pre-revenue scale; H8 cannot apply (rev $4.7M) | H10-D pending (Navy/NASA category) | **NO CHANGE.** Already in master-screen WATCH; DD REJECT-track per CANDIDATE_UNIVERSE.md (insider issues: -$2.1M net, 13 sells vs 3 buys, 90-day). Cap refresh: $438-444M → $410M. |
 | **OPTX** (Syntec Optics, Nasdaq) | $460M (per CANDIDATE_UNIVERSE.md 5/27) | Silicon photonics positioning; $1B AIM Photonics participation; defense + photonics mix | Defense-aerospace currently dominant | H10-D category | **NO CHANGE.** Already in master-screen Tier 3 WATCH (Defense/Space photonics pivot). |
@@ -95,7 +95,7 @@ These confirm the chokepoint thesis is intense, but the next-gen public pure-pla
 
 Marvell took Polariton (Apr 2026) + Celestial AI ($5.5B, Dec 2025). Credo took DustPhotonics ($1.3B, Apr 2026). NVIDIA invested $2B in Coherent + $2B in Lumentum (Mar 2026). Corning got a 10x capacity expansion order (NVDA). **The AAOI/CRDO/MRVL/COHR mid-cap layer is eating the next-gen photonics startup layer faster than the 800G cycle's discovery window allowed.**
 
-For Archos, this means: the window to discover sub-$5B 1.6T pure-plays BEFORE acquisition or upward rerate is materially narrower than the 800G cycle. The pattern is closer to "watch acquisition flow" than "watch 10-K language emergence."
+For Archos Equities, this means: the window to discover sub-$5B 1.6T pure-plays BEFORE acquisition or upward rerate is materially narrower than the 800G cycle. The pattern is closer to "watch acquisition flow" than "watch 10-K language emergence."
 
 ### 2. The H10 fires at sub-$5B are rare — bellwether spend is concentrated at mega-cap
 
@@ -138,7 +138,7 @@ CRDO has ~73% AEC market share. Astera Labs is the only direct AEC competitor, a
 
 **Three Sounding Board topics this scan raises:**
 
-1. **Should Archos open a Defense/IR-imaging sub-lens?** LPTH backlog +196% with G5 Infrared integration is a genuine balance-sheet inflection at $1.01B cap. Not AI-DC, but defense-imaging may be a parallel chokepoint family worth a separate framework variant. (Reference for traceability; do not act this scan.)
+1. **Should Archos Equities open a Defense/IR-imaging sub-lens?** LPTH backlog +196% with G5 Infrared integration is a genuine balance-sheet inflection at $1.01B cap. Not AI-DC, but defense-imaging may be a parallel chokepoint family worth a separate framework variant. (Reference for traceability; do not act this scan.)
 
 2. **Should the framework formalize a foreign-listed photonics watch tier?** Browave + FOCI in Taiwan + IQE in UK + already-watching SIVEF (Sweden) + 3778.T (Tokyo) is now 5 foreign-listed photonics-adjacent names. The handicap is real but the cohort is large enough that a parallel tracking sheet may be justified. Existing INSIGHTS.md notes the "Foreign-filer at sub-$5B + H10-extended fire = discovery-friction amplifier" pattern at 9/61 = 15% of the universal cohort.
 
@@ -160,7 +160,7 @@ CRDO has ~73% AEC market share. Astera Labs is the only direct AEC competitor, a
 
 ## Answers to SESSION END questions (from prompt)
 
-- **Current market caps of existing optical taxonomy names — how many graduated?** POET $2.22B (ACTIVE Tier 3), SIVEF $2.75B USD (ACTIVE OTC), AXTI $7.60B (GRADUATED, -17.5% WoW), AAOI $14.5B (GRADUATED), CRDO $39.3B (GRADUATED), LITE $68.7B (GRADUATED). **3 of 5 in canonical Archos optical taxonomy remain graduated** (AAOI, CRDO, LITE — all chokepoint #8); 2 remain ACTIVE on chokepoint #1 (POET active; SIVEF on OTC). AXTI graduated $5B+ since 2025.
+- **Current market caps of existing optical taxonomy names — how many graduated?** POET $2.22B (ACTIVE Tier 3), SIVEF $2.75B USD (ACTIVE OTC), AXTI $7.60B (GRADUATED, -17.5% WoW), AAOI $14.5B (GRADUATED), CRDO $39.3B (GRADUATED), LITE $68.7B (GRADUATED). **3 of 5 in canonical Archos Equities optical taxonomy remain graduated** (AAOI, CRDO, LITE — all chokepoint #8); 2 remain ACTIVE on chokepoint #1 (POET active; SIVEF on OTC). AXTI graduated $5B+ since 2025.
 - **Any chokepoint slots now EMPTY of sub-$5B candidates?** Chokepoint #8 (800G+/1.6T/AECs/SerDes) — EMPTY, confirmed. Chokepoint #1 (CPO) — POET + SIVEF remain ACTIVE.
 - **New 1.6T / CPO companies found (public vs private)?** Public US-listed: 0 new candidates clear H8 end-market test. Public foreign-listed: 3 (Browave, FOCI, IQE) — Sounding Board handicap. Private: 8+ (Ayar, Lightmatter, Celestial-acquired, DustPhotonics-acquired, Polariton-acquired, Lightelligence-IPO'd-too-large, Lessengers, Quintessent, Source Photonics).
 - **Any in qualification NOW for 2027-2028 deployment?** Yes — Browave (CPO validated 2025, 2026 production ramp), FOCI (1.6T/3.2T FAU mass production H2 2026), POET (1.6T 2×DR4 samples Q2 2026 with Lessengers), AAOI ($200M+ 1.6T volume order shipping Q3 2026 — already graduated though), TSEM (NVDA SiPho 1.6T design-win — graduated though).

@@ -99,7 +99,7 @@ This is consistent with H5 IGNORED — but it is the *informed-IGNORED* version 
 
 **Total organic Reddit engagement across all AMPG-related posts: ~24 upvotes, 22 comments in 30 days.** This is the engagement signature of a stock that retail is just starting to discover. Not SHAZ-silent (SHAZ had 8 upvotes across 30 days), but well below the threshold of a momentum-trader darling. r/pennystocks silence is the most surprising data point — for a $127M market cap stock that doubled in 3 weeks on news catalysts, you would expect at least one r/pennystocks thread.
 
-**Reddit interpretation:** This is consistent with H5 IGNORED but at the upper edge of that band — momentum-trader Reddit is starting to wake up (r/smallstreetbets, r/ChartLaboratory) but the broader retail investing community has not engaged. **This is the sentiment-transition window** the Archos framework looks for.
+**Reddit interpretation:** This is consistent with H5 IGNORED but at the upper edge of that band — momentum-trader Reddit is starting to wake up (r/smallstreetbets, r/ChartLaboratory) but the broader retail investing community has not engaged. **This is the sentiment-transition window** the Archos Equities framework looks for.
 
 ---
 
@@ -118,7 +118,7 @@ This is consistent with H5 IGNORED — but it is the *informed-IGNORED* version 
 | YouTube AI/5G channels | **0 deep-dives surfaced** in 30 days | No Marques Brownlee equivalent, no AnastasiInTech, no relevant tech YouTuber covered it |
 | Twitter — NVIDIA official / NVIDIA Aerial / Jensen Huang | **No public mention naming AmpliTech surfaced in 30 days** | NVIDIA has not publicly named AMPG (this is the H10 bellwether-mention gap) |
 
-**Interpretation:** This is the single most important social-signal data point for the Archos H10 thesis. The demo announcement was a *company-initiated* press release describing AMPG's hardware integration with NVIDIA AI Aerial software in a *third-party academic* prototype at Northeastern. NVIDIA itself has not publicly named AmpliTech — the H10 bellwether-mention condition is satisfied only at the **category level** (NVIDIA names AI-RAN / 5G O-RAN as a category) not at the **vendor level** (NVIDIA names AMPG specifically).
+**Interpretation:** This is the single most important social-signal data point for the Archos Equities H10 thesis. The demo announcement was a *company-initiated* press release describing AMPG's hardware integration with NVIDIA AI Aerial software in a *third-party academic* prototype at Northeastern. NVIDIA itself has not publicly named AmpliTech — the H10 bellwether-mention condition is satisfied only at the **category level** (NVIDIA names AI-RAN / 5G O-RAN as a category) not at the **vendor level** (NVIDIA names AMPG specifically).
 
 The fact that the technical community did not engage matters because: (a) if the demo were a meaningful technical milestone, AI-RAN / Open RAN engineers on HN and Reddit would normally pick it up, (b) if NVIDIA viewed AMPG as a strategic component vendor, you would expect at least a quoted NVIDIA spokesperson in the press release — only Northeastern academics are quoted, and (c) the absence of NVIDIA-side amplification suggests the relationship is "AMPG used NVIDIA's open framework" rather than "NVIDIA selected AMPG as preferred hardware partner."
 
@@ -195,7 +195,7 @@ The fact that the technical community did not engage matters because: (a) if the
 | Sell-side | **NEUTRAL-BULLISH** | Maxim Buy / $7 PT (PT cut from $9) — single covering analyst, partially conflicted, PT below SHAZ-style escalation |
 | Substack / longform | **ABSENT** | Zero deep-dives surfaced |
 
-**Composite: DIVIDED — Euphoric on StockTwits, awakening on momentum-trader Reddit/FinTwit, ignored on technical/serious channels.** This is a genuine sentiment-transition window, not a fully-discovered name and not a fully-ignored name. The dose-response framing in Archos H5 places this between IGNORED and PARTIAL — call it **EARLY-DISCOVERY**.
+**Composite: DIVIDED — Euphoric on StockTwits, awakening on momentum-trader Reddit/FinTwit, ignored on technical/serious channels.** This is a genuine sentiment-transition window, not a fully-discovered name and not a fully-ignored name. The dose-response framing in Archos Equities H5 places this between IGNORED and PARTIAL — call it **EARLY-DISCOVERY**.
 
 ---
 
@@ -217,7 +217,7 @@ The fact that the technical community did not engage matters because: (a) if the
 
 ---
 
-## Key takeaway for Archos DD
+## Key takeaway for Archos Equities DD
 
 **AMPG is NOT a SHAZ-style hard reject — but the social-signal layer surfaces three FLAGs that the manual DD pass must close before capital allocation.**
 

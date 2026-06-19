@@ -1,6 +1,6 @@
 # Watchlist
 
-The single running list of names Archos is tracking. The weekly recheck reads this file and updates
+The single running list of names Archos Equities is tracking. The weekly recheck reads this file and updates
 it. DDs and hunts append new names here. This is a tracking list, NOT a buy list — the operator
 decides everything.
 

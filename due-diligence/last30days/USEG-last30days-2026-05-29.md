@@ -36,7 +36,7 @@
 | Zero organic bull case, narrative carried by paid promo + conflicted sell-side | Thin organic bulls; **no paid promo, no sell-side at all** |
 | Deflection / suing critics instead of rebutting | No critics; accurate 8-K communication |
 
-**USEG is the inverse of SHAZ:** under-covered and IGNORED, not over-promoted. The §6 evidence is *favorable* for the Archos high-magnitude IGNORED thesis and clears the paid-promotion screen.
+**USEG is the inverse of SHAZ:** under-covered and IGNORED, not over-promoted. The §6 evidence is *favorable* for the Archos Equities high-magnitude IGNORED thesis and clears the paid-promotion screen.
 
 ## Representative items
 - @zohmbastic (13 likes) — correctly frames helium's semiconductor use (heat transfer / leak detection) + the shortage; links the offtake PR. Accurate, not pump-y.

@@ -4,8 +4,8 @@ Paste into a fresh Code session. Output: weekly-scan/runs/{date}-recheck.md
 
 ## STARTUP — read in full, follow exactly
 1. /Users/michaelturner/Desktop/Claude Builds/_master_docs/WORKING_PHILOSOPHY.md (confirm last line)
-2. /Users/michaelturner/Desktop/Claude Builds/archos/CLAUDE.md
-3. /Users/michaelturner/Desktop/Claude Builds/archos/WATCHLIST.md (the list to recheck)
+2. /Users/michaelturner/Desktop/Claude Builds/archos-equities/CLAUDE.md
+3. /Users/michaelturner/Desktop/Claude Builds/archos-equities/WATCHLIST.md (the list to recheck)
 Also available if needed: current DDs at the TOP LEVEL of due-diligence/ ONLY (ignore the
 due-diligence/due-diligence-old/ subfolder — those are archived old-system DDs, not current).
 Do NOT read any _archive file. Do NOT search for new candidates — this is a STATUS check, not a hunt.

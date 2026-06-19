@@ -1,6 +1,6 @@
 # Anritsu Corporation (TSE: 6754 / OTC ADR: ANRZF) — Full v2.0 Due Diligence
 # Date: 2026-05-28
-# Framework version: v2.0 (Archos)
+# Framework version: v2.0 (Archos Equities)
 # Surfaced by: SCAN_CPO_FULL_SWEEP, 2026-05-28 — Tier A DD QUEUE #3
 # Prompt source: user 2026-05-28 prompt — chokepoint #1 CPO optical test layer
 
@@ -31,7 +31,7 @@ Anritsu is the cleanest integrity DD profile observed in the universe — 130-ye
 
 Compounding the issue: Anritsu's share price has run +185% in 12 months and +31% in 30 days. The IGNORED → PARTIAL transition has already happened. Sell-side consensus PT ¥2,836 sits 62% below current price ¥4,732 — the move has outrun formal coverage but is well-discovered in Japan (Daiwa Buy 2026-05-20; Iwai Cosmo Buy 2026-04-30; Goldman Japan Buy 2026-04-28; Nomura disclosed 6.47% stake 2026-05-07).
 
-This is **NOT** an Archos ACCEPT candidate. It is a WATCH with specific re-eval triggers: (1) optical T&M sub-segment crosses 30%+ of total consolidated revenue, (2) stock retraces 25%+ to qualify H5 PARTIAL-RECOVERING entry geometry, (3) PQA segment divestiture, (4) binding hyperscaler contract for optical test infrastructure with disclosed dollar value >¥10B.
+This is **NOT** an Archos Equities ACCEPT candidate. It is a WATCH with specific re-eval triggers: (1) optical T&M sub-segment crosses 30%+ of total consolidated revenue, (2) stock retraces 25%+ to qualify H5 PARTIAL-RECOVERING entry geometry, (3) PQA segment divestiture, (4) binding hyperscaler contract for optical test infrastructure with disclosed dollar value >¥10B.
 
 ---
 
@@ -140,7 +140,7 @@ The full WOLF analysis lives in Section 5B.
 - **Capex/R&D:** Aggressive and appropriate — FY27 ¥140B revenue guide requires the investment; depressed FY26 FCF is consistent.
 - **ROE/ROIC:** FY26 ROE ~9.0% (PASSES TSE >8% threshold). GLP2026 target 12% by FY27, 15% goal by FY30. Cost of equity recognized at 7% — positive excess return. **No TSE "name and shame" risk.** PBR is ~2.1x — well above the 1.0x threshold that triggers TSE's "management conscious of cost of capital" mandate.
 
-**H11 verdict: PASS (strong, multi-leg).** Net cash position. Net debt/EBITDA negative. FCF runway 15+ years even at depressed FCF level. No going-concern. This is the strongest balance-sheet posture observed across the Archos candidate universe to date. The balance-sheet profile actively SUPPORTS rather than constrains the chokepoint thesis — Anritsu can self-fund the 1.6T/3.2T test equipment R&D ramp without dilution or covenant risk.
+**H11 verdict: PASS (strong, multi-leg).** Net cash position. Net debt/EBITDA negative. FCF runway 15+ years even at depressed FCF level. No going-concern. This is the strongest balance-sheet posture observed across the Archos Equities candidate universe to date. The balance-sheet profile actively SUPPORTS rather than constrains the chokepoint thesis — Anritsu can self-fund the 1.6T/3.2T test equipment R&D ramp without dilution or covenant risk.
 
 **Going-concern tiering: GREEN (clean).**
 
@@ -187,7 +187,7 @@ This is the load-bearing section for the Anritsu thesis. Findings here determine
 
 - Anritsu **FY2025** = April 2025 – March 2026 (JUST COMPLETED, reported 2026-04-28)
 - Anritsu **FY2026** = April 2026 – March 2027 (CURRENT YEAR, under guidance)
-- Archos convention (year-end label) for the just-completed period in this DD = **FY26**
+- Archos Equities convention (year-end label) for the just-completed period in this DD = **FY26**
 
 | Check | Finding | Score |
 |---|---|---|
@@ -316,13 +316,13 @@ The 40% backlog growth is consistent with the "first-time customer deposit appea
 
 **Sentiment trajectory: Improving rapidly.** 30-day +31% move and at-ATH price indicates market in active re-rating mode. This is the NEUTRAL → PARTIAL transition window, possibly already entering PARTIAL → LOVED.
 
-### Key risk for Archos framework
+### Key risk for Archos Equities framework
 
 **Per CLAUDE.md H5 framework v2.0:** PARTIAL = lower-magnitude candidate. IGNORED → PARTIAL transition has **already occurred**. Entry now is at **PARTIAL-tier magnitude expectation (50-265%)**, not IGNORED-tier (700-1,400%).
 
 **Three scenarios:**
 1. **H5 PARTIAL-RECOVERING criteria** — if stock retraces >25% from ¥4,848 peak without thesis-breaking event (e.g., to ¥3,636 or below): re-eval entry at 50% position size with PARTIAL-tier magnitude.
-2. **Continued move without retracement:** LOVED classification will trigger when FinTwit consensus forms, Bloomberg/Reuters publishes flagship thesis, or ETF inclusion produces passive flow. **At that point the entry window has closed for Archos framework purposes.**
+2. **Continued move without retracement:** LOVED classification will trigger when FinTwit consensus forms, Bloomberg/Reuters publishes flagship thesis, or ETF inclusion produces passive flow. **At that point the entry window has closed for Archos Equities framework purposes.**
 3. **Tier 3 COMPOUNDER cap consideration:** Anritsu at $3.79B fits Tier 3 ($2B-$5B) by H8 v2.0. Position sizing would be $10-25K, LEAPS preferred — BUT TSE-listed primary means LEAPS not available on US options chain. OTC ADR (ANRZF) liquidity insufficient for LEAPS.
 
 **Section 6 score: FLAG (not RED).** Integrity-clean candidate where social signal layer CONFIRMS the thesis is real and being recognized, but the entry window has narrowed substantially. Asymmetry has compressed from "100x potential" to "2-3x potential, possibly 5x on full re-rating to LOVED."

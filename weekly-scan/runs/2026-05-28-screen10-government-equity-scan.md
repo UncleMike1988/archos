@@ -1,7 +1,7 @@
 # Screen 10 — Government Equity / Strategic Investment Scan — 2026-05-28
 
 **Scan run:** 2026-05-28 (one-time targeted discovery; not part of weekly cadence)
-**Framework applicable:** Archos v2.0 four-filter + H10-extended sector-conditional bellwether (H10-D Defense, H10-M Critical Minerals, H10-N Nuclear)
+**Framework applicable:** Archos Equities v2.0 four-filter + H10-extended sector-conditional bellwether (H10-D Defense, H10-M Critical Minerals, H10-N Nuclear)
 **Methodology:** Two-phase research — (1) complete Trump-admin equity portfolio map since Jan 2025, (2) named-gap candidate identification with framework integration
 **Output writer:** Mac session; prices verified live 2026-05-27/28 via web search cross-check across stockanalysis.com, stocktitan, public.com, companiesmarketcap, SEC EDGAR
 **Companion artifact:** Detailed candidate-by-candidate evaluation in [`2026-05-27-government-equity-next-targets-scan.md`](2026-05-27-government-equity-next-targets-scan.md)
@@ -127,7 +127,7 @@ Positions: Stargate ($500B JV — USG facilitator role); Pax Silica ($4T target;
 Positions: U.S. Steel golden share (non-financial veto)
 - **Policy driver:** CFIUS national-security review framework
 - **Explicit gaps:** Aluminum (Alcoa AA, Century CENX), specialty steel (Carpenter CRS, ATI). Maritime tie-ins.
-- **Conclusion:** Foreign-acquisition golden-share template available; awaiting next M&A trigger. Note CENX (Century Aluminum) was already in Archos blind-spot watch and breached $5B with +231% rerate.
+- **Conclusion:** Foreign-acquisition golden-share template available; awaiting next M&A trigger. Note CENX (Century Aluminum) was already in Archos Equities blind-spot watch and breached $5B with +231% rerate.
 
 ---
 
@@ -148,7 +148,7 @@ Positions: U.S. Steel golden share (non-financial veto)
 | Rank | Ticker | Mkt Cap | Sector / Chokepoint | Gov Relationship | Equity Probability | Notes |
 |---|---|---|---|---|---|---|
 | 6 | **TMC** (TMC the metals company) | $1.88-2.43B (NASDAQ) | Critical Minerals — deep-sea polymetallic nodules (Clarion-Clipperton) | Trump EO "Unleashing America's Offshore Critical Minerals" Apr 2025 + DSHMRA EO Jan 2026 + **NOAA full compliance May 2026** + final permit decision Q1 2027 + 619 Mt wet nodules consolidated 65,000 km² | MEDIUM-HIGH | Regulatory-risk caveat (international objections). NOAA permit decision Q1 2027 = canonical trigger. |
-| 7 | **ASPI** (ASP Isotopes) | $664-871M (NASDAQ) | Nuclear — HALEU + Si-28 + isotopes | Quantum Leap Energy HALEU MOU (European); Si-28 semiconductor relevance (CHIPS R&D + quantum supply chain); first commercial shipments 2026 | MEDIUM | Cross-sector positioning (nuclear + semi + quantum). Plausible second-wave CHIPS LOI candidate. ALREADY in Archos as TIER 2 CATALYST. |
+| 7 | **ASPI** (ASP Isotopes) | $664-871M (NASDAQ) | Nuclear — HALEU + Si-28 + isotopes | Quantum Leap Energy HALEU MOU (European); Si-28 semiconductor relevance (CHIPS R&D + quantum supply chain); first commercial shipments 2026 | MEDIUM | Cross-sector positioning (nuclear + semi + quantum). Plausible second-wave CHIPS LOI candidate. ALREADY in Archos Equities as TIER 2 CATALYST. |
 | 8 | **METC** (Ramaco Resources) | $952M-1B (NASDAQ) | Critical Minerals — REE-from-coal Wyoming + metallurgical coal | $6.1M Wyoming state grant + Sec. of Energy Chris Wright **attended Brook Mine ribbon-cutting July 2025** + bipartisan WY delegation (Barrasso/Lummis/Hageman) | MEDIUM | Sec. of Energy attendance is strongest sub-$1B political signal in the scan. Mixed-commodity dilutes pure-play H8 risk. |
 | 9 | **IDR** (Idaho Strategic Resources) | $570-578M (NYSE American) | Critical Minerals — REE + thorium + gold | DOE FOA 3105 selection 5/19/26 (Critical Material Innovation, Efficiency, and Alternatives) + University of Idaho + INL partnership | MEDIUM | DOE research-stage funding; gold cash flow dilutes pure-play. LEAPS thin. |
 | 10 | **UUUU** (Energy Fuels) | $4.5-5.1B (NYSE American) | Critical Minerals — uranium + NdPr/Dy heavy REE | $18.5M NNSA Uranium Reserve + DFARS Jan 2027 deadline + Pentagon $110/kg NdPr price floor + $299M ASM acquisition | MEDIUM | **BORDERLINE H8** — within ±25% of $5B cap. Has cash; less likely needs equity injection. |
@@ -161,15 +161,15 @@ Positions: U.S. Steel golden share (non-financial veto)
 | 12 | **WWR** (Westwater Resources) | ~$79.7M (NYSE American) | Critical Minerals — graphite (Coosa Alabama) | Pre-revenue; FAST-41 only (no DPA $) | TIER 1 NANO MONITOR. No liquid LEAPS at this cap. |
 | 13 | **GPHOF** (Graphite One) | ~$177.8M USD (OTC PINK / TSX.V: GPH) | Critical Minerals — Alaska graphite | $37.5M DPA Title III Jul 2023 + FAST-41 | OTC handicap. Not Robinhood-tradeable. |
 | 14 | **ALM** (Almonty Industries) | $2.79-4.7B (NASDAQ) | Critical Minerals — tungsten (Sangdong Korea + Gentung Montana) | HQ relocated Dillon Montana 4/13/26 = pre-equity-stake positioning signal | Sangdong is Korea-based (limits domestic-content equity template); Gentung MT is pre-production. |
-| 15 | **ELBM** (Electra Battery Materials) | $64-70M USD (Canadian 6-K filer) | Critical Minerals — cobalt sulfate refinery (north of Toronto) | $20M DoD DPA award + pre-revenue moonshot + Canadian filer | Already in Archos MONITOR per Screen 9. Canadian-listed primary limits direct U.S. equity-stake template. |
-| 16 | **NUCL** (Eagle Nuclear Energy) | ~$358M (NASDAQ post-Spring Valley II SPAC merger 2/25/26) | Nuclear — uranium exploration + SMR | No disclosed gov relationship; de-SPAC + pre-revenue moonshot | Already in Archos WATCH. Speculative. |
+| 15 | **ELBM** (Electra Battery Materials) | $64-70M USD (Canadian 6-K filer) | Critical Minerals — cobalt sulfate refinery (north of Toronto) | $20M DoD DPA award + pre-revenue moonshot + Canadian filer | Already in Archos Equities MONITOR per Screen 9. Canadian-listed primary limits direct U.S. equity-stake template. |
+| 16 | **NUCL** (Eagle Nuclear Energy) | ~$358M (NASDAQ post-Spring Valley II SPAC merger 2/25/26) | Nuclear — uranium exploration + SMR | No disclosed gov relationship; de-SPAC + pre-revenue moonshot | Already in Archos Equities WATCH. Speculative. |
 | 17 | **LTBR** (Lightbridge) | $371-395M (NASDAQ) | Nuclear — proprietary LWR/PHWR fuel rods | INL framework agreements + CRADA + UPRISE endorsement Mar 2026; no DPA $ | Pre-revenue R&D. Multi-year pathway. |
 | 18 | **INFQ** (Infleqtion) | ~$3.2-3.77B (NYSE) | Quantum — neutral atom | $100M CHIPS LOI 5/21/26 with equity stake | **CALIBRATION CASE — already received Round 1 equity**. Watch for Round 2 portfolio expansion. |
 | 19 | **QBTS** (D-Wave Quantum) | $5.27-10.89B (NYSE) | Quantum — annealing | $100M CHIPS LOI 5/21/26; BORDERLINE/over cap | Already received. Cap moving fast. |
 
-### Already-in-Archos cross-reference (impact of gov-equity lens)
+### Already-in-Archos Equities cross-reference (impact of gov-equity lens)
 
-| Ticker | Existing Archos Tier | Gov-Equity Lens Impact |
+| Ticker | Existing Archos Equities Tier | Gov-Equity Lens Impact |
 |---|---|---|
 | **LEU** | TIER 3 COMPOUNDER (Phase 3 winner; Scan-05 H5 PARTIAL-RECOVERING monitor) | **UPGRADE to TIER 1 in gov-equity scan** — DOE $900M task order pending; Trump explicit nuclear-reactor framing |
 | **CRML** | Master-Screen WATCH (Critical Minerals lens); TIER 2 CATALYST | **UPGRADE to TIER 1 in gov-equity scan** — $50M DPA-to-8% equity in active negotiation per Reuters |
@@ -195,7 +195,7 @@ Positions: U.S. Steel golden share (non-financial veto)
 
 These are the **asymmetric pre-positioning candidates BEFORE the equity announcement** — the Intel pattern at $20.47 entry. Each requires full DUE_DILIGENCE_CHECKLIST.md before any capital allocation (Sections 1-6 including /last30days social sweep).
 
-| Rank | Ticker | Cap | Lens | LEAPS | Probability | Position Size (per Archos tiering) | Pre-DD Risk Flags |
+| Rank | Ticker | Cap | Lens | LEAPS | Probability | Position Size (per Archos Equities tiering) | Pre-DD Risk Flags |
 |---|---|---|---|---|---|---|---|
 | 1 | **UAMY** | $1.30-1.57B | Critical Minerals — antimony | Jan 2027 + Jan 2028 chains | HIGH | $5-15K (TIER 2 CATALYST) | **H3 insider sell pattern firing live** — apply 60-day insider monitoring rule before entry |
 | 2 | **NB** | $95M-888M (verify) | Critical Minerals — niobium/scandium/REE/Ti | Jan 2027 / Jan 2028 (developing) | HIGH | $3-10K (TIER 1 NANO or TIER 2 depending on cap verification) | EXIM $780M conversion is the catalyst; pre-revenue moonshot risk if EXIM falls through |
@@ -206,7 +206,7 @@ These are the **asymmetric pre-positioning candidates BEFORE the equity announce
 | 7 | **METC** | $952M-1B | Critical Minerals — REE-from-coal Wyoming | Jan 2027 (Jan 2028 thinner) | MEDIUM | $5-10K | Mixed-commodity dilutes pure-play H8; Sec. of Energy direct attendance is the strongest sub-$1B political signal |
 | 8 | **ASPI** | $664-871M | Nuclear — HALEU + Si-28 + isotopes | Jan 2027 + Jan 2028 | MEDIUM | $5-10K | Cross-sector optionality (nuclear + semi + quantum) creates multi-path |
 
-**Sizing total if all 8 entered at tier midpoints:** ~$50-100K aggregate. Per Archos governance, no capital allocation without DD checklist completion per candidate.
+**Sizing total if all 8 entered at tier midpoints:** ~$50-100K aggregate. Per Archos Equities governance, no capital allocation without DD checklist completion per candidate.
 
 ---
 
@@ -216,7 +216,7 @@ These are the **asymmetric pre-positioning candidates BEFORE the equity announce
 1. **Signal is structurally observable.** Every position is a public 8-K, Commerce press release, or DoD/DOE/EXIM announcement. No FOIA needed; no proprietary feeds.
 2. **Discovery hierarchy alignment with Framework v2.0.** Multiple Tier 1 candidates (UAMY, USAR pre-rerate, MP pre-rerate) showed balance-sheet signals (deferred revenue, customer prepayments, backlog) BEFORE the equity announcement — consistent with the framework's claim that balance-sheet signals lead bellwether mentions by 1-3 quarters. The government-equity event IS the bellwether confirmation.
 3. **Cadence is well-defined.** OSC scaling from $1-1.5B FY26 → $20B FY27 implies ~3-10 deals per quarter as the new equilibrium. Weekly cadence will catch most events on day-of via 8-K.
-4. **Returns are documented.** Intel +503%, Trilogy +230%, MP +150-200%, Rigetti +50% (one day), GFS +103% YTD. The magnitude is canonical Archos-tier.
+4. **Returns are documented.** Intel +503%, Trilogy +230%, MP +150-200%, Rigetti +50% (one day), GFS +103% YTD. The magnitude is canonical Archos Equities-tier.
 5. **Already a hidden subsystem of Screen 4 (Gov Contracts) + lens-conditional H10-D/H10-M/H10-N firing.** Promoting it to a standalone screen makes the bellwether explicit.
 
 ### Argument AGAINST

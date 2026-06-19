@@ -153,7 +153,7 @@ The signal stack is textbook:
 | H10 vendor-level fire (extended bellwether) | ✓ U.S. Army Program of Record = DoD anointing (extended-H10 PASS per Cluster 4) |
 | Cluster 8 risk | ✓ ABSENT — US-domiciled, no rename pivot, no paid-promo signal evident, no foreign Cayman shell |
 
-**SPAI is the cleanest single-stream finding of the nano-cap scan and the highest-conviction post-AISP candidate Archos has surfaced from a screen below $100M cap.** Recommendation: fast-track to full DD checklist (all 6 sections + Section 6 /last30days social sweep) within 7 days.
+**SPAI is the cleanest single-stream finding of the nano-cap scan and the highest-conviction post-AISP candidate Archos Equities has surfaced from a screen below $100M cap.** Recommendation: fast-track to full DD checklist (all 6 sections + Section 6 /last30days social sweep) within 7 days.
 
 **Secondary callout — ONMD (OneMedNet, $44M)** is the cleanest **Cluster 1 reanimation** shape of the entire scan: 30 months post-SPAC (Nov 7, 2023) lands exactly mid-window (24-36mo per Cluster 1 spec); -80% off 52w high ($0.84 vs $4.22) = deeply bottomed; publicly reported insider buying April 2026; Palantir Foundry integration is a non-trivial catalyst; iRWD network spans 2,130+ healthcare sites. Healthcare-AI (not defense), but the **reanim shape is textbook** and the H10-extended bellwether (Palantir = mega-cap AI/gov-data anchor) is plausible. Worth a dedicated DD evaluation in parallel with SPAI.
 
@@ -190,7 +190,7 @@ In conviction order:
 
 ---
 
-## Cross-references to Archos research
+## Cross-references to Archos Equities research
 
 **Cluster matches (from SIGNAL_CLUSTERS.md):**
 
@@ -222,9 +222,9 @@ This scan strengthens the case for two open Sounding Board items already on the 
 
 ## Output files
 
-- `archos/weekly-scan/runs/2026-05-26-nano-ai-scan.md` (this file)
-- `archos/CANDIDATE_UNIVERSE.md` (updated — 2 TIER 1, 9 TIER 2, 7 TIER 3 nano-cap additions; ~30 incremental REJECT log additions)
-- `archos/state.md` (timeline entry appended)
+- `archos-equities/weekly-scan/runs/2026-05-26-nano-ai-scan.md` (this file)
+- `archos-equities/CANDIDATE_UNIVERSE.md` (updated — 2 TIER 1, 9 TIER 2, 7 TIER 3 nano-cap additions; ~30 incremental REJECT log additions)
+- `archos-equities/state.md` (timeline entry appended)
 
 ## Next actions forced by this scan
 

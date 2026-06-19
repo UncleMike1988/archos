@@ -6,8 +6,8 @@
 Read these files IN FULL before doing anything:
 
 1. /Users/michaelturner/Desktop/Claude Builds/_master_docs/WORKING_PHILOSOPHY.md
-2. /Users/michaelturner/Desktop/Claude Builds/Archos/CLAUDE.md
-3. /Users/michaelturner/Desktop/Claude Builds/Archos/PATTERNS_AND_TRAPS.md
+2. /Users/michaelturner/Desktop/Claude Builds/archos-equities/CLAUDE.md
+3. /Users/michaelturner/Desktop/Claude Builds/archos-equities/PATTERNS_AND_TRAPS.md
 
 Confirm by stating the LAST LINE of WORKING_PHILOSOPHY.md.
 Do not write any code or make any changes until all files are confirmed read.
@@ -171,11 +171,11 @@ the methodology miss a pocket of real companies?).
 ## OUTPUT
 
 Write the full screen results to:
-/Users/michaelturner/Desktop/Claude Builds/Archos/due-diligence/LOTTO-TICKET-BOX-2026-06-01.md
+/Users/michaelturner/Desktop/Claude Builds/archos-equities/due-diligence/LOTTO-TICKET-BOX-2026-06-01.md
 
 ## SESSION END — DO NOT SKIP:
 1. Do NOT add these to WATCHLIST.md — they are a separate category
-   from the Archos research universe. The lotto box is isolated.
+   from the Archos Equities research universe. The lotto box is isolated.
 2. git add -A
 3. git commit -m "Lotto ticket box - micro-cap recovery screen"
 4. git push origin main

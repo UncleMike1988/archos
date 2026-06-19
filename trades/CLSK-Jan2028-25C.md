@@ -1,4 +1,4 @@
-# CLSK-Jan2028-25C.md — Archos Trade #001
+# CLSK-Jan2028-25C.md — Archos Equities Trade #001
 
 ## Position details
 
@@ -79,7 +79,7 @@ LEAPS give us 8,000 shares of exposure for the same capital.
 
 ## Capital allocation
 
-| | Amount | % of Archos |
+| | Amount | % of Archos Equities |
 |---|---|---|
 | This position | $40,000 | 40% |
 | Remaining | $60,000 | 60% |

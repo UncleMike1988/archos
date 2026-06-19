@@ -2,7 +2,7 @@
 ## /last30days Social Signal Sweep (DD Section 6)
 **Date:** 2026-05-28
 **Window:** April 28, 2026 – May 28, 2026 (last 30 days)
-**Analyst:** Archos DD (Code session)
+**Analyst:** Archos Equities DD (Code session)
 **Parent DD reports:**
 - [SPAI-dd-2026-05-26.md](../SPAI-dd-2026-05-26.md) — PROCEED WITH CAUTION (0 RED, 5 FLAG, 1 CLEAR-borderline)
 - [SPAI-dd-reeval-2026-05-28.md](../SPAI-dd-reeval-2026-05-28.md) — UPGRADE to DD FAST-TRACK
@@ -323,7 +323,7 @@ Timeline of major events in the 60-day window leading into May 28, 2026:
 | May 19, 2026 | Red Cat InFlight integration unveil | Partnership narrative |
 | May 20, 2026 | Lantronix collaboration advance | Partnership narrative |
 | **May 26, 2026** | **50,000 detection milestone** | Major narrative milestone |
-| May 28, 2026 | DD re-eval addendum dated | (Archos internal) |
+| May 28, 2026 | DD re-eval addendum dated | (Archos Equities internal) |
 
 **Press release count in 30-day window (Apr 28 - May 28):** 8 distinct press releases (Apr 29, May 4, May 11, May 18, May 19, May 20, May 26, plus the Apr 28 JPCE which closes the boundary). That's roughly **one press release every 3.75 days**.
 
@@ -556,5 +556,5 @@ The framework is working as designed: Stage 1 ACCEPT (four-filter framework) →
 
 End of /last30days social signal sweep.
 Filename: SPAI-last30days-2026-05-28.md
-Output to: archos/due-diligence/last30days/SPAI-last30days-2026-05-28.md
+Output to: archos-equities/due-diligence/last30days/SPAI-last30days-2026-05-28.md
 No git operations performed. No framework changes. One file written.

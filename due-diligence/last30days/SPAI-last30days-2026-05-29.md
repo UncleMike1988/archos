@@ -2,7 +2,7 @@
 # Safe Pro Group Inc. (NASDAQ: SPAI) — Defense AI / Drone Threat Detection
 # Date: 2026-05-29 (data window 2026-04-28 → 2026-05-28)
 # Session type: AUTORESEARCH / DD — research only, no code changes
-# Framework: Archos v2.1 | Bucket 3 (nanocap AI-adjacent) | Lens: Defense AI (H10-D)
+# Framework: Archos Equities v2.1 | Bucket 3 (nanocap AI-adjacent) | Lens: Defense AI (H10-D)
 
 ## DECISIVE QUESTION
 

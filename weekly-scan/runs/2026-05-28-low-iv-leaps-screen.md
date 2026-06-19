@@ -2,7 +2,7 @@
 
 **Session type:** Targeted options screen — finding $2-15B AI/defense/nuclear/cyber/cloud mid-caps where implied volatility is LOW relative to forward catalysts, making Jan 2028 LEAPS cheap on a vol-adjusted basis.
 
-**Prompt:** `/Users/michaelturner/Desktop/Claude Builds/archos/research/prompts/SCAN_LOW_IV_LEAPS.md`
+**Prompt:** `/Users/michaelturner/Desktop/Claude Builds/archos-equities/research/prompts/SCAN_LOW_IV_LEAPS.md`
 
 **Date:** 2026-05-28 (stock prices/IV captured at 2026-05-27 close ~15:39 ET)
 
@@ -15,7 +15,7 @@ The screen was designed to use the Massive Market Data MCP options endpoints (ch
 After surfacing the blocker and confirming with the user, the screen proceeded via three substitute data paths:
 
 1. **IV per ticker** — pulled from `barchart.com/stocks/quotes/{TICKER}/volatility-charts` via WebFetch (public, no auth). Barchart reports a single ATM-equivalent IV snapshot per ticker (not chain-wide vol surface). 50 tickers pulled successfully; JNPR returned IV data gap (price OK, IV not extracted).
-2. **Live stock price + market cap** — pulled from `google.com/finance/quote/{TICKER}:{EXCHANGE}` for cross-verification per Archos `CLAUDE.md` governance.
+2. **Live stock price + market cap** — pulled from `google.com/finance/quote/{TICKER}:{EXCHANGE}` for cross-verification per Archos Equities `CLAUDE.md` governance.
 3. **Jan 2028 LEAPS contract existence** — verified via Massive Market Data `/v3/reference/options/contracts` (this endpoint IS entitled) for MIR / VRNS / DT. **HXL, MRCY, and downstream names (QLYS, TENB, PSN, PAYC, SAIC) NOT verified** — rate-limited at 7 simultaneous calls before all checks completed.
 4. **LEAPS premium pricing (bid / ask / OI / spread)** — **NOT accessible via any available tool.** Substituted with Black-Scholes theoretical price using observed IV, stock price, ~1.658 yr to expiry, 4.5% risk-free rate. Actual market quotes will diverge from BS theoretical by typically ±10-20% due to vol skew (puts richer than calls), term structure, IV-by-strike, and demand/supply imbalances at specific strikes.
 
@@ -28,7 +28,7 @@ After surfacing the blocker and confirming with the user, the screen proceeded v
 ## Universe
 
 **Source A (sector web searches):** Cybersecurity, defense, nuclear, semis, data-center / cloud sector ETF holdings and screener lookups.
-**Source B (Archos universe):** Tickers in CANDIDATE_UNIVERSE.md and CHOKEPOINT_TAXONOMY.md with current market caps $2-15B.
+**Source B (Archos Equities universe):** Tickers in CANDIDATE_UNIVERSE.md and CHOKEPOINT_TAXONOMY.md with current market caps $2-15B.
 **Source C (ETF holdings mining):** HACK, ITA, NLR, SOXX, SKYY, WCLD top holdings.
 
 Deduplicated and filtered:
@@ -68,7 +68,7 @@ Sorted by IV ascending. All caps + prices verified via Google Finance 2026-05-27
 | 12 | DT | $38.94 | $11.35B | AI observability (cloud) | 49.93% | 82% | **PASS** | **VERIFIED ✅** (strikes $40-50 available) |
 | 13 | AKAM | $144.74 | $21.06B | Cloud delivery + security | 53.80% | 80% | **CAP-FAIL** (>$15B) | Likely yes (unverified) |
 | 14 | TWLO | $182.74 | $27.73B | Cloud comms | 54.03% | 59% | **CAP-FAIL** (>$15B) | n/a |
-| 15 | MIR | $17.11 | $4.28B | Nuclear I&C (Archos #11) | 54.94% | 64% | **PASS** | **VERIFIED ✅** (strikes $17.5-$25 available) |
+| 15 | MIR | $17.11 | $4.28B | Nuclear I&C (Archos Equities #11) | 54.94% | 64% | **PASS** | **VERIFIED ✅** (strikes $17.5-$25 available) |
 | 16 | MRCY | $97.38 | $5.85B | Defense electronics | 55.63% | 60% | **PASS** | UNVERIFIED (empty/rate-limit) |
 | 17 | VRNS | $30.36 | $3.49B | Cybersecurity (Atlas AI) | 56.08% | 61% | **PASS** | **VERIFIED ✅** (strikes $30-$40 available) |
 | 18 | TENB | $24.40 | $2.69B | Cybersecurity (Hexa AI) | 56.65% | 64% | **PASS** | Unverified (rate-limit) |
@@ -82,7 +82,7 @@ JNPR ($39.95, in cap range) — Barchart returned price but IV data not parsed; 
 
 A clear pattern emerged in the 50-ticker scan:
 
-- **Speculative / news-driven catalyst names have HIGH IV (90-160%):** POET 128%, AEHR 143%, RDW 158%, NVTS 143%, AXTI 141%, BBAI 98%, LUNR 130%, FLY 126%, CLSK 99%, OKLO 92%, USAR 114%, CRML (per existing universe ~117%), WYFI (~107%). These are the Archos chokepoint-pure-play / de-SPAC / momentum cohort. Premium is fully priced for the upside — LEAPS here eat the move.
+- **Speculative / news-driven catalyst names have HIGH IV (90-160%):** POET 128%, AEHR 143%, RDW 158%, NVTS 143%, AXTI 141%, BBAI 98%, LUNR 130%, FLY 126%, CLSK 99%, OKLO 92%, USAR 114%, CRML (per existing universe ~117%), WYFI (~107%). These are the Archos Equities chokepoint-pure-play / de-SPAC / momentum cohort. Premium is fully priced for the upside — LEAPS here eat the move.
 - **Mature defense / nuclear primes + grown-up SaaS have LOW IV (38-60%):** HXL 40%, CACI 39%, PSN 46%, MRCY 56%, BWXT 49%, MIR 55%, DT 50%, QLYS 47%, VRNS 56%, TENB 57%. These are catalyst-rich names where the options market has NOT priced the AI-driven inflection at the speculative-cohort multiple. **This is the inversion the prompt is exploiting.**
 - **High-momentum near-cap-graduation names sit in between (65-110% IV):** FFIV is at the bottom of this band already (38%) only because it has been a slow, sustained rerate; AAOI / CIEN / LITE are firmly above $15B and at 100%+ IV.
 
@@ -97,9 +97,9 @@ Real catalyst + low IV + revenue growth > ~20% (or strong order-book inflection)
 | Field | Value |
 |---|---|
 | Stock price | $17.11 |
-| Market cap | $4.28B (TIER 3 COMPOUNDER per Archos H8 tiering) |
+| Market cap | $4.28B (TIER 3 COMPOUNDER per Archos Equities H8 tiering) |
 | IV (Jan 2028 ATM-equivalent) | 54.94% — moderate; IV percentile 64% |
-| Archos lens | Nuclear / AI-DC power — **already proposed Chokepoint #11** in `CHOKEPOINT_TAXONOMY.md` (Scan 05 2026-05-27) |
+| Archos Equities lens | Nuclear / AI-DC power — **already proposed Chokepoint #11** in `CHOKEPOINT_TAXONOMY.md` (Scan 05 2026-05-27) |
 | Sector tag | Nuclear I&C + radiation detection + Paragon Energy safety-related parts via SMR developer aggregation |
 | Revenue growth | Q1 CY2026 revenue **+27.5% YoY** ($257.6M) |
 | FY26 guidance | 22-24% TOTAL revenue growth (5-7% organic), reaffirmed late April 2026 |
@@ -116,7 +116,7 @@ Real catalyst + low IV + revenue growth > ~20% (or strong order-book inflection)
 | Stock price | $30.36 |
 | Market cap | $3.49B (TIER 3 COMPOUNDER) |
 | IV | 56.08% — moderate; IV percentile 61% |
-| Archos lens | NEW sector — cybersecurity is OUTSIDE current Archos AI-infrastructure framework but is an H10-extended adjacency (AI-security as parallel lens) |
+| Archos Equities lens | NEW sector — cybersecurity is OUTSIDE current Archos Equities AI-infrastructure framework but is an H10-extended adjacency (AI-security as parallel lens) |
 | Revenue growth | Q1 2026 revenue **+26.9% YoY** ($173.1M). SaaS ARR **+69% YoY to $683.2M**. SaaS = 93% of total |
 | FY26 guidance | $731-737M revenue; SaaS ARR growth 27-32% (raised from prior) |
 | Catalyst | **Atlas AI Security Platform** launched March 2026 — inventory / secure / govern AI deployments. Continues SaaS transition. $149.99M buyback completed |
@@ -132,7 +132,7 @@ Real catalyst + low IV + revenue growth > ~20% (or strong order-book inflection)
 | Stock price | $38.94 |
 | Market cap | $11.35B (TIER 3 COMPOUNDER, near top of band) |
 | IV | 49.93% — low; IV percentile 82% (current IV elevated relative to its own history but absolute is well below cohort median) |
-| Archos lens | Cloud observability — AI-workload monitoring is the AI-DC operations-layer chokepoint. Outside current taxonomy; candidate for inclusion as adjacency-layer if framework expands |
+| Archos Equities lens | Cloud observability — AI-workload monitoring is the AI-DC operations-layer chokepoint. Outside current taxonomy; candidate for inclusion as adjacency-layer if framework expands |
 | Revenue growth | FY26 (Mar-end) revenue **+19% YoY** to $1,720M; Q1 2026 ARR $1.822B +18% YoY; net-new ARR double-digit growth for 3 consecutive quarters |
 | FY26 guidance | $2,005-2,010M (raised) |
 | Catalyst | Agentic AI observability narrative; DPS = 65% of growth; $1B buyback authorization announced; customers consolidating onto AI-powered platform |
@@ -149,7 +149,7 @@ Real catalyst + low IV + revenue growth 10-25% OR PARTIAL sentiment.
 
 ### MRCY — Mercury Systems (Defense electronics)
 
-S=$97.38, mcap $5.85B, IV 55.63%, IV %ile 60%. Q3 FY26 revenue +11.5% YoY to $236M. **Record bookings $348M (1.48 book-to-bill), record backlog ~$1.6B.** FY26 guidance raised from low-single-digit to mid-single-digit growth. Stock +34% YTD as of May 22. Demand across missile / C4I / space programs. Already in Archos CANDIDATE_UNIVERSE REJECT log as "$5.92B over Tier 3 cap" — but the current screen is intended to expand beyond strict $5B ceiling. **LEAPS UNVERIFIED** — empty response on strike range $95-120; possible Jan 2028 LEAPS exist outside that range or are not listed. Verify before sizing.
+S=$97.38, mcap $5.85B, IV 55.63%, IV %ile 60%. Q3 FY26 revenue +11.5% YoY to $236M. **Record bookings $348M (1.48 book-to-bill), record backlog ~$1.6B.** FY26 guidance raised from low-single-digit to mid-single-digit growth. Stock +34% YTD as of May 22. Demand across missile / C4I / space programs. Already in Archos Equities CANDIDATE_UNIVERSE REJECT log as "$5.92B over Tier 3 cap" — but the current screen is intended to expand beyond strict $5B ceiling. **LEAPS UNVERIFIED** — empty response on strike range $95-120; possible Jan 2028 LEAPS exist outside that range or are not listed. Verify before sizing.
 
 ### HXL — Hexcel (Aerospace + Defense composites)
 
@@ -181,7 +181,7 @@ S=$132.30, mcap $6.16B, IV 48.29%. Q1 2026 revenue +8% YoY. 2026 guide $2,175-2,
 
 ### SAIC — Science Applications International
 
-S=$101.41, mcap ~$11B, IV 47.60%. FY26 revenue $7.26B (flat). FY27 guide $7.0-7.2B (organic decline). $1.4B Pentagon contract recently announced. Paul Eremenko (ex-DARPA AI) appointed to Board April 2026. Per Archos Screen 9 notes, ESLT-class graduated reference. **Revenue declining at top line despite contract wins** — REJECT under Archos H8 / inflection logic. Document for traceability. (Also Screen 9 over-cap reference per CANDIDATE_UNIVERSE notes; the screen's separate "low IV" pass produced the same name.)
+S=$101.41, mcap ~$11B, IV 47.60%. FY26 revenue $7.26B (flat). FY27 guide $7.0-7.2B (organic decline). $1.4B Pentagon contract recently announced. Paul Eremenko (ex-DARPA AI) appointed to Board April 2026. Per Archos Equities Screen 9 notes, ESLT-class graduated reference. **Revenue declining at top line despite contract wins** — REJECT under Archos Equities H8 / inflection logic. Document for traceability. (Also Screen 9 over-cap reference per CANDIDATE_UNIVERSE notes; the screen's separate "low IV" pass produced the same name.)
 
 ---
 
@@ -242,48 +242,48 @@ The catch is HXL's catalyst quality — commercial-aerospace + defense-build tai
 **MIR — Mirion Technologies, Jan 2028 $20 call @ ~$4.25 (BS theoretical)**
 
 - Three converging factors:
-  1. **Already in Archos taxonomy as proposed Chokepoint #11 candidate** (Nuclear I&C, Scan 05 2026-05-27) — this is not a one-off; the Archos research process has already identified MIR as nuclear-for-AI-DC structural exposure.
+  1. **Already in Archos Equities taxonomy as proposed Chokepoint #11 candidate** (Nuclear I&C, Scan 05 2026-05-27) — this is not a one-off; the Archos Equities research process has already identified MIR as nuclear-for-AI-DC structural exposure.
   2. **+27.5% YoY Q1 revenue + $1.1B backlog + record orders** — the inflection has begun; this is not a bet on whether the catalyst fires but on how far it goes.
   3. **IV 54.94% with IV percentile 64%** — moderate-not-high; the option market has NOT yet pulled MIR into the speculative chokepoint cohort that names like AEHR, NVTS, AXTI, RDW, USAR, CRML, INFQ, BBAI live in (all 90-160% IV). MIR is being priced like a sleepy nuclear-services compounder while behaving like an AI-DC chokepoint pure-play.
 
-**Sizing reference:** Per Archos H8 Tier 3 COMPOUNDER guidance ($2-5B mcap), position size $10-25K, LEAPS preferred. A $10K initial sizing = ~24 contracts of $20 strike (24 × $424 = $10,176) controlling 2,400 shares = $41,064 of equity exposure. At MIR doubling to $34.22 by Jan 2028, payoff = $34,128 (+235%). At MIR +50% to $25.67, payoff = $13,608 (+34%).
+**Sizing reference:** Per Archos Equities H8 Tier 3 COMPOUNDER guidance ($2-5B mcap), position size $10-25K, LEAPS preferred. A $10K initial sizing = ~24 contracts of $20 strike (24 × $424 = $10,176) controlling 2,400 shares = $41,064 of equity exposure. At MIR doubling to $34.22 by Jan 2028, payoff = $34,128 (+235%). At MIR +50% to $25.67, payoff = $13,608 (+34%).
 
 ---
 
-## Names In Archos Universe With Cheap LEAPS (Conviction Upgrades)
+## Names In Archos Equities Universe With Cheap LEAPS (Conviction Upgrades)
 
-The screen surfaced these already-tracked Archos names as having low-IV LEAPS, which represents a conviction-upgrade signal (the options market has NOT priced the catalyst):
+The screen surfaced these already-tracked Archos Equities names as having low-IV LEAPS, which represents a conviction-upgrade signal (the options market has NOT priced the catalyst):
 
 1. **MIR** — already proposed Chokepoint #11. IV 54.94%. **Conviction upgrade — confirms TIER 1 STRONG.**
 2. **MRCY** — REJECT log entry ("$5.92B over Tier 3 cap"). IV 55.63%. The screen revisits this — at $5.85B cap, defense-electronics inflection (record bookings) + low IV creates an asymmetric LEAPS trade. Suggest **reclassify from REJECT to TIER 3 WATCH** for the LEAPS-vector lens specifically; cap is borderline-Tier-3 not over-Tier-3 anymore.
 3. **HXL** — REJECT log entry ("$6.84B just over cap"). IV 39.52% — LOWEST in entire universe. Same logic: now $6.65B cap (re-verified live), within Tier 3 band, lowest IV produces the strongest LEAPS leverage in the screen. Suggest **reclassify to TIER 3 WATCH**.
-4. **BWXT** — Cap-FAIL ($18.35B over $15B screen ceiling, also over Archos $5B Tier 3 cap) but IV 49.42% is notable. Already flagged in CANDIDATE_UNIVERSE Screen 10 reject log as "$18.76B over cap, naval reactor framework validation only." No change — too large.
+4. **BWXT** — Cap-FAIL ($18.35B over $15B screen ceiling, also over Archos Equities $5B Tier 3 cap) but IV 49.42% is notable. Already flagged in CANDIDATE_UNIVERSE Screen 10 reject log as "$18.76B over cap, naval reactor framework validation only." No change — too large.
 
 ---
 
-## Names Outside Archos Universe With Cheap LEAPS (New Candidates for Consideration)
+## Names Outside Archos Equities Universe With Cheap LEAPS (New Candidates for Consideration)
 
-Surfaced by the screen but NOT currently in CANDIDATE_UNIVERSE.md or CHOKEPOINT_TAXONOMY.md. These would require Archos framework expansion / new sector-lens codification before formal ACCEPT:
+Surfaced by the screen but NOT currently in CANDIDATE_UNIVERSE.md or CHOKEPOINT_TAXONOMY.md. These would require Archos Equities framework expansion / new sector-lens codification before formal ACCEPT:
 
-1. **VRNS — Varonis Systems** (cybersecurity / AI security, $3.49B) — TIER 1 STRONG on fundamentals. Atlas AI Security Platform is the named product catalyst. Cybersecurity is NOT a current Archos lens but could be added as H10-extended AI-security parallel framework.
+1. **VRNS — Varonis Systems** (cybersecurity / AI security, $3.49B) — TIER 1 STRONG on fundamentals. Atlas AI Security Platform is the named product catalyst. Cybersecurity is NOT a current Archos Equities lens but could be added as H10-extended AI-security parallel framework.
 2. **DT — Dynatrace** (AI observability, $11.35B) — TIER 1 STRONG. AI observability is the AI-DC operations-monitoring chokepoint; arguably belongs in the chokepoint taxonomy as an "operations layer" entry.
 3. **PSN — Parsons** (defense services + Cyber Command, $6.09B) — TIER 2 MODERATE. Sole-source $500M Cyber Command production contract is the catalyst. H10-D applicable.
 4. **QLYS — Qualys** (cybersecurity / AI risk fabric, $3.48B) — TIER 2 MODERATE. AI risk-management category creation theme.
 5. **TENB — Tenable** (exposure management / Hexa AI, $2.69B) — TIER 2 MODERATE. AI-driven vulnerability discovery thesis (10-20x current pace).
 
-**Recommendation:** before recording any of these as Archos ACCEPT candidates, frame the framework question: does Archos pursue cybersecurity / observability / defense-services as additional parallel lenses (à la Nuclear / Defense / Critical Minerals H10-extended), or are those out-of-scope for the AI-INFRASTRUCTURE thesis? The screen produces the candidates; the lens-scope decision is a Sounding-Board call.
+**Recommendation:** before recording any of these as Archos Equities ACCEPT candidates, frame the framework question: does Archos Equities pursue cybersecurity / observability / defense-services as additional parallel lenses (à la Nuclear / Defense / Critical Minerals H10-extended), or are those out-of-scope for the AI-INFRASTRUCTURE thesis? The screen produces the candidates; the lens-scope decision is a Sounding-Board call.
 
 ---
 
 ## Recommended Position(s) with Sizing
 
-Per `WORKING_PHILOSOPHY.md` and Archos `CLAUDE.md` Hard Rule: "**Code produces signal classification; human makes position decisions. No predictions. No trade recommendations from Code.**" The block below is sizing **scaffolding** — Black-Scholes math + Archos H8 tiering — not a recommendation.
+Per `WORKING_PHILOSOPHY.md` and Archos Equities `CLAUDE.md` Hard Rule: "**Code produces signal classification; human makes position decisions. No predictions. No trade recommendations from Code.**" The block below is sizing **scaffolding** — Black-Scholes math + Archos Equities H8 tiering — not a recommendation.
 
-**Highest-conviction LEAPS scaffold** (TIER 1 STRONG + low IV + already in Archos taxonomy):
+**Highest-conviction LEAPS scaffold** (TIER 1 STRONG + low IV + already in Archos Equities taxonomy):
 
 | Ticker | Tier | Suggested $ sizing (H8 guidance) | Suggested strike | BS theoretical premium | Contracts at suggested size | Underlying exposure | Breakeven |
 |---|---|---|---|---|---|---|---|
-| MIR | TIER 3 COMPOUNDER (Archos) | $10-25K | Jan 2028 $20 call | $4.24 | 24-59 ctr | 2,400-5,900 sh = $41K-$101K equity-equiv | $24.24 (+41.7%) |
+| MIR | TIER 3 COMPOUNDER (Archos Equities) | $10-25K | Jan 2028 $20 call | $4.24 | 24-59 ctr | 2,400-5,900 sh = $41K-$101K equity-equiv | $24.24 (+41.7%) |
 | VRNS | TIER 3 COMPOUNDER (proposed) | $10-25K | Jan 2028 $35 call | $7.83 | 13-32 ctr | 1,300-3,200 sh = $39K-$97K equity-equiv | $42.83 (+41.1%) |
 | DT | TIER 3 COMPOUNDER (proposed) | $10-25K | Jan 2028 $45 call | $8.82 | 11-28 ctr | 1,100-2,800 sh = $43K-$109K equity-equiv | $53.82 (+38.2%) |
 
@@ -295,23 +295,23 @@ Per `WORKING_PHILOSOPHY.md` and Archos `CLAUDE.md` Hard Rule: "**Code produces s
 | MRCY | TIER 3 COMPOUNDER (re-class) | $10-25K | Jan 2028 $115 call | $24.12 | 4-10 ctr | 400-1,000 sh = $39K-$97K | $139.12 (+42.9%) |
 | PSN | TIER 3 COMPOUNDER (proposed) | $10-25K | Jan 2028 $65 call | $11.90 | 8-21 ctr | 800-2,100 sh = $46K-$120K | $76.90 (+35.1%) |
 
-**MANDATORY pre-entry verification per Archos Working Philosophy:**
+**MANDATORY pre-entry verification per Archos Equities Working Philosophy:**
 
 1. **Pull actual chain quotes on broker** for each candidate at the suggested strike — verify ask vs BS theoretical (allow ±15%), verify OI > 100, verify bid-ask spread < 15% of midpoint.
 2. **For HXL and MRCY specifically:** Jan 2028 LEAPS existence was UNVERIFIED in this screen (Massive Market Data reference endpoint returned empty / rate-limited before completion). Confirm chain exists at the suggested strike before sizing.
 3. **Run DUE_DILIGENCE_CHECKLIST.md** Section 6 (`/last30days` social sweep) for any TIER 1 candidate before any capital allocation — per SHAZ calibration case, framework-pass + DD-pass are both required.
 4. **MIR Section 6:** social signal sweep specifically should confirm there is NO paid-promotion pattern, NO counterparty concentration risk in the Paragon Energy / SMR developer aggregation, NO management self-dealing pattern.
-5. **VRNS / DT / QLYS / TENB / PSN / PAYC:** these are NEW lens candidates (cybersecurity / observability / defense services) — confirm whether the Archos framework is being expanded to admit them BEFORE running full DD.
+5. **VRNS / DT / QLYS / TENB / PSN / PAYC:** these are NEW lens candidates (cybersecurity / observability / defense services) — confirm whether the Archos Equities framework is being expanded to admit them BEFORE running full DD.
 
 ---
 
 ## Open framework question (Sounding Board call)
 
-This screen surfaced 5 NEW lens candidates (VRNS, DT, QLYS, TENB, PSN — all clearing IV + cap + price filters with real fundamental catalysts) that are NOT currently inside the Archos AI-Infrastructure chokepoint taxonomy.
+This screen surfaced 5 NEW lens candidates (VRNS, DT, QLYS, TENB, PSN — all clearing IV + cap + price filters with real fundamental catalysts) that are NOT currently inside the Archos Equities AI-Infrastructure chokepoint taxonomy.
 
 **The choice is:**
-A) Codify cybersecurity (VRNS/QLYS/TENB), observability (DT), and defense-services-with-cyber-anchor (PSN) as **H10-extended parallel lenses** (paralleling H10-D Defense, H10-N Nuclear, H10-M Critical Minerals, H10-G Government Equity). This expands the Archos surface area dramatically.
-B) Treat these as **out-of-scope adjacencies** — interesting LEAPS trades on their own merits but NOT formally Archos-ACCEPT candidates. Tracked separately.
+A) Codify cybersecurity (VRNS/QLYS/TENB), observability (DT), and defense-services-with-cyber-anchor (PSN) as **H10-extended parallel lenses** (paralleling H10-D Defense, H10-N Nuclear, H10-M Critical Minerals, H10-G Government Equity). This expands the Archos Equities surface area dramatically.
+B) Treat these as **out-of-scope adjacencies** — interesting LEAPS trades on their own merits but NOT formally Archos Equities-ACCEPT candidates. Tracked separately.
 C) Hybrid — admit ONLY the names with explicit AI-DC chokepoint adjacency: DT (observability of AI workloads) and VRNS (security of AI data); reject pure cybersecurity (QLYS / TENB / general cyber).
 
 Recommendation: **option C**, with a note that VRNS (Atlas) and DT (agentic AI observability) are explicit AI-workload-adjacent products, while QLYS / TENB are general cybersecurity riding the AI-vulnerability narrative — a different layer.
@@ -335,8 +335,8 @@ Recommendation: **option C**, with a note that VRNS (Atlas) and DT (agentic AI o
 
 Per `CLAUDE.md` — Code session ends with framework signal classification + scaffold sizing. **No trades executed. No capital allocated. No framework changes beyond candidate documentation.** Any change to `CANDIDATE_UNIVERSE.md` (e.g., reclassifying HXL / MRCY from REJECT log to TIER 3 WATCH) is being recorded in a separate edit on this same session per the user's request to "Update CANDIDATE_UNIVERSE.md with any TIER 1 candidates not already tracked."
 
-**MIR is the only screen-output candidate that is also an existing Archos TIER 1 STRONG via the chokepoint taxonomy (Scan 05 nuclear lens).** Three new sector-lens TIER 1 STRONG candidates surfaced (VRNS, DT) but these require Sounding-Board approval of lens expansion before being added to CANDIDATE_UNIVERSE.md as formal ACCEPT-track entries. They are documented in the **NEW LENS CANDIDATES** section to be added below.
+**MIR is the only screen-output candidate that is also an existing Archos Equities TIER 1 STRONG via the chokepoint taxonomy (Scan 05 nuclear lens).** Three new sector-lens TIER 1 STRONG candidates surfaced (VRNS, DT) but these require Sounding-Board approval of lens expansion before being added to CANDIDATE_UNIVERSE.md as formal ACCEPT-track entries. They are documented in the **NEW LENS CANDIDATES** section to be added below.
 
 ---
 
-*End of screen. Stage 2 DUE_DILIGENCE_CHECKLIST.md required before any capital allocation. See `/Users/michaelturner/Desktop/Claude Builds/archos/DUE_DILIGENCE_CHECKLIST.md`.*
+*End of screen. Stage 2 DUE_DILIGENCE_CHECKLIST.md required before any capital allocation. See `/Users/michaelturner/Desktop/Claude Builds/archos-equities/DUE_DILIGENCE_CHECKLIST.md`.*

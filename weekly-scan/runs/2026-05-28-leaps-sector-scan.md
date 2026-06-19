@@ -1,8 +1,8 @@
 # Multi-Sector LEAPS Scan — 2026-05-28
 
-**Session type:** SEPARATE STRATEGY from Archos chokepoint framework. Quality-compounder LEAPS based on the NOW/CRM template — beaten-down world-class businesses with growing revenue where Jan 2028 LEAPS deliver 2x+ on a PARTIAL recovery to consensus PT.
+**Session type:** SEPARATE STRATEGY from Archos Equities chokepoint framework. Quality-compounder LEAPS based on the NOW/CRM template — beaten-down world-class businesses with growing revenue where Jan 2028 LEAPS deliver 2x+ on a PARTIAL recovery to consensus PT.
 
-**Strategy bucket:** Distinct from Archos (Archos = sub-$5B chokepoint pure-plays, NANO/CATALYST tier; this = >$5B liquid-LEAPS quality compounders).
+**Strategy bucket:** Distinct from Archos Equities (Archos Equities = sub-$5B chokepoint pure-plays, NANO/CATALYST tier; this = >$5B liquid-LEAPS quality compounders).
 
 **Deployable pool:** ~$189K. Position sizing: $50-100K per LEAPS position. Already deployed: NOW Jan 2028 $90 calls (+34%). Pending: CRM Jan 2028 $160 calls (~$56 premium target).
 
@@ -26,7 +26,7 @@
 7. Market cap >$5B (liquid options, tight spreads)
 
 **What this strategy is NOT:**
-- Archos chokepoint pure-plays (separate bucket)
+- Archos Equities chokepoint pure-plays (separate bucket)
 - Turnaround stories with broken business (declining revenue, market share loss)
 - Drawdowns justified by fundamental deterioration
 - 2x requiring return to ATH

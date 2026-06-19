@@ -2,7 +2,7 @@
 
 **DD date:** 2026-05-29 (data verified intraday 2026-05-28)
 **Source:** NEXT_SECTOR_THESIS.md Sector #2 (HBM Mass Reflow Molded Underfill / Korean HBM Chemistry), **primary recommendation** / tertiary overall rec
-**Framework:** Archos v2.1 (multi-strategy buckets + flag taxonomy + over-rejection guardrail)
+**Framework:** Archos Equities v2.1 (multi-strategy buckets + flag taxonomy + over-rejection guardrail)
 **Analyst note:** Research only. No code changes. No trade recommendation — signal classification per CLAUDE.md governance.
 
 ---

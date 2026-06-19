@@ -36,7 +36,7 @@ Every layer below is a potential chokepoint. Several layers (substrates, foundry
 **Why it matters for CPO:** Every CPO module requires laser sources. Even silicon photonics PICs (which use silicon for the waveguide) need an external InP or GaAs laser die heterogeneously integrated. The substrate vendor sits one layer behind the laser maker, which sits one layer behind the transceiver builder. This is the deepest upstream layer of the CPO supply chain.
 
 **Known players:**
-- AXTI (now $7.6B — GRADUATED; the canonical 97x Archos winner from sub-$50M)
+- AXTI (now $7.6B — GRADUATED; the canonical 97x Archos Equities winner from sub-$50M)
 - Sumitomo Electric (JP private/sub of larger parent)
 - IQE plc (LSE: IQE.L, ~$665M USD — foreign-handicap WATCH per SCAN_04)
 - Sumitomo Chemical Advanced Materials (private)
@@ -237,7 +237,7 @@ Every layer below is a potential chokepoint. Several layers (substrates, foundry
 - TE Connectivity (TEL — mega-cap)
 - Amphenol (APH — mega-cap)
 - Senko Advanced Components (private)
-- Methode Electronics (MEI — already REJECTED per Archos, sub-$5B but flat-to-down despite record DC power sales)
+- Methode Electronics (MEI — already REJECTED per Archos Equities, sub-$5B but flat-to-down despite record DC power sales)
 
 **Discovery vectors:** Sub-$5B optical connector pure-plays — quite thin in public markets.
 
@@ -305,7 +305,7 @@ Every layer below is a potential chokepoint. Several layers (substrates, foundry
 | OUST | LiDAR/auto (already in robotics lens) |
 | HSAI | Chinese ADR + LiDAR auto |
 | IMOS | LCOS display optical engine — wrong end-market |
-| AGAE | Shell/pivot pattern (already in Archos REJECT log) |
+| AGAE | Shell/pivot pattern (already in Archos Equities REJECT log) |
 | INGN | Medical O2 company; Rockley CMO hire is not a CPO catalyst |
 | QCLS | OTC, tiny, speculative |
 | MASI | Medical pulse-ox |
@@ -342,7 +342,7 @@ Every layer below is a potential chokepoint. Several layers (substrates, foundry
 |---|---|---|---|---|
 | **TPEX:3485** | **Centera Photonics** | Taiwan emerging board | Layer 5 — 1.6T integrated-laser transceiver with NewPhotonics NPG10201 PIC | **Just listed March 2026** — newly public sub-$5B CPO-adjacent pure-play; cap verification critical |
 | **TWSE:6820** | **ACON Optics Communications** | Taiwan | Layer 7 (Fiber attach / FAU) | Direct CPO fiber array supplier, partners with international clients |
-| **SIVE.ST** | Sivers Semiconductors | Nasdaq Stockholm | Layer 3 (InP laser) + mmWave | Already in Archos as SIVEF OTC ADR ($2.75B USD per CHOKEPOINT_TAXONOMY.md); SIVE.ST is the Swedish primary listing |
+| **SIVE.ST** | Sivers Semiconductors | Nasdaq Stockholm | Layer 3 (InP laser) + mmWave | Already in Archos Equities as SIVEF OTC ADR ($2.75B USD per CHOKEPOINT_TAXONOMY.md); SIVE.ST is the Swedish primary listing |
 
 ### Private companies of note (IPO watch — NOT directly investable, but track for catalyst)
 
@@ -429,7 +429,7 @@ Every layer below is a potential chokepoint. Several layers (substrates, foundry
 | BURU (Nuburu) | de-SPAC Feb 2023 (Tailwind ACQ); reverse splits to micro-cap | **REJECT — industrial laser/welding, not AI-DC** |
 | LASE (Laser Photonics) | IPO Sep 2022; sub-$1; 10-Q delay | **REJECT — industrial cleaning laser, not AI-DC** |
 | RKLY (Rockley Photonics) | Bankrupt 2023 — calibration case | Out of universe |
-| OPTX (Syntec Optics) | Already in Archos WATCH | -- |
+| OPTX (Syntec Optics) | Already in Archos Equities WATCH | -- |
 
 ### Retrospective Q5 — de-SPAC reanimation in photonics
 
@@ -542,7 +542,7 @@ Six candidates warrant immediate full DD (Sections 1-6) within the next 30 days.
    - Mgmt target $2B rev / ~40% EBITDA margin
    - Cyclical RF-SOI trough is currently MASKING the Photonics-SOI ramp — H5 IGNORED-equivalent (sentiment focused on the RF-SOI cycle, not the photonics secular)
    - **Critical DD priorities:** Section 5.4 forward P/S framing on Photonics-SOI ramp; Section 1.6 paid promotion check (likely CLEAR for an established European industrial); Section 5.5 backlog quality decomposition
-   - **OTC ADR (SLOIY) liquidity caveat:** verify whether SLOIY ADR meets Archos liquidity threshold; if not, the name lands in the foreign-handicap basket but the signal-quality justifies it
+   - **OTC ADR (SLOIY) liquidity caveat:** verify whether SLOIY ADR meets Archos Equities liquidity threshold; if not, the name lands in the foreign-handicap basket but the signal-quality justifies it
 
 2. **AIXA / AIXXF — AIXTRON (Xetra / OTC ADR, ~$4.9B USD, TIER 3 COMPOUNDER BORDERLINE)**
    - ~90% share of G10-AsP MOCVD reactors — the InP/GaAs epi-tool monopolist
@@ -560,7 +560,7 @@ Six candidates warrant immediate full DD (Sections 1-6) within the next 30 days.
 ### Tier B — DD within 30 days
 
 4. **VECO — Veeco Instruments (NASDAQ, $3.52B, TIER 3 COMPOUNDER)**
-   - Already in Archos as supplier-mapping WATCH; the May 2026 8-K SiPh language has now crystallized the thesis
+   - Already in Archos Equities as supplier-mapping WATCH; the May 2026 8-K SiPh language has now crystallized the thesis
    - $250M order book for InP laser tools (per CANDIDATE_UNIVERSE.md)
    - **Already partially scoped** — DD work should be additive to existing WATCH file
    - **Critical DD priorities:** Section 2.6 China BIS revenue concentration risk (the AXTI-RAL parallel); Section 5.5 SiPh-segment carveout in next 10-Q
@@ -664,7 +664,7 @@ Confirmed empty (per Supply Chain Gaps section above): Layers 1 (US sub-$5B subs
 
 ### 3. Framework-rejected-but-compelling names?
 
-**SOI / Soitec** is the candidate that the strict 4-filter framework might have under-weighted (Euronext primary listing carries the foreign-handicap that has historically reduced conviction in Archos). But the substrate-supplier-to-three-foundries position is structurally similar to a load-bearing chokepoint pure-play. **Recommend: do NOT reject; instead document foreign-handicap explicitly and run full DD with awareness that the OTC ADR (SLOIY) liquidity caveat may limit position sizing rather than rejecting the candidate.**
+**SOI / Soitec** is the candidate that the strict 4-filter framework might have under-weighted (Euronext primary listing carries the foreign-handicap that has historically reduced conviction in Archos Equities). But the substrate-supplier-to-three-foundries position is structurally similar to a load-bearing chokepoint pure-play. **Recommend: do NOT reject; instead document foreign-handicap explicitly and run full DD with awareness that the OTC ADR (SLOIY) liquidity caveat may limit position sizing rather than rejecting the candidate.**
 
 **AIXTRON** at $4.9B USD is at the cap threshold — strict-application might disqualify as borderline graduation. But the 90% MOCVD share is a structural chokepoint position. **Recommend: include with explicit "entry-window-closing" risk flag in position sizing decision.**
 
@@ -677,7 +677,7 @@ Confirmed empty (per Supply Chain Gaps section above): Layers 1 (US sub-$5B subs
 - BURU (Nuburu) — REJECT — industrial laser end-market
 - LASE (Laser Photonics) — REJECT — industrial cleaning laser
 - RKLY (Rockley) — bankrupt 2023, biosensing pivot
-- OPTX (Syntec Optics) — already in Archos WATCH; the only photonics de-SPAC with material AI-adjacent positioning
+- OPTX (Syntec Optics) — already in Archos Equities WATCH; the only photonics de-SPAC with material AI-adjacent positioning
 
 **Phase 6 insight:** The 2022-2023 photonics de-SPAC cohort was structurally dominated by industrial-laser + biosensing thesis. AI-DC photonics did NOT use the SPAC channel — the private companies (Ayar, Lightmatter, OpenLight) waited for traditional IPO routes. This means the AI-DC photonics IPO window opens cleanly in 2026-2028.
 
@@ -835,7 +835,7 @@ SCAN_04 (2026-05-27) declared chokepoint #8 (800G+/1.6T transceivers / AECs / Se
 
 [hypothesis: 1, last: 2026-05-28] [structural]
 
-3 of the 6 DD QUEUE candidates are foreign-listed (SOI/SLOIY, AIXA/AIXXF, 6754.T). Prior Archos convention treated foreign-listing as a binary reduction in conviction. This sweep's signal-quality analysis suggests **foreign-handicap should be a position-sizing input — reduce position size 30-50% — not a binary disqualifier**. The signal-quality on Soitec (substrate supplier to all three SiPh foundries) is high enough that strict rejection would forfeit one of the cleanest CPO-adjacent positions in the universe.
+3 of the 6 DD QUEUE candidates are foreign-listed (SOI/SLOIY, AIXA/AIXXF, 6754.T). Prior Archos Equities convention treated foreign-listing as a binary reduction in conviction. This sweep's signal-quality analysis suggests **foreign-handicap should be a position-sizing input — reduce position size 30-50% — not a binary disqualifier**. The signal-quality on Soitec (substrate supplier to all three SiPh foundries) is high enough that strict rejection would forfeit one of the cleanest CPO-adjacent positions in the universe.
 
 **How to apply:** Update DUE_DILIGENCE_CHECKLIST.md and DISCOVERY_PROMPT.md to formalize "foreign-handicap discount factor" as a position-sizing input parameter rather than an inclusion gate. Sounding Board call required.
 

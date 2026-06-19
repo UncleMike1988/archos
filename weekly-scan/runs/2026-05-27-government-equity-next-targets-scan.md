@@ -2,7 +2,7 @@
 
 **Run date:** 2026-05-27
 **Scan purpose:** Identify SUB-$5B publicly traded companies most likely to receive the NEXT round of Trump administration equity stake or strategic investment in the next 6-12 months. The signal target is the **Intel pattern** (existing contracts → equity progression) combined with **explicit policy gaps** named in administration statements.
-**Framework applicable:** Archos v2.0 four-filter + H10-extended sector-conditional bellwether (H10-M Critical Minerals, H10-N Nuclear, H10-D Defense)
+**Framework applicable:** Archos Equities v2.0 four-filter + H10-extended sector-conditional bellwether (H10-M Critical Minerals, H10-N Nuclear, H10-D Defense)
 **Real-time prices verified:** 2026-05-27 via web search (stockanalysis.com, stocktitan, companiesmarketcap, public.com). All caps below cross-checked.
 **Author note:** All Trump administration equity stakes documented in Phase 1+2 portfolio map (Intel, MP Materials, USA Rare Earth, Lithium Americas, ATALCO/Atlantic Alumina, Trilogy Metals, Vulcan Elements [private], L3Harris Missile Solutions [pre-IPO], IBM Anderon, GlobalFoundries, D-Wave, Rigetti, Infleqtion, Atom Computing, Quantinuum [pre-IPO], PsiQuantum [private], Diraq [private]). This scan targets candidates NOT yet on that list.
 
@@ -33,7 +33,7 @@
 | Recent 8-K (90d) | Q1 2026 8-K (5/14/26) confirms $12.8M DoW grant cash receipt; multiple expansion 8-Ks Q1-Q2 2026 |
 | Congressional / WH activity 2025-26 | **$130K paid to Cassidy & Associates lobbying firm** Nov 2024-2025 (per OpenSecrets / Mining.com); CEO Gary Evans public posture pro-engagement; "America's brownfield antimony play" 5/25/26 press tour |
 | DPA/EXIM/DOE pipeline named? | **YES** — DPA Title III recipient (the canonical named gap; antimony explicitly cited by Pentagon as Project Vault stockpile mineral) |
-| Archos framework status | NOT YET in CANDIDATE_UNIVERSE.md (only DOCUMENT-only reference per Screen 9 anti-validation case 2026-05-28). **Suggest: TIER 2 CATALYST WATCH with H3 sell-into-strength caveat**. Cap ~$1.3B = TIER 2. |
+| Archos Equities framework status | NOT YET in CANDIDATE_UNIVERSE.md (only DOCUMENT-only reference per Screen 9 anti-validation case 2026-05-28). **Suggest: TIER 2 CATALYST WATCH with H3 sell-into-strength caveat**. Cap ~$1.3B = TIER 2. |
 | Sub-$5B status | **HARD PASS** at $1.3-1.57B (well under) |
 | LEAPS availability | **YES** — UAMY has Jan 2027 and Jan 2028 options chains; Robinhood/CBOE confirmed |
 | **Gov-equity probability** | **HIGH** — Already at the "DPA grant + DLA IDIQ" stage that preceded MP Materials' equity conversion. CEO publicly stated preference for grants over dilutive equity, but Pentagon equity-stake model has been imposed (not negotiated) on USA Rare Earth and others. The lobbying spend + sole-US-producer status + explicit Project Vault inclusion makes UAMY the **single most likely next critical-minerals equity stake**. Caveat: H3 insider sell pattern firing in real time (KOPN/MRAM-class extraction during high-profile catalyst) per CANDIDATE_UNIVERSE.md Screen 9 anti-validation. |
@@ -49,7 +49,7 @@
 | Recent 8-K (90d) | Multiple Q1-Q2 2026 8-Ks on EXIM progress + $100M public offering close; mine portal construction to begin Dec 2026 |
 | Congressional / WH activity 2025-26 | Per company April 2026 presentation: "EXIM operating at Trump speed", priority designation. Senator Pete Ricketts (NE) supportive. |
 | DPA/EXIM/DOE pipeline named? | **YES, twice** — DPA Title III recipient + EXIM $780M pipeline advancing; the canonical "loan → equity conversion" candidate |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md currently. **Suggest: TIER 1 NANO or TIER 2 CATALYST WATCH** (cap depends on intraday verification — $95M would be TIER 1 NANO; $888M would be TIER 2 CATALYST). |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md currently. **Suggest: TIER 1 NANO or TIER 2 CATALYST WATCH** (cap depends on intraday verification — $95M would be TIER 1 NANO; $888M would be TIER 2 CATALYST). |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | LIKELY YES — Jan 2027 and Jan 2028 chains active per Robinhood. Lower liquidity than UAMY. |
 | **Gov-equity probability** | **HIGH** — Of all critical minerals candidates, NioCorp has the largest pending EXIM loan ($780M) which exactly fits the Lithium Americas template (loan → equity stake when LPO/EXIM converts to equity participation). Scandium is military-grade (Lockheed-named); niobium is on Project Vault list. Equity conversion pattern shape matches LAC most closely of all candidates. |
@@ -65,7 +65,7 @@
 | Recent 8-K (90d) | Greenland government final 50.5% transfer approval 4/17/26; $30M acceleration program 5/4/26; Trump administration stake discussions reportedly active since late 2025 |
 | Congressional / WH activity 2025-26 | Trump annexation rhetoric on Greenland publicly; stock spiked 150% in January; explicit government attention |
 | DPA/EXIM/DOE pipeline named? | **YES** — already in active equity stake negotiation per Reuters / Mining.com / ArcticToday (the $50M DPA → 8% conversion is the literal mechanism) |
-| Archos framework status | In CANDIDATE_UNIVERSE.md per Master-Screen WATCH (TIER 2 CATALYST) with triple cross-screen confluence catalyst. |
+| Archos Equities framework status | In CANDIDATE_UNIVERSE.md per Master-Screen WATCH (TIER 2 CATALYST) with triple cross-screen confluence catalyst. |
 | Sub-$5B status | **HARD PASS** but consuming entry window quickly (+26% WoW) |
 | LEAPS availability | YES — Jan 2027 and Jan 2028 options confirmed |
 | **Gov-equity probability** | **HIGH** — The equity conversion is **already in active negotiation** (publicly reported by Reuters 2026-01). Probability of formal closing in next 6 months ~75% absent geopolitical disruption. Closing event will likely trigger the canonical Pentagon-stake re-rate observed in MP / USAR / LAC. |
@@ -81,7 +81,7 @@
 | Recent 8-K (90d) | $85M 2026 exploration / permitting / road budget; Arctic mine permit application 2026 target; FAST-41 pathway active |
 | Congressional / WH activity 2025-26 | Trump EO directly addressed Ambler Road; Alaska delegation (Murkowski/Sullivan/Begich) supportive |
 | DPA/EXIM/DOE pipeline named? | **YES, equity already taken (10% + 7.5% warrants)** |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Calibration case** for "already received stake" — observe whether follow-on equity (warrant conversion or expanded financing for Arctic mine permitting / Ambler Road project finance) materializes. |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Calibration case** for "already received stake" — observe whether follow-on equity (warrant conversion or expanded financing for Arctic mine permitting / Ambler Road project finance) materializes. |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | NO — sub-$1B cap with NYSEAM listing; options chain very thin; NOT viable LEAPS candidate |
 | **Gov-equity probability** | **HIGH for follow-on** — Pentagon could expand the 10% via warrant conversion (additional 7.5%) and/or project finance the $85M+ Ambler Road. Already-received-equity does NOT eliminate further investment; MP Materials received DoD investment July 2025 and is already discussing additional financing for 10X Facility. |
@@ -99,7 +99,7 @@
 | Recent 8-K (90d) | Geiger Brothers Piketon OH construction contract April 2026; FLR as EPC; $3.8B backlog; 2026 guidance $425-475M revenue |
 | Congressional / WH activity 2025-26 | UPRISE initiative March 2026 references LEU (Lightbridge commendation); explicit Trump nuclear-reactor commentary |
 | DPA/EXIM/DOE pipeline named? | **YES — DOE direct customer with $900M task order pending** |
-| Archos framework status | In CANDIDATE_UNIVERSE.md as **Phase 3 winner** (chokepoint #11 Nuclear I&C/Fuel Fabrication; canonical sub-$5B HALEU pure-play). Government-equity lens **upgrades** to TIER 1 next-target status. |
+| Archos Equities framework status | In CANDIDATE_UNIVERSE.md as **Phase 3 winner** (chokepoint #11 Nuclear I&C/Fuel Fabrication; canonical sub-$5B HALEU pure-play). Government-equity lens **upgrades** to TIER 1 next-target status. |
 | Sub-$5B status | **HARD PASS** (just under, at $3.65-4.07B) |
 | LEAPS availability | **YES** — robust Jan 2027 and Jan 2028 chains |
 | **Gov-equity probability** | **HIGH** — The $900M task order conversion to definitive contract is itself a quasi-equity-stake mechanism. Probability the DOE converts a portion to equity (similar to Lithium Americas' loan-to-equity conversion) is materially elevated given the Trump explicit-nuclear-reactor commentary and the strategic primacy of HALEU. **Single best risk-adjusted pre-positioning in the nuclear lens.** |
@@ -115,7 +115,7 @@
 | Recent 8-K (90d) | 5/6/26 Supermicro MOU; DOE Energy & Power Summit Defense Strategies Institute 7/2025 sponsorship |
 | Congressional / WH activity 2025-26 | Active Defense Strategies Institute presence; DOE relationship documented |
 | DPA/EXIM/DOE pipeline named? | **YES** — DOE LEU Acquisition Program awardee |
-| Archos framework status | In CANDIDATE_UNIVERSE.md as **WATCH** (Nuclear lens). Government-equity lens **upgrades to TIER 1 NANO**. |
+| Archos Equities framework status | In CANDIDATE_UNIVERSE.md as **WATCH** (Nuclear lens). Government-equity lens **upgrades to TIER 1 NANO**. |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **YES** — Jan 2027 and Jan 2028 chains confirmed |
 | **Gov-equity probability** | **MEDIUM-HIGH** — pre-revenue moonshot risk (no commercial production, R&D stage) is the headwind. But the $3.4B aggregate DOE program participation + Supermicro MOU + AI-DC narrative + microreactor uniqueness make this the **canonical sub-$2B SMR pure-play that fits the L3Harris-spinoff equity-template**. Probability of DPA Title III or DOE loan award (with potential equity conversion) within 6-12 months: HIGH. Probability of immediate equity stake without intermediate loan step: MEDIUM. |
@@ -131,7 +131,7 @@
 | Recent 8-K (90d) | First commercial shipments Si-28 / C-14 / Yb-176 expected 2026; isotope-business inflection +475% YoY FY25 |
 | Congressional / WH activity 2025-26 | Quantum Leap Energy positioning at HALEU + Si-28 nexus |
 | DPA/EXIM/DOE pipeline named? | NOT YET via dollar-disclosed DOE program (the MOU is European); BUT Si-28 is on the CHIPS R&D bidding surface |
-| Archos framework status | In CANDIDATE_UNIVERSE.md TIER 2 CATALYST (Nuclear chokepoint #11 + Si-28 cross-positioning). Government-equity lens **maintains TIER 2 CATALYST**. |
+| Archos Equities framework status | In CANDIDATE_UNIVERSE.md TIER 2 CATALYST (Nuclear chokepoint #11 + Si-28 cross-positioning). Government-equity lens **maintains TIER 2 CATALYST**. |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **YES** — Jan 2027 and Jan 2028 chains confirmed |
 | **Gov-equity probability** | **MEDIUM** — Si-28 + Yb-176 (quantum-relevant) crossover to CHIPS R&D Office territory makes ASPI a dark-horse "second wave quantum CHIPS LOI" candidate. Primary near-term probability is DOE HALEU award conversion. Less mature than LEU, more diverse than NNE. |
@@ -151,7 +151,7 @@
 | Recent 8-K (90d) | Vulcan Elements MOU March 2026 for magnet supply chain; Ucore Phase 1 acceptance February 2026 |
 | Congressional / WH activity 2025-26 | LA / Alaska delegation supportive; Phase 1 acceptance has positive DoD imprimatur |
 | DPA/EXIM/DOE pipeline named? | **YES** — DoD multi-tranche awards |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md currently. **Suggest: TIER 1 NANO WATCH** (OTCQX listing handicap; not Robinhood-tradeable for retail; foreign filer risk per CHOKEPOINT_TAXONOMY.md ELBM-class). |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md currently. **Suggest: TIER 1 NANO WATCH** (OTCQX listing handicap; not Robinhood-tradeable for retail; foreign filer risk per CHOKEPOINT_TAXONOMY.md ELBM-class). |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **NO** — OTC, no options chain at this cap level |
 | **Gov-equity probability** | **MEDIUM-HIGH** for follow-on DoD award; **MEDIUM** for equity stake — the OTC listing limits Pentagon's ability to take a Nasdaq/NYSE common-equity stake. More likely path: Vulcan Elements partnership becomes formalized into joint LOI w/ government. |
@@ -167,7 +167,7 @@
 | Recent 8-K (90d) | Brook Mine pilot processing plant construction; Q1 2026 net loss -$18.3M; revised conceptual study late June 2026 |
 | Congressional / WH activity 2025-26 | Direct Secretary of Energy attendance at ribbon-cutting; bipartisan Wyoming delegation support |
 | DPA/EXIM/DOE pipeline named? | NOT YET via dollar-disclosed DPA award (state grant only); but DOE Sec. Wright direct attendance is the **highest-grade political signal** of any sub-$1B critical minerals name in this scan |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 2 CATALYST WATCH** with caveat that metallurgical coal core dilutes pure-play REE thesis (H8 end-market test risk). |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 2 CATALYST WATCH** with caveat that metallurgical coal core dilutes pure-play REE thesis (H8 end-market test risk). |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **YES** — Jan 2027 chain; Jan 2028 less liquid |
 | **Gov-equity probability** | **MEDIUM** — direct Sec. of Energy attendance at ribbon-cutting + bipartisan support + REE-from-coal narrative match Wyoming-focused administration priorities. Probability of DPA Title III or DOE LPO award within 6-12 months: HIGH; probability of equity stake conversion: MEDIUM (mixed-commodity company makes the Pentagon-style pure-play equity stake template harder to apply). |
@@ -183,7 +183,7 @@
 | Recent 8-K (90d) | 7-project exploration program 2026; 17.6% TREO grade at Cardinal prospect (Mineral Hill); DOE project award 5/19/26 |
 | Congressional / WH activity 2025-26 | Idaho congressional delegation (Crapo/Risch/Simpson/Fulcher) supportive; INL partnership |
 | DPA/EXIM/DOE pipeline named? | **YES** — DOE FOA 3105 selection |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO WATCH** with REE-and-gold dual-product caveat. |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO WATCH** with REE-and-gold dual-product caveat. |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | LIMITED — NYSE American listing; options chain present but thin |
 | **Gov-equity probability** | **MEDIUM** — DOE FOA 3105 is research-stage funding (not direct equity); position size constraint; gold producer cash flow makes equity-stake template less natural. Probability of DPA Title III: MEDIUM; probability of equity stake: LOW-MEDIUM within 12 months. |
@@ -199,7 +199,7 @@
 | Recent 8-K (90d) | $299M Australian Strategic Materials acquisition signed Jan 2026; dysprosium produced for Korean auto OEM Dec 2025; $927M+ working capital; $700M convertible notes |
 | Congressional / WH activity 2025-26 | Bipartisan support; NNSA uranium reserve participant |
 | DPA/EXIM/DOE pipeline named? | **YES** — NNSA Uranium Reserve participant; not yet DPA Title III named for REE side specifically |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md as active candidate. **Borderline H8 ceiling**. Track as **TIER 3 COMPOUNDER WATCH** with cap-graduation flag. |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md as active candidate. **Borderline H8 ceiling**. Track as **TIER 3 COMPOUNDER WATCH** with cap-graduation flag. |
 | Sub-$5B status | **BORDERLINE** — within 1-25% of $5B cap; likely breach within 30-90 days if rerate continues |
 | LEAPS availability | **YES** — robust chain |
 | **Gov-equity probability** | **MEDIUM** — has cash position and access to capital so does not need equity injection; less likely to be Pentagon target. DFARS deadline + Pentagon price floor + mill uniqueness gives strategic positioning; could see DPA award rather than equity. |
@@ -215,7 +215,7 @@
 | Recent 8-K (90d) | 5/2026 NOAA full compliance determination; first-ever consolidated USA application 1/22/26; 200 Mt exploration upside |
 | Congressional / WH activity 2025-26 | EO directly named; DSHMRA EO directly facilitates TMC's pathway |
 | DPA/EXIM/DOE pipeline named? | **YES via EO** but **NO equity stake yet**; explicit pipeline candidate |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 2 CATALYST WATCH** with deep-sea-mining regulatory-risk caveat (international objections, environmental). |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 2 CATALYST WATCH** with deep-sea-mining regulatory-risk caveat (international objections, environmental). |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **YES** — Jan 2027 and Jan 2028 chains confirmed |
 | **Gov-equity probability** | **MEDIUM-HIGH** — Trump EO mentioned offtake agreements specifically; final permit decision Q1 2027 = canonical trigger event. Probability of DPA Title III / DOE offtake / Pentagon equity within 12 months: MEDIUM-HIGH. Watch for: NOAA final permit + Pentagon offtake signal cluster. |
@@ -235,7 +235,7 @@
 | Recent 8-K (90d) | FAST-41 acceptance; permitting advancement; multiple permitting 8-Ks |
 | Congressional / WH activity 2025-26 | Alabama delegation supportive; FAST-41 federal coordination |
 | DPA/EXIM/DOE pipeline named? | **PARTIAL** — FAST-41 acceptance is the precursor step; not yet a DPA dollar award |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO MONITOR** (no commercial production, pre-revenue) |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO MONITOR** (no commercial production, pre-revenue) |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | NO — sub-$100M cap, NYSE American, no liquid LEAPS |
 | **Gov-equity probability** | **LOW-MEDIUM** — pre-revenue moonshot risk; competing graphite candidates (GPHOF private-leaning, larger players); FAST-41 alone isn't DPA dollar. Wait for DPA Title III award before promotion. |
@@ -251,7 +251,7 @@
 | Recent 8-K (90d) | FAST-41 permitting updates 2026 |
 | Congressional / WH activity 2025-26 | Alaska delegation; FAST-41 federal pathway |
 | DPA/EXIM/DOE pipeline named? | **YES** — DPA Title III $37.5M (the canonical small-cap critical minerals recipient template) |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO MONITOR** (OTC listing handicap; not Robinhood-tradeable for retail; foreign filer risk). |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO MONITOR** (OTC listing handicap; not Robinhood-tradeable for retail; foreign filer risk). |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **NO** — OTC PINK, no options chain |
 | **Gov-equity probability** | **LOW-MEDIUM** — has DPA award but OTC listing limits Pentagon equity stake template. Pathway is more likely: follow-on DPA Title III award or DOE LPO. Tradeable via TSX.V (foreign listing handicap). |
@@ -267,7 +267,7 @@
 | Recent 8-K (90d) | Sangdong Phase 1 commissioning (40% of global non-China supply at full capacity); HQ relocation; Gentung Montana acquisition |
 | Congressional / WH activity 2025-26 | Montana delegation (Daines/Sheehy/Zinke) supportive given Dillon presence; HQ move is signal of intent to engage with U.S. govt |
 | DPA/EXIM/DOE pipeline named? | NOT YET via dollar-disclosed award; tungsten on Project Vault list; positioning is pre-equity-stake |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 3 COMPOUNDER MONITOR** with foreign-listed-historical-status caveat. |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 3 COMPOUNDER MONITOR** with foreign-listed-historical-status caveat. |
 | Sub-$5B status | **BORDERLINE / HARD PASS** depending on intraday verification |
 | LEAPS availability | **YES** — Nasdaq listing post-July 2025 IPO, chain developing |
 | **Gov-equity probability** | **MEDIUM** — Sangdong is in South Korea (limits direct DPA-Title-III applicability for U.S. domestic-content rules); Gentung Montana is the U.S. domestic angle but pre-production. HQ relocation is the canonical lobbying signal but Pentagon equity stake template depends on U.S. domestic production. Probability: MEDIUM in 12 months conditional on Gentung Montana production milestones. |
@@ -283,7 +283,7 @@
 | Recent 8-K / 6-K (90d) | Commissioning Q4 2026 (verified per CANDIDATE_UNIVERSE.md); senior officer board appointment |
 | Congressional / WH activity 2025-26 | Senior officer pedigree |
 | DPA/EXIM/DOE pipeline named? | **YES — $20M DoD DPA Title III award (pre-revenue moonshot)** |
-| Archos framework status | **In CANDIDATE_UNIVERSE.md per Screen 9 2026-05-28 as MONITOR (not WATCH)**. Pre-revenue moonshot blind spot + Canadian filer handicap. |
+| Archos Equities framework status | **In CANDIDATE_UNIVERSE.md per Screen 9 2026-05-28 as MONITOR (not WATCH)**. Pre-revenue moonshot blind spot + Canadian filer handicap. |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | **NO** — small cap + 6-K filer + Canadian primary listing |
 | **Gov-equity probability** | **LOW-MEDIUM** — Canadian-listed primary limits direct U.S. equity-stake template; possible follow-on DPA Title III. |
@@ -299,7 +299,7 @@
 | Recent 8-K (90d) | Aurora Uranium Project drill program July 2026 commence; multiple post-merger filings |
 | Congressional / WH activity 2025-26 | None disclosed |
 | DPA/EXIM/DOE pipeline named? | **NO** |
-| Archos framework status | In CANDIDATE_UNIVERSE.md WATCH (Nuclear). |
+| Archos Equities framework status | In CANDIDATE_UNIVERSE.md WATCH (Nuclear). |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | LIMITED — recent listing |
 | **Gov-equity probability** | **LOW** — no disclosed gov relationship + de-SPAC + pre-revenue moonshot. Speculative. |
@@ -315,7 +315,7 @@
 | Recent 8-K (90d) | Stern Laboratories engineering contract March 2026; Canadian + EU patent allowances |
 | Congressional / WH activity 2025-26 | UPRISE initiative direct relevance |
 | DPA/EXIM/DOE pipeline named? | **PARTIAL** — framework agreements with INL but no direct dollar DPA/DOE award yet |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO MONITOR** (pre-revenue moonshot R&D stage) |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 1 NANO MONITOR** (pre-revenue moonshot R&D stage) |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | LIMITED — small cap, options chain present but thin |
 | **Gov-equity probability** | **LOW-MEDIUM** — pre-revenue R&D stage; INL framework agreements are research, not commercial. Pathway is multi-year. |
@@ -331,7 +331,7 @@
 | Recent 8-K (90d) | $100M CHIPS LOI 5/21/26 (closed +31.44% on day); SPAC merger Feb 2026 |
 | Congressional / WH activity 2025-26 | CHIPS Act direct beneficiary |
 | DPA/EXIM/DOE pipeline named? | **YES — equity stake already taken** |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 3 COMPOUNDER MONITOR** post-equity-stake. |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Suggest: TIER 3 COMPOUNDER MONITOR** post-equity-stake. |
 | Sub-$5B status | **HARD PASS** |
 | LEAPS availability | LIMITED — newly listed; chain developing |
 | **Gov-equity probability** | **CALIBRATION CASE** — already received equity stake. Watch for follow-on (Round 2 quantum LOIs likely coming based on portfolio approach commentary). |
@@ -347,7 +347,7 @@
 | Recent 8-K (90d) | 8-K 5/21/26 LOI signing; Q1 2026 reported |
 | Congressional / WH activity 2025-26 | CHIPS direct beneficiary |
 | DPA/EXIM/DOE pipeline named? | **YES — equity stake already taken** |
-| Archos framework status | NOT in CANDIDATE_UNIVERSE.md. **Calibration case**. |
+| Archos Equities framework status | NOT in CANDIDATE_UNIVERSE.md. **Calibration case**. |
 | Sub-$5B status | **BORDERLINE / OVER** depending on intraday print |
 | LEAPS availability | **YES** — robust chain |
 | **Gov-equity probability** | **CALIBRATION CASE** — already received. Cap moving rapidly. |
@@ -380,9 +380,9 @@
 
 ---
 
-## Already-in-Archos Cross-Reference Table
+## Already-in-Archos Equities Cross-Reference Table
 
-| Ticker | Existing Archos Tier | Gov-Equity Lens Impact |
+| Ticker | Existing Archos Equities Tier | Gov-Equity Lens Impact |
 |---|---|---|
 | **LEU** | TIER 3 COMPOUNDER (Phase 3 winner per CHOKEPOINT_TAXONOMY.md proposed chokepoint #11) | **UPGRADE** to TIER 1 in gov-equity scan — DOE $900M task order conversion + Trump's "possibly a nuclear reactor company" framing |
 | **NNE** | TIER 1 NANO WATCH per CHOKEPOINT_TAXONOMY.md (Nuclear chokepoint #11) | **MAINTAIN TIER 1 NANO** — DOE LEU Acquisition Program + Supermicro MOU. Pre-revenue moonshot is structural cap. |

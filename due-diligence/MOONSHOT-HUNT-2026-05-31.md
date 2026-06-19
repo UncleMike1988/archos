@@ -20,7 +20,7 @@ left-for-dead-semicap-on-an-AI-inflection shape that produced AEHR, AXTI and ONT
 runner-up, materially different in sector and worth its own full DD, is
 **TLS — Telos (Nasdaq, ~$348M)**, a federal-security/identity name growing **+56%** on a
 TSA-PreCheck ramp with a FedRAMP-High AI-compliance optionality (Xacta). The split between
-them is the now-familiar Archos one: **ASYS is the higher-torque chokepoint moonshot; TLS is
+them is the now-familiar Archos Equities one: **ASYS is the higher-torque chokepoint moonshot; TLS is
 the faster-growing, higher-revenue, more-bankable name whose "AI" label is softer.** Both are
 equity-only. Both pass the fraud gate cleanly. Neither is perfect — and the two subagent
 claims that most needed correcting (that *either* had insider *buying*) were both wrong: every
@@ -112,7 +112,7 @@ both are below.
 # PART 2 — WHY ASYS WINS (the case in three paragraphs)
 
 **It is the one clean, still-sub-$500M instance of the highest-conviction moonshot shape in
-the whole Winner Universe.** Every great Archos-archetype moonshot of this cycle — AXTI, AEHR,
+the whole Winner Universe.** Every great Archos Equities-archetype moonshot of this cycle — AXTI, AEHR,
 NVTS, ONTO — was a small, ignored, *real* semiconductor-equipment or -materials company that
 the market had stopped watching, sitting one layer under an AI bottleneck, that re-rated
 violently when a fresh demand driver showed up in the bookings. ASYS is that, today: a 14.4M-
@@ -806,7 +806,7 @@ run the move this hunt is looking for.*
 ---
 
 *These are research findings and ranked leads for the operator to investigate — not buy calls, not
-sized, not a decision. Archos finds and analyzes; the operator decides what to buy, how much, and
+sized, not a decision. Archos Equities finds and analyzes; the operator decides what to buy, how much, and
 when. The single best sub-$500M asymmetric equity bet surfaced by this hunt is **ASYS**, with
 **TLS** the materially-different runner-up; both are equity-only, both pass the fraud gate, and the
 honest flaws of each are named in full above. Caps/prices verified against 5/29/2026 tape and SEC

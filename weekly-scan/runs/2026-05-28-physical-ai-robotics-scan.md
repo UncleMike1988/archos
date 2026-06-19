@@ -1,7 +1,7 @@
 # Physical AI / Robotics Chokepoint Scan — 2026-05-28
 
 **Scan prompt:** `research/prompts/SCAN_PHYSICAL_AI_ROBOTICS.md` (new sector lens discovery)
-**Framework:** Archos v2.0 (sector-conditional H10-extended; tiered H8; PARTIAL-RECOVERING H5; balance-sheet primary discovery layer)
+**Framework:** Archos Equities v2.0 (sector-conditional H10-extended; tiered H8; PARTIAL-RECOVERING H5; balance-sheet primary discovery layer)
 **Lens-conditional bellwether class:** **H10-R "Physical AI / Humanoid Robotics"** — proposed (parallels H10-D/H10-N/H10-M/H10-P/H10-G).
 **Trigger:** binding supply agreement with Tesla / Figure / Apptronik / Boston Dynamics / 1X / Unitree / Fourier / UBTECH, OR NVIDIA Isaac certification, OR named supplier in a humanoid OEM's BOM/teardown, OR multi-customer aggregation across ≥3 named humanoid developers (MIR-template multi-customer chokepoint validation).
 **Calibration case:** VPG (Vishay Precision Group) — already ran 5x on this thesis; +$1.0M Q1 2026 humanoid bookings, 4th developer in engineering discussions; CEO calls 2026 "pivotal year" for Physical AI.
@@ -35,7 +35,7 @@ Mapped against Tesla Optimus, Figure 02, 1X NEO, Apptronik Apollo, Boston Dynami
 | 17 | **Voice / mic array** | HMI | 4-8 | Knowles (KN), Goertek, AAC, Cirrus Logic | Mid-concentrated | None pure-play |
 | 18 | **Wire harness / slip rings / connectors** | Articulated routing | extensive | Molex (private), TE Connectivity, Amphenol, Harting (private), MOOG | Mega-cap dominant | None pure-play |
 
-**Structural finding:** The most-concentrated chokepoints (#2 harmonic reducers, #3 cycloidal reducers, #4 planetary roller screws) are **structurally non-U.S.-investable** at the sub-$5B level. Japanese leaders (Harmonic Drive 6324.TYO, Nabtesco 6268.TYO, Yaskawa 6506.TYO, SMC 6273.TYO, Fanuc 6954.TYO) trade as **OTC-only sponsored ADRs** (YASKY, SMCAY, HSYDF) — auto-REJECT per Archos NLST precedent. The chokepoint **logic** is real; the chokepoint **ownership** is locked to Tokyo/Taipei/Shanghai. **The U.S. sub-$5B robotics surface skews toward the sensing / perception / haptics sub-chokepoint, not the actuator sub-chokepoint.**
+**Structural finding:** The most-concentrated chokepoints (#2 harmonic reducers, #3 cycloidal reducers, #4 planetary roller screws) are **structurally non-U.S.-investable** at the sub-$5B level. Japanese leaders (Harmonic Drive 6324.TYO, Nabtesco 6268.TYO, Yaskawa 6506.TYO, SMC 6273.TYO, Fanuc 6954.TYO) trade as **OTC-only sponsored ADRs** (YASKY, SMCAY, HSYDF) — auto-REJECT per Archos Equities NLST precedent. The chokepoint **logic** is real; the chokepoint **ownership** is locked to Tokyo/Taipei/Shanghai. **The U.S. sub-$5B robotics surface skews toward the sensing / perception / haptics sub-chokepoint, not the actuator sub-chokepoint.**
 
 ---
 
@@ -49,7 +49,7 @@ Full universe of sub-$5B U.S.-listed (Nasdaq / NYSE / NYSE American — no OTC) 
 | **ALNT** | Nasdaq | **$1.08B** | TIER 2 CATALYST | **FLAG** — Apr 23, 2026 humanoid motor whitepaper + May 19, 2026 "thermally-optimized humanoid joints" webinar + Robotics Summit 2026 demo. NO BINDING OEM CUSTOMER NAMED YET. | **FAIL** — Allient is broad precision motion (industrial + medical + aerospace + vehicle); robotics is one segment | **NEUTRAL/IGNORED** — boring industrial supplier; $61.80, +1Y modest; coverage thin | **PASS** — profitable, $44.28 P/E | **TIER 2 WATCH** — strongest "next VPG" candidate by pattern fit. Re-eval trigger: named humanoid OEM customer 8-K (Tesla/Figure/Apptronik). |
 | **CEVA** | Nasdaq | **$1.09B** | TIER 2 CATALYST | **FLAG** — Self-described "leader in silicon and software IP enabling Physical AI"; 14 IP licensing deals Q1'26; AI >20% of licensing. No named humanoid OEM. | **FAIL** — IP licensing spans mobile, IoT, auto, robotics; robotics is forward-mix | **NEUTRAL** — recovered from 2024 lows | **PASS** | **TIER 2 WATCH** — IP-licensing chokepoint angle (different from VPG's hardware angle). Re-eval trigger: AI/Physical-AI licensing >40% of total. |
 | **OUST** | Nasdaq | **$2.83B** | TIER 3 COMPOUNDER | **PASS** — Self-described "leader in sensing and perception for Physical AI"; NVIDIA DRIVE Hyperion qualified; Stereolabs acquisition; explicit humanoid mention in 10-K | **PARTIAL** — auto + smart infra + industrial + robotics; "Physical AI platform" repositioning suggests >40% mix but verify | **PARTIAL** — 52w $10.36 → $44.46 (+4.3x); rerate underway but not LOVED-extreme | **PARTIAL** — narrowing losses, post-Velodyne consolidation cash | **TIER 3 WATCH** — needs robotics revenue-mix verification before promotion. Re-eval trigger: 10-Q segment disclosure of Physical AI / robotics share. |
-| **AMBA** | Nasdaq | **$3.85-4.10B** | TIER 3 COMPOUNDER | **FLAG** — Vision SoC referenced as Tesla Optimus vision and in 10-K humanoid context; multiple ETF inclusion (ROBO + THNQ) | **PARTIAL** — auto / IoT camera / robotics mix; not pure-play | **PARTIAL** — recovered substantially from 2024 lows | **PASS** | **TIER 3 WATCH** — already partially-discovered (in earlier Archos scans + ETF holdings); document robotics exposure formally. |
+| **AMBA** | Nasdaq | **$3.85-4.10B** | TIER 3 COMPOUNDER | **FLAG** — Vision SoC referenced as Tesla Optimus vision and in 10-K humanoid context; multiple ETF inclusion (ROBO + THNQ) | **PARTIAL** — auto / IoT camera / robotics mix; not pure-play | **PARTIAL** — recovered substantially from 2024 lows | **PASS** | **TIER 3 WATCH** — already partially-discovered (in earlier Archos Equities scans + ETF holdings); document robotics exposure formally. |
 | **AEVA** | Nasdaq | **$0.84-1.70B** (volatile) | TIER 1-2 (range) | **PASS** — Q1'26 named three Physical AI commercial deployments (Forterra defense, Aeva CityOS ITS, **Nikon factory automation**); LG Innotek + NVIDIA partnerships | **PARTIAL** — auto primary but factory automation expansion confirmed | **PARTIAL-RECOVERING** — Q1 rev +90% YoY ($6.3M); stock +253% post-LiDAR contract intra-Q1 | **PARTIAL** — cash-burn but raised; verify runway | **TIER 2 WATCH** — FMCW differentiation + multi-vertical Physical AI commercialization. Re-eval trigger: factory-automation revenue mix; cash runway. |
 | **AMPX** | NYSE | **$2.17-2.27B** | TIER 3 COMPOUNDER | **FLAG** — Robotics named as target end-market in 10-K; primary today is defense aviation/UAV. Forward-looking. | **PARTIAL** — silicon-anode batteries broad EM; robotics is forward expansion | **PARTIAL** — down -29% from recent highs | **PASS** — Q1'26 record revenue + raised guidance | **TIER 3 WATCH** — silicon-anode play on humanoid energy-density binding constraint. Re-eval trigger: named humanoid OEM design-in. |
 | **INDI** | Nasdaq | **$1.00B** | TIER 2 CATALYST | **FLAG** — May 2026 8-K acquired ams OSRAM CMOS image sensor line "to support expansion into Physical AI… humanoid robots, cobots, AMRs" | **FAIL** — primarily automotive ADAS / EV semis; Physical AI is forward expansion | **PARTIAL** — recovered from $1.50s in 2024; now ~$5 | **PARTIAL** — narrowing losses; verify cash runway | **TIER 2 MONITOR** — Physical AI is one of several pivots. Document but do not promote until end-market test passes. |
@@ -66,7 +66,7 @@ Full universe of sub-$5B U.S.-listed (Nasdaq / NYSE / NYSE American — no OTC) 
 
 | Ticker | Reason |
 |---|---|
-| **PDYN** (Palladyne AI) | $333M; **already in Archos REJECT** per CANDIDATE_UNIVERSE.md (M&A pivot blind spot; ex-Sarcos reverse-merger). Pure-play embodied-AI software pattern superficially attractive but blind spot holds — no override. |
+| **PDYN** (Palladyne AI) | $333M; **already in Archos Equities REJECT** per CANDIDATE_UNIVERSE.md (M&A pivot blind spot; ex-Sarcos reverse-merger). Pure-play embodied-AI software pattern superficially attractive but blind spot holds — no override. |
 | **RR** (Richtech Robotics) | $630-733M; service-robot OEM with Nov 2024 humanoid pivot announcement = sector-pivot blind-spot pattern (FABC/VWAV/VDTA analog). H5 LOVED + promotional sentiment. |
 | **SERV** (Serve Robotics) | $687-702M; sidewalk delivery robots, not chokepoint hardware. H5 LOVED — sales +578% per Motley Fool; integrator not component pure-play. |
 | **KSCP** (Knightscope) | $45-49M; autonomous security robots; chronic dilution, integrator. |
@@ -77,7 +77,7 @@ Full universe of sub-$5B U.S.-listed (Nasdaq / NYSE / NYSE American — no OTC) 
 | **FFAI** (Faraday Future) | First-time "Robotics" segment in 10-Q matches balance-sheet signal pattern, BUT issuer is high-controversy EV reverse-merger; SHAZ-shape. REJECT per calibration. |
 | **BBAI, INOD** | Software/data labeling; not chokepoint hardware. INOD already documented as AI services not AI infra (REJECT per CANDIDATE_UNIVERSE.md). |
 | **GPUS, GGRP, NXNT, KITT, LCCC, LQMT** | Nano-cap pivot / de-SPAC shells with humanoid in PR-only branding. Cluster 8 risk. |
-| **OTC ADRs** (YASKY, NCTKY, SMCAY, HSYDF, HSYDY) | Yaskawa, Nidec, SMC, Harmonic Drive Systems — all OTC-only sponsored ADRs. **Auto-REJECT per Archos NLST precedent.** Document as foreign-listed structural gap. |
+| **OTC ADRs** (YASKY, NCTKY, SMCAY, HSYDF, HSYDY) | Yaskawa, Nidec, SMC, Harmonic Drive Systems — all OTC-only sponsored ADRs. **Auto-REJECT per Archos Equities NLST precedent.** Document as foreign-listed structural gap. |
 | **MEGA-CAPS / GRADUATED** | CGNX $11B, SYM $30B, MTD $30B, AVAV $9B, MBLY $8.48B, ABB, RBC $11B, NVDA, TSLA, ISRG, Keyence — all over cap. |
 
 **Total surfaced sub-$5B U.S.-listed candidates: 13 (TIER 1 NANO: 5 — LINK, IMMR, MVIS, VTIX, LIDR; TIER 2 CATALYST: 5 — VPG, ALNT, CEVA, INDI, AEVA; TIER 3 COMPOUNDER: 3 — OUST, AMBA, AMPX). Plus 2 TIER 4 SEGMENT candidates (NOVT, SYNA) just above $5B parent cap.**
@@ -207,7 +207,7 @@ Full universe of sub-$5B U.S.-listed (Nasdaq / NYSE / NYSE American — no OTC) 
 
 ---
 
-## Existing Archos Universe Cross-Reference
+## Existing Archos Equities Universe Cross-Reference
 
 Reviewed CANDIDATE_UNIVERSE.md entries (defense AI cluster + nano-cap AI cluster + chokepoint pure-plays + government-equity cluster + nuclear cluster + critical-minerals cluster) and CHOKEPOINT_TAXONOMY.md graduated pure-plays for untagged robotics exposure:
 
@@ -229,7 +229,7 @@ Reviewed CANDIDATE_UNIVERSE.md entries (defense AI cluster + nano-cap AI cluster
 | **MIR, LEU, NNE, ASPI, NUCL** | Nuclear cluster (proposed chokepoint #11) | No humanoid exposure | None |
 | **CRML, UAMY, NB, IDR, METC, UURAF, ALM, TMC** | Critical minerals + gov equity | Rare-earth magnets for humanoid actuators is a forward demand sink; tracked separately under H10-M / H10-G lens, not core H10-R | None for core robotics lens |
 
-**Conclusion:** **Only AMBA shows material untagged robotics exposure** within the existing Archos universe. The defense-AI cluster (AISP, SPAI, CTM, FEIM) is structurally adjacent (autonomy + sensor fusion + AI) but has not transitioned to humanoid-OEM customer disclosure. Defense-robotics adjacency (counter-UAS, ground robots, exoskeletons) is real but is governed by H10-D, not H10-R.
+**Conclusion:** **Only AMBA shows material untagged robotics exposure** within the existing Archos Equities universe. The defense-AI cluster (AISP, SPAI, CTM, FEIM) is structurally adjacent (autonomy + sensor fusion + AI) but has not transitioned to humanoid-OEM customer disclosure. Defense-robotics adjacency (counter-UAS, ground robots, exoskeletons) is real but is governed by H10-D, not H10-R.
 
 ---
 
@@ -249,7 +249,7 @@ Reviewed CANDIDATE_UNIVERSE.md entries (defense AI cluster + nano-cap AI cluster
 2. **LINK ($74M)** — highest TIER 1 NANO asymmetry; FSR + haptic actuator pure-play; 2026 inflection guidance
 3. **NOVT ($5.45-5.82B, TIER 4 SEGMENT)** — structural Tier 4 candidate; ATI Industrial Automation segment is the segment-level VPG analog
 
-**Existing Archos universe with untagged robotics exposure:** **AMBA** only. (PDYN has humanoid software exposure but stays REJECTED per M&A pivot blind spot.)
+**Existing Archos Equities universe with untagged robotics exposure:** **AMBA** only. (PDYN has humanoid software exposure but stays REJECTED per M&A pivot blind spot.)
 
 **Proposed taxonomy additions (PROPOSED status, pending Sounding Board confirmation):**
 - **#13 Humanoid Force/Torque Sensing** — ACTIVE, VPG sole U.S. pure-play
@@ -266,7 +266,7 @@ The thesis is investable today through **VPG (already running)**, **ALNT (next-V
 
 **However, the most-concentrated chokepoint surface (reducers / roller screws / harmonic drives) is STRUCTURALLY NON-U.S.-INVESTABLE at the sub-$5B level.** The Tokyo / Shanghai / Swiss-private supplier base means U.S. small-cap investors cannot access the most-concentrated 35-40% of the humanoid BOM. This is the equivalent of the framework's chokepoint #2 HBM/HBF (SNDK graduated) or #14 Reducers situation — chokepoint exists, vehicle is foreign-only or already-graduated.
 
-**The cleanest entry today is the SENSING and PERCEPTION sub-chokepoint stack, not the actuator stack.** This biases the Archos robotics lens toward the same sub-chokepoint position that VPG already validated — meaning the lens is essentially "VPG + close VPG-shaped peers" rather than a broad humanoid play. That's a feature, not a bug; the framework selects for what's investable, and what's investable in U.S. small-cap is sensing/perception/haptics, not actuation/reduction.
+**The cleanest entry today is the SENSING and PERCEPTION sub-chokepoint stack, not the actuator stack.** This biases the Archos Equities robotics lens toward the same sub-chokepoint position that VPG already validated — meaning the lens is essentially "VPG + close VPG-shaped peers" rather than a broad humanoid play. That's a feature, not a bug; the framework selects for what's investable, and what's investable in U.S. small-cap is sensing/perception/haptics, not actuation/reduction.
 
 **Forward catalyst calendar (next 90 days):**
 - **June 2026:** Tesla Optimus production milestone updates (10-Q); Figure 02 commercialization updates

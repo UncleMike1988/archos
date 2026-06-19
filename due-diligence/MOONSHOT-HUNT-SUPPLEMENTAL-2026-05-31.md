@@ -348,7 +348,7 @@ LPKF** go to the watchlist as caveated tracking leads, not buys.
 ---
 
 *These are research findings and ranked tracking leads for the operator to investigate — not buy calls,
-not sized, not a decision. Archos finds and analyzes; the operator decides what to buy, how much, and when.
+not sized, not a decision. Archos Equities finds and analyzes; the operator decides what to buy, how much, and when.
 The supplemental hunt's conclusion is **ASYS holds as #1**: all three of Serenity's open themes (CPO
 passives, 800 VDC power, HBM4 packaging equipment) came back barren of any clean sub-$500M US-listed name
 that beats Amtech, and the hunt additionally **retired the hybrid-bonding disruption fear** for ASYS

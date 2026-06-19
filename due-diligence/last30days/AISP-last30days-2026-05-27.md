@@ -2,7 +2,7 @@
 ## /last30days Social Signal Sweep (DD Section 6)
 **Date:** 2026-05-27
 **Window:** April 27, 2026 - May 27, 2026 (last 30 days)
-**Analyst:** Archos DD (Code session)
+**Analyst:** Archos Equities DD (Code session)
 **Parent DD report:** [AISP-dd-2026-05-26.md](../AISP-dd-2026-05-26.md) — PROCEED WITH CAUTION (0 RED, 5 FLAG)
 **Trigger for this sweep:** Final DD gate before any capital allocation per DUE_DILIGENCE_CHECKLIST.md Section 6 (mandatory after Sections 1-5)
 

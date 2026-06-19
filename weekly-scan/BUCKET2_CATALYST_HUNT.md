@@ -4,10 +4,10 @@ Paste into a fresh Code session. Output: weekly-scan/runs/{date}-bucket2.md
 
 ## STARTUP — read in full, follow exactly
 1. /Users/michaelturner/Desktop/Claude Builds/_master_docs/WORKING_PHILOSOPHY.md (confirm last line)
-2. /Users/michaelturner/Desktop/Claude Builds/archos/CLAUDE.md
-3. /Users/michaelturner/Desktop/Claude Builds/archos/PATTERNS_AND_TRAPS.md
-4. /Users/michaelturner/Desktop/Claude Builds/archos/research/pattern-discovery/WINNER_UNIVERSE.md
-5. /Users/michaelturner/Desktop/Claude Builds/archos/WATCHLIST.md
+2. /Users/michaelturner/Desktop/Claude Builds/archos-equities/CLAUDE.md
+3. /Users/michaelturner/Desktop/Claude Builds/archos-equities/PATTERNS_AND_TRAPS.md
+4. /Users/michaelturner/Desktop/Claude Builds/archos-equities/research/pattern-discovery/WINNER_UNIVERSE.md
+5. /Users/michaelturner/Desktop/Claude Builds/archos-equities/WATCHLIST.md
 Do NOT read any _archive file or any old-system scoring/taxonomy doc.
 
 ## POSTURE

@@ -78,7 +78,7 @@ above-threshold or non-public counterparties.
 | Ceres Power | CWR.L | **~$1.65B USD** (~£1.24B post-rerate, May 2026) | Meta / Microsoft (category-level on SOFC chokepoint #9) | Delta Electronics + Centrica data-center SOFC partnership announced. Delta is the integration partner — not a bellwether — but the implied bellwether layer is the Meta/MSFT category-level mention of energy as a constraint. Ceres Endura 10.8kW SOFC platform launched April 18, 2026 specifically for data center off-grid power. | **2026-04-18** (Endura launch) | [Proactive Investors CWR.L](https://www.proactiveinvestors.com/companies/news/1091503/), [tipranks](https://www.tipranks.com/news/company-announcements/ceres-power-sees-partner-fuel-cell-deal-target-data-centres-and-heavy-industry) |
 
 **Why Tier 3 not Tier 2:** the announced counterparty (Delta + Centrica)
-is not a bellwether on the Archos list. The bellwether linkage is
+is not a bellwether on the Archos Equities list. The bellwether linkage is
 inferred through the SOFC chokepoint #9 (Meta Q3 2024, Microsoft 2024
 "paucity of energy" category-level mentions). Direct vendor-level
 bellwether name-drop is absent.
@@ -117,15 +117,15 @@ Per chokepoint cross-reference:
 
 ### Chokepoint #3-4 — HBM equipment (besides ONTO, AEHR)
 - **ASMPT (HKEX 0522)** — HK$72.53B = **~$9.3B USD** market cap.
-  Borderline-large per Archos Tier 2 (IREN/CLSK class). World's
+  Borderline-large per Archos Equities Tier 2 (IREN/CLSK class). World's
   leading TCB / hybrid bonding / fan-out equipment supplier. Q1 2026
   EPS +290% YoY, revenue +27%, driven by AI-led TCB orders. SK hynix
   HBM4 TC bonder order December 2025.
   - H10: Category-level via NVDA HBM commentary cascading to TCB chain
   - H8: PROBABLY FAILS — diversified backend equipment supplier, AI
     end-market growing but not >50% yet
-  - **Verdict:** **Note for Sounding Board discussion as $5-10B Archos
-    Tier 2 class.** Not an Archos Tier 1 ($<5B) candidate. Borderline
+  - **Verdict:** **Note for Sounding Board discussion as $5-10B Archos Equities
+    Tier 2 class.** Not an Archos Equities Tier 1 ($<5B) candidate. Borderline
     on H10 (chokepoint chain inference, not direct bellwether mention).
   - Source: [companiesmarketcap ASMPT](https://companiesmarketcap.com/hkd/asm-pacific-technology/marketcap/)
 - **Hanmi Semiconductor (042700.KS)** — KRW 27.32T = ~$20B USD.
@@ -166,7 +166,7 @@ Per chokepoint cross-reference:
 | Ticker | Mkt Cap | Tier | Chokepoint | Next step |
 |---|---|---|---|---|
 | **3778.T (Sakura Internet)** | ~$762M USD | T2 | #7 AI cloud / GPU colo (sovereign Japan) | **Add to WATCH.** Full 6-check next screening cycle after H8 revenue-mix verification (next TSE filing) + H5 re-measurement. |
-| ASMPT (0522.HK) | ~$9.3B USD | T2-borderline / T4 | #3-4 HBM packaging supply chain | **Sounding Board flag.** $5-10B Archos Tier 2 class candidate (IREN/CLSK-pattern, not Tier 1 sub-$5B). Not added to WATCH — note in INSIGHTS only. |
+| ASMPT (0522.HK) | ~$9.3B USD | T2-borderline / T4 | #3-4 HBM packaging supply chain | **Sounding Board flag.** $5-10B Archos Equities Tier 2 class candidate (IREN/CLSK-pattern, not Tier 1 sub-$5B). Not added to WATCH — note in INSIGHTS only. |
 
 ---
 

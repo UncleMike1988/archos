@@ -78,5 +78,5 @@ investable — being on the wrong side of the unwind is catastrophic (calibratio
 
 Real company with weaknesses = a candidate to analyze and weigh.
 Hollow company with a bought story = an automatic no.
-Telling those two apart is the one thing Archos must get right; everything else is judgment
+Telling those two apart is the one thing Archos Equities must get right; everything else is judgment
 the operator makes.

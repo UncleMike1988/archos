@@ -5,11 +5,11 @@
 Read these files IN FULL before doing anything:
 
 1. /Users/michaelturner/Desktop/Claude Builds/_master_docs/WORKING_PHILOSOPHY.md
-2. /Users/michaelturner/Desktop/Claude Builds/Archos/CLAUDE.md
-3. /Users/michaelturner/Desktop/Claude Builds/Archos/PATTERNS_AND_TRAPS.md
-4. /Users/michaelturner/Desktop/Claude Builds/Archos/WATCHLIST.md
-5. /Users/michaelturner/Desktop/Claude Builds/Archos/WINNER_UNIVERSE.md
-6. /Users/michaelturner/Desktop/Claude Builds/Archos/due-diligence/ADBE-dd-2026-05-30.md
+2. /Users/michaelturner/Desktop/Claude Builds/archos-equities/CLAUDE.md
+3. /Users/michaelturner/Desktop/Claude Builds/archos-equities/PATTERNS_AND_TRAPS.md
+4. /Users/michaelturner/Desktop/Claude Builds/archos-equities/WATCHLIST.md
+5. /Users/michaelturner/Desktop/Claude Builds/archos-equities/WINNER_UNIVERSE.md
+6. /Users/michaelturner/Desktop/Claude Builds/archos-equities/due-diligence/ADBE-dd-2026-05-30.md
 
 Confirm by stating the LAST LINE of WORKING_PHILOSOPHY.md.
 Do not write any code or make any changes until all files are confirmed read.
@@ -158,7 +158,7 @@ AI networking platform.
 ## OUTPUT
 
 Write the full DD to:
-/Users/michaelturner/Desktop/Claude Builds/Archos/due-diligence/NOK-dd-2026-05-31.md
+/Users/michaelturner/Desktop/Claude Builds/archos-equities/due-diligence/NOK-dd-2026-05-31.md
 
 Match ADBE DD format and depth. Every claim verified against filings.
 
